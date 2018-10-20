@@ -1,7 +1,7 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v2.json",
-    "assetVersion": 3,
-    "logListVersion": 21,
+    "assetVersion": 4,
+    "logListVersion": 22,
     "operators": {
         "Beijing PuChuangSiDa Technology Ltd.": {
             "email": [
@@ -313,9 +313,9 @@
                     "log_id": "/kRhCLHQGreKYsz+q2qysrq/86va2ApNizDfLQAIgww=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-02-07T05:01:09Z",
-                            "version": 13
+                        "qualified": {
+                            "timestamp": "2018-10-20T00:55:00Z",
+                            "version": 22
                         }
                     },
                     "temporal_interval": {
@@ -332,9 +332,9 @@
                     "log_id": "xlKg7EjOs/yrFwmSxDqHQTMJ6ABlomJSQBujNioXxWU=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-02-07T05:01:09Z",
-                            "version": 13
+                        "qualified": {
+                            "timestamp": "2018-10-20T00:55:00Z",
+                            "version": 22
                         }
                     },
                     "temporal_interval": {
@@ -351,9 +351,9 @@
                     "log_id": "7sCV7o1yZA+S48O5G8cSo2lqCXtLahoUOOZHssvtxfk=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-02-07T05:01:09Z",
-                            "version": 13
+                        "qualified": {
+                            "timestamp": "2018-10-20T00:55:00Z",
+                            "version": 22
                         }
                     },
                     "temporal_interval": {
@@ -370,9 +370,9 @@
                     "log_id": "UaOw9f0BeZxWbbg3eI8MpHrMGyfL956IQpoN/tSLBeU=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-02-07T05:01:09Z",
-                            "version": 13
+                        "qualified": {
+                            "timestamp": "2018-10-20T00:55:00Z",
+                            "version": 22
                         }
                     },
                     "temporal_interval": {
