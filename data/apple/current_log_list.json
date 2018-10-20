@@ -1,7 +1,7 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v2.json",
     "assetVersion": 3,
-    "logListVersion": 20,
+    "logListVersion": 21,
     "operators": {
         "Beijing PuChuangSiDa Technology Ltd.": {
             "email": [
@@ -173,6 +173,44 @@
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
                     "url": "ct.cloudflare.com/logs/nimbus2021/"
+                },
+                "cloudflare_nimbus_2022": {
+                    "description": [
+                        "Cloudflare 'Nimbus 2022' log"
+                    ],
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESLJHTlAycmJKDQxIv60pZG8g33lSYxYpCi5gteI6HLevWbFVCdtZx+m9b+0LrwWWl/87mkNN6xE0M4rnrIPA/w==",
+                    "log_id": "QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvY=",
+                    "mmd": 86400,
+                    "state": {
+                        "pending": {
+                            "timestamp": "2018-10-20T00:47:00Z",
+                            "version": 21
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2023-01-01T00:00:00Z",
+                        "start_inclusive": "2022-01-01T00:00:00Z"
+                    },
+                    "url": "ct.cloudflare.com/logs/nimbus2022/"
+                },
+                "cloudflare_nimbus_2023": {
+                    "description": [
+                        "Cloudflare 'Nimbus 2023' log"
+                    ],
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEi/8tkhjLRp0SXrlZdTzNkTd6HqmcmXiDJz3fAdWLgOhjmv4mohvRhwXul9bgW0ODgRwC9UGAgH/vpGHPvIS1qA==",
+                    "log_id": "ejKMVNi3LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61I=",
+                    "mmd": 86400,
+                    "state": {
+                        "pending": {
+                            "timestamp": "2018-10-20T00:47:00Z",
+                            "version": 21
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2024-01-01T00:00:00Z",
+                        "start_inclusive": "2023-01-01T00:00:00Z"
+                    },
+                    "url": "ct.cloudflare.com/logs/nimbus2023/"
                 }
             }
         },
