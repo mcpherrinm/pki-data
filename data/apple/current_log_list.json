@@ -1,7 +1,7 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v2.json",
     "assetVersion": 3,
-    "logListVersion": 19,
+    "logListVersion": 20,
     "operators": {
         "Beijing PuChuangSiDa Technology Ltd.": {
             "email": [
@@ -256,9 +256,9 @@
                     "log_id": "b/FBtWR+QiL37wUs7658If1gjifSr1pun0uKN9ZjPuU=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-02-07T05:01:09Z",
-                            "version": 13
+                        "rejected": {
+                            "timestamp": "2018-10-20T00:33:00Z",
+                            "version": 20
                         }
                     },
                     "temporal_interval": {
