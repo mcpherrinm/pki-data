@@ -187,9 +187,9 @@
                     "log_id": "cX6nQgl1voSicjVT8Xd8Jt1Rr04QIUQJTZAZtGL7Zmg=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-05-18T19:33:49Z",
-                            "version": "18"
+                        "rejected": {
+                            "timestamp": "2019-01-03T23:10:51Z",
+                            "version": "24"
                         }
                     },
                     "url": "log.gdca.com.cn/"
@@ -200,9 +200,9 @@
                     "log_id": "FDCNkMzQMBNQBcAcpSbYHoTodiTjm2JI4I9ySuo7tCo=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-05-18T19:33:49Z",
-                            "version": "18"
+                        "rejected": {
+                            "timestamp": "2019-01-03T23:11:12Z",
+                            "version": "25"
                         }
                     },
                     "url": "log2.gdca.com.cn/"
@@ -853,5 +853,5 @@
             "name": "Comodo"
         }
     ],
-    "version": "23"
+    "version": "25"
 }
