@@ -529,6 +529,23 @@
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
                     "url": "ct.googleapis.com/logs/xenon2022"
+                },
+                {
+                    "description": "Google 'Argon 2022' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeIPc6fGmuBg6AJkv/z7NFckmHvf/OqmjchZJ6wm2qN200keRDg352dWpi7CHnSV51BpQYAj1CQY5JuRAwrrDwg==",
+                    "log_id": "KXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4Q=",
+                    "mmd": 86400,
+                    "state": {
+                        "pending": {
+                            "timestamp": "2019-01-04T18:25:13Z",
+                            "version": "27"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2023-01-01T00:00:00Z",
+                        "start_inclusive": "2022-01-01T00:00:00Z"
+                    },
+                    "url": "ct.googleapis.com/logs/argon2022"
                 }
             ],
             "name": "Google"
@@ -853,5 +870,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "26"
+    "version": "27"
 }
