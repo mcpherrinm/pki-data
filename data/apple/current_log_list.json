@@ -856,6 +856,23 @@
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
                     "url": "yeti2023.ct.digicert.com/log"
+                },
+                {
+                    "description": "DigiCert 'Nessie 2023' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEXu8iQwSCRSf2CbITGpUpBtFVt8+I0IU0d1C36Lfe1+fbwdaI0Z5FktfM2fBoI1bXBd18k2ggKGYGgdZBgLKTg==",
+                    "log_id": "s3N3B+GEUPhjhtYFqdwRCUp5LbFnDAuH3PADDnk2pZo=",
+                    "mmd": 86400,
+                    "state": {
+                        "pending": {
+                            "timestamp": "2019-01-17T06:07:26Z",
+                            "version": "31"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2024-01-01T00:00:00Z",
+                        "start_inclusive": "2023-01-01T00:00:00Z"
+                    },
+                    "url": "nessie2023.ct.digicert.com/log"
                 }
             ],
             "name": "DigiCert"
@@ -895,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "30"
+    "version": "31"
 }
