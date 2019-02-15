@@ -662,9 +662,9 @@
                     "log_id": "FZcEiNe5l6Bb61JRKt7o0ui0oxZSZBIan6v71fha2T8=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-09-19T18:24:24Z",
-                            "version": "15"
+                        "retired": {
+                            "timestamp": "2019-02-15T23:59:59Z",
+                            "version": "34"
                         }
                     },
                     "url": "sirius.ws.symantec.com/"
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "33"
+    "version": "34"
 }
