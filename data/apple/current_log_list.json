@@ -675,9 +675,9 @@
                     "log_id": "3esdK3oNT6Ygi4GtgWhwfi6OnQHVXIiNPRHEzbbsvsw=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2015-12-02T22:55:17Z",
-                            "version": "15"
+                        "retired": {
+                            "timestamp": "2019-02-15T23:59:59Z",
+                            "version": "32"
                         }
                     },
                     "url": "ct.ws.symantec.com/"
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "31"
+    "version": "32"
 }
