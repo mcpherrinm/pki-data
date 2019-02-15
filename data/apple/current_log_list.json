@@ -748,9 +748,9 @@
                     "log_id": "vHjh38X2PGhGSTNNoQ+hXwl5aSAJwIG08/aRfz7ZuKU=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-05-04T22:18:39Z",
-                            "version": "15"
+                        "retired": {
+                            "timestamp": "2019-02-15T23:59:59Z",
+                            "version": "33"
                         }
                     },
                     "url": "vega.ws.symantec.com/"
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "32"
+    "version": "33"
 }
