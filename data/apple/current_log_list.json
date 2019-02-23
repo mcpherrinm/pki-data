@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 5,
+    "assetVersion": 6,
     "operators": [
         {
             "email": [
@@ -527,9 +527,9 @@
                     "log_id": "RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUc=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-05-11T21:57:37Z",
-                            "version": "16"
+                        "qualified": {
+                            "timestamp": "2019-02-23T20:48:40Z",
+                            "version": "42"
                         }
                     },
                     "temporal_interval": {
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "41"
+    "version": "42"
 }
