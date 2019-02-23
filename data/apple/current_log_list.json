@@ -60,9 +60,9 @@
                     "log_id": "ejKMVNi3LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61I=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-10-20T00:47:00Z",
-                            "version": "21"
+                        "qualified": {
+                            "timestamp": "2019-02-23T20:27:56Z",
+                            "version": "37"
                         }
                     },
                     "temporal_interval": {
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "36"
+    "version": "37"
 }
