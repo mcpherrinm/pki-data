@@ -497,9 +497,9 @@
                     "log_id": "fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8Nc=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2018-05-11T21:57:37Z",
-                            "version": "16"
+                        "qualified": {
+                            "timestamp": "2019-02-23T20:47:58Z",
+                            "version": "41"
                         }
                     },
                     "temporal_interval": {
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "40"
+    "version": "41"
 }
