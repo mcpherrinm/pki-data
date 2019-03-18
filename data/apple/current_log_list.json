@@ -229,9 +229,13 @@
                     "log_id": "AwGd8/2FppqOvR+sxtqbpz5Gl3T+d/V5/FoIuDKMHWs=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-06-01T23:28:39",
-                            "version": "6"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "+wpnQSIAXAgRm10MIGYSpVdsrbuzKR5fPsxZUrddtWk=",
+                                "tree_size": 111554066
+                            },
+                            "timestamp": "2018-02-28T23:59:59Z",
+                            "version": "47"
                         }
                     },
                     "url": "ctlog-gen2.api.venafi.com/"
@@ -374,7 +378,7 @@
                         "end_exclusive": "2020-01-01T00:00:00Z",
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2019"
+                    "url": "ct.googleapis.com/logs/xenon2019/"
                 },
                 {
                     "description": "Google 'Xenon 2018' log",
@@ -391,7 +395,7 @@
                         "end_exclusive": "2019-01-01T00:00:00Z",
                         "start_inclusive": "2018-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2018"
+                    "url": "ct.googleapis.com/logs/xenon2018/"
                 },
                 {
                     "description": "Google 'Argon 2021' log",
@@ -489,7 +493,7 @@
                         "end_exclusive": "2021-01-01T00:00:00Z",
                         "start_inclusive": "2020-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2020"
+                    "url": "ct.googleapis.com/logs/xenon2020/"
                 },
                 {
                     "description": "Google 'Xenon 2021' log",
@@ -506,7 +510,7 @@
                         "end_exclusive": "2022-01-01T00:00:00Z",
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2021"
+                    "url": "ct.googleapis.com/logs/xenon2021/"
                 },
                 {
                     "description": "Google 'Icarus' log",
@@ -536,7 +540,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2022"
+                    "url": "ct.googleapis.com/logs/xenon2022/"
                 },
                 {
                     "description": "Google 'Argon 2022' log",
@@ -553,7 +557,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2022"
+                    "url": "ct.googleapis.com/logs/argon2022/"
                 }
             ],
             "name": "Google"
@@ -855,7 +859,7 @@
                         "end_exclusive": "2024-01-01T00:00:00Z",
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
-                    "url": "yeti2023.ct.digicert.com/log"
+                    "url": "yeti2023.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Nessie 2023' log",
@@ -872,7 +876,7 @@
                         "end_exclusive": "2024-01-01T00:00:00Z",
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
-                    "url": "nessie2023.ct.digicert.com/log"
+                    "url": "nessie2023.ct.digicert.com/log/"
                 }
             ],
             "name": "DigiCert"
@@ -912,5 +916,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "46"
+    "version": "47"
 }
