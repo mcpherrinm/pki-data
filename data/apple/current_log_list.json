@@ -611,9 +611,9 @@
                     "log_id": "/kRhCLHQGreKYsz+q2qysrq/86va2ApNizDfLQAIgww=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2018-10-20T00:55:00Z",
-                            "version": "22"
+                        "usable": {
+                            "timestamp": "2019-03-18T18:10:27Z",
+                            "version": "43"
                         }
                     },
                     "temporal_interval": {
@@ -912,5 +912,5 @@
             "name": "Sectigo"
         }
     ],
-    "version": "42"
+    "version": "43"
 }
