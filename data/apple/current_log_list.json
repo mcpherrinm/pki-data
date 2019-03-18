@@ -18,7 +18,7 @@
                             "version": "11"
                         }
                     },
-                    "url": "ct.startssl.com/"
+                    "url": "https://ct.startssl.com/"
                 }
             ],
             "name": "StartCom"
@@ -52,7 +52,7 @@
                         "end_exclusive": "2018-01-01T00:00:00Z",
                         "start_inclusive": "2017-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2017/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2017/"
                 },
                 {
                     "description": "Cloudflare 'Nimbus 2023' log",
@@ -69,7 +69,7 @@
                         "end_exclusive": "2024-01-01T00:00:00Z",
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2023/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2023/"
                 },
                 {
                     "description": "Cloudflare 'Nimbus 2022' log",
@@ -86,7 +86,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2022/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2022/"
                 },
                 {
                     "description": "Cloudflare 'Nimbus 2021' log",
@@ -103,7 +103,7 @@
                         "end_exclusive": "2022-01-01T00:00:00Z",
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2021/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2021/"
                 },
                 {
                     "description": "Cloudflare 'Nimbus 2020' log",
@@ -120,7 +120,7 @@
                         "end_exclusive": "2021-01-01T00:00:00Z",
                         "start_inclusive": "2020-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2020/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2020/"
                 },
                 {
                     "description": "Cloudflare 'Nimbus 2018' log",
@@ -141,7 +141,7 @@
                         "end_exclusive": "2019-01-01T00:00:00Z",
                         "start_inclusive": "2018-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2018/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2018/"
                 },
                 {
                     "description": "Cloudflare 'Nimbus 2019' log",
@@ -158,7 +158,7 @@
                         "end_exclusive": "2020-01-01T00:00:00Z",
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
-                    "url": "ct.cloudflare.com/logs/nimbus2019/"
+                    "url": "https://ct.cloudflare.com/logs/nimbus2019/"
                 }
             ],
             "name": "Cloudflare"
@@ -179,7 +179,7 @@
                             "version": "10"
                         }
                     },
-                    "url": "ctlog.wosign.com/"
+                    "url": "https://ctlog.wosign.com/"
                 }
             ],
             "name": "WoSign"
@@ -200,7 +200,7 @@
                             "version": "24"
                         }
                     },
-                    "url": "log.gdca.com.cn/"
+                    "url": "https://log.gdca.com.cn/"
                 },
                 {
                     "description": "GDCA 'CT Log 2' log",
@@ -213,7 +213,7 @@
                             "version": "25"
                         }
                     },
-                    "url": "log2.gdca.com.cn/"
+                    "url": "https://log2.gdca.com.cn/"
                 }
             ],
             "name": "GDCA"
@@ -238,7 +238,7 @@
                             "version": "47"
                         }
                     },
-                    "url": "ctlog-gen2.api.venafi.com/"
+                    "url": "https://ctlog-gen2.api.venafi.com/"
                 },
                 {
                     "description": "Venafi log",
@@ -251,7 +251,7 @@
                             "version": "1"
                         }
                     },
-                    "url": "ctlog.api.venafi.com/"
+                    "url": "https://ctlog.api.venafi.com/"
                 }
             ],
             "name": "Venafi"
@@ -272,7 +272,7 @@
                             "version": "19"
                         }
                     },
-                    "url": "ctserver.cnnic.cn/"
+                    "url": "https://ctserver.cnnic.cn/"
                 }
             ],
             "name": "CNNIC"
@@ -293,7 +293,7 @@
                             "version": "4"
                         }
                     },
-                    "url": "ct.izenpe.com/"
+                    "url": "https://ct.izenpe.com/"
                 }
             ],
             "name": "Izenpe"
@@ -318,7 +318,7 @@
                         "end_exclusive": "2018-01-01T00:00:00Z",
                         "start_inclusive": "2017-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2017/"
+                    "url": "https://ct.googleapis.com/logs/argon2017/"
                 },
                 {
                     "description": "Google 'Skydiver' log",
@@ -331,7 +331,7 @@
                             "version": "5"
                         }
                     },
-                    "url": "ct.googleapis.com/skydiver/"
+                    "url": "https://ct.googleapis.com/skydiver/"
                 },
                 {
                     "description": "Google 'Aviator' log",
@@ -348,7 +348,7 @@
                             "version": "1"
                         }
                     },
-                    "url": "ct.googleapis.com/aviator/"
+                    "url": "https://ct.googleapis.com/aviator/"
                 },
                 {
                     "description": "Google 'Pilot' log",
@@ -361,7 +361,7 @@
                             "version": "1"
                         }
                     },
-                    "url": "ct.googleapis.com/pilot/"
+                    "url": "https://ct.googleapis.com/pilot/"
                 },
                 {
                     "description": "Google 'Xenon 2019' log",
@@ -378,7 +378,7 @@
                         "end_exclusive": "2020-01-01T00:00:00Z",
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2019/"
+                    "url": "https://ct.googleapis.com/logs/xenon2019/"
                 },
                 {
                     "description": "Google 'Xenon 2018' log",
@@ -395,7 +395,7 @@
                         "end_exclusive": "2019-01-01T00:00:00Z",
                         "start_inclusive": "2018-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2018/"
+                    "url": "https://ct.googleapis.com/logs/xenon2018/"
                 },
                 {
                     "description": "Google 'Argon 2021' log",
@@ -412,7 +412,7 @@
                         "end_exclusive": "2022-01-01T00:00:00Z",
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2021/"
+                    "url": "https://ct.googleapis.com/logs/argon2021/"
                 },
                 {
                     "description": "Google 'Argon 2020' log",
@@ -429,7 +429,7 @@
                         "end_exclusive": "2021-01-01T00:00:00Z",
                         "start_inclusive": "2020-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2020/"
+                    "url": "https://ct.googleapis.com/logs/argon2020/"
                 },
                 {
                     "description": "Google 'Rocketeer' log",
@@ -442,7 +442,7 @@
                             "version": "1"
                         }
                     },
-                    "url": "ct.googleapis.com/rocketeer/"
+                    "url": "https://ct.googleapis.com/rocketeer/"
                 },
                 {
                     "description": "Google 'Argon 2018' log",
@@ -459,7 +459,7 @@
                         "end_exclusive": "2019-01-01T00:00:00Z",
                         "start_inclusive": "2018-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2018/"
+                    "url": "https://ct.googleapis.com/logs/argon2018/"
                 },
                 {
                     "description": "Google 'Argon 2019' log",
@@ -476,7 +476,7 @@
                         "end_exclusive": "2020-01-01T00:00:00Z",
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2019/"
+                    "url": "https://ct.googleapis.com/logs/argon2019/"
                 },
                 {
                     "description": "Google 'Xenon 2020' log",
@@ -493,7 +493,7 @@
                         "end_exclusive": "2021-01-01T00:00:00Z",
                         "start_inclusive": "2020-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2020/"
+                    "url": "https://ct.googleapis.com/logs/xenon2020/"
                 },
                 {
                     "description": "Google 'Xenon 2021' log",
@@ -510,7 +510,7 @@
                         "end_exclusive": "2022-01-01T00:00:00Z",
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2021/"
+                    "url": "https://ct.googleapis.com/logs/xenon2021/"
                 },
                 {
                     "description": "Google 'Icarus' log",
@@ -523,7 +523,7 @@
                             "version": "5"
                         }
                     },
-                    "url": "ct.googleapis.com/icarus/"
+                    "url": "https://ct.googleapis.com/icarus/"
                 },
                 {
                     "description": "Google 'Xenon 2022' log",
@@ -540,7 +540,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/xenon2022/"
+                    "url": "https://ct.googleapis.com/logs/xenon2022/"
                 },
                 {
                     "description": "Google 'Argon 2022' log",
@@ -557,7 +557,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "ct.googleapis.com/logs/argon2022/"
+                    "url": "https://ct.googleapis.com/logs/argon2022/"
                 }
             ],
             "name": "Google"
@@ -578,7 +578,7 @@
                             "version": "7"
                         }
                     },
-                    "url": "www.certificatetransparency.cn/ct/"
+                    "url": "https://www.certificatetransparency.cn/ct/"
                 }
             ],
             "name": "Beijing PuChuangSiDa Technology Ltd."
@@ -599,7 +599,7 @@
                             "version": "4"
                         }
                     },
-                    "url": "log.certly.io/"
+                    "url": "https://log.certly.io/"
                 }
             ],
             "name": "Certly"
@@ -624,7 +624,7 @@
                         "end_exclusive": "2020-01-01T00:00:00Z",
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
-                    "url": "nessie2019.ct.digicert.com/log/"
+                    "url": "https://nessie2019.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Nessie 2018' log",
@@ -641,7 +641,7 @@
                         "end_exclusive": "2019-01-01T00:00:00Z",
                         "start_inclusive": "2018-01-01T00:00:00Z"
                     },
-                    "url": "nessie2018.ct.digicert.com/log/"
+                    "url": "https://nessie2018.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Nessie 2022' log",
@@ -658,7 +658,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "nessie2022.ct.digicert.com/log/"
+                    "url": "https://nessie2022.ct.digicert.com/log/"
                 },
                 {
                     "description": "Symantec 'Sirius' log",
@@ -671,7 +671,7 @@
                             "version": "34"
                         }
                     },
-                    "url": "sirius.ws.symantec.com/"
+                    "url": "https://sirius.ws.symantec.com/"
                 },
                 {
                     "description": "Symantec log",
@@ -684,7 +684,7 @@
                             "version": "32"
                         }
                     },
-                    "url": "ct.ws.symantec.com/"
+                    "url": "https://ct.ws.symantec.com/"
                 },
                 {
                     "description": "DigiCert Log Server",
@@ -697,7 +697,7 @@
                             "version": "1"
                         }
                     },
-                    "url": "ct1.digicert-ct.com/log/"
+                    "url": "https://ct1.digicert-ct.com/log/"
                 },
                 {
                     "description": "DigiCert Log Server 2",
@@ -710,7 +710,7 @@
                             "version": "7"
                         }
                     },
-                    "url": "ct2.digicert-ct.com/log/"
+                    "url": "https://ct2.digicert-ct.com/log/"
                 },
                 {
                     "description": "DigiCert 'Yeti 2019' log",
@@ -719,7 +719,7 @@
                     "mmd": 86400,
                     "state": {
                         "usable": {
-                            "timestamp": "2018-05-18T19:25:41",
+                            "timestamp": "2018-05-18T19:25:41Z",
                             "version": "17"
                         }
                     },
@@ -727,7 +727,7 @@
                         "end_exclusive": "2020-01-01T00:00:00Z",
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
-                    "url": "yeti2019.ct.digicert.com/log/"
+                    "url": "https://yeti2019.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Yeti 2018' log",
@@ -736,7 +736,7 @@
                     "mmd": 86400,
                     "state": {
                         "usable": {
-                            "timestamp": "2018-05-18T19:25:41",
+                            "timestamp": "2018-05-18T19:25:41Z",
                             "version": "17"
                         }
                     },
@@ -744,7 +744,7 @@
                         "end_exclusive": "2019-01-01T00:00:00Z",
                         "start_inclusive": "2018-01-01T00:00:00Z"
                     },
-                    "url": "yeti2018.ct.digicert.com/log/"
+                    "url": "https://yeti2018.ct.digicert.com/log/"
                 },
                 {
                     "description": "Symantec 'Vega' log",
@@ -757,7 +757,7 @@
                             "version": "33"
                         }
                     },
-                    "url": "vega.ws.symantec.com/"
+                    "url": "https://vega.ws.symantec.com/"
                 },
                 {
                     "description": "DigiCert 'Nessie 2020' log",
@@ -774,7 +774,7 @@
                         "end_exclusive": "2021-01-01T00:00:00Z",
                         "start_inclusive": "2020-01-01T00:00:00Z"
                     },
-                    "url": "nessie2020.ct.digicert.com/log/"
+                    "url": "https://nessie2020.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Yeti 2021' log",
@@ -783,7 +783,7 @@
                     "mmd": 86400,
                     "state": {
                         "usable": {
-                            "timestamp": "2018-05-18T19:25:41",
+                            "timestamp": "2018-05-18T19:25:41Z",
                             "version": "17"
                         }
                     },
@@ -791,7 +791,7 @@
                         "end_exclusive": "2022-01-01T00:00:00Z",
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
-                    "url": "yeti2021.ct.digicert.com/log/"
+                    "url": "https://yeti2021.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Yeti 2022' log",
@@ -800,7 +800,7 @@
                     "mmd": 86400,
                     "state": {
                         "usable": {
-                            "timestamp": "2018-05-18T19:25:41",
+                            "timestamp": "2018-05-18T19:25:41Z",
                             "version": "17"
                         }
                     },
@@ -808,7 +808,7 @@
                         "end_exclusive": "2023-01-01T00:00:00Z",
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
-                    "url": "yeti2022.ct.digicert.com/log/"
+                    "url": "https://yeti2022.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Yeti 2020' log",
@@ -817,7 +817,7 @@
                     "mmd": 86400,
                     "state": {
                         "usable": {
-                            "timestamp": "2018-05-18T19:25:41",
+                            "timestamp": "2018-05-18T19:25:41Z",
                             "version": "17"
                         }
                     },
@@ -825,7 +825,7 @@
                         "end_exclusive": "2021-01-01T00:00:00Z",
                         "start_inclusive": "2020-01-01T00:00:00Z"
                     },
-                    "url": "yeti2020.ct.digicert.com/log/"
+                    "url": "https://yeti2020.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Nessie 2021' log",
@@ -842,7 +842,7 @@
                         "end_exclusive": "2022-01-01T00:00:00Z",
                         "start_inclusive": "2021-01-01T00:00:00Z"
                     },
-                    "url": "nessie2021.ct.digicert.com/log/"
+                    "url": "https://nessie2021.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Yeti 2023' log",
@@ -859,7 +859,7 @@
                         "end_exclusive": "2024-01-01T00:00:00Z",
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
-                    "url": "yeti2023.ct.digicert.com/log/"
+                    "url": "https://yeti2023.ct.digicert.com/log/"
                 },
                 {
                     "description": "DigiCert 'Nessie 2023' log",
@@ -876,7 +876,7 @@
                         "end_exclusive": "2024-01-01T00:00:00Z",
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
-                    "url": "nessie2023.ct.digicert.com/log/"
+                    "url": "https://nessie2023.ct.digicert.com/log/"
                 }
             ],
             "name": "DigiCert"
@@ -897,7 +897,7 @@
                             "version": "7"
                         }
                     },
-                    "url": "mammoth.ct.comodo.com/"
+                    "url": "https://mammoth.ct.comodo.com/"
                 },
                 {
                     "description": "Sectigo 'Sabre' CT log",
@@ -910,11 +910,11 @@
                             "version": "7"
                         }
                     },
-                    "url": "sabre.ct.comodo.com/"
+                    "url": "https://sabre.ct.comodo.com/"
                 }
             ],
             "name": "Sectigo"
         }
     ],
-    "version": "47"
+    "version": "48"
 }
