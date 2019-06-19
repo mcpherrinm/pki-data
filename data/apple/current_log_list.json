@@ -60,9 +60,9 @@
                     "log_id": "ejKMVNi3LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61I=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:27:56Z",
-                            "version": "37"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:31:29Z",
+                            "version": "60"
                         }
                     },
                     "temporal_interval": {
@@ -77,9 +77,9 @@
                     "log_id": "QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvY=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:27:05Z",
-                            "version": "36"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:31:12Z",
+                            "version": "59"
                         }
                     },
                     "temporal_interval": {
@@ -369,9 +369,9 @@
                     "log_id": "CEEUmABxUywWGQRgvPxH/cJlOvopLHKzf/hjrinMyfA=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:46:27Z",
-                            "version": "39"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:29:23Z",
+                            "version": "55"
                         }
                     },
                     "temporal_interval": {
@@ -386,9 +386,9 @@
                     "log_id": "sQzVWabWeEaBH335pRUyc5rEjXA76gMj2l04dVvArU4=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:45:40Z",
-                            "version": "38"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:28:36Z",
+                            "version": "54"
                         }
                     },
                     "temporal_interval": {
@@ -484,9 +484,9 @@
                     "log_id": "B7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ruvGE6GmnTohw=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:47:12Z",
-                            "version": "40"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:29:42Z",
+                            "version": "56"
                         }
                     },
                     "temporal_interval": {
@@ -501,9 +501,9 @@
                     "log_id": "fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8Nc=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:47:58Z",
-                            "version": "41"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:29:58Z",
+                            "version": "57"
                         }
                     },
                     "temporal_interval": {
@@ -531,9 +531,9 @@
                     "log_id": "RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUc=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:48:40Z",
-                            "version": "42"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:30:14Z",
+                            "version": "58"
                         }
                     },
                     "temporal_interval": {
@@ -548,9 +548,9 @@
                     "log_id": "KXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4Q=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2019-02-23T20:26:04Z",
-                            "version": "35"
+                        "usable": {
+                            "timestamp": "2019-06-19T06:28:07Z",
+                            "version": "53"
                         }
                     },
                     "temporal_interval": {
@@ -992,5 +992,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "52"
+    "version": "60"
 }
