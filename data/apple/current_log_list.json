@@ -300,7 +300,7 @@
         },
         {
             "email": [
-                "google-ct-logs@google.com"
+                "google-ct-logs@googlegroups.com"
             ],
             "logs": [
                 {
@@ -992,5 +992,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "60"
+    "version": "61"
 }
