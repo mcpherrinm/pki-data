@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 6,
+    "assetVersion": 7,
     "operators": [
         {
             "email": [
@@ -558,6 +558,40 @@
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
                     "url": "https://ct.googleapis.com/logs/argon2022/"
+                },
+                {
+                    "description": "Google 'Argon 2023' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0JCPZFJOQqyEti5M8j13ALN3CAVHqkVM4yyOcKWCu2yye5yYeqDpEXYoALIgtM3TmHtNlifmt+4iatGwLpF3eA==",
+                    "log_id": "6D7Q2j71BjUy51covIlryQPTy9ERa+zraeF3fW0GvW4=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:15:02Z",
+                            "version": "69"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2024-01-01T00:00:00Z",
+                        "start_inclusive": "2023-01-01T00:00:00Z"
+                    },
+                    "url": "https://ct.googleapis.com/logs/argon2023/"
+                },
+                {
+                    "description": "Google 'Xenon 2023 log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEchY+C+/vzj5g3ZXLY3q5qY1Kb2zcYYCmRV4vg6yU84WI0KV00HuO/8XuQqLwLZPjwtCymeLhQunSxgAnaXSuzg==",
+                    "log_id": "rfe++nz/EMiLnT2cHj4YarRnKV3PsQwkyoWGNOvcgoo=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:22:43Z",
+                            "version": "71"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2024-01-01T00:00:00Z",
+                        "start_inclusive": "2023-01-01T00:00:00Z"
+                    },
+                    "url": "https://ct.googleapis.com/logs/xenon2023/"
                 }
             ],
             "name": "Google"
@@ -850,9 +884,9 @@
                     "log_id": "Nc8ZG7+xbFe/D61MbULLu7YnICZR6j/hKu+oA8M71kw=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2019-01-17T06:04:37Z",
-                            "version": "30"
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:03:14Z",
+                            "version": "62"
                         }
                     },
                     "temporal_interval": {
@@ -867,9 +901,9 @@
                     "log_id": "s3N3B+GEUPhjhtYFqdwRCUp5LbFnDAuH3PADDnk2pZo=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2019-01-17T06:07:26Z",
-                            "version": "31"
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:04:10Z",
+                            "version": "63"
                         }
                     },
                     "temporal_interval": {
@@ -926,9 +960,9 @@
                     "log_id": "ZZszUPQ7EsxepatOx2XT/ebIgkN3d3jnIAP56yuMMSk=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2019-05-19T22:31:03Z",
-                            "version": "49"
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:05:13Z",
+                            "version": "64"
                         }
                     },
                     "temporal_interval": {
@@ -943,9 +977,9 @@
                     "log_id": "5xLysDd+GmL7jskMYYTx6ns3y1YdESZb8+DzS/JBVG4=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2019-05-19T22:33:07Z",
-                            "version": "50"
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:05:44Z",
+                            "version": "65"
                         }
                     },
                     "temporal_interval": {
@@ -960,9 +994,9 @@
                     "log_id": "lCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosI=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2019-05-19T22:34:41Z",
-                            "version": "51"
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:06:07Z",
+                            "version": "66"
                         }
                     },
                     "temporal_interval": {
@@ -977,9 +1011,9 @@
                     "log_id": "36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnM=",
                     "mmd": 86400,
                     "state": {
-                        "pending": {
-                            "timestamp": "2019-05-19T22:36:53Z",
-                            "version": "52"
+                        "qualified": {
+                            "timestamp": "2019-08-26T02:06:27Z",
+                            "version": "67"
                         }
                     },
                     "temporal_interval": {
@@ -992,5 +1026,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "61"
+    "version": "71"
 }
