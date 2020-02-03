@@ -149,9 +149,13 @@
                     "log_id": "dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFY=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-02-15T18:42:47Z",
-                            "version": "14"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "9wJgFqQmRmI5GBQ7cUUsdxoW7WVN6gXKbV7TLwSny44=",
+                                "tree_size": 493395108
+                            },
+                            "timestamp": "2020-02-03T19:08:47Z",
+                            "version": "80"
                         }
                     },
                     "temporal_interval": {
@@ -1026,5 +1030,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "79"
+    "version": "80"
 }
