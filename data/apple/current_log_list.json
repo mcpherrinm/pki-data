@@ -1025,10 +1025,27 @@
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
                     "url": "https://oak.ct.letsencrypt.org/2022/"
+                },
+                {
+                    "description": "Let's Encrypt 'Oak2023' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsz0OeL7jrVxEXJu+o4QWQYLKyokXHiPOOKVUL3/TNFFquVzDSer7kZ3gijxzBp98ZTgRgMSaWgCmZ8OD74mFUQ==",
+                    "log_id": "tz77JN+cTbp18jnFulj0bF38Qs96nzXEnh0JgSXttJk=",
+                    "mmd": 86400,
+                    "state": {
+                        "pending": {
+                            "timestamp": "2020-02-28T19:44:05Z",
+                            "version": "81"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2024-01-01T00:00:00Z",
+                        "start_inclusive": "2023-01-01T00:00:00Z"
+                    },
+                    "url": "https://oak.ct.letsencrypt.org/2023/"
                 }
             ],
             "name": "Let's Encrypt"
         }
     ],
-    "version": "80"
+    "version": "81"
 }
