@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 7,
+    "assetVersion": 8,
     "operators": [
         {
             "email": [
@@ -233,13 +233,9 @@
                     "log_id": "AwGd8/2FppqOvR+sxtqbpz5Gl3T+d/V5/FoIuDKMHWs=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "+wpnQSIAXAgRm10MIGYSpVdsrbuzKR5fPsxZUrddtWk=",
-                                "tree_size": 111554066
-                            },
+                        "retired": {
                             "timestamp": "2018-02-28T23:59:59Z",
-                            "version": "47"
+                            "version": "82"
                         }
                     },
                     "url": "https://ctlog-gen2.api.venafi.com/"
@@ -653,9 +649,13 @@
                     "log_id": "/kRhCLHQGreKYsz+q2qysrq/86va2ApNizDfLQAIgww=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-03-18T18:10:27Z",
-                            "version": "43"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "YcQKDSpHr2yjeevI1/z62cgkns1SYkoU6JA8z2gxu8k=",
+                                "tree_size": 428788
+                            },
+                            "timestamp": "2020-05-01T23:59:59Z",
+                            "version": "86"
                         }
                     },
                     "temporal_interval": {
@@ -670,9 +670,9 @@
                     "log_id": "b/FBtWR+QiL37wUs7658If1gjifSr1pun0uKN9ZjPuU=",
                     "mmd": 86400,
                     "state": {
-                        "rejected": {
-                            "timestamp": "2018-10-20T00:33:00Z",
-                            "version": "20"
+                        "retired": {
+                            "timestamp": "2020-05-01T23:59:59Z",
+                            "version": "84"
                         }
                     },
                     "temporal_interval": {
@@ -756,9 +756,13 @@
                     "log_id": "4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-05-18T19:25:41Z",
-                            "version": "17"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "VOwxE3PGAzVxfd8gKFf4ArNzm1cJ8EFmW6aZpruY5jg=",
+                                "tree_size": 293281869
+                            },
+                            "timestamp": "2020-05-01T23:59:59Z",
+                            "version": "85"
                         }
                     },
                     "temporal_interval": {
@@ -773,9 +777,9 @@
                     "log_id": "wRZK4Kdy0tQ5LcgKwQdw1PDEm96ZGkhAwfoHUWT2M2A=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-05-18T19:25:41Z",
-                            "version": "17"
+                        "retired": {
+                            "timestamp": "2020-05-01T23:59:59Z",
+                            "version": "83"
                         }
                     },
                     "temporal_interval": {
@@ -1047,5 +1051,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "81"
+    "version": "86"
 }
