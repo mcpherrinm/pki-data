@@ -743,9 +743,9 @@
                     "log_id": "h3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-09-19T18:24:24Z",
-                            "version": "7"
+                        "retired": {
+                            "timestamp": "2020-05-04T00:00:40Z",
+                            "version": "87"
                         }
                     },
                     "url": "https://ct2.digicert-ct.com/log/"
@@ -1051,5 +1051,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "86"
+    "version": "87"
 }
