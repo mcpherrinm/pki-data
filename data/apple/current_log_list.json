@@ -649,13 +649,9 @@
                     "log_id": "/kRhCLHQGreKYsz+q2qysrq/86va2ApNizDfLQAIgww=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "YcQKDSpHr2yjeevI1/z62cgkns1SYkoU6JA8z2gxu8k=",
-                                "tree_size": 428788
-                            },
+                        "retired": {
                             "timestamp": "2020-05-01T23:59:59Z",
-                            "version": "86"
+                            "version": "89"
                         }
                     },
                     "temporal_interval": {
@@ -756,13 +752,9 @@
                     "log_id": "4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "VOwxE3PGAzVxfd8gKFf4ArNzm1cJ8EFmW6aZpruY5jg=",
-                                "tree_size": 293281869
-                            },
+                        "retired": {
                             "timestamp": "2020-05-01T23:59:59Z",
-                            "version": "85"
+                            "version": "88"
                         }
                     },
                     "temporal_interval": {
@@ -1051,5 +1043,5 @@
             "name": "Let's Encrypt"
         }
     ],
-    "version": "87"
+    "version": "89"
 }
