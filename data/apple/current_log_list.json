@@ -1104,9 +1104,9 @@
                     "log_id": "w2X5s2VPMoPHnamOk9dBj1ure+MlLJjh0vBLuetCfSM=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2021-05-27T18:46:58Z",
-                            "version": "98"
+                        "usable": {
+                            "timestamp": "2021-08-23T21:45:49Z",
+                            "version": "103"
                         }
                     },
                     "temporal_interval": {
@@ -1121,9 +1121,9 @@
                     "log_id": "6H6nZgvCbPYALvVyXT/g4zG5OTu5L79Y6zuQSdr1Q1o=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2021-05-27T18:47:26Z",
-                            "version": "99"
+                        "usable": {
+                            "timestamp": "2021-08-23T21:46:21Z",
+                            "version": "104"
                         }
                     },
                     "temporal_interval": {
@@ -1136,5 +1136,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "102"
+    "version": "104"
 }
