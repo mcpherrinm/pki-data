@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 15,
+    "assetVersion": 17,
     "operators": [
         {
             "email": [
@@ -734,9 +734,9 @@
                     "log_id": "VhQGmi/XwuzT9eG9RLI+x0Z2ubyZEVzA75SYVdaJ0N0=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2015-12-02T22:55:17Z",
-                            "version": "1"
+                        "retired": {
+                            "timestamp": "2022-01-24T00:00:00Z",
+                            "version": "107"
                         }
                     },
                     "url": "https://ct1.digicert-ct.com/log/"
@@ -1144,5 +1144,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "106"
+    "version": "107"
 }
