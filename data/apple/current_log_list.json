@@ -13,9 +13,9 @@
                     "log_id": "NLtq1sPfnAPuqKSZ/3iRSGydXlysktAfe/0bzhnbSO8=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2018-02-12T11:59:59Z",
-                            "version": "11"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:41:23Z",
+                            "version": "133"
                         }
                     },
                     "url": "https://ct.startssl.com/"
@@ -39,13 +39,9 @@
                     "log_id": "H7w24ALt6X9AGZ6Gs1c7ikIX2AGHdGrQ2gOgYFTSDfQ=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "EwZEuuI43BPlTUwqBRWc70Tmv2tdwnSNiuJJnDn9jX4=",
-                                "tree_size": 20468368
-                            },
-                            "timestamp": "2018-01-03T18:35:08Z",
-                            "version": "29"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:12:51Z",
+                            "version": "132"
                         }
                     },
                     "temporal_interval": {
@@ -94,9 +90,9 @@
                     "log_id": "RJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gag=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-02-15T18:42:47Z",
-                            "version": "14"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:12:44Z",
+                            "version": "131"
                         }
                     },
                     "temporal_interval": {
@@ -111,9 +107,9 @@
                     "log_id": "Xqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVg=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-02-15T18:42:47Z",
-                            "version": "14"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:12:39Z",
+                            "version": "130"
                         }
                     },
                     "temporal_interval": {
@@ -128,13 +124,9 @@
                     "log_id": "23Sv7ssp7LH+yj5xbSzluaq7NveEcYPHXZ1PN7Yfv2Q=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "kCdsLaegBfSkoDDRuglFDxiCXZbuRmTgki65u6XsPTU=",
-                                "tree_size": 265514260
-                            },
-                            "timestamp": "2019-01-02T17:44:50Z",
-                            "version": "28"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:12:35Z",
+                            "version": "129"
                         }
                     },
                     "temporal_interval": {
@@ -149,13 +141,9 @@
                     "log_id": "dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFY=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "9wJgFqQmRmI5GBQ7cUUsdxoW7WVN6gXKbV7TLwSny44=",
-                                "tree_size": 493395108
-                            },
-                            "timestamp": "2020-02-03T19:08:47Z",
-                            "version": "80"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:12:31Z",
+                            "version": "128"
                         }
                     },
                     "temporal_interval": {
@@ -178,9 +166,9 @@
                     "log_id": "QbLcLonmPOSvG6e7Kb9oxt7m+fHMBH4w3/rjs7olkmM=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2018-02-12T11:59:59Z",
-                            "version": "10"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:42:06Z",
+                            "version": "134"
                         }
                     },
                     "url": "https://ctlog.wosign.com/"
@@ -241,9 +229,9 @@
                     "log_id": "AwGd8/2FppqOvR+sxtqbpz5Gl3T+d/V5/FoIuDKMHWs=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2018-02-28T23:59:59Z",
-                            "version": "82"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:42:45Z",
+                            "version": "135"
                         }
                     },
                     "url": "https://ctlog-gen2.api.venafi.com/"
@@ -254,9 +242,9 @@
                     "log_id": "rDua7X+pZ0dXFZ5tfVdWcvnZgQCUHpve/+yhMTt1eC0=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2017-02-28T06:42:26Z",
-                            "version": "1"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:43:03Z",
+                            "version": "136"
                         }
                     },
                     "url": "https://ctlog.api.venafi.com/"
@@ -275,9 +263,9 @@
                     "log_id": "pXesnO11SN2PAltnokEInfhuD0duwgPC7L7bGF8oJjg=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2018-09-18T00:00:00Z",
-                            "version": "19"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:43:44Z",
+                            "version": "137"
                         }
                     },
                     "url": "https://ctserver.cnnic.cn/"
@@ -296,9 +284,9 @@
                     "log_id": "dGG0oJz7PUHXUVlXWy52SaRFqNJ3CbDMVkpkgrfrQaM=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2016-05-30T00:00:00Z",
-                            "version": "4"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:44:15Z",
+                            "version": "138"
                         }
                     },
                     "url": "https://ct.izenpe.com/"
@@ -317,9 +305,9 @@
                     "log_id": "+tTJfMSe4vishcXqXOoJ0CINu/TknGtQZi/4aPhrjCg=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-12-12T02:57:54Z",
-                            "version": "8"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:11:36Z",
+                            "version": "127"
                         }
                     },
                     "temporal_interval": {
@@ -377,9 +365,9 @@
                     "log_id": "CEEUmABxUywWGQRgvPxH/cJlOvopLHKzf/hjrinMyfA=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-06-19T06:29:23Z",
-                            "version": "55"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:11:29Z",
+                            "version": "126"
                         }
                     },
                     "temporal_interval": {
@@ -394,9 +382,9 @@
                     "log_id": "sQzVWabWeEaBH335pRUyc5rEjXA76gMj2l04dVvArU4=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-06-19T06:28:36Z",
-                            "version": "54"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:11:23Z",
+                            "version": "125"
                         }
                     },
                     "temporal_interval": {
@@ -411,9 +399,9 @@
                     "log_id": "9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOM=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-12-12T02:57:54Z",
-                            "version": "8"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:11:16Z",
+                            "version": "124"
                         }
                     },
                     "temporal_interval": {
@@ -428,9 +416,9 @@
                     "log_id": "sh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-12-12T02:57:54Z",
-                            "version": "8"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:11:11Z",
+                            "version": "123"
                         }
                     },
                     "temporal_interval": {
@@ -458,9 +446,9 @@
                     "log_id": "pFASaQVaFVReYhGrN7wQP2KuVXakXksXFEU+GyIQaiU=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-12-12T02:57:54Z",
-                            "version": "8"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:11:07Z",
+                            "version": "122"
                         }
                     },
                     "temporal_interval": {
@@ -475,9 +463,9 @@
                     "log_id": "Y/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-12-12T02:57:54Z",
-                            "version": "8"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:10:57Z",
+                            "version": "121"
                         }
                     },
                     "temporal_interval": {
@@ -492,9 +480,9 @@
                     "log_id": "B7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ruvGE6GmnTohw=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-06-19T06:29:42Z",
-                            "version": "56"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:10:54Z",
+                            "version": "120"
                         }
                     },
                     "temporal_interval": {
@@ -509,9 +497,9 @@
                     "log_id": "fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8Nc=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-06-19T06:29:58Z",
-                            "version": "57"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:10:37Z",
+                            "version": "119"
                         }
                     },
                     "temporal_interval": {
@@ -636,9 +624,9 @@
                     "log_id": "zbUXm3/BwEb+6jETaj+PAC5hgvr4iW/syLL1tatgSQA=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2016-04-15T00:00:00Z",
-                            "version": "4"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:45:11Z",
+                            "version": "139"
                         }
                     },
                     "url": "https://log.certly.io/"
@@ -657,9 +645,9 @@
                     "log_id": "/kRhCLHQGreKYsz+q2qysrq/86va2ApNizDfLQAIgww=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2020-05-01T23:59:59Z",
-                            "version": "89"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:10:15Z",
+                            "version": "118"
                         }
                     },
                     "temporal_interval": {
@@ -674,9 +662,9 @@
                     "log_id": "b/FBtWR+QiL37wUs7658If1gjifSr1pun0uKN9ZjPuU=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2020-05-01T23:59:59Z",
-                            "version": "84"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:10:08Z",
+                            "version": "117"
                         }
                     },
                     "temporal_interval": {
@@ -708,9 +696,9 @@
                     "log_id": "FZcEiNe5l6Bb61JRKt7o0ui0oxZSZBIan6v71fha2T8=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2019-02-15T23:59:59Z",
-                            "version": "34"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:45:43Z",
+                            "version": "140"
                         }
                     },
                     "url": "https://sirius.ws.symantec.com/"
@@ -721,9 +709,9 @@
                     "log_id": "3esdK3oNT6Ygi4GtgWhwfi6OnQHVXIiNPRHEzbbsvsw=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2019-02-15T23:59:59Z",
-                            "version": "32"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:45:59Z",
+                            "version": "141"
                         }
                     },
                     "url": "https://ct.ws.symantec.com/"
@@ -760,9 +748,9 @@
                     "log_id": "4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2020-05-01T23:59:59Z",
-                            "version": "88"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:09:59Z",
+                            "version": "116"
                         }
                     },
                     "temporal_interval": {
@@ -777,9 +765,9 @@
                     "log_id": "wRZK4Kdy0tQ5LcgKwQdw1PDEm96ZGkhAwfoHUWT2M2A=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2020-05-01T23:59:59Z",
-                            "version": "83"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:09:52Z",
+                            "version": "115"
                         }
                     },
                     "temporal_interval": {
@@ -794,9 +782,9 @@
                     "log_id": "vHjh38X2PGhGSTNNoQ+hXwl5aSAJwIG08/aRfz7ZuKU=",
                     "mmd": 86400,
                     "state": {
-                        "retired": {
-                            "timestamp": "2019-02-15T23:59:59Z",
-                            "version": "33"
+                        "rejected": {
+                            "timestamp": "2022-05-02T17:46:20Z",
+                            "version": "142"
                         }
                     },
                     "url": "https://vega.ws.symantec.com/"
@@ -807,9 +795,9 @@
                     "log_id": "xlKg7EjOs/yrFwmSxDqHQTMJ6ABlomJSQBujNioXxWU=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-03-18T18:11:49Z",
-                            "version": "44"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:09:29Z",
+                            "version": "114"
                         }
                     },
                     "temporal_interval": {
@@ -824,9 +812,9 @@
                     "log_id": "XNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDso=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-05-18T19:25:41Z",
-                            "version": "17"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:09:16Z",
+                            "version": "113"
                         }
                     },
                     "temporal_interval": {
@@ -858,9 +846,9 @@
                     "log_id": "8JWkWfIA0YJAEC0vk4iOrUv+HUfjmeHQNKawqKqOsnM=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2018-05-18T19:25:41Z",
-                            "version": "17"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:09:02Z",
+                            "version": "112"
                         }
                     },
                     "temporal_interval": {
@@ -875,9 +863,9 @@
                     "log_id": "7sCV7o1yZA+S48O5G8cSo2lqCXtLahoUOOZHssvtxfk=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-03-18T18:12:26Z",
-                            "version": "45"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:08:40Z",
+                            "version": "111"
                         }
                     },
                     "temporal_interval": {
@@ -985,9 +973,9 @@
                     "log_id": "ZZszUPQ7EsxepatOx2XT/ebIgkN3d3jnIAP56yuMMSk=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-12-02T18:35:27Z",
-                            "version": "76"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:08:30Z",
+                            "version": "110"
                         }
                     },
                     "temporal_interval": {
@@ -1002,9 +990,9 @@
                     "log_id": "5xLysDd+GmL7jskMYYTx6ns3y1YdESZb8+DzS/JBVG4=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-12-02T18:35:51Z",
-                            "version": "77"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:08:12Z",
+                            "version": "109"
                         }
                     },
                     "temporal_interval": {
@@ -1019,9 +1007,9 @@
                     "log_id": "lCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosI=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2019-12-02T18:36:08Z",
-                            "version": "78"
+                        "rejected": {
+                            "timestamp": "2022-04-29T19:07:54Z",
+                            "version": "108"
                         }
                     },
                     "temporal_interval": {
@@ -1144,5 +1132,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "107"
+    "version": "142"
 }
