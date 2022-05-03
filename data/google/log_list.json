@@ -1,6 +1,6 @@
 {
-  "version": "8.1",
-  "log_list_timestamp": "2022-04-30T12:55:55Z",
+  "version": "9.1",
+  "log_list_timestamp": "2022-05-03T21:33:56Z",
   "operators": [
     {
       "name": "Google",
@@ -79,8 +79,12 @@
           "url": "https://ct.googleapis.com/icarus/",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2022-05-01T00:00:00Z"
+            "readonly": {
+              "timestamp": "2022-05-03T18:52:50Z",
+              "final_tree_head": {
+                "sha256_root_hash": "D1H4wAJmq0MRCeLfeOtrsZ9Am015anO5MkeasNhnQWI=",
+                "tree_size": 762430819
+              }
             }
           }
         },
@@ -91,8 +95,12 @@
           "url": "https://ct.googleapis.com/pilot/",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2022-05-01T00:00:00Z"
+            "readonly": {
+              "timestamp": "2022-05-03T18:52:50Z",
+              "final_tree_head": {
+                "sha256_root_hash": "57gZIfRLpXho89LUBCQeZUDIHx8gA9PL1M4hc71W90E=",
+                "tree_size": 1077336645
+              }
             }
           }
         },
@@ -103,8 +111,12 @@
           "url": "https://ct.googleapis.com/rocketeer/",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2022-05-01T00:00:00Z"
+            "readonly": {
+              "timestamp": "2022-05-03T18:52:50Z",
+              "final_tree_head": {
+                "sha256_root_hash": "Fj49ZSzvzvjNlEOCVhdkwpTlP7hyp82SFsmfWPScpv0=",
+                "tree_size": 1117582774
+              }
             }
           }
         },
@@ -115,8 +127,12 @@
           "url": "https://ct.googleapis.com/skydiver/",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2022-05-01T00:00:00Z"
+            "readonly": {
+              "timestamp": "2022-05-03T18:52:50Z",
+              "final_tree_head": {
+                "sha256_root_hash": "m8mPaxXwy+EdNwnfdsSWCKdhEk1bm/5Mp84ilMB5xvc=",
+                "tree_size": 312892829
+              }
             }
           }
         }
