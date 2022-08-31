@@ -630,14 +630,14 @@
                     "state": {
                         "qualified": {
                             "timestamp": "2022-08-30T02:30:16Z",
-                            "version": "154"
+                            "version": "165"
                         }
                     },
                     "temporal_interval": {
                         "end_exclusive": "2025-01-01T00:00:00Z",
                         "start_inclusive": "2024-01-01T00:00:00Z"
                     },
-                    "url": "https://ct.googleapis.com/logs/argon2024/"
+                    "url": "https://ct.googleapis.com/logs/us1/argon2024/"
                 },
                 {
                     "description": "Google 'Xenon 2024' log",
@@ -647,14 +647,14 @@
                     "state": {
                         "qualified": {
                             "timestamp": "2022-08-30T02:30:32Z",
-                            "version": "155"
+                            "version": "166"
                         }
                     },
                     "temporal_interval": {
                         "end_exclusive": "2025-01-01T00:00:00Z",
                         "start_inclusive": "2024-01-01T00:00:00Z"
                     },
-                    "url": "https://ct.googleapis.com/logs/xenon2024/"
+                    "url": "https://ct.googleapis.com/logs/eu1/xenon2024/"
                 }
             ],
             "name": "Google"
@@ -1301,5 +1301,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "164"
+    "version": "166"
 }
