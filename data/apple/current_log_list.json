@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 17,
+    "assetVersion": 18,
     "operators": [
         {
             "email": [
@@ -151,6 +151,23 @@
                         "start_inclusive": "2019-01-01T00:00:00Z"
                     },
                     "url": "https://ct.cloudflare.com/logs/nimbus2019/"
+                },
+                {
+                    "description": "Cloudflare 'Nimbus 2024' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd7Gbe4/mizX+OpIpLayKjVGKJfyTttegiyk3cR0zyswz6ii5H+Ksw6ld3Ze+9p6UJd02gdHrXSnDK0TxW8oVSA==",
+                    "log_id": "2ra/az+1tiKfm8K7XGvocJFxbLtRhIU0vaQ9MEjX+6s=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:31:50Z",
+                            "version": "160"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2025-01-01T00:00:00Z",
+                        "start_inclusive": "2024-01-01T00:00:00Z"
+                    },
+                    "url": "https://ct.cloudflare.com/logs/nimbus2024/"
                 }
             ],
             "name": "Cloudflare"
@@ -322,9 +339,13 @@
                     "log_id": "u9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YU=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-05-04T22:18:39Z",
-                            "version": "5"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "m8mPaxXwy+EdNwnfdsSWCKdhEk1bm/5Mp84ilMB5xvc=",
+                                "tree_size": 312892829
+                            },
+                            "timestamp": "2022-05-02T00:00:00Z",
+                            "version": "144"
                         }
                     },
                     "url": "https://ct.googleapis.com/skydiver/"
@@ -352,9 +373,13 @@
                     "log_id": "pLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BA=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2015-12-02T22:55:17Z",
-                            "version": "1"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "57gZIfRLpXho89LUBCQeZUDIHx8gA9PL1M4hc71W90E=",
+                                "tree_size": 1077336645
+                            },
+                            "timestamp": "2022-05-02T00:00:00Z",
+                            "version": "146"
                         }
                     },
                     "url": "https://ct.googleapis.com/pilot/"
@@ -433,9 +458,13 @@
                     "log_id": "7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/cs=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2015-12-02T22:55:17Z",
-                            "version": "1"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "Fj49ZSzvzvjNlEOCVhdkwpTlP7hyp82SFsmfWPScpv0=",
+                                "tree_size": 1117582774
+                            },
+                            "timestamp": "2022-05-02T00:00:00Z",
+                            "version": "145"
                         }
                     },
                     "url": "https://ct.googleapis.com/rocketeer/"
@@ -514,9 +543,13 @@
                     "log_id": "KTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9Hg=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-05-04T22:18:39Z",
-                            "version": "5"
+                        "readonly": {
+                            "final_tree_head": {
+                                "sha256_root_hash": "D1H4wAJmq0MRCeLfeOtrsZ9Am015anO5MkeasNhnQWI=",
+                                "tree_size": 762430819
+                            },
+                            "timestamp": "2022-05-02T00:00:00Z",
+                            "version": "143"
                         }
                     },
                     "url": "https://ct.googleapis.com/icarus/"
@@ -588,6 +621,40 @@
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
                     "url": "https://ct.googleapis.com/logs/xenon2023/"
+                },
+                {
+                    "description": "Google 'Argon 2024' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHblsqctplMVc5ramA7vSuNxUQxcomQwGAVAdnWTAWUYr3MgDHQW0LagJ95lB7QT75Ve6JgT2EVLOFGU7L3YrwA==",
+                    "log_id": "7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZs=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:30:16Z",
+                            "version": "154"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2025-01-01T00:00:00Z",
+                        "start_inclusive": "2024-01-01T00:00:00Z"
+                    },
+                    "url": "https://ct.googleapis.com/logs/argon2024/"
+                },
+                {
+                    "description": "Google 'Xenon 2024' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuWDgNB415GUAk0+QCb1a7ETdjA/O7RE+KllGmjG2x5n33O89zY+GwjWlPtwpurvyVOKoDIMIUQbeIW02UI44TQ==",
+                    "log_id": "dv+IPwq2+5VRwmHM9Ye6NLSkzbsp3GhCCp/mZ0xaOnQ=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:30:32Z",
+                            "version": "155"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2025-01-01T00:00:00Z",
+                        "start_inclusive": "2024-01-01T00:00:00Z"
+                    },
+                    "url": "https://ct.googleapis.com/logs/xenon2024/"
                 }
             ],
             "name": "Google"
@@ -924,6 +991,74 @@
                         "start_inclusive": "2022-01-01T00:00:00Z"
                     },
                     "url": "https://yeti2022-2.ct.digicert.com/log/"
+                },
+                {
+                    "description": "DigiCert 'Yeti 2024' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEV7jBbzCkfy7k8NDZYGITleN6405Tw7O4c4XBGA0jDliE0njvm7MeLBrewY+BGxlEWLcAd2AgGnLYgt6unrHGSw==",
+                    "log_id": "SLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHM=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:30:52Z",
+                            "version": "156"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2025-01-01T00:00:00Z",
+                        "start_inclusive": "2024-01-01T00:00:00Z"
+                    },
+                    "url": "https://yeti2024.ct.digicert.com/log/"
+                },
+                {
+                    "description": "DigiCert 'Nessie 2024' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELfyieza/VpHp/j/oPfzDp+BhUuos6QWjnycXgQVwa4FhRIr4OxCAQu0DLwBQIfxBVISjVNUusnoWSyofK2YEKw==",
+                    "log_id": "c9meiRtMlnigIH1HneayxhzQUV5xGSqMa4AQesF3crU=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:31:17Z",
+                            "version": "158"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2025-01-01T00:00:00Z",
+                        "start_inclusive": "2024-01-01T00:00:00Z"
+                    },
+                    "url": "https://nessie2024.ct.digicert.com/log/"
+                },
+                {
+                    "description": "DigiCert 'Yeti 2025' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE35UAXhDBAfc34xB00f+yypDtMplfDDn+odETEazRs3OTIMITPEy1elKGhj3jlSR82JGYSDvw8N8h8bCBWlklQw==",
+                    "log_id": "fVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebg=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:31:04Z",
+                            "version": "157"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2026-01-01T00:00:00Z",
+                        "start_inclusive": "2025-01-01T00:00:00Z"
+                    },
+                    "url": "https://yeti2025.ct.digicert.com/log/"
+                },
+                {
+                    "description": "DigiCert 'Nessie 2025' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8vDwp4uBLgk5O59C2jhEX7TM7Ta72EN/FklXhwR/pQE09+hoP7d4H2BmLWeadYC3U6eF1byrRwZV27XfiKFvOA==",
+                    "log_id": "5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlA=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-30T02:31:30Z",
+                            "version": "159"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2026-01-01T00:00:00Z",
+                        "start_inclusive": "2025-01-01T00:00:00Z"
+                    },
+                    "url": "https://nessie2025.ct.digicert.com/log/"
                 }
             ],
             "name": "DigiCert"
@@ -1051,6 +1186,40 @@
                         "start_inclusive": "2023-01-01T00:00:00Z"
                     },
                     "url": "https://oak.ct.letsencrypt.org/2023/"
+                },
+                {
+                    "description": "Let's Encrypt 'Oak2024H1' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVkPXfnvUcre6qVG9NpO36bWSD+pet0Wjkv3JpTyArBog7yUvuOEg96g6LgeN5uuk4n0kY59Gv5RzUo2Wrqkm/Q==",
+                    "log_id": "O1N3dT4tuYBOizBbBv5AO2fYT8P0x70ADS1yb+H61Bc=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-31T22:55:22Z",
+                            "version": "163"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2024-07-20T00:00:00Z",
+                        "start_inclusive": "2023-12-20T00:00:00Z"
+                    },
+                    "url": "https://oak.ct.letsencrypt.org/2024h1/"
+                },
+                {
+                    "description": "Let's Encrypt 'Oak2024H2' log",
+                    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE13PWU0fp88nVfBbC1o9wZfryUTapE4Av7fmU01qL6E8zz8PTidRfWmaJuiAfccvKu5+f81wtHqOBWa+Ss20waA==",
+                    "log_id": "PxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4=",
+                    "mmd": 86400,
+                    "state": {
+                        "qualified": {
+                            "timestamp": "2022-08-31T22:55:36Z",
+                            "version": "164"
+                        }
+                    },
+                    "temporal_interval": {
+                        "end_exclusive": "2025-01-20T00:00:00Z",
+                        "start_inclusive": "2024-06-20T00:00:00Z"
+                    },
+                    "url": "https://oak.ct.letsencrypt.org/2024h2/"
                 }
             ],
             "name": "Let's Encrypt"
@@ -1132,5 +1301,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "142"
+    "version": "164"
 }
