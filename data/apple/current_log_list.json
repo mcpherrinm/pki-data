@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 18,
+    "assetVersion": 19,
     "operators": [
         {
             "email": [
@@ -339,13 +339,9 @@
                     "log_id": "u9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YU=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "m8mPaxXwy+EdNwnfdsSWCKdhEk1bm/5Mp84ilMB5xvc=",
-                                "tree_size": 312892829
-                            },
-                            "timestamp": "2022-05-02T00:00:00Z",
-                            "version": "144"
+                        "retired": {
+                            "timestamp": "2022-09-15T00:00:00Z",
+                            "version": "168"
                         }
                     },
                     "url": "https://ct.googleapis.com/skydiver/"
@@ -373,13 +369,9 @@
                     "log_id": "pLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BA=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "57gZIfRLpXho89LUBCQeZUDIHx8gA9PL1M4hc71W90E=",
-                                "tree_size": 1077336645
-                            },
-                            "timestamp": "2022-05-02T00:00:00Z",
-                            "version": "146"
+                        "retired": {
+                            "timestamp": "2022-09-15T00:00:00Z",
+                            "version": "170"
                         }
                     },
                     "url": "https://ct.googleapis.com/pilot/"
@@ -458,13 +450,9 @@
                     "log_id": "7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/cs=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "Fj49ZSzvzvjNlEOCVhdkwpTlP7hyp82SFsmfWPScpv0=",
-                                "tree_size": 1117582774
-                            },
-                            "timestamp": "2022-05-02T00:00:00Z",
-                            "version": "145"
+                        "retired": {
+                            "timestamp": "2022-09-15T00:00:00Z",
+                            "version": "169"
                         }
                     },
                     "url": "https://ct.googleapis.com/rocketeer/"
@@ -543,13 +531,9 @@
                     "log_id": "KTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9Hg=",
                     "mmd": 86400,
                     "state": {
-                        "readonly": {
-                            "final_tree_head": {
-                                "sha256_root_hash": "D1H4wAJmq0MRCeLfeOtrsZ9Am015anO5MkeasNhnQWI=",
-                                "tree_size": 762430819
-                            },
-                            "timestamp": "2022-05-02T00:00:00Z",
-                            "version": "143"
+                        "retired": {
+                            "timestamp": "2022-09-15T00:00:00Z",
+                            "version": "167"
                         }
                     },
                     "url": "https://ct.googleapis.com/icarus/"
@@ -1301,5 +1285,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "166"
+    "version": "170"
 }
