@@ -1,6 +1,6 @@
 {
-  "version": "16.1",
-  "log_list_timestamp": "2022-11-23T12:55:36Z",
+  "version": "17.1",
+  "log_list_timestamp": "2022-12-02T12:56:22Z",
   "operators": [
     {
       "name": "Google",
@@ -204,8 +204,8 @@
           "url": "https://ct.cloudflare.com/logs/nimbus2024/",
           "mmd": 86400,
           "state": {
-            "qualified": {
-              "timestamp": "2022-09-21T17:00:00Z"
+            "usable": {
+              "timestamp": "2022-11-30T17:00:00Z"
             }
           },
           "temporal_interval": {
@@ -468,8 +468,8 @@
           "url": "https://oak.ct.letsencrypt.org/2024h1/",
           "mmd": 86400,
           "state": {
-            "qualified": {
-              "timestamp": "2022-09-21T17:00:00Z"
+            "usable": {
+              "timestamp": "2022-11-30T17:00:00Z"
             }
           },
           "temporal_interval": {
@@ -484,8 +484,8 @@
           "url": "https://oak.ct.letsencrypt.org/2024h2/",
           "mmd": 86400,
           "state": {
-            "qualified": {
-              "timestamp": "2022-09-21T17:00:00Z"
+            "usable": {
+              "timestamp": "2022-11-30T17:00:00Z"
             }
           },
           "temporal_interval": {
