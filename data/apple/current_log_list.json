@@ -1,6 +1,6 @@
 {
     "$schema": "https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v3.json",
-    "assetVersion": 19,
+    "assetVersion": 20,
     "operators": [
         {
             "email": [
@@ -1058,9 +1058,9 @@
                     "log_id": "b1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RM=",
                     "mmd": 86400,
                     "state": {
-                        "usable": {
-                            "timestamp": "2017-09-19T18:24:24Z",
-                            "version": "7"
+                        "retired": {
+                            "timestamp": "2023-01-15T00:00:00Z",
+                            "version": "182"
                         }
                     },
                     "url": "https://mammoth.ct.comodo.com/"
@@ -1285,5 +1285,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "181"
+    "version": "182"
 }
