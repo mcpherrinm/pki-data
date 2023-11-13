@@ -176,9 +176,9 @@
                     "log_id": "zPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbA=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T01:03:44Z",
-                            "version": "225"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:41:36Z",
+                            "version": "228"
                         }
                     },
                     "temporal_interval": {
@@ -664,9 +664,9 @@
                     "log_id": "TnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:30:57Z",
-                            "version": "218"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:42:18Z",
+                            "version": "229"
                         }
                     },
                     "temporal_interval": {
@@ -681,9 +681,9 @@
                     "log_id": "EvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjo=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:31:11Z",
-                            "version": "219"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:43:00Z",
+                            "version": "230"
                         }
                     },
                     "temporal_interval": {
@@ -698,9 +698,9 @@
                     "log_id": "zxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwg=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:35:46Z",
-                            "version": "221"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:43:20Z",
+                            "version": "231"
                         }
                     },
                     "temporal_interval": {
@@ -715,9 +715,9 @@
                     "log_id": "3dzKNJXX4RYF55Uy+sef+D0cUN/bADoUEnYKLKy7yCo=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:38:12Z",
-                            "version": "223"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:43:38Z",
+                            "version": "232"
                         }
                     },
                     "temporal_interval": {
@@ -1170,9 +1170,9 @@
                     "log_id": "KdA6G7Z0qnEc0wNbZVfBT4qni0/oOJRJ7KRT+US9JGg=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:08:45Z",
-                            "version": "208"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:44:12Z",
+                            "version": "233"
                         }
                     },
                     "temporal_interval": {
@@ -1187,9 +1187,9 @@
                     "log_id": "3+FW66oFr7WcD4ZxjajAMk6uVtlup/WlagHRwTu+Ulw=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:10:09Z",
-                            "version": "209"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:44:24Z",
+                            "version": "234"
                         }
                     },
                     "temporal_interval": {
@@ -1204,9 +1204,9 @@
                     "log_id": "E0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CI=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:10:45Z",
-                            "version": "210"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:44:41Z",
+                            "version": "235"
                         }
                     },
                     "temporal_interval": {
@@ -1221,9 +1221,9 @@
                     "log_id": "rxgaKNaMo+CpikycZ6sJ+Lu8IrquvLE4o6Gd0/m2Aw0=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:11:02Z",
-                            "version": "211"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:44:55Z",
+                            "version": "236"
                         }
                     },
                     "temporal_interval": {
@@ -1238,9 +1238,9 @@
                     "log_id": "ouK/1h7eLy8HoNZObTen3GVDsMa1LqLat4r4mm31F9g=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:11:31Z",
-                            "version": "212"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:45:12Z",
+                            "version": "237"
                         }
                     },
                     "temporal_interval": {
@@ -1255,9 +1255,9 @@
                     "log_id": "GZgQcQnw1lIuMIDSnj9ku4NuKMz5D1KO7t/OSj8WtMo=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:11:55Z",
-                            "version": "213"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:45:27Z",
+                            "version": "238"
                         }
                     },
                     "temporal_interval": {
@@ -1272,9 +1272,9 @@
                     "log_id": "4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQ=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:12:14Z",
-                            "version": "214"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:45:41Z",
+                            "version": "239"
                         }
                     },
                     "temporal_interval": {
@@ -1289,9 +1289,9 @@
                     "log_id": "GgT/SdBUHUCv9qDDv/HYxGcvTuzuI0BomGsXQC7ciX0=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-25T00:12:37Z",
-                            "version": "215"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:45:57Z",
+                            "version": "240"
                         }
                     },
                     "temporal_interval": {
@@ -1433,9 +1433,9 @@
                     "log_id": "ouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+c=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-24T20:57:41Z",
-                            "version": "204"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:46:28Z",
+                            "version": "241"
                         }
                     },
                     "temporal_interval": {
@@ -1450,9 +1450,9 @@
                     "log_id": "DeHyMCvTDcFAYhIJ6lUu/Ed0fLHX6TDvDkIetH5OqjQ=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-08-24T20:58:19Z",
-                            "version": "205"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:46:41Z",
+                            "version": "242"
                         }
                     },
                     "temporal_interval": {
@@ -1543,9 +1543,9 @@
                     "log_id": "h0+1DcAp2ZMd5XPp8omejkUzs5LTiwpGJXS/D+6y/B4=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-07-26T22:27:54Z",
-                            "version": "184"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:47:16Z",
+                            "version": "243"
                         }
                     },
                     "temporal_interval": {
@@ -1560,9 +1560,9 @@
                     "log_id": "KOKBOP2DIUXpqdaqdTdtg3eohRKzwH9yQUgh3L3pjGY=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-07-26T22:38:31Z",
-                            "version": "197"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:47:30Z",
+                            "version": "244"
                         }
                     },
                     "temporal_interval": {
@@ -1577,9 +1577,9 @@
                     "log_id": "KCyL3YEP+QkSCs4W1uDsIBvqgqOkrxnZ7/tZ6D/cQmg=",
                     "mmd": 86400,
                     "state": {
-                        "qualified": {
-                            "timestamp": "2023-07-26T22:39:56Z",
-                            "version": "199"
+                        "usable": {
+                            "timestamp": "2023-11-13T19:47:46Z",
+                            "version": "245"
                         }
                     },
                     "temporal_interval": {
@@ -1592,5 +1592,5 @@
             "name": "TrustAsia"
         }
     ],
-    "version": "227"
+    "version": "245"
 }
