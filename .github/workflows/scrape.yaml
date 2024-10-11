@@ -16,14 +16,6 @@ jobs:
         run: curl -sSL 'https://www.gstatic.com/ct/log_list/v3/all_logs_list.json' | jq . > data/google/all_log_list.json
       - name: Fetch Apple CT Log List
         run: curl -sSL 'https://valid.apple.com/ct/log_list/current_log_list.json' | jq . > data/apple/current_log_list.json
-      - name: Fetch CCADB Certificate Records
-        run: |-
-          curl --parallel -sSL \
-          'https://ccadb.my.salesforce-sites.com/ccadb/AllCertificateRecordsCSVFormatv2' -o data/ccadb/AllCertificateRecords.csv \
-          'https://ccadb.my.salesforce-sites.com/ccadb/AllCertificatePEMsCSVFormat?NotBeforeDecade=1990' -o data/ccadb/AllCertificatePEMs1990.csv \
-          'https://ccadb.my.salesforce-sites.com/ccadb/AllCertificatePEMsCSVFormat?NotBeforeDecade=2000' -o data/ccadb/AllCertificatePEMs2000.csv \
-          'https://ccadb.my.salesforce-sites.com/ccadb/AllCertificatePEMsCSVFormat?NotBeforeDecade=2010' -o data/ccadb/AllCertificatePEMs2010.csv \
-          'https://ccadb.my.salesforce-sites.com/ccadb/AllCertificatePEMsCSVFormat?NotBeforeDecade=2020' -o data/ccadb/AllCertificatePEMs2020.csv
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
