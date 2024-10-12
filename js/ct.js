@@ -29,6 +29,9 @@ function normalizeDescription(operator, description) {
         return orig
     }
 
+    // Normalize 2022H1 vs 2022h2
+    description = description.replace(/(20[0-9][0-9])H([12])/, "$1h$2")
+
     return description
 }
 
