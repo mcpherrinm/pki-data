@@ -16,8 +16,8 @@ function normalizeDescription(operator, description) {
     let orig = description
     description = description.replace(/ /g, "")
     description = dropPrefix(operator, description)
-    description = dropSuffix("CT Log", description)
-    description = dropSuffix("CT log", description)
+    description = dropSuffix("CTLog", description)
+    description = dropSuffix("CTlog", description)
     description = dropSuffix("Log", description)
     description = dropSuffix("log", description)
     description = dropPrefix("'", description)
