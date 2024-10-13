@@ -14,23 +14,35 @@ function dropSuffix(suffix, str) {
 
 function normalizeDescription(operator, description) {
     let orig = description
+
+    // Normalize 2022H1 vs 2022h2
+    description = description.replace(/(20[0-9][0-9])H([12])/, "$1h$2")
+    description = description.replace(/(20[0-9][0-9])A/, "$1a")
+    description = description.replace(/(20[0-9][0-9])B/, "$1b")
+
+    description = description.replace(/' log #2/, "-2")
+
+    description = description.replace(/ (20[0-9][0-9])/g, "$1")
+    // Operator names, including some mismatches:
+    description = dropPrefix("Symantec", description)
+    description = dropPrefix("Up In The Air", description)
+    description = dropPrefix("Trust Asia", description)
+    description = dropPrefix("Nordu", description)
     description = dropPrefix(operator, description)
-    description = description.replace(/ /g, "")
-    description = dropPrefix(operator, description)
-    description = dropSuffix("CTLog", description)
-    description = dropSuffix("CTlog", description)
+    description = dropSuffix("CT Log", description)
+    description = dropSuffix("CT log", description)
     description = dropSuffix("Log", description)
     description = dropSuffix("log", description)
     description = dropPrefix("'", description)
     description = dropSuffix("'", description)
+    description = dropPrefix("Log", description)
+    description = dropPrefix("log", description)
+    description = dropPrefix("CT Log", description)
 
     // "StartCom log" etc goes to 0, so just return the original
     if (description.length === 0) {
         return orig
     }
-
-    // Normalize 2022H1 vs 2022h2
-    description = description.replace(/(20[0-9][0-9])H([12])/, "$1h$2")
 
     return description
 }
@@ -209,7 +221,18 @@ async function getLogs() {
     return dataMerge(await appleResp.json(), await googleResp.json());
 }
 
-function td(row, text, wrap) {
+function td(row, log, field, wrap) {
+    let text = undefined;
+    if(log.has(field)) {
+        text = log.get(field);
+    } else if (log.has(field + "_google") && log.has(field + "_apple")) {
+        text = "a: " + log.get(field + "_apple") + " g: " + log.get(field + "_google");
+    } else if (log.has(field + "_apple")) {
+        text = "a: " + log.get(field + "_apple");
+    } else if (log.has(field + "_google")) {
+        text = "g: " + log.get(field + "_google");
+    }
+
     let element = document.createElement('td');
     if(text !== undefined) {
         element.innerText = text;
@@ -230,18 +253,13 @@ async function render() {
     for (const [url, log] of data) {
         let row = document.createElement('tr');
 
-        if(log.has("apple_status") && log.has("google_status")) {
-            td(row, "a:" + log.get("apple_status") + " g:" + log.get("google_status"))
-        } else if(log.has("status")) {
-            td(row, log.get("status"))
-        } else {
-            td(row, "?")
-        }
-        td(row, log.get("operator"))
-        td(row, url)
-        td(row, log.get("start"))
-        td(row, log.get("end"))
-        td(row, log.get("log_id"), "tt")
+        td(row, log, "status")
+        td(row, log, "operator")
+        td(row, log, "description")
+        td(row, log, "start")
+        td(row, log, "end")
+        td(row, log, "url")
+        td(row, log, "log_id", "tt")
         logsTable.appendChild(row);
     }
 }
