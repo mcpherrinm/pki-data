@@ -221,7 +221,7 @@ async function getLogs() {
     return dataMerge(await appleResp.json(), await googleResp.json());
 }
 
-function td(row, log, field, wrap) {
+function td(row, log, field) {
     let text = undefined;
     if(log.has(field)) {
         text = log.get(field);
@@ -237,11 +237,7 @@ function td(row, log, field, wrap) {
     if(text !== undefined) {
         element.innerText = text;
     }
-    if(wrap !== undefined) {
-        let wrapped = document.createElement(wrap)
-        wrapped.appendChild(element);
-        element = wrapped;
-    }
+    element.classList.add(field);
     row.appendChild(element);
 }
 
@@ -259,7 +255,7 @@ async function render() {
         td(row, log, "start")
         td(row, log, "end")
         td(row, log, "url")
-        td(row, log, "log_id", "tt")
+        td(row, log, "log_id")
         logsTable.appendChild(row);
     }
 }

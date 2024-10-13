@@ -3,6 +3,14 @@
 <head>
     <title>CT Logs</title>
     <style>
+        table, thead, tr, td {
+            margin: 0;
+            border-spacing: 0;
+            padding: 0.25em;
+        }
+        td.log_id {
+            font-family: monospace;
+        }
         thead {
             font-weight: bold;
         }
@@ -17,13 +25,13 @@
 <table id="logs">
     <thead>
     <tr>
-        <td>Status</td>
-        <td>Operator</td>
-        <td>Description</td>
-        <td>Start</td>
-        <td>End</td>
-        <td>URL</td>
-        <td>Log ID</td>
+        <th>Status</th>
+        <th>Operator</th>
+        <th>Description</th>
+        <th>Start</th>
+        <th>End</th>
+        <th>URL</th>
+        <th>Log ID</th>
     </tr>
     </thead>
 </table>
