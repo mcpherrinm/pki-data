@@ -173,10 +173,7 @@ function mapData(input) {
 function dataMerge(apple, google) {
     let appleMap = mapData(apple);
     let googleMap = mapData(google);
-
     let data = new Map();
-    let qualified = new Map();
-    let retired = new Map();
 
     for (const [k, v] of appleMap) {
         if (!googleMap.has(k)) {
@@ -195,8 +192,6 @@ function dataMerge(apple, google) {
         }
     }
 
-    console.log("Merged", data)
-
     return data;
 }
 
@@ -214,45 +209,40 @@ async function getLogs() {
     return dataMerge(await appleResp.json(), await googleResp.json());
 }
 
+function td(row, text, wrap) {
+    let element = document.createElement('td');
+    if(text !== undefined) {
+        element.innerText = text;
+    }
+    if(wrap !== undefined) {
+        let wrapped = document.createElement(wrap)
+        wrapped.appendChild(element);
+        element = wrapped;
+    }
+    row.appendChild(element);
+}
+
 async function render() {
     const data = await getLogs();
+    console.log("Loaded data", data);
 
-    const usable = document.querySelector('#usable');
-    const qualified = document.querySelector('#qualified');
-    const other = document.querySelector('#other');
+    const logsTable = document.getElementById("logs");
+    for (const [url, log] of data) {
+        let row = document.createElement('tr');
 
-    for (const [url, value] of data) {
-        let logTitle = document.createElement('h2');
-        logTitle.innerHTML = url
-
-        let logTable = document.createElement('table');
-
-        for (const [k, v] of value) {
-            let label = document.createElement('td');
-            label.innerText = k;
-            let data = document.createElement('td');
-            data.innerHTML = v;
-            let row = document.createElement('tr');
-            row.appendChild(label);
-            row.appendChild(data);
-            logTable.appendChild(row);
-        }
-
-        console.log(url)
-        console.log(value)
-        if (value.get("status") === "usable") {
-            usable.appendChild(logTitle);
-            usable.appendChild(logTable);
-        } else if ((value.get("status") === "qualified") ||
-            (value.get("apple_status") === "qualified" && value.get("google_status") === "usable") ||
-            (value.get("apple_status") === "usable" && value.get("google_status") === "qualified")) {
-            qualified.appendChild(logTitle);
-            qualified.appendChild(logTable);
+        if(log.has("apple_status") && log.has("google_status")) {
+            td(row, "a:" + log.get("apple_status") + " g:" + log.get("google_status"))
+        } else if(log.has("status")) {
+            td(row, log.get("status"))
         } else {
-            other.appendChild(logTitle);
-            other.appendChild(logTable);
+            td(row, "?")
         }
-
+        td(row, log.get("operator"))
+        td(row, url)
+        td(row, log.get("start"))
+        td(row, log.get("end"))
+        td(row, log.get("log_id"), "tt")
+        logsTable.appendChild(row);
     }
 }
 
