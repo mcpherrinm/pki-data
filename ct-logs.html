@@ -3,37 +3,53 @@
 <head>
     <title>CT Logs</title>
     <style>
+        table {
+            width: 100%;
+        }
         table, thead, tr, td {
             margin: 0;
             border-spacing: 0;
             padding: 0.25em;
+        }
+        th, td {
+            width: 10em;
+            height: 2em;
+            overflow: hidden;
+        }
+        td.data {
         }
         td.log_id {
             font-family: monospace;
         }
         thead {
             font-weight: bold;
+            text-align: left;
         }
-        tr:hover {
+        tbody tr:hover:not(.selected) {
             background-color: lightgray;
+            cursor: pointer;
+        }
+        tr:not(.selected) td.data {
+            display:none;
+        }
+        tr.selected {
+            background-color: lightsteelblue;
         }
     </style>
 </head>
 <body>
 <h1>CT Logs</h1>
 
-<table id="logs">
+<table>
     <thead>
     <tr>
         <th>Status</th>
         <th>Operator</th>
         <th>Description</th>
-        <th>Start</th>
-        <th>End</th>
-        <th>URL</th>
-        <th>Log ID</th>
+        <th class="data">Data (Click a log on the left)</th>
     </tr>
     </thead>
+    <tbody id="logs"></tbody>
 </table>
 
 <script src="js/ct.js"></script>
