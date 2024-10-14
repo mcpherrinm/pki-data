@@ -278,9 +278,17 @@ async function render() {
         td(row, log, "operator")
         td(row, log, "description")
 
+        let status = log.get("status");
+        let apple_status = log.get("apple_status");
+        let google_status = log.get("google_status");
+
+        // We define "current" logs as usable or qualified in either list
+        if (status === "usable" || apple_status === "usable" || google_status === "usable" || status === "qualified" || apple_status === "qualified" || google_status === "qualified") {
+           row.classList.add("current");
+        }
+
         let data = document.createElement("td");
         data.classList.add("data")
-        data.rowSpan = 1;
 
         const dataTable = document.createElement("table");
 
@@ -293,7 +301,6 @@ async function render() {
             value.innerText = v;
             row.appendChild(value);
             dataTable.appendChild(row);
-            data.rowSpan++;
         }
 
         data.appendChild(dataTable);

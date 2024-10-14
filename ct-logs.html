@@ -16,8 +16,6 @@
             height: 2em;
             overflow: hidden;
         }
-        td.data {
-        }
         td.log_id {
             font-family: monospace;
         }
@@ -35,11 +33,15 @@
         tr.selected {
             background-color: lightsteelblue;
         }
+        tbody#logs.hideNotCurrent > tr:not(.current) {
+            display:none;
+        }
     </style>
 </head>
 <body>
 <h1>CT Logs</h1>
 
+<button onclick="document.getElementById('logs').classList.toggle('hideNotCurrent')">Toggle non-current logs</button>
 <table>
     <thead>
     <tr>
@@ -49,7 +51,7 @@
         <th class="data">Data (Click a log on the left)</th>
     </tr>
     </thead>
-    <tbody id="logs"></tbody>
+    <tbody id="logs" class="hideNotCurrent"></tbody>
 </table>
 
 <script src="js/ct.js"></script>
