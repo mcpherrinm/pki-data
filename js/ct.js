@@ -12,6 +12,17 @@ function dropSuffix(suffix, str) {
     return str.trim()
 }
 
+function normalizeOperator(operator) {
+    // Shorten some of the longer names
+    if (operator === "Beijing PuChuangSiDa Technology Ltd.") {
+        return "PuChuangSiDa"; // This is the shorter name used in the log description
+    }
+    if (operator === "Up In The Air Consulting") {
+        return "Up In The Air";
+    }
+    return operator
+}
+
 function normalizeDescription(operator, description) {
     let orig = description
 
@@ -86,6 +97,11 @@ function mergeLog(apple, google) {
             gv = normalizeDescription(operator, gv)
         }
 
+        if (k === "operator") {
+            av = normalizeOperator(operator, av)
+            gv = normalizeOperator(operator, gv)
+        }
+
         if (k === "temporal_interval") {
             let [apple_start, apple_end] = normalizeTemporalInterval(av)
             let [google_start, google_end] = normalizeTemporalInterval(gv)
@@ -131,8 +147,8 @@ function mergeLog(apple, google) {
             // Both the same
             merged.set(k, av);
         } else {
-            merged.set(k + "_apple", av);
-            merged.set(k + "_google", gv);
+            merged.set("apple_" + k, av);
+            merged.set("google_" + k, gv);
         }
     }
 
@@ -145,6 +161,10 @@ function normalizeLog(log) {
     for (let [k, v] of log) {
         if (k === "description") {
             v = normalizeDescription(log.get("operator"), v);
+        }
+
+        if (k === "operator") {
+            v = normalizeOperator(log.get("operator"), v);
         }
 
         if (k === "temporal_interval") {
@@ -225,12 +245,12 @@ function td(row, log, field) {
     let text = undefined;
     if(log.has(field)) {
         text = log.get(field);
-    } else if (log.has(field + "_google") && log.has(field + "_apple")) {
-        text = "a: " + log.get(field + "_apple") + " g: " + log.get(field + "_google");
-    } else if (log.has(field + "_apple")) {
-        text = "a: " + log.get(field + "_apple");
-    } else if (log.has(field + "_google")) {
-        text = "g: " + log.get(field + "_google");
+    } else if (log.has("google_" + field) && log.has("apple_" + field)) {
+        text = "a: " + log.get("apple_" + field) + " g: " + log.get("google_" + field);
+    } else if (log.has("apple_" + field)) {
+        text = "a: " + log.get("apple_" + field);
+    } else if (log.has("google_" + field)) {
+        text = "g: " + log.get("google_" + field);
     }
 
     let element = document.createElement('td');
@@ -247,16 +267,46 @@ async function render() {
 
     const logsTable = document.getElementById("logs");
     for (const [url, log] of data) {
-        let row = document.createElement('tr');
-
+        let row = document.createElement("tr");
+        row.onclick = function () {
+            document.querySelectorAll(".selected").forEach((el) => {
+                el.classList.remove("selected");
+            })
+            row.classList.add("selected");
+        }
         td(row, log, "status")
         td(row, log, "operator")
         td(row, log, "description")
-        td(row, log, "start")
-        td(row, log, "end")
-        td(row, log, "url")
-        td(row, log, "log_id")
+
+        let data = document.createElement("td");
+        data.classList.add("data")
+        data.rowSpan = 1;
+
+        const dataTable = document.createElement("table");
+
+        for(const [k, v] of log) {
+            let row = document.createElement("tr");
+            let key = document.createElement("td");
+            key.innerText = k;
+            row.appendChild(key);
+            let value = document.createElement("td");
+            value.innerText = v;
+            row.appendChild(value);
+            dataTable.appendChild(row);
+            data.rowSpan++;
+        }
+
+        data.appendChild(dataTable);
+        row.appendChild(data);
         logsTable.appendChild(row);
+    }
+    // Pad out the bottom of the table for the data expander
+    for(let i = 0; i < 4; i++) {
+        let tr = document.createElement('tr');
+        let td = document.createElement('td');
+        td.innerHTML = " ";
+        tr.appendChild(td);
+        logsTable.appendChild(tr);
     }
 }
 
