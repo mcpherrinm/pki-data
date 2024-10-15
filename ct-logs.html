@@ -16,10 +16,11 @@
             height: 2em;
             overflow: hidden;
         }
-        td.log_id {
+        tr.log_id > td.value, tr.key > td.value {
             font-family: monospace;
+            word-break: break-all;
         }
-        thead {
+        thead, td.key {
             font-weight: bold;
             text-align: left;
         }
