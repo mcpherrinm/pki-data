@@ -294,10 +294,13 @@ async function render() {
 
         for(const [k, v] of log) {
             let row = document.createElement("tr");
+            row.classList.add(k);
             let key = document.createElement("td");
+            key.classList.add("key");
             key.innerText = k;
             row.appendChild(key);
             let value = document.createElement("td");
+            value.classList.add("value");
             value.innerText = v;
             row.appendChild(value);
             dataTable.appendChild(row);
