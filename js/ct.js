@@ -269,10 +269,7 @@ async function render() {
     for (const [url, log] of data) {
         let row = document.createElement("tr");
         row.onclick = function () {
-            document.querySelectorAll(".selected").forEach((el) => {
-                el.classList.remove("selected");
-            })
-            row.classList.add("selected");
+            row.classList.toggle("selected");
         }
         td(row, log, "status")
         td(row, log, "operator")

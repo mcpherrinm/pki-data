@@ -24,15 +24,12 @@
             font-weight: bold;
             text-align: left;
         }
-        tbody#logs > tr:hover:not(.selected) {
+        tbody#logs > tr:hover {
             background-color: lightgray;
             cursor: pointer;
         }
         tr:not(.selected) td.data {
             display:none;
-        }
-        tr.selected {
-            background-color: lightsteelblue;
         }
         tbody#logs.hideNotCurrent > tr:not(.current) {
             display:none;
