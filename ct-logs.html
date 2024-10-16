@@ -24,11 +24,7 @@
             font-weight: bold;
             text-align: left;
         }
-        tbody#logs > tr:hover {
-            background-color: lightgray;
-            cursor: pointer;
-        }
-        tr:not(.selected) td.data {
+        .expand:not(:checked) + table {
             display:none;
         }
         tbody#logs.hideNotCurrent > tr:not(.current) {
@@ -46,7 +42,7 @@
         <th>Status</th>
         <th>Operator</th>
         <th>Description</th>
-        <th class="data" colspan="4">Data (Click a log on the left)</th>
+        <th class="data" colspan="4">Data (Check box to expand)</th>
     </tr>
     </thead>
     <tbody id="logs" class="hideNotCurrent"></tbody>
