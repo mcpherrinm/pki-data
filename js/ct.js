@@ -307,14 +307,6 @@ async function render() {
         row.appendChild(data);
         logsTable.appendChild(row);
     }
-    // Pad out the bottom of the table for the data expander
-    for(let i = 0; i < 4; i++) {
-        let tr = document.createElement('tr');
-        let td = document.createElement('td');
-        td.innerHTML = " ";
-        tr.appendChild(td);
-        logsTable.appendChild(tr);
-    }
 }
 
 render();
