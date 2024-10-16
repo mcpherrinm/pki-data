@@ -26,7 +26,7 @@
             font-weight: bold;
             text-align: left;
         }
-        input.expand:not(:checked) + table {
+        input.expand:not(:checked) ~ table {
             display:none;
         }
         label.expand {
@@ -34,6 +34,12 @@
             padding: 0.5rem 1rem;
             border-radius: 0.5rem;
             margin: 1rem;
+        }
+        input.expand:checked ~ label.expand {
+            background: cornflowerblue;
+        }
+        input.expand:checked ~ label.expand::before {
+            content: "un";
         }
         tbody#logs.hideNotCurrent > tr:not(.current) {
             display:none;
