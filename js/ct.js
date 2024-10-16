@@ -302,6 +302,7 @@ async function render() {
         let expandLabel = document.createElement("label");
         expandLabel.innerText = "Expand";
         expandLabel.setAttribute("for", url);
+        expandLabel.classList.add("expand");
         let expandCheck = document.createElement("input");
         expandCheck.setAttribute("type", "checkbox");
         expandCheck.setAttribute("id", url);

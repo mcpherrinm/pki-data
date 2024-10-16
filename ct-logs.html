@@ -12,8 +12,11 @@
             padding: 0.25em;
         }
         th, td {
-            width: 10em;
+            width: 10rem;
             overflow: hidden;
+        }
+        tbody#logs > tr {
+            height: 2.5rem;
         }
         tr.log_id > td.value, tr.key > td.value {
             font-family: monospace;
@@ -23,8 +26,14 @@
             font-weight: bold;
             text-align: left;
         }
-        .expand:not(:checked) + table {
+        input.expand:not(:checked) + table {
             display:none;
+        }
+        label.expand {
+            background: lightsteelblue;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            margin: 1rem;
         }
         tbody#logs.hideNotCurrent > tr:not(.current) {
             display:none;
