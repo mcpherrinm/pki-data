@@ -300,7 +300,7 @@ async function render() {
         let data = document.createElement("td");
 
         let expandLabel = document.createElement("label");
-        expandLabel.innerText = "Expand";
+        expandLabel.innerText = "expand";
         expandLabel.setAttribute("for", url);
         expandLabel.classList.add("expand");
         let expandCheck = document.createElement("input");
@@ -308,8 +308,8 @@ async function render() {
         expandCheck.setAttribute("id", url);
         expandCheck.classList.add("expand");
 
-        data.appendChild(expandLabel);
         data.appendChild(expandCheck);
+        data.appendChild(expandLabel);
 
         row.appendChild(data);
 
