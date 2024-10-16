@@ -267,6 +267,21 @@ function td(row, log, field) {
     row.appendChild(element);
 }
 
+function isCurrent(log) {
+    let status = log.get("status");
+    let apple_status = log.get("apple_status");
+    let google_status = log.get("google_status");
+
+    // We define "current" logs as usable or qualified in either list
+    return (status === "usable" ||
+        apple_status === "usable" ||
+        google_status === "usable" ||
+        status === "qualified" ||
+        apple_status === "qualified" ||
+        google_status === "qualified"
+    )
+}
+
 async function render() {
     const data = await getLogs();
     console.log("Loaded data", data);
@@ -274,29 +289,40 @@ async function render() {
     const logsTable = document.getElementById("logs");
     for (const [url, log] of data) {
         let row = document.createElement("tr");
-        row.onclick = function () {
-            row.classList.toggle("selected");
-        }
         td(row, log, "status")
         td(row, log, "operator")
         td(row, log, "description")
 
-        let status = log.get("status");
-        let apple_status = log.get("apple_status");
-        let google_status = log.get("google_status");
-
-        // We define "current" logs as usable or qualified in either list
-        if (status === "usable" || apple_status === "usable" || google_status === "usable" || status === "qualified" || apple_status === "qualified" || google_status === "qualified") {
+        if (isCurrent(log)) {
            row.classList.add("current");
         }
 
         let data = document.createElement("td");
+
+        let expandLabel = document.createElement("label");
+        expandLabel.innerText = "Expand";
+        expandLabel.setAttribute("for", url);
+        let expandCheck = document.createElement("input");
+        expandCheck.setAttribute("type", "checkbox");
+        expandCheck.setAttribute("id", url);
+        expandCheck.classList.add("expand");
+
+        data.appendChild(expandLabel);
+        data.appendChild(expandCheck);
+
+        row.appendChild(data);
+
         data.classList.add("data")
         data.colSpan = 4;
 
         const dataTable = document.createElement("table");
 
         for(const [k, v] of log) {
+            if (k === "status" || k === "operator" || k === "description") {
+                // These are in the main table
+                // Deliberately leave apple_ and google_ versions in, though
+                continue;
+            }
             let row = document.createElement("tr");
             row.classList.add(k);
             let key = document.createElement("td");
