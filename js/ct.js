@@ -286,6 +286,7 @@ async function render() {
 
         let data = document.createElement("td");
         data.classList.add("data")
+        data.colSpan = 4;
 
         const dataTable = document.createElement("table");
 
@@ -299,6 +300,7 @@ async function render() {
             let value = document.createElement("td");
             value.classList.add("value");
             value.innerText = v;
+            value.colSpan = 3;
             row.appendChild(value);
             dataTable.appendChild(row);
         }
