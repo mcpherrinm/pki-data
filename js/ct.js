@@ -209,13 +209,7 @@ function dataMerge(apple, google) {
         }
     }
 
-    return new Map([...data.entries()].sort(
-        ([ka, va], [kb, vb]) => {
-            return va.get("operator").localeCompare(vb.get("operator")) ||
-                va.get("description").localeCompare(vb.get("description")) ||
-                ka.localeCompare(kb)
-        },
-    ));
+    return data;
 }
 
 async function getLogs() {
