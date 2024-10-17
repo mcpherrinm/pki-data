@@ -41,6 +41,9 @@
         input.expand:checked ~ label.expand::before {
             content: "un";
         }
+        input.expand {
+            display: none;
+        }
         tbody#logs.hideNotCurrent > tr:not(.current) {
             display:none;
         }
@@ -56,7 +59,7 @@
         <th>Status</th>
         <th>Operator</th>
         <th>Description</th>
-        <th class="data" colspan="4">Data (Check box to expand)</th>
+        <th class="data" colspan="4">Data</th>
     </tr>
     </thead>
     <tbody id="logs" class="hideNotCurrent"></tbody>
