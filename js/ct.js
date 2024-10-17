@@ -141,6 +141,7 @@ function normalizeLog(log) {
     let merged = new Map();
     for (let [k, v] of log) {
         if (k === "description") {
+            merged.set("full_description", v)
             v = normalizeDescription(log.get("operator"), v);
         }
 
