@@ -29,7 +29,7 @@
         input.expand:not(:checked) ~ table {
             display:none;
         }
-        label.expand {
+        label {
             background: lightsteelblue;
             padding: 0.3rem 1rem;
             border-radius: 0.5rem;
@@ -42,18 +42,23 @@
         input.expand:checked ~ label.expand::before {
             content: "un";
         }
-        input.expand {
+        input.expand, input#hideNotCurrent {
             display: none;
         }
-        tbody#logs.hideNotCurrent > tr:not(.current) {
+        input#hideNotCurrent:not(:checked) ~ table tbody#logs > tr:not(.current) {
             display:none;
+        }
+        input#hideNotCurrent:not(:checked) ~ label::before {
+            content: "un";
         }
     </style>
 </head>
 <body>
 <h1>CT Logs</h1>
 
-<button onclick="document.getElementById('logs').classList.toggle('hideNotCurrent')">Toggle non-current logs</button>
+<input type="checkbox" id="hideNotCurrent" checked>
+<label for="hideNotCurrent">hide not-current logs</label>
+
 <table>
     <thead>
     <tr>
@@ -63,7 +68,7 @@
         <th class="data" colspan="4">Data</th>
     </tr>
     </thead>
-    <tbody id="logs" class="hideNotCurrent"></tbody>
+    <tbody id="logs"></tbody>
 </table>
 
 <script src="js/ct.js"></script>
