@@ -8,10 +8,10 @@ on:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Fetch Google CT Log List
         run: curl -sSL 'https://www.gstatic.com/ct/log_list/v3/all_logs_list.json' | jq . > data/google/all_log_list.json
       - name: Fetch Apple CT Log List
