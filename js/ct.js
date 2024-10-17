@@ -191,7 +191,9 @@ function dataMerge(apple, google) {
     for (const [k, v] of appleMap) {
         if (!googleMap.has(k)) {
             // apple only
-            data.set(k, normalizeLog(v))
+            let appleOnlyLog = normalizeLog(v);
+            appleOnlyLog.set("apple_only", true);
+            data.set(k, appleOnlyLog);
         }
 
         // Merge if in both:
@@ -201,7 +203,9 @@ function dataMerge(apple, google) {
     for (const [k, v] of googleMap) {
         // google only
         if (!appleMap.has(k)) {
-            data.set(k, normalizeLog(v));
+            let googleOnlyLog = normalizeLog(v);
+            googleOnlyLog.set("google_only", true);
+            data.set(k, googleOnlyLog);
         }
     }
 
