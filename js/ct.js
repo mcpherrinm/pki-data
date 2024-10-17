@@ -82,6 +82,16 @@ function normalizeTemporalInterval(interval) {
     return [start, end]
 }
 
+function merge(data, k, av, gv) {
+    if (gv === av) {
+        // Both the same
+        data.set(k, av);
+    } else {
+        data.set("apple_" + k, av);
+        data.set("google_" + k, gv);
+    }
+}
+
 function mergeLog(apple, google) {
     let merged = new Map();
 
@@ -93,6 +103,7 @@ function mergeLog(apple, google) {
         let gv = google.get(k)
 
         if (k === "description") {
+            merge(merged, "full_description", av, gv)
             av = normalizeDescription(operator, av)
             gv = normalizeDescription(operator, gv)
         }
@@ -106,20 +117,8 @@ function mergeLog(apple, google) {
             let [apple_start, apple_end] = normalizeTemporalInterval(av)
             let [google_start, google_end] = normalizeTemporalInterval(gv)
 
-            if (apple_start === google_start) {
-                merged.set("start", apple_start)
-            } else {
-                merged.set("apple_start", apple_start)
-                merged.set("google_start", google_start)
-            }
-
-            if (apple_end === google_end) {
-                merged.set("end", apple_end)
-            } else {
-                merged.set("apple_end", apple_end)
-                merged.set("google_end", google_end)
-            }
-
+            merge(merged, "start", apple_start, google_start)
+            merge(merged, "end", apple_end, google_end)
             continue;
         }
 
@@ -127,29 +126,11 @@ function mergeLog(apple, google) {
             let [apple_status, apple_timestamp] = normalizeState(av)
             let [google_status, google_timestamp] = normalizeState(gv)
 
-            if (apple_status === google_status) {
-                merged.set("status", apple_status)
-            } else {
-                merged.set("apple_status", apple_status)
-                merged.set("google_status", google_status)
-            }
-
-            if (apple_timestamp === google_timestamp) {
-                merged.set("timestamp", apple_timestamp)
-            } else {
-                merged.set("apple_timestamp", apple_timestamp)
-                merged.set("google_timestamp", google_timestamp)
-            }
+            merge(merged, "status", apple_status, google_status)
+            merge(merged, "timestamp", apple_timestamp, google_timestamp)
             continue;
         }
-
-        if (gv === av) {
-            // Both the same
-            merged.set(k, av);
-        } else {
-            merged.set("apple_" + k, av);
-            merged.set("google_" + k, gv);
-        }
+        merge(merged, k, av, gv)
     }
 
     return merged;
