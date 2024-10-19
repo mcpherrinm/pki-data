@@ -123,10 +123,7 @@ def merge_log_lists(apple_logs, google_logs):
 
 def main():
     a, g = load_files()
-    merged = sorted(
-        list(merge_log_lists(flatten_logs(a), flatten_logs(g))),
-        key=lambda log: (log["operator"], log["name"]),
-    )
+    merged = list(merge_log_lists(flatten_logs(a), flatten_logs(g)))
 
     env = jinja2.Environment(
         loader=jinja2.FileSystemLoader("templates"),

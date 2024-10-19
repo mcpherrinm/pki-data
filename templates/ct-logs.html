@@ -64,13 +64,13 @@
     <thead>
     <tr>
         <th>Operator</th>
-        <th>Description</th>
+        <th>Name</th>
         <th>State</th>
         <th class="data" colspan="4">Data</th>
     </tr>
     </thead>
     <tbody id="logs">
-    {% for log in logs %}
+    {% for log in logs|sort(attribute="operator,name") %}
     <tr class="{% if log['state'] == 'pending' or log['state'] == 'usable' or log['state'] == 'qualified' %}current{% endif %}">
         <td class="operator">{{ log["operator"] }}</td>
         <td class="name">{{ log["name"] }}</td>
@@ -79,11 +79,16 @@
             <input id="{{ log['url'] }}" class="expand" type="checkbox">
             <label for="{{ log['url'] }}" class="expand">expand</label>
             <table>
-                {% for k in log %}
+                {% set keys = ["description", "state", "url", "start", "end", "log_id", "key", "mmd", "state_timestamp"] %}
+                {% for basek in keys %}
+                  {% for k in [basek, "apple_"+basek, "google_"+basek] %}
+                    {% if k in log %}
                 <tr class="{{ k }}">
                     <td class="key">{{ k }}</td>
                     <td class="value" colspan="3">{{ log[k] }}</td>
                 </tr>
+                    {% endif %}
+                  {% endfor %}
                 {% endfor %}
             </table>
         </td>
