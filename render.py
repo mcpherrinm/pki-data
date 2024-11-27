@@ -36,7 +36,7 @@ def flatten_logs(logs):
     """Take the nested structure and flatten into a list of key-value log descriptions"""
     for operator in logs["operators"]:
         op_name = operator["name"]
-        for log in operator["logs"]:
+        for log in operator["logs"] + operator.get("tiled_logs", []):
             log["operator"] = op_name
             log["name"] = log_name(op_name, log["description"])
             state = log.pop("state", None)
@@ -110,8 +110,8 @@ def merge_log(apple, google):
 
 def merge_log_lists(apple_logs, google_logs):
     """Merge the flattened apple & google lists into one shared structure"""
-    apple_map = {log["url"]: log for log in apple_logs}
-    google_map = {log["url"]: log for log in google_logs}
+    apple_map = {log.get("url") or log.get("submission_url"): log for log in apple_logs}
+    google_map = {log.get("url") or log.get("submission_url"): log for log in google_logs}
 
     for log in all_keys(apple_map, google_map):
         yield merge_log(apple_map.get(log, None), google_map.get(log, None))

@@ -76,8 +76,8 @@
         <td class="name">{{ log["name"] }}</td>
         <td class="state">{{ log["state"] }}</td>
         <td class="data" colspan="4">
-            <input id="{{ log['url'] }}" class="expand" type="checkbox">
-            <label for="{{ log['url'] }}" class="expand">expand</label>
+            <input id="log{{ loop.index }}" class="expand" type="checkbox">
+            <label for="log{{ loop.index }}" class="expand">expand</label>
             <table>
                 {%- set keys = ["description", "state", "log_type", "url", "start", "end", "log_id", "key", "mmd", "state_timestamp"] %}
                 {%- for basek in keys %}
