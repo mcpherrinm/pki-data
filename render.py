@@ -102,7 +102,7 @@ def cond_get(m, k):
 
 def merge_log(apple, google):
     """Merge the two entries into a single one"""
-    merge = {}
+    merge = {"apple": apple is not None, "google": google is not None}
     for key in all_keys(apple, google):
         merge_item(merge, key, cond_get(apple, key), cond_get(google, key))
     return merge

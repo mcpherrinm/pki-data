@@ -79,7 +79,7 @@
             <input id="log{{ loop.index }}" class="expand" type="checkbox">
             <label for="log{{ loop.index }}" class="expand">expand</label>
             <table>
-                {%- set keys = ["description", "state", "log_type", "url", "start", "end", "log_id", "key", "mmd", "state_timestamp"] %}
+                {%- set keys = ["description", "state", "log_type", "url", "submission_url", "monitoring_url", "start", "end", "log_id", "key", "mmd", "state_timestamp", "apple", "google"] %}
                 {%- for basek in keys %}
                   {%- for k in [basek, "apple_"+basek, "google_"+basek] %}
                     {%- if k in log %}
