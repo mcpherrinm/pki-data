@@ -5,7 +5,8 @@ This script renders files in data/ into HTML files.
 
 """
 
-import jinja2, json, re
+import jinja2
+import json
 
 
 def load_files():
@@ -19,11 +20,6 @@ def load_files():
 def log_name(operator, description):
     """The log descriptions are a bit verbose. This extracts a concise log name from them"""
     orig = description
-
-    #description = re.sub("(20[0-9][0-9])H([12])", r"\1h\2", description)
-    #description = re.sub("(20[0-9][0-9])A", r"\1a", description)
-    #description = re.sub("(20[0-9][0-9])B", r"\1b", description)
-    #description = description.replace(" log #2", "-2")
 
     for suffix in ["CT Log", "CT log", "Log", "log", " ", "'"]:
         description = description.removesuffix(suffix)
