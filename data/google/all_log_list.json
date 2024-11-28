@@ -2023,7 +2023,8 @@
           "temporal_interval": {
             "start_inclusive": "2024-12-17T00:00:00Z",
             "end_exclusive": "2025-06-17T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Let's Encrypt Twig2025h2b",
@@ -2035,7 +2036,8 @@
           "temporal_interval": {
             "start_inclusive": "2025-06-17T00:00:00Z",
             "end_exclusive": "2025-12-16T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Let's Encrypt Sycamore2025h1b",
@@ -2047,7 +2049,8 @@
           "temporal_interval": {
             "start_inclusive": "2024-12-18T00:00:00Z",
             "end_exclusive": "2025-06-18T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Let's Encrypt Sycamore2025h2b",
@@ -2059,7 +2062,8 @@
           "temporal_interval": {
             "start_inclusive": "2025-06-18T00:00:00Z",
             "end_exclusive": "2025-12-17T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Let's Encrypt Willow2025h1b",
@@ -2071,7 +2075,8 @@
           "temporal_interval": {
             "start_inclusive": "2024-12-19T00:00:00Z",
             "end_exclusive": "2025-06-19T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Let's Encrypt Willow2025h2b",
@@ -2088,7 +2093,8 @@
           "temporal_interval": {
             "start_inclusive": "2025-06-19T00:00:00Z",
             "end_exclusive": "2026-12-18T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Let's Encrypt Willow2025h2c",
@@ -2100,7 +2106,8 @@
           "temporal_interval": {
             "start_inclusive": "2025-06-19T00:00:00Z",
             "end_exclusive": "2025-12-18T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         }
       ]
     },
@@ -2523,7 +2530,8 @@
           "temporal_interval": {
             "start_inclusive": "2024-07-01T00:00:00Z",
             "end_exclusive": "2025-01-01T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Up In The Air Rome2025h1 log using Static CT API",
@@ -2535,7 +2543,8 @@
           "temporal_interval": {
             "start_inclusive": "2025-01-01T00:00:00Z",
             "end_exclusive": "2025-07-01T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         },
         {
           "description": "Up In The Air Rome2025h2 log using Static CT API",
@@ -2547,7 +2556,8 @@
           "temporal_interval": {
             "start_inclusive": "2025-07-01T00:00:00Z",
             "end_exclusive": "2026-01-01T00:00:00Z"
-          }
+          },
+          "log_type": "monitoring_only"
         }
       ]
     },
