@@ -49,8 +49,12 @@
         input#hideNotCurrent:not(:checked) ~ table tbody#logs > tr:not(.current) {
             display:none;
         }
+
+        input#hideNotCurrent ~ label::before {
+            content: "hide ";
+        }
         input#hideNotCurrent:not(:checked) ~ label::before {
-            content: "un";
+            content: "show ";
         }
     </style>
 </head>
@@ -58,7 +62,8 @@
 <h1>CT Logs</h1>
 
 <input type="checkbox" id="hideNotCurrent">
-<label for="hideNotCurrent">hide not-current logs</label>
+<!-- CSS adds a "show" or "hide" ::before this label -->
+<label for="hideNotCurrent">not-current logs</label>
 
 <table>
     <thead>
