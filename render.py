@@ -165,6 +165,7 @@ def main():
 
     with open("ct-logs.html", "w") as f:
         f.write(template.render(logs=merged))
+        f.write("\n")
 
 
 if __name__ == "__main__":
