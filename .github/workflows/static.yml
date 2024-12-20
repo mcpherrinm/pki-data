@@ -37,10 +37,6 @@ jobs:
         uses: actions/checkout@v4
       - name: Fetch Google CT Log Schema
         run: curl -sSL 'https://www.gstatic.com/ct/log_list/v3/log_list_schema.json' | jq . > data/google/log_list_schema.json
-      - name: Fetch Google CT Log List
-        run: curl -sSL 'https://www.gstatic.com/ct/log_list/v3/all_logs_list.json' | jq 'del(.version) | del(.log_list_timestamp)' > data/google/all_log_list.json
-      - name: Fetch Apple CT Log List
-        run: curl -sSL 'https://valid.apple.com/ct/log_list/current_log_list.json' | jq . > data/apple/current_log_list.json
       - name: Fetch Apple CT Log Schema
         run: curl -sSL 'https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v4.json' | jq . > data/apple/log_list_schema_v4.json
       - name: Generate
