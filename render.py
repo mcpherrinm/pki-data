@@ -4,16 +4,52 @@
 This script renders files in data/ into HTML files.
 
 """
-
 import jinja2
 import json
+from urllib import request
 
 
-def load_files():
-    with open("data/apple/current_log_list.json") as alf:
+
+def load_log_lists(fetch):
+    """Load the Google and Apple log lists. If fetch is true,
+    try to fetch them from the network.
+    """
+
+    apple_log_file = "data/apple/current_log_list.json"
+    apple_log_url = "https://valid.apple.com/ct/log_list/current_log_list.json"
+    google_log_file = "data/google/all_log_list.json"
+    google_log_url = "https://www.gstatic.com/ct/log_list/v3/all_logs_list.json"
+
+    if fetch:
+        resp = request.urlopen(apple_log_url)
+        if resp.status != 200:
+            raise Exception("didn't get a 200")
+        apple_log_data = json.load(resp)
+
+        with open(apple_log_file, 'w') as f:
+            json.dump(apple_log_data, f, indent=2)
+            f.write("\n")
+
+        resp = request.urlopen(google_log_url)
+        if resp.status != 200:
+            raise Exception("didn't get a 200")
+        google_log_data = json.load(resp)
+
+        # These change daily, leading to extra churn:
+        del google_log_data["version"]
+        del google_log_data["log_list_timestamp"]
+
+        with open(google_log_file, 'w') as f:
+            json.dump(google_log_data, f, indent=2)
+            f.write("\n")
+
+    # Always re-read:
+    with open(apple_log_file) as alf:
         apple_logs = json.load(alf)
-    with open("data/google/all_log_list.json") as glf:
+    with open(google_log_file) as glf:
         google_logs = json.load(glf)
+
+
     return apple_logs, google_logs
 
 
@@ -118,7 +154,7 @@ def merge_log_lists(apple_logs, google_logs):
 
 
 def main():
-    a, g = load_files()
+    a, g = load_log_lists(fetch=True)
     merged = list(merge_log_lists(flatten_logs(a), flatten_logs(g)))
 
     env = jinja2.Environment(
@@ -127,7 +163,9 @@ def main():
     )
     template = env.get_template("ct-logs.html")
 
-    print(template.render(logs=merged))
+    with open("ct-logs.html", "w") as f:
+        f.write(template.render(logs=merged))
+        f.write("\n")
 
 
 if __name__ == "__main__":
