@@ -4,10 +4,13 @@
 This script renders files in data/ into HTML files.
 
 """
+from base64 import b64decode, b64encode
+from datetime import datetime
+from urllib import request
+import hashlib
 import jinja2
 import json
-from urllib import request
-
+import os
 
 
 def load_log_lists(fetch):
@@ -152,10 +155,66 @@ def merge_log_lists(apple_logs, google_logs):
     for log in all_keys(apple_map, google_map):
         yield merge_log(apple_map.get(log, None), google_map.get(log, None))
 
+def fetch_accepted_roots(log_list):
+    """Fetch and store all the accepted roots from each log"""
+    for log in log_list:
+        end = log.get("end")
+        if end:
+            if datetime.strptime(end, "%Y-%m-%dT%H:%M:%SZ") < datetime.now():
+                continue
+        state = log.get("state")
+        if state is None or state == "rejected":
+            # TODO: I want roots from test logs too, which don't have a state
+            continue
+
+        url = log.get("url") or log.get("submission_url")
+
+        try:
+            resp = request.urlopen(url + "ct/v1/get-roots", timeout=5)
+        except Exception as e:
+            print(f"failed to fetch {url}: {e}")
+            continue
+        if resp.status != 200:
+            print(f"error on {url}: {resp.status}")
+            continue
+
+        try:
+            roots = json.loads(resp.read())
+        except Exception as e:
+            print(f"failed to read {url}: {e}")
+            continue
+        accepted_roots = []
+        for root in roots["certificates"]:
+            der = b64decode(root)
+            accepted_roots.append(write_root(der))
+        if url.startswith("https://"):
+            url = url[len("https://"):]
+        logdir = f"data/log/{url}"
+        os.makedirs(logdir,exist_ok=True)
+        with open(f"{logdir}/roots.json", "w") as f:
+            json.dump({"fingerprints": sorted(accepted_roots)}, f, indent=2)
+
+def write_root(der):
+    """Write out a root certificate into data/roots. Returns fingerprint."""
+
+    fingerprint = hashlib.sha256(der).hexdigest()
+
+    filename = f"data/roots/{fingerprint}.crt"
+    with open(filename, "wb") as f:
+        f.write(b"-----BEGIN CERTIFICATE-----\n")
+        b = b64encode(der)
+        for i in range(0, len(b), 64):
+            f.write(b[i:i+64])
+            f.write(b"\n")
+        f.write(b"-----END CERTIFICATE-----\n")
+
+    return fingerprint
 
 def main():
-    a, g = load_log_lists(fetch=True)
+    a, g = load_log_lists(fetch=False)
     merged = list(merge_log_lists(flatten_logs(a), flatten_logs(g)))
+
+    fetch_accepted_roots(merged)
 
     env = jinja2.Environment(
         loader=jinja2.FileSystemLoader("templates"),
