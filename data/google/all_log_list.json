@@ -78,8 +78,8 @@
           "url": "https://ct.googleapis.com/logs/us1/argon2024/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-01T18:54:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -222,8 +222,8 @@
           "url": "https://ct.googleapis.com/logs/eu1/xenon2024/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-01T18:54:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -680,8 +680,8 @@
           "url": "https://ct.cloudflare.com/logs/nimbus2024/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-30T17:00:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -873,8 +873,8 @@
           "url": "https://yeti2024.ct.digicert.com/log/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-01T18:54:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -969,8 +969,8 @@
           "url": "https://nessie2024.ct.digicert.com/log/",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2023-05-30T00:00:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -1017,8 +1017,8 @@
           "url": "https://wyvern.ct.digicert.com/2024h2/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2024-08-29T03:09:43Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -1113,8 +1113,8 @@
           "url": "https://sphinx.ct.digicert.com/2024h2/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2024-08-29T03:09:43Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -1531,8 +1531,8 @@
           "url": "https://sabre2024h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2023-11-26T12:00:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -1623,8 +1623,8 @@
           "url": "https://mammoth2024h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2023-11-26T12:00:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -1831,8 +1831,8 @@
           "url": "https://oak.ct.letsencrypt.org/2024h2/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-30T17:00:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -2079,24 +2079,6 @@
           "log_type": "monitoring_only"
         },
         {
-          "description": "Let's Encrypt Willow2025h2b",
-          "log_id": "5e8hdnsVqhuSh8Bn9rml8aUjEHJ9u4on/u6dHIdJ27g=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExOxwfLJ0aPb/4ykj0Zv476xGyhs8jCqisDWLnDigV9GAz3tmPvDBT5UwpIlVwWrIF6vjGE1Ics1hDwCsyHZoIg==",
-          "submission_url": "https://willow.ct.letsencrypt.org/2025h2b/",
-          "monitoring_url": "https://willow.ct.letsencrypt.org/2025h2b/",
-          "mmd": 86400,
-          "state": {
-            "rejected": {
-              "timestamp": "2024-10-29T22:18:20Z"
-            }
-          },
-          "temporal_interval": {
-            "start_inclusive": "2025-06-19T00:00:00Z",
-            "end_exclusive": "2026-12-18T00:00:00Z"
-          },
-          "log_type": "monitoring_only"
-        },
-        {
           "description": "Let's Encrypt Willow2025h2c",
           "log_id": "kqECxXwi2rGMzCrnH9TMWcBdJR2hbHPiKBvT8LBImIc=",
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaUvzqBm/C9pNUsVI1jqpms5OkW3Kk+Eb3/veW6P3ogOItkqqEvkZfU7zBbsvm1j1Ep003iNUGFOrilPl5TpCRg==",
@@ -2220,8 +2202,8 @@
           "url": "https://ct2024.trustasia.com/log2024/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2023-02-03T08:00:00Z"
+            "rejected": {
+              "timestamp": "2025-02-01T08:53:20Z"
             }
           },
           "temporal_interval": {
@@ -2508,7 +2490,7 @@
     {
       "name": "Up In The Air Consulting",
       "email": [
-        "filippo@cloudflare.com"
+        "hi@filippo.io"
       ],
       "logs": [
         {
