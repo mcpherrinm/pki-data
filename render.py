@@ -211,7 +211,7 @@ def write_root(der):
     return fingerprint
 
 def main():
-    a, g = load_log_lists(fetch=False)
+    a, g = load_log_lists(fetch=True)
     merged = list(merge_log_lists(flatten_logs(a), flatten_logs(g)))
 
     fetch_accepted_roots(merged)
