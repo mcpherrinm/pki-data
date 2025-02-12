@@ -2501,47 +2501,7 @@
           "mmd": 86400
         }
       ],
-      "tiled_logs": [
-        {
-          "description": "Up In The Air Rome2024h2 log using Static CT API",
-          "log_id": "/RySG7GQgPWKaB4qwcUH/rlyaR0Z81ZsKnqsfh+9574=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8LC3W9CexoHBs5M2ckscoufU6kJNEETzqpkCCwCH2OkILhmSlFh/EL6cg8gTS57ILa+KEfVVd9c0y4WWpLRRpg==",
-          "submission_url": "https://rome.ct.filippo.io/2024h2/",
-          "monitoring_url": "https://rome2024h2.fly.storage.tigris.dev/",
-          "mmd": 86400,
-          "temporal_interval": {
-            "start_inclusive": "2024-07-01T00:00:00Z",
-            "end_exclusive": "2025-01-01T00:00:00Z"
-          },
-          "log_type": "monitoring_only"
-        },
-        {
-          "description": "Up In The Air Rome2025h1 log using Static CT API",
-          "log_id": "CcqE9Qr4S0I/k8n/aw7Zb50vFLK8N6VTDklIYnKaIrU=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE73Q+k6l4jEssAXpg5xfyxQMYzt/4rwPxY1PnOnPQgDYAmwXQSqSFg0dYg6cPLo5FwgJBwsxkIhDX9m5/e8pRXw==",
-          "submission_url": "https://rome.ct.filippo.io/2025h1/",
-          "monitoring_url": "https://rome2025h1.fly.storage.tigris.dev/",
-          "mmd": 86400,
-          "temporal_interval": {
-            "start_inclusive": "2025-01-01T00:00:00Z",
-            "end_exclusive": "2025-07-01T00:00:00Z"
-          },
-          "log_type": "monitoring_only"
-        },
-        {
-          "description": "Up In The Air Rome2025h2 log using Static CT API",
-          "log_id": "/gPlcjs96uJwbyD9J6XweM1hKgw5HI7W9mQBaPN3e1U=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMMdtuOCFEjeegwdxRzHKem927Lm61wnKVgiyHDvAnZdl2qGzdivV0ZK993x6O8eYFwK0ZAGjFpHXLKj9kUzU2Q==",
-          "submission_url": "https://rome.ct.filippo.io/2025h2/",
-          "monitoring_url": "https://rome2025h2.fly.storage.tigris.dev/",
-          "mmd": 86400,
-          "temporal_interval": {
-            "start_inclusive": "2025-07-01T00:00:00Z",
-            "end_exclusive": "2026-01-01T00:00:00Z"
-          },
-          "log_type": "monitoring_only"
-        }
-      ]
+      "tiled_logs": []
     },
     {
       "name": "Qihoo 360",
