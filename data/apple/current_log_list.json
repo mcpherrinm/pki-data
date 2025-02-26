@@ -158,9 +158,9 @@
           "log_id": "2ra/az+1tiKfm8K7XGvocJFxbLtRhIU0vaQ9MEjX+6s=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-13T00:00:00Z",
-              "version": "179"
+            "rejected": {
+              "timestamp": "2025-02-24T22:25:38Z",
+              "version": "331"
             }
           },
           "temporal_interval": {
@@ -642,9 +642,9 @@
           "log_id": "7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZs=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-13T00:00:00Z",
-              "version": "173"
+            "rejected": {
+              "timestamp": "2025-02-24T22:26:45Z",
+              "version": "332"
             }
           },
           "temporal_interval": {
@@ -659,9 +659,9 @@
           "log_id": "dv+IPwq2+5VRwmHM9Ye6NLSkzbsp3GhCCp/mZ0xaOnQ=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-13T00:00:00Z",
-              "version": "174"
+            "rejected": {
+              "timestamp": "2025-02-24T22:27:08Z",
+              "version": "333"
             }
           },
           "temporal_interval": {
@@ -1148,9 +1148,9 @@
           "log_id": "SLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHM=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-13T00:00:00Z",
-              "version": "175"
+            "rejected": {
+              "timestamp": "2025-02-24T22:27:36Z",
+              "version": "334"
             }
           },
           "temporal_interval": {
@@ -1165,9 +1165,9 @@
           "log_id": "c9meiRtMlnigIH1HneayxhzQUV5xGSqMa4AQesF3crU=",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2023-05-30T00:00:00Z",
-              "version": "195"
+            "rejected": {
+              "timestamp": "2025-02-24T22:27:56Z",
+              "version": "335"
             }
           },
           "temporal_interval": {
@@ -1233,9 +1233,9 @@
           "log_id": "DCrvLEpbmIPU3aOC/lD7UYiz6XMzoexToJ3Jp50NCCA=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2024-11-26T18:09:19Z",
-              "version": "313"
+            "rejected": {
+              "timestamp": "2025-02-24T22:28:15Z",
+              "version": "336"
             }
           },
           "temporal_interval": {
@@ -1335,9 +1335,9 @@
           "log_id": "3Mleb6KZubD9vWymo24dcsQhL90eD0dVOjbWzxrRHY0=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2024-11-26T18:11:12Z",
-              "version": "318"
+            "rejected": {
+              "timestamp": "2025-02-24T22:28:30Z",
+              "version": "337"
             }
           },
           "temporal_interval": {
@@ -1475,9 +1475,9 @@
           "log_id": "3+FW66oFr7WcD4ZxjajAMk6uVtlup/WlagHRwTu+Ulw=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2023-11-13T19:44:24Z",
-              "version": "234"
+            "rejected": {
+              "timestamp": "2025-02-24T22:30:49Z",
+              "version": "338"
             }
           },
           "temporal_interval": {
@@ -1543,9 +1543,9 @@
           "log_id": "GZgQcQnw1lIuMIDSnj9ku4NuKMz5D1KO7t/OSj8WtMo=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2023-11-13T19:45:27Z",
-              "version": "238"
+            "rejected": {
+              "timestamp": "2025-02-24T22:31:21Z",
+              "version": "339"
             }
           },
           "temporal_interval": {
@@ -1789,9 +1789,9 @@
           "log_id": "PxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-13T00:00:00Z",
-              "version": "181"
+            "rejected": {
+              "timestamp": "2025-02-24T22:31:45Z",
+              "version": "340"
             }
           },
           "temporal_interval": {
@@ -1950,9 +1950,9 @@
           "log_id": "h0+1DcAp2ZMd5XPp8omejkUzs5LTiwpGJXS/D+6y/B4=",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2023-11-13T19:47:16Z",
-              "version": "243"
+            "rejected": {
+              "timestamp": "2025-02-24T22:32:11Z",
+              "version": "341"
             }
           },
           "temporal_interval": {
@@ -2033,5 +2033,5 @@
       "name": "TrustAsia"
     }
   ],
-  "version": "330"
+  "version": "341"
 }
