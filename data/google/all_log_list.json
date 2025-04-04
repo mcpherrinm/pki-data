@@ -985,8 +985,8 @@
           "url": "https://nessie2025.ct.digicert.com/log/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-01T18:54:00Z"
+            "retired": {
+              "timestamp": "2025-04-15T23:00:00Z"
             }
           },
           "temporal_interval": {
