@@ -75,7 +75,7 @@ def flatten_logs(logs):
     """Take the nested structure and flatten into a list of key-value log descriptions"""
     for operator in logs["operators"]:
         op_name = operator["name"]
-        for log in operator["logs"] + operator.get("tiled_logs", []):
+        for log in operator.get("logs", []) + operator.get("tiled_logs", []):
             log["operator"] = op_name
             log["name"] = log_name(op_name, log["description"])
             state = log.pop("state", None)
