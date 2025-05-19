@@ -250,8 +250,19 @@
         "type": "object",
         "required": [
           "name",
-          "email",
-          "logs"
+          "email"
+        ],
+        "anyOf": [
+          {
+            "required": [
+              "logs"
+            ]
+          },
+          {
+            "required": [
+              "tiled_logs"
+            ]
+          }
         ],
         "properties": {
           "name": {
