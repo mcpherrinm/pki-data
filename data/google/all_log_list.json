@@ -1735,8 +1735,8 @@
           "url": "https://elephant2025h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-05-13T01:33:20Z"
             }
           },
           "temporal_interval": {
@@ -1751,8 +1751,8 @@
           "url": "https://elephant2026h1.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-05-13T01:33:20Z"
             }
           },
           "temporal_interval": {
@@ -1767,8 +1767,8 @@
           "url": "https://elephant2026h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-05-13T01:33:20Z"
             }
           },
           "temporal_interval": {
@@ -1783,8 +1783,8 @@
           "url": "https://elephant2027h1.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-05-13T01:33:20Z"
             }
           },
           "temporal_interval": {
@@ -1799,8 +1799,8 @@
           "url": "https://elephant2027h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-05-13T01:33:20Z"
             }
           },
           "temporal_interval": {
@@ -2793,6 +2793,65 @@
         }
       ],
       "tiled_logs": []
+    },
+    {
+      "name": "Geomys",
+      "email": [
+        "ct@geomys.org"
+      ],
+      "tiled_logs": [
+        {
+          "description": "Geomys 'Tuscolo2025h2'",
+          "log_id": "750EQi4gtDIQJ1TfUtJRRgJ/hEwH/YZeySLub86fe7w=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEK9d4GGtzbkwwsYpEtvnU9KKgZr67MsGlB7mnF8DW9bHnngHzPzXPbdo7n+FyCwSDYqEHbal1Z0CCVyZD6wQ/ow==",
+          "submission_url": "https://tuscolo2025h2.sunlight.geomys.org/",
+          "monitoring_url": "https://tuscolo2025h2.skylight.geomys.org/",
+          "mmd": 86400,
+          "state": {
+            "pending": {
+              "timestamp": "2025-05-10T01:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2025-07-01T00:00:00Z",
+            "end_exclusive": "2026-01-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "Geomys 'Tuscolo2026h1'",
+          "log_id": "cX6V88I4im2x44RJPTHhWqliCHYtQgDgBQzQZ7WmYeI=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEflxzMg2Ajjg7h1+ZIvQ9LV6yFvdj6uRi9YbvtRnSCgS2SamkH56WcPRaBTRYARPDIr5JwLqgJAVA/NvDxdJXOw==",
+          "submission_url": "https://tuscolo2026h1.sunlight.geomys.org/",
+          "monitoring_url": "https://tuscolo2026h1.skylight.geomys.org/",
+          "mmd": 86400,
+          "state": {
+            "pending": {
+              "timestamp": "2025-05-10T01:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2026-01-01T00:00:00Z",
+            "end_exclusive": "2026-07-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "Geomys 'Tuscolo2026h2'",
+          "log_id": "Rq+GPTs+5Z+ld96oJF02sNntIqIj9GF3QSKUUu6VUF8=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaA6P0i7JTsd9XfzF1/76avRWA3XXI4NStsFO/aFtBp6SY7olDEMiPSFSxGzFQjKA1r9vgG/oFQwurlWMy9FQNw==",
+          "submission_url": "https://tuscolo2026h2.sunlight.geomys.org/",
+          "monitoring_url": "https://tuscolo2026h2.skylight.geomys.org/",
+          "mmd": 86400,
+          "state": {
+            "pending": {
+              "timestamp": "2025-05-10T01:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2026-07-01T00:00:00Z",
+            "end_exclusive": "2027-01-01T00:00:00Z"
+          }
+        }
+      ]
     }
   ]
 }
