@@ -2799,6 +2799,7 @@
       "email": [
         "ct@geomys.org"
       ],
+      "logs": [],
       "tiled_logs": [
         {
           "description": "Geomys 'Tuscolo2025h2'",
@@ -2806,7 +2807,7 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEK9d4GGtzbkwwsYpEtvnU9KKgZr67MsGlB7mnF8DW9bHnngHzPzXPbdo7n+FyCwSDYqEHbal1Z0CCVyZD6wQ/ow==",
           "submission_url": "https://tuscolo2025h2.sunlight.geomys.org/",
           "monitoring_url": "https://tuscolo2025h2.skylight.geomys.org/",
-          "mmd": 86400,
+          "mmd": 60,
           "state": {
             "pending": {
               "timestamp": "2025-05-10T01:00:00Z"
@@ -2823,7 +2824,7 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEflxzMg2Ajjg7h1+ZIvQ9LV6yFvdj6uRi9YbvtRnSCgS2SamkH56WcPRaBTRYARPDIr5JwLqgJAVA/NvDxdJXOw==",
           "submission_url": "https://tuscolo2026h1.sunlight.geomys.org/",
           "monitoring_url": "https://tuscolo2026h1.skylight.geomys.org/",
-          "mmd": 86400,
+          "mmd": 60,
           "state": {
             "pending": {
               "timestamp": "2025-05-10T01:00:00Z"
@@ -2840,7 +2841,7 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaA6P0i7JTsd9XfzF1/76avRWA3XXI4NStsFO/aFtBp6SY7olDEMiPSFSxGzFQjKA1r9vgG/oFQwurlWMy9FQNw==",
           "submission_url": "https://tuscolo2026h2.sunlight.geomys.org/",
           "monitoring_url": "https://tuscolo2026h2.skylight.geomys.org/",
-          "mmd": 86400,
+          "mmd": 60,
           "state": {
             "pending": {
               "timestamp": "2025-05-10T01:00:00Z"
