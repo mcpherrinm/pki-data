@@ -1499,12 +1499,8 @@
           "url": "https://sabre.ct.comodo.com/",
           "mmd": 86400,
           "state": {
-            "readonly": {
-              "timestamp": "2024-05-06T12:53:20Z",
-              "final_tree_head": {
-                "sha256_root_hash": "rBTMeBSKemBB90yJ598PhN+iLHApXbJpHhlCuNcUfgg=",
-                "tree_size": 546099878
-              }
+            "rejected": {
+              "timestamp": "2025-06-09T14:40:00Z"
             }
           }
         },
