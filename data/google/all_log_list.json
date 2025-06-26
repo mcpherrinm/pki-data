@@ -2900,6 +2900,27 @@
           }
         }
       ]
+    },
+    {
+      "name": "Merklemap",
+      "email": [
+        "pierre@merklemap.com"
+      ],
+      "logs": [
+        {
+          "description": "Merklemap 'CompactLog' log",
+          "log_id": "jJykryzVPQzdSO/Z7DjWWmfbvWZcIVoCuvebWUljuG0=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExpNuQFYBjAfWNtbOLCrWW5i66LUhVxgGLruEDS5eSeiRnr/+o5zZAxDoCfxE2giQc/u2bFzHyz8fIJx/IELiZQ==",
+          "url": "https://compact-log.ct.merklemap.com/",
+          "mmd": 86400,
+          "temporal_interval": {
+            "start_inclusive": "2025-01-01T00:00:00Z",
+            "end_exclusive": "2025-12-31T23:59:59Z"
+          },
+          "log_type": "monitoring_only"
+        }
+      ],
+      "tiled_logs": []
     }
   ]
 }
