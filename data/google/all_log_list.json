@@ -2909,8 +2909,8 @@
       "logs": [
         {
           "description": "Merklemap 'CompactLog' log",
-          "log_id": "jJykryzVPQzdSO/Z7DjWWmfbvWZcIVoCuvebWUljuG0=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExpNuQFYBjAfWNtbOLCrWW5i66LUhVxgGLruEDS5eSeiRnr/+o5zZAxDoCfxE2giQc/u2bFzHyz8fIJx/IELiZQ==",
+          "log_id": "ObmHiCgZXzstDRtIFKOujA0B/khiId1pOX1294V0EcM=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHIhkwEqsz5TA26BF+iVnHfxGvseZm5IszXNVU/YBJhqHpLSxaiAlcble4tcq5BwPF0PFocWo/C7DLTXC3GNO4Q==",
           "url": "https://compact-log.ct.merklemap.com/",
           "mmd": 86400,
           "temporal_interval": {
