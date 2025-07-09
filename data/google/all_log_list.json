@@ -2917,7 +2917,7 @@
             "start_inclusive": "2025-01-01T00:00:00Z",
             "end_exclusive": "2025-12-31T23:59:59Z"
           },
-          "log_type": "monitoring_only"
+          "log_type": "test"
         }
       ],
       "tiled_logs": []
