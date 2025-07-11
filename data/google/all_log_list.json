@@ -889,8 +889,8 @@
           "url": "https://yeti2025.ct.digicert.com/log/",
           "mmd": 86400,
           "state": {
-            "usable": {
-              "timestamp": "2022-11-01T18:54:00Z"
+            "retired": {
+              "timestamp": "2025-07-24T00:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1811,8 +1811,8 @@
           "url": "https://tiger2025h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-09T13:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1827,8 +1827,8 @@
           "url": "https://tiger2026h1.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-09T13:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1843,8 +1843,8 @@
           "url": "https://tiger2026h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-09T13:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1859,8 +1859,8 @@
           "url": "https://tiger2027h1.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-09T13:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1875,8 +1875,8 @@
           "url": "https://tiger2027h2.ct.sectigo.com/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-02-26T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-09T13:00:00Z"
             }
           },
           "temporal_interval": {
