@@ -38,7 +38,7 @@ jobs:
       - name: Fetch Google CT Log Schema
         run: curl -sSL 'https://www.gstatic.com/ct/log_list/v3/log_list_schema.json' | jq . > data/google/log_list_schema.json
       - name: Fetch Apple CT Log Schema
-        run: curl -sSL 'https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v4.json' | jq . > data/apple/log_list_schema_v4.json
+        run: curl -sSL 'https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v5.json' | jq . > data/apple/log_list_schema_v5.json
       - name: Generate
         uses: actions/setup-python@v5
         with:
