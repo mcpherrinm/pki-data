@@ -2873,8 +2873,8 @@
           "monitoring_url": "https://tuscolo2027h1.skylight.geomys.org/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-06-02T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-29T21:00:00Z"
             }
           },
           "temporal_interval": {
@@ -2890,8 +2890,8 @@
           "monitoring_url": "https://tuscolo2027h2.skylight.geomys.org/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-06-02T00:00:00Z"
+            "qualified": {
+              "timestamp": "2025-07-29T21:00:00Z"
             }
           },
           "temporal_interval": {
