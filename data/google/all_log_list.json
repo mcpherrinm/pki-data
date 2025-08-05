@@ -603,10 +603,7 @@
     {
       "name": "Cloudflare",
       "email": [
-        "ct-logs@cloudflare.com",
-        "mihir@cloudflare.com",
-        "dkozlov@cloudflare.com",
-        "leland@cloudflare.com"
+        "ct-logs@cloudflare.com"
       ],
       "logs": [
         {
@@ -719,6 +716,22 @@
           "temporal_interval": {
             "start_inclusive": "2026-01-01T00:00:00Z",
             "end_exclusive": "2027-01-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "Cloudflare 'Nimbus2027'",
+          "log_id": "TGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviY=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYjd/jE0EoAhNBbfcNhrTb7F0x10KZK8r2SDjx1GdjJ75hJrHx2OCQ+BXRjXi+czoREN1u0j9cWl8d6OoPMPogQ==",
+          "url": "https://ct.cloudflare.com/logs/nimbus2027/",
+          "mmd": 86400,
+          "state": {
+            "pending": {
+              "timestamp": "2025-07-30T21:30:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2027-01-01T00:00:00Z",
+            "end_exclusive": "2028-01-01T00:00:00Z"
           }
         },
         {
@@ -2921,6 +2934,80 @@
         }
       ],
       "tiled_logs": []
+    },
+    {
+      "name": "IPng Networks",
+      "email": [
+        "ct-ops@ipng.ch"
+      ],
+      "logs": [],
+      "tiled_logs": [
+        {
+          "description": "IPng Networks 'Rennet2025h2'",
+          "log_id": "IPng43glrS2aHdKilIAgicJdQ80udPGVttwMe+uE2ZM=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH+TSNzQhLhxX89oGRHuXLG00ObwEnKlMZ+HHHDIFKvw2eTrKePHwWDh/yDo8A/vA0bfVheIkQtgfwoQbaLl6Ow==",
+          "submission_url": "https://rennet2025h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://rennet2025h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2025-07-01T00:00:00Z",
+            "end_exclusive": "2026-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Rennet2026h1'",
+          "log_id": "IPng7N+kfJEgOWLvg8kCWPeQbZ03SYvh/9hJVBcyCyA=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjjELwgGMea6d7YAOP1h1Q3z5IGFOFV/kmbT0qdRgMbhQCYZdDU/fObbHf7dPEGjlg/XbBCnmHJKJySK85tzC2w==",
+          "submission_url": "https://rennet2026h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://rennet2026h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2026-01-01T00:00:00Z",
+            "end_exclusive": "2026-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Rennet2026h2'",
+          "log_id": "IPngiezr0NlfrYnreI+2QK/E2J+7QNyCETQxnDW/CNo=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDjJrRh/NjSFYybFPOmilmqVHySfQ4a8ctJKYhWDuRLBLNLwy2PXxqVWwQStfjHXv0JofEAC00Xfrbd4aVz/7Bw==",
+          "submission_url": "https://rennet2026h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://rennet2026h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2026-07-01T00:00:00Z",
+            "end_exclusive": "2027-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Rennet2027h1'",
+          "log_id": "IPngmrbD1ZzKxMv9sDFnjmgsvhhIV4z/L8d05K0vULE=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErtwy8ljIL7OS99Fq0QMnXkep69geGFwjlex7/Wrii2cT+SCFl7Nw8JIAZTp24a5+RDrfoETMtUrkELVgmVeCVA==",
+          "submission_url": "https://rennet2027h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://rennet2027h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2027-01-01T00:00:00Z",
+            "end_exclusive": "2027-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Rennet2027h2'",
+          "log_id": "IPngONeE+PfIWiV4c8W5xL8kvQJlq9F3lPXT32yFW6s=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEi6aOJ3BVylIR4qc3UHBMON1VrUUTJSx2RrLUAf8Fo3/KImSvQuEZKrQSanLqsvvox8ExlLK5mPetb8JCS/0TYA==",
+          "submission_url": "https://rennet2027h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://rennet2027h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2027-07-01T00:00:00Z",
+            "end_exclusive": "2028-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        }
+      ]
     }
   ]
 }
