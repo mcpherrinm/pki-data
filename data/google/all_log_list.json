@@ -3140,6 +3140,91 @@
             "end_exclusive": "2028-01-01T00:00:00Z"
           },
           "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Gouda2025h2'",
+          "log_id": "GoudanQ8ze1gH3O9MJcIHbyuxKYTnJKwtUDDE3sg7AU=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpHiP24MNo8pgt5RNoawsvGIwSaVEKNqdzYCUXtMu0MM15t63d26eDUDz+nkQjACuRo4LRJcyia7I0anEdNH9wA==",
+          "submission_url": "https://gouda2025h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://gouda2025h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "state": {
+            "pending": {
+              "timestamp": "2025-08-12T00:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2025-07-01T00:00:00Z",
+            "end_exclusive": "2026-01-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "IPng Networks 'Gouda2026h1'",
+          "log_id": "GoudaUpXmMiZoMqIvfSPwLRWYMzDYA0fcfRp/8fRrKM=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAER6wvqVwhf5isuCtwSfNjTOrqwZg0vZuIMP7xk8fPmJfaFZCte1ptQiqNhRMCtqIgJvDcJyjkGVI8i44vxL877A==",
+          "submission_url": "https://gouda2026h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://gouda2026h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "state": {
+            "pending": {
+              "timestamp": "2025-08-12T00:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2026-01-01T00:00:00Z",
+            "end_exclusive": "2026-07-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "IPng Networks 'Gouda2026h2'",
+          "log_id": "Goudaw/+v4G0eTnG0jEKhtbRAtTwRuIYLJ3jX14mJe8=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjayczmhUMNftWy6VjvYXcTUEpvL8LIAKcYcxrxx5xxQGZEVvhnZeCnXVlsMWhq1h9J55eZfQWM/dqIr6GmoN9Q==",
+          "submission_url": "https://gouda2026h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://gouda2026h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "state": {
+            "pending": {
+              "timestamp": "2025-08-12T00:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2026-07-01T00:00:00Z",
+            "end_exclusive": "2027-01-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "IPng Networks 'Gouda2027h1'",
+          "log_id": "Gouda43XkdHNBUnttgNV1ga2T60w23H+eI8Px8j7xLE=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOh11B2aRT9BiTqo+6kvQ7cSGf819Ait+jGc6AuHlGUXxWCX1YCQ9OFNnr6MUKStyw4sVin5FCvtbke1mctl3gQ==",
+          "submission_url": "https://gouda2027h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://gouda2027h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "state": {
+            "pending": {
+              "timestamp": "2025-08-12T00:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2027-01-01T00:00:00Z",
+            "end_exclusive": "2027-07-01T00:00:00Z"
+          }
+        },
+        {
+          "description": "IPng Networks 'Gouda2027h2'",
+          "log_id": "GoudaVNi2GSSp7niI2BuNOzp4xC6NPuTBXhdKc5XV+s=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPuxPH20sSqUzHGllZceceFvyoSffwBWgX4LKd8wk3A3ayZuwwh2pDuEOsimMxLXFh0IUYz73a9I7kxkUqM+N8w==",
+          "submission_url": "https://gouda2027h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://gouda2027h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "state": {
+            "pending": {
+              "timestamp": "2025-08-12T00:00:00Z"
+            }
+          },
+          "temporal_interval": {
+            "start_inclusive": "2027-07-01T00:00:00Z",
+            "end_exclusive": "2028-01-01T00:00:00Z"
+          }
         }
       ]
     }
