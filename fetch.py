@@ -63,6 +63,7 @@ def convert_ccadb_csv_to_json(csv_data):
 
     # Dictionary to group records by CA Owner
     ca_owners = defaultdict(list)
+    ca_owner_mapping = {}  # Maps lowercase to original case
     all_records = []
 
     try:
@@ -76,10 +77,17 @@ def convert_ccadb_csv_to_json(csv_data):
             }
             all_records.append(clean_row)
 
-            # Group by CA Owner
+            # Group by CA Owner (case-insensitive)
             ca_owner = clean_row.get("CA Owner", "").strip()
             if ca_owner:
-                ca_owners[ca_owner].append(clean_row)
+                ca_owner_lower = ca_owner.lower()
+
+                # Use the first occurrence's case as the canonical form
+                if ca_owner_lower not in ca_owner_mapping:
+                    ca_owner_mapping[ca_owner_lower] = ca_owner
+
+                canonical_ca_owner = ca_owner_mapping[ca_owner_lower]
+                ca_owners[canonical_ca_owner].append(clean_row)
 
         # Create main JSON file with list of all CA owners
         ca_owners_list = []
