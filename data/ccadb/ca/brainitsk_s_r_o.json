@@ -1,0 +1,31 @@
+[
+  {
+    "CA Owner": "brainit.sk, s. r. o.",
+    "Salesforce Record ID": "001TO00000G5PhKYAV",
+    "Certificate Name": "CA Signing Certificate",
+    "Parent Salesforce Record ID": "001TO00000F1pPeYAJ",
+    "Parent Certificate Name": "brainit.sk, s. r. o.",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "62AD51DFC580A9F96B503D24DE4234FD13DBA61EE37A6D85AEF2BD68595A37B4",
+    "Valid From (GMT)": "2020.12.16",
+    "Valid To (GMT)": "2050.12.16",
+    "Subject Key Identifier": "oTzhVKfrI5kUvql67l38VahV8ts=",
+    "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "https://ocsp.nfqes.sk/crl/",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Slovakia"
+  }
+]

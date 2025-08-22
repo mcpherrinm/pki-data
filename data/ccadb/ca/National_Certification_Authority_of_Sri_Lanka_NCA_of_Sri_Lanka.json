@@ -1,0 +1,31 @@
+[
+  {
+    "CA Owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "Salesforce Record ID": "0014o00001mHqJzAAK",
+    "Certificate Name": "National Certification Authority of Sri Lanka - G1",
+    "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
+    "Parent Certificate Name": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "57D705F10BA0EE4E26338EE8E799F202817CEE2DD3FB67459639B632B80763B4",
+    "Valid From (GMT)": "2020.02.14",
+    "Valid To (GMT)": "2030.02.14",
+    "Authority Key Identifier": "liHq03zX0NWUOqIiPK0ckwOZ6S0=",
+    "Subject Key Identifier": "liHq03zX0NWUOqIiPK0ckwOZ6S0=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Sri Lanka"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "CA Owner": "InfoNotary",
+    "Salesforce Record ID": "0018Z00002iKmX3QAK",
+    "Certificate Name": "InfoNotary CSP Root",
+    "Parent Salesforce Record ID": "0018Z00002Y0c5MQAR",
+    "Parent Certificate Name": "InfoNotary",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Removed",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "EA7E312ECE487B4C0AA63CC80AB9FCB33C720573F8945F7761745FC63863D39D",
+    "Valid From (GMT)": "2006.03.06",
+    "Valid To (GMT)": "2026.03.06",
+    "Subject Key Identifier": "3dROZ0M/0+pi6NqJbo47bgu7lZ8=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Bulgaria"
+  }
+]

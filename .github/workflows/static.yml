@@ -35,8 +35,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Fetch CT Log Data
-        run: python3 fetch-logs.py
+      - name: Fetch Data
+        run: python3 fetch.py
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"

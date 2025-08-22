@@ -1,0 +1,5221 @@
+{
+  "total_ca_owners": 189,
+  "total_records": 9573,
+  "ca_owners": [
+    {
+      "ca_owner": "A-Trust",
+      "record_count": 10,
+      "countries": [
+        "Austria"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 10
+        },
+        "chrome": {
+          "Not Included": 10
+        },
+        "microsoft": {
+          "Removed": 4,
+          "Disabled": 4,
+          "Included": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 9,
+          "Removed": 1
+        }
+      },
+      "output_filename": "A-Trust.json"
+    },
+    {
+      "ca_owner": "AC Camerfirma, S.A.",
+      "record_count": 71,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 2,
+          "Blocked": 2,
+          "Not Included": 3,
+          "Not Trusted": 64
+        },
+        "chrome": {
+          "Not Included": 7,
+          "Not Trusted": 64
+        },
+        "microsoft": {
+          "NotBefore": 2,
+          "Included": 4,
+          "Removed": 1,
+          "Not Trusted": 48,
+          "Trusted": 16
+        },
+        "mozilla": {
+          "Removed": 4,
+          "Not Yet Included": 3,
+          "Not Trusted": 64
+        }
+      },
+      "output_filename": "AC_Camerfirma_SA.json"
+    },
+    {
+      "ca_owner": "ACIN - iCloud Solutions, Lda",
+      "record_count": 2,
+      "countries": [
+        "Portugal"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "ACIN_-_iCloud_Solutions_Lda.json"
+    },
+    {
+      "ca_owner": "AOL",
+      "record_count": 2,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Removed": 1
+        },
+        "mozilla": {
+          "Removed": 2
+        }
+      },
+      "output_filename": "AOL.json"
+    },
+    {
+      "ca_owner": "AUTORITE NATIONALE DE CERTIFICATION ELECTRONIQUE",
+      "record_count": 16,
+      "countries": [
+        "Algeria"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 15
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 15
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Not Trusted": 15
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 15
+        }
+      },
+      "output_filename": "AUTORITE_NATIONALE_DE_CERTIFICATION_ELECTRONIQUE.json"
+    },
+    {
+      "ca_owner": "Actalis",
+      "record_count": 48,
+      "countries": [
+        "Italy"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Included": 1,
+          "Not Trusted": 18,
+          "Trusted": 28
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Included": 1,
+          "Not Trusted": 24,
+          "Trusted": 22
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 1,
+          "Not Trusted": 17,
+          "Trusted": 29
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Included": 1,
+          "Not Trusted": 18,
+          "Trusted": 28
+        }
+      },
+      "output_filename": "Actalis.json"
+    },
+    {
+      "ca_owner": "Agence Nationale de Certification Electronique",
+      "record_count": 6,
+      "countries": [
+        "Tunisia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Included": 1,
+          "Not Trusted": 1,
+          "Trusted": 2
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "NotBefore": 1,
+          "Included": 1,
+          "Not Trusted": 1,
+          "Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Included": 1,
+          "Not Trusted": 1,
+          "Trusted": 2
+        }
+      },
+      "output_filename": "Agence_Nationale_de_Certification_Electronique.json"
+    },
+    {
+      "ca_owner": "Agencia Notarial de Certificación (ANCERT)",
+      "record_count": 7,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 7
+        },
+        "chrome": {
+          "Not Included": 7
+        },
+        "microsoft": {
+          "Removed": 2,
+          "Disabled": 3,
+          "Included": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 7
+        }
+      },
+      "output_filename": "Agencia_Notarial_de_Certificación_ANCERT.json"
+    },
+    {
+      "ca_owner": "Amazon Trust Services",
+      "record_count": 67,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Included": 5,
+          "Not Trusted": 12,
+          "Trusted": 47
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Included": 4,
+          "Removed": 1,
+          "Not Trusted": 12,
+          "Trusted": 47
+        },
+        "microsoft": {
+          "Not Included": 3,
+          "Included": 5,
+          "Not Trusted": 12,
+          "Trusted": 47
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Included": 5,
+          "Not Trusted": 12,
+          "Trusted": 47
+        }
+      },
+      "output_filename": "Amazon_Trust_Services.json"
+    },
+    {
+      "ca_owner": "An Post",
+      "record_count": 2,
+      "countries": [
+        "Ireland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Removed": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "An_Post.json"
+    },
+    {
+      "ca_owner": "Apple Inc.",
+      "record_count": 4,
+      "countries": [
+        "US"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4
+        },
+        "chrome": {
+          "Not Included": 4
+        },
+        "microsoft": {
+          "Not Included": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 4
+        }
+      },
+      "output_filename": "Apple_Inc.json"
+    },
+    {
+      "ca_owner": "Aretiico Group, PLC and Aretiico, Inc",
+      "record_count": 1,
+      "countries": [
+        "United Kingdom"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Aretiico_Group_PLC_and_Aretiico_Inc.json"
+    },
+    {
+      "ca_owner": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
+      "record_count": 3,
+      "countries": [
+        "中国"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "Aspire_Digital_Technology_Shenzhen_Co_Ltd.json"
+    },
+    {
+      "ca_owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
+      "record_count": 188,
+      "countries": [
+        "Polska"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 5,
+          "Not Included": 9,
+          "Trusted": 113,
+          "Not Trusted": 61
+        },
+        "chrome": {
+          "Not Included": 10,
+          "Included": 4,
+          "Trusted": 106,
+          "Not Trusted": 68
+        },
+        "microsoft": {
+          "Included": 5,
+          "Not Included": 8,
+          "Removed": 1,
+          "Trusted": 122,
+          "Not Trusted": 52
+        },
+        "mozilla": {
+          "Included": 5,
+          "Not Yet Included": 9,
+          "Trusted": 112,
+          "Not Trusted": 62
+        }
+      },
+      "output_filename": "Asseco_Data_Systems_SA_previously_Unizeto_Certum.json"
+    },
+    {
+      "ca_owner": "Athens Exchange S.A. (Athex)",
+      "record_count": 2,
+      "countries": [
+        "Greece"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Athens_Exchange_SA_Athex.json"
+    },
+    {
+      "ca_owner": "Autoridad de Certificacion Firmaprofesional",
+      "record_count": 39,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 1,
+          "Not Included": 3,
+          "Not Trusted": 27,
+          "Trusted": 8
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Included": 1,
+          "Not Trusted": 30,
+          "Trusted": 5
+        },
+        "microsoft": {
+          "Included": 2,
+          "Removed": 1,
+          "Not Included": 1,
+          "Not Trusted": 26,
+          "Trusted": 9
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 1,
+          "Included": 2,
+          "Not Trusted": 28,
+          "Trusted": 7
+        }
+      },
+      "output_filename": "Autoridad_de_Certificacion_Firmaprofesional.json"
+    },
+    {
+      "ca_owner": "Autoridad de Certificación (ANF AC)",
+      "record_count": 8,
+      "countries": [
+        "España"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 1,
+          "Not Included": 4,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Included": 1,
+          "Not Trusted": 2,
+          "Trusted": 1
+        },
+        "microsoft": {
+          "Not Included": 3,
+          "Disabled": 2,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Included": 1,
+          "Not Trusted": 2,
+          "Trusted": 1
+        }
+      },
+      "output_filename": "Autoridad_de_Certificación_ANF_AC.json"
+    },
+    {
+      "ca_owner": "BEIJING CERTIFICATE AUTHORITY Co., Ltd.",
+      "record_count": 42,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 36
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 36
+        },
+        "microsoft": {
+          "Not Included": 6,
+          "Not Trusted": 36
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Yet Included": 4,
+          "Not Trusted": 20,
+          "Trusted": 16
+        }
+      },
+      "output_filename": "BEIJING_CERTIFICATE_AUTHORITY_Co_Ltd.json"
+    },
+    {
+      "ca_owner": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
+      "record_count": 2,
+      "countries": [
+        "Bangladesh"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Not Included": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Bangladesh_Office_of_the_Controller_of_Certifying_Authorities_CCA.json"
+    },
+    {
+      "ca_owner": "Buypass",
+      "record_count": 23,
+      "countries": [
+        "Norway"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Included": 2,
+          "Not Trusted": 13,
+          "Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Included": 2,
+          "Not Trusted": 14,
+          "Trusted": 4
+        },
+        "microsoft": {
+          "Removed": 2,
+          "Included": 3,
+          "Not Trusted": 13,
+          "Trusted": 5
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Included": 2,
+          "Not Yet Included": 1,
+          "Not Trusted": 14,
+          "Trusted": 4
+        }
+      },
+      "output_filename": "Buypass.json"
+    },
+    {
+      "ca_owner": "Byte Computer S.A.",
+      "record_count": 1,
+      "countries": [
+        "Greece"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Byte_Computer_SA.json"
+    },
+    {
+      "ca_owner": "Carillon Information Security Inc.",
+      "record_count": 2,
+      "countries": [
+        "Canada"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Included": 1,
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Carillon_Information_Security_Inc.json"
+    },
+    {
+      "ca_owner": "CertEurope France",
+      "record_count": 1,
+      "countries": [
+        "France"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "CertEurope_France.json"
+    },
+    {
+      "ca_owner": "Certainly LLC",
+      "record_count": 4,
+      "countries": [
+        "USA"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 2,
+          "Trusted": 2
+        },
+        "chrome": {
+          "Included": 2,
+          "Trusted": 2
+        },
+        "microsoft": {
+          "Not Included": 2,
+          "Trusted": 2
+        },
+        "mozilla": {
+          "Included": 2,
+          "Trusted": 2
+        }
+      },
+      "output_filename": "Certainly_LLC.json"
+    },
+    {
+      "ca_owner": "Certicámara",
+      "record_count": 5,
+      "countries": [
+        "Colombia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "Included": 1,
+          "Disabled": 1,
+          "Removed": 2,
+          "Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Removed": 1,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "Certicámara.json"
+    },
+    {
+      "ca_owner": "Certigna",
+      "record_count": 64,
+      "countries": [
+        "France"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 1,
+          "Not Included": 5,
+          "Not Trusted": 44,
+          "Trusted": 14
+        },
+        "chrome": {
+          "Included": 2,
+          "Not Included": 4,
+          "Not Trusted": 43,
+          "Trusted": 15
+        },
+        "microsoft": {
+          "Included": 2,
+          "Not Included": 4,
+          "Not Trusted": 43,
+          "Trusted": 15
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Yet Included": 4,
+          "Not Trusted": 43,
+          "Trusted": 15
+        }
+      },
+      "output_filename": "Certigna.json"
+    },
+    {
+      "ca_owner": "Certiphire, Inc.",
+      "record_count": 8,
+      "countries": [
+        "United States"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Not Included": 6,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "Certiphire_Inc.json"
+    },
+    {
+      "ca_owner": "Certipost s.a./n.v.",
+      "record_count": 36,
+      "countries": [
+        "Belgium"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 8,
+          "Not Trusted": 28
+        },
+        "chrome": {
+          "Not Included": 8,
+          "Not Trusted": 28
+        },
+        "microsoft": {
+          "Not Included": 3,
+          "Disabled": 3,
+          "Removed": 2,
+          "Not Trusted": 28
+        },
+        "mozilla": {
+          "Not Yet Included": 8,
+          "Not Trusted": 28
+        }
+      },
+      "output_filename": "Certipost_sanv.json"
+    },
+    {
+      "ca_owner": "Certisign Certificadora Digital",
+      "record_count": 8,
+      "countries": [
+        "Brazil"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Removed": 4,
+          "Not Included": 1,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 5,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Certisign_Certificadora_Digital.json"
+    },
+    {
+      "ca_owner": "China Financial Certification Authority (CFCA)",
+      "record_count": 13,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 1,
+          "Not Included": 6,
+          "Trusted": 3,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Included": 1,
+          "Not Included": 6,
+          "Trusted": 3,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Included": 2,
+          "Not Included": 4,
+          "Disabled": 1,
+          "Trusted": 3,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Included": 1,
+          "Not Yet Included": 6,
+          "Trusted": 3,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "China_Financial_Certification_Authority_CFCA.json"
+    },
+    {
+      "ca_owner": "China Internet Network Information Center (CNNIC)",
+      "record_count": 9,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Removed": 1,
+          "Not Trusted": 7
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 7
+        },
+        "microsoft": {
+          "Disabled": 2,
+          "Not Trusted": 7
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Trusted": 7
+        }
+      },
+      "output_filename": "China_Internet_Network_Information_Center_CNNIC.json"
+    },
+    {
+      "ca_owner": "Chunghwa Telecom",
+      "record_count": 30,
+      "countries": [
+        "Taiwan, Republic of China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Included": 2,
+          "Not Trusted": 9,
+          "Trusted": 16
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Included": 2,
+          "Not Trusted": 12,
+          "Trusted": 13
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Included": 4,
+          "Not Trusted": 6,
+          "Trusted": 19
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Included": 2,
+          "Not Trusted": 11,
+          "Trusted": 14
+        }
+      },
+      "output_filename": "Chunghwa_Telecom.json"
+    },
+    {
+      "ca_owner": "Cisco",
+      "record_count": 3,
+      "countries": [
+        "US"
+      ],
+      "status_counts": {
+        "apple": {
+          "Blocked": 1,
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "NotBefore": 2,
+          "Not Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "Cisco.json"
+    },
+    {
+      "ca_owner": "Collegio de Registradores Mercantile (Spanish Property & Commerce Registry)",
+      "record_count": 2,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Removed": 1,
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Collegio_de_Registradores_Mercantile_Spanish_Property__Commerce_Registry.json"
+    },
+    {
+      "ca_owner": "ComSign",
+      "record_count": 21,
+      "countries": [
+        "Israel"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Removed": 2,
+          "Blocked": 1,
+          "Not Trusted": 17
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 17
+        },
+        "microsoft": {
+          "Disabled": 3,
+          "Included": 1,
+          "Not Trusted": 11,
+          "Trusted": 6
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Removed": 2,
+          "Not Trusted": 17
+        }
+      },
+      "output_filename": "ComSign.json"
+    },
+    {
+      "ca_owner": "CommScope",
+      "record_count": 10,
+      "countries": [
+        "USA"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Not Trusted": 6
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 6
+        },
+        "microsoft": {
+          "Not Included": 4,
+          "Not Trusted": 6
+        },
+        "mozilla": {
+          "Included": 4,
+          "Trusted": 6
+        }
+      },
+      "output_filename": "CommScope.json"
+    },
+    {
+      "ca_owner": "Consejo General de la Abogacía Española",
+      "record_count": 5,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Included": 1,
+          "Disabled": 1,
+          "Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Consejo_General_de_la_Abogacía_Española.json"
+    },
+    {
+      "ca_owner": "Consorci Administració Oberta de Catalunya (Consorci AOC, CATCert)",
+      "record_count": 20,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 19
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 19
+        },
+        "microsoft": {
+          "Included": 1,
+          "Trusted": 6,
+          "Not Trusted": 13
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Trusted": 19
+        }
+      },
+      "output_filename": "Consorci_Administració_Oberta_de_Catalunya_Consorci_AOC_CATCert.json"
+    },
+    {
+      "ca_owner": "Cybertrust Japan / JCSI",
+      "record_count": 52,
+      "countries": [
+        "Japan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 12,
+          "Not Trusted": 40
+        },
+        "chrome": {
+          "Not Included": 11,
+          "Removed": 1,
+          "Not Trusted": 40
+        },
+        "microsoft": {
+          "Included": 6,
+          "Not Included": 3,
+          "Removed": 3,
+          "Not Trusted": 32,
+          "Trusted": 8
+        },
+        "mozilla": {
+          "Not Yet Included": 8,
+          "Included": 3,
+          "Removed": 1,
+          "Not Trusted": 35,
+          "Trusted": 5
+        }
+      },
+      "output_filename": "Cybertrust_Japan__JCSI.json"
+    },
+    {
+      "ca_owner": "D-TRUST",
+      "record_count": 38,
+      "countries": [
+        "Germany"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Included": 3,
+          "Trusted": 15,
+          "Not Trusted": 14
+        },
+        "chrome": {
+          "Included": 4,
+          "Not Included": 5,
+          "Not Trusted": 22,
+          "Trusted": 7
+        },
+        "microsoft": {
+          "Included": 7,
+          "Disabled": 2,
+          "Trusted": 18,
+          "Not Trusted": 11
+        },
+        "mozilla": {
+          "Included": 7,
+          "Not Yet Included": 2,
+          "Trusted": 18,
+          "Not Trusted": 11
+        }
+      },
+      "output_filename": "D-TRUST.json"
+    },
+    {
+      "ca_owner": "D-Trust",
+      "record_count": 24,
+      "countries": [
+        "Germany"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Trusted": 16,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 17,
+          "Trusted": 4
+        },
+        "microsoft": {
+          "Included": 2,
+          "Removed": 1,
+          "Trusted": 21
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Yet Included": 1,
+          "Trusted": 21
+        }
+      },
+      "output_filename": "D-Trust.json"
+    },
+    {
+      "ca_owner": "DATEV eG",
+      "record_count": 9,
+      "countries": [
+        "Germany"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 9
+        },
+        "chrome": {
+          "Not Included": 9
+        },
+        "microsoft": {
+          "Disabled": 9
+        },
+        "mozilla": {
+          "Not Yet Included": 9
+        }
+      },
+      "output_filename": "DATEV_eG.json"
+    },
+    {
+      "ca_owner": "DarkMatter LLC",
+      "record_count": 24,
+      "countries": [
+        "UAE"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 10,
+          "Not Trusted": 14
+        },
+        "chrome": {
+          "Not Included": 10,
+          "Not Trusted": 14
+        },
+        "microsoft": {
+          "Not Included": 10,
+          "Not Trusted": 14
+        },
+        "mozilla": {
+          "Not Yet Included": 10,
+          "Not Trusted": 14
+        }
+      },
+      "output_filename": "DarkMatter_LLC.json"
+    },
+    {
+      "ca_owner": "Department of Defence Australia",
+      "record_count": 2,
+      "countries": [
+        "Australia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Department_of_Defence_Australia.json"
+    },
+    {
+      "ca_owner": "Deutsche Telekom Security GmbH",
+      "record_count": 827,
+      "countries": [
+        "Germany"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Included": 2,
+          "Not Trusted": 794,
+          "Trusted": 26
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Included": 2,
+          "Not Trusted": 800,
+          "Trusted": 20
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 6,
+          "Not Trusted": 776,
+          "Trusted": 44
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Included": 6,
+          "Not Trusted": 776,
+          "Trusted": 44
+        }
+      },
+      "output_filename": "Deutsche_Telekom_Security_GmbH.json"
+    },
+    {
+      "ca_owner": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
+      "record_count": 3,
+      "countries": [
+        "Germany"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "Disabled": 3
+        },
+        "mozilla": {
+          "Removed": 3
+        }
+      },
+      "output_filename": "Deutscher_Sparkassen_Verlag_GmbH_S-TRUST_DSV-Gruppe.json"
+    },
+    {
+      "ca_owner": "DigiCert",
+      "record_count": 2346,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 10,
+          "Not Included": 66,
+          "Blocked": 3,
+          "Removed": 17,
+          "Not Trusted": 1770,
+          "Trusted": 480
+        },
+        "chrome": {
+          "Removed": 1,
+          "Not Included": 85,
+          "Included": 10,
+          "Not Trusted": 1937,
+          "Trusted": 313
+        },
+        "microsoft": {
+          "Included": 26,
+          "Removed": 39,
+          "Disabled": 26,
+          "Not Included": 2,
+          "NotBefore": 3,
+          "Trusted": 565,
+          "Not Trusted": 1685
+        },
+        "mozilla": {
+          "Removed": 39,
+          "Not Yet Included": 45,
+          "Included": 12,
+          "Not Trusted": 1801,
+          "Trusted": 449
+        }
+      },
+      "output_filename": "DigiCert.json"
+    },
+    {
+      "ca_owner": "DigiNotar",
+      "record_count": 4,
+      "countries": [
+        "NL"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 3,
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 4
+        },
+        "microsoft": {
+          "Removed": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 4
+        }
+      },
+      "output_filename": "DigiNotar.json"
+    },
+    {
+      "ca_owner": "Digidentity B.V.",
+      "record_count": 6,
+      "countries": [
+        "Netherlands"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "NotBefore": 1,
+          "Not Trusted": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "Digidentity_BV.json"
+    },
+    {
+      "ca_owner": "DigitalSign - Certificadora Digital, S.A.",
+      "record_count": 10,
+      "countries": [
+        "Portugal"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 8
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 8
+        },
+        "microsoft": {
+          "Not Included": 2,
+          "Not Trusted": 8
+        },
+        "mozilla": {
+          "Included": 2,
+          "Trusted": 4,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "DigitalSign_-_Certificadora_Digital_SA.json"
+    },
+    {
+      "ca_owner": "Disig, a.s.",
+      "record_count": 10,
+      "countries": [
+        "Slovakia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Removed": 1,
+          "Included": 1,
+          "Not Trusted": 4,
+          "Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Included": 1,
+          "Not Trusted": 5,
+          "Trusted": 2
+        },
+        "microsoft": {
+          "Disabled": 2,
+          "Included": 1,
+          "Not Trusted": 4,
+          "Trusted": 3
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Included": 1,
+          "Not Trusted": 4,
+          "Trusted": 3
+        }
+      },
+      "output_filename": "Disig_as.json"
+    },
+    {
+      "ca_owner": "Docaposte Certinomis SAS",
+      "record_count": 26,
+      "countries": [
+        "France"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 2,
+          "Not Trusted": 24
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 24
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 1,
+          "Not Trusted": 17,
+          "Trusted": 7
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Trusted": 24
+        }
+      },
+      "output_filename": "Docaposte_Certinomis_SAS.json"
+    },
+    {
+      "ca_owner": "DocuSign (OpenTrust/Keynectis)",
+      "record_count": 61,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 5,
+          "Not Included": 5,
+          "Not Trusted": 51
+        },
+        "chrome": {
+          "Not Included": 10,
+          "Not Trusted": 51
+        },
+        "microsoft": {
+          "Disabled": 9,
+          "Removed": 1,
+          "Not Trusted": 51
+        },
+        "mozilla": {
+          "Removed": 6,
+          "Not Yet Included": 4,
+          "Not Trusted": 51
+        }
+      },
+      "output_filename": "DocuSign_OpenTrustKeynectis.json"
+    },
+    {
+      "ca_owner": "Dubai Electronic Security Center (DESC)",
+      "record_count": 11,
+      "countries": [
+        "UAE"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 10
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 10
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Not Trusted": 10
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 10
+        }
+      },
+      "output_filename": "Dubai_Electronic_Security_Center_DESC.json"
+    },
+    {
+      "ca_owner": "E-CERTCHILE",
+      "record_count": 1,
+      "countries": [
+        "Chile"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "E-CERTCHILE.json"
+    },
+    {
+      "ca_owner": "E-Tugra",
+      "record_count": 13,
+      "countries": [
+        "Turkey"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 11
+        },
+        "chrome": {
+          "Removed": 2,
+          "Not Trusted": 11
+        },
+        "microsoft": {
+          "Included": 2,
+          "Trusted": 6,
+          "Not Trusted": 5
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Trusted": 11
+        }
+      },
+      "output_filename": "E-Tugra.json"
+    },
+    {
+      "ca_owner": "EDICOM",
+      "record_count": 7,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 1,
+          "Not Trusted": 4,
+          "Trusted": 1
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 1,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "EDICOM.json"
+    },
+    {
+      "ca_owner": "Echoworx",
+      "record_count": 1,
+      "countries": [
+        "Canada"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Echoworx.json"
+    },
+    {
+      "ca_owner": "Electronic Certification Accreditation Council (ECAC)",
+      "record_count": 21,
+      "countries": [
+        "Pakistan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Not Trusted": 16
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Not Trusted": 16
+        },
+        "microsoft": {
+          "Not Included": 5,
+          "Not Trusted": 16
+        },
+        "mozilla": {
+          "Not Yet Included": 5,
+          "Not Trusted": 16
+        }
+      },
+      "output_filename": "Electronic_Certification_Accreditation_Council_ECAC.json"
+    },
+    {
+      "ca_owner": "Entrust",
+      "record_count": 180,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 11,
+          "Included": 10,
+          "Not Trusted": 118,
+          "Trusted": 41
+        },
+        "chrome": {
+          "Not Included": 12,
+          "Included": 5,
+          "Removed": 4,
+          "Not Trusted": 134,
+          "Trusted": 25
+        },
+        "microsoft": {
+          "Included": 17,
+          "Not Included": 3,
+          "Removed": 1,
+          "Trusted": 60,
+          "Not Trusted": 99
+        },
+        "mozilla": {
+          "Not Yet Included": 11,
+          "Included": 9,
+          "Removed": 1,
+          "Not Trusted": 120,
+          "Trusted": 39
+        }
+      },
+      "output_filename": "Entrust.json"
+    },
+    {
+      "ca_owner": "European Agency of Digital Trust",
+      "record_count": 1,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "European_Agency_of_Digital_Trust.json"
+    },
+    {
+      "ca_owner": "Eviden",
+      "record_count": 64,
+      "countries": [
+        "Germany"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 5,
+          "Trusted": 33,
+          "Not Trusted": 26
+        },
+        "chrome": {
+          "Included": 3,
+          "Not Included": 2,
+          "Not Trusted": 55,
+          "Trusted": 4
+        },
+        "microsoft": {
+          "Included": 5,
+          "Trusted": 35,
+          "Not Trusted": 24
+        },
+        "mozilla": {
+          "Included": 5,
+          "Trusted": 33,
+          "Not Trusted": 26
+        }
+      },
+      "output_filename": "Eviden.json"
+    },
+    {
+      "ca_owner": "Evrotrust Technologies AD",
+      "record_count": 1,
+      "countries": [
+        "Bulgaria"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Evrotrust_Technologies_AD.json"
+    },
+    {
+      "ca_owner": "Example CA",
+      "record_count": 11,
+      "countries": [
+        "United States"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Not Included": 6,
+          "Not Trusted": 5
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "Example_CA.json"
+    },
+    {
+      "ca_owner": "Federal Aviation Administration",
+      "record_count": 1,
+      "countries": [
+        "US"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Federal_Aviation_Administration.json"
+    },
+    {
+      "ca_owner": "Financijska agencija (Fina)",
+      "record_count": 1,
+      "countries": [
+        "Croatia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Financijska_agencija_Fina.json"
+    },
+    {
+      "ca_owner": "GESTIÓN DE SEGURIDAD ELECTRÓNICA S.A.",
+      "record_count": 2,
+      "countries": [
+        "Colombia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Not Included": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "GESTIÓN_DE_SEGURIDAD_ELECTRÓNICA_SA.json"
+    },
+    {
+      "ca_owner": "Gestión de Seguridad Electrónica S.A.",
+      "record_count": 2,
+      "countries": [
+        "Colombia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "Gestión_de_Seguridad_Electrónica_SA.json"
+    },
+    {
+      "ca_owner": "Global Digital Cybersecurity Authority Co., Ltd. (Formerly Guang Dong Certificate Authority (GDCA))",
+      "record_count": 17,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 1,
+          "Not Trusted": 7,
+          "Trusted": 9
+        },
+        "chrome": {
+          "Included": 1,
+          "Not Trusted": 7,
+          "Trusted": 9
+        },
+        "microsoft": {
+          "Included": 1,
+          "Not Trusted": 4,
+          "Trusted": 12
+        },
+        "mozilla": {
+          "Included": 1,
+          "Not Trusted": 7,
+          "Trusted": 9
+        }
+      },
+      "output_filename": "Global_Digital_Cybersecurity_Authority_Co_Ltd_Formerly_Guang_Dong_Certificate_Authority_GDCA.json"
+    },
+    {
+      "ca_owner": "GlobalSign nv-sa",
+      "record_count": 748,
+      "countries": [
+        "Belgium"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 8,
+          "Not Included": 8,
+          "Not Trusted": 477,
+          "Trusted": 255
+        },
+        "chrome": {
+          "Included": 5,
+          "Not Included": 10,
+          "Removed": 1,
+          "Not Trusted": 560,
+          "Trusted": 172
+        },
+        "microsoft": {
+          "Included": 15,
+          "Not Included": 1,
+          "Not Trusted": 436,
+          "Trusted": 296
+        },
+        "mozilla": {
+          "Included": 8,
+          "Not Yet Included": 8,
+          "Not Trusted": 497,
+          "Trusted": 235
+        }
+      },
+      "output_filename": "GlobalSign_nv-sa.json"
+    },
+    {
+      "ca_owner": "GoDaddy",
+      "record_count": 30,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 4,
+          "Not Included": 6,
+          "Not Trusted": 8,
+          "Trusted": 12
+        },
+        "chrome": {
+          "Removed": 2,
+          "Included": 2,
+          "Not Included": 6,
+          "Not Trusted": 14,
+          "Trusted": 6
+        },
+        "microsoft": {
+          "Included": 4,
+          "Not Included": 4,
+          "Removed": 1,
+          "Disabled": 1,
+          "Not Trusted": 4,
+          "Trusted": 16
+        },
+        "mozilla": {
+          "Included": 4,
+          "Not Yet Included": 5,
+          "Removed": 1,
+          "Not Trusted": 8,
+          "Trusted": 12
+        }
+      },
+      "output_filename": "GoDaddy.json"
+    },
+    {
+      "ca_owner": "Google Trust Services LLC",
+      "record_count": 70,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 7,
+          "Included": 5,
+          "Trusted": 16,
+          "Not Trusted": 42
+        },
+        "chrome": {
+          "Included": 5,
+          "Not Included": 7,
+          "Trusted": 15,
+          "Not Trusted": 43
+        },
+        "microsoft": {
+          "Included": 10,
+          "Disabled": 1,
+          "Not Included": 1,
+          "Trusted": 16,
+          "Not Trusted": 42
+        },
+        "mozilla": {
+          "Included": 5,
+          "Removed": 6,
+          "Not Yet Included": 1,
+          "Trusted": 16,
+          "Not Trusted": 42
+        }
+      },
+      "output_filename": "Google_Trust_Services_LLC.json"
+    },
+    {
+      "ca_owner": "Government of Brazil, Instituto Nacional de Tecnologia da Informação (ITI)",
+      "record_count": 27,
+      "countries": [
+        "Brazil"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 21
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 21
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Included": 4,
+          "Not Included": 1,
+          "Not Trusted": 16,
+          "Trusted": 5
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Not Trusted": 21
+        }
+      },
+      "output_filename": "Government_of_Brazil_Instituto_Nacional_de_Tecnologia_da_Informação_ITI.json"
+    },
+    {
+      "ca_owner": "Government of Finland, Population Register Centre’s (Väestörekisterikeskus, VRK)",
+      "record_count": 10,
+      "countries": [
+        "Finland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Removed": 1,
+          "Not Trusted": 6
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 6
+        },
+        "microsoft": {
+          "Included": 4,
+          "Trusted": 4,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Not Trusted": 6
+        }
+      },
+      "output_filename": "Government_of_Finland_Population_Register_Centres_Väestörekisterikeskus_VRK.json"
+    },
+    {
+      "ca_owner": "Government of France (ANSSI, DCSSI)",
+      "record_count": 2,
+      "countries": [
+        "France"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 2
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Government_of_France_ANSSI_DCSSI.json"
+    },
+    {
+      "ca_owner": "Government of Hong Kong (SAR), Hongkong Post, Certizen",
+      "record_count": 19,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Removed": 1,
+          "Included": 1,
+          "Not Trusted": 10,
+          "Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Removed": 1,
+          "Included": 1,
+          "Not Trusted": 10,
+          "Trusted": 5
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Disabled": 1,
+          "Included": 2,
+          "Not Trusted": 7,
+          "Trusted": 8
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Removed": 1,
+          "Included": 1,
+          "Not Trusted": 10,
+          "Trusted": 5
+        }
+      },
+      "output_filename": "Government_of_Hong_Kong_SAR_Hongkong_Post_Certizen.json"
+    },
+    {
+      "ca_owner": "Government of India, Ministry of Communications & Information Technology, Controller of Certifying Authorities (CCA)",
+      "record_count": 9,
+      "countries": [
+        "India"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Disabled": 1,
+          "Included": 4,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Government_of_India_Ministry_of_Communications__Information_Technology_Controller_of_Certifying_Authorities_CCA.json"
+    },
+    {
+      "ca_owner": "Government of Japan, Digital Agency",
+      "record_count": 6,
+      "countries": [
+        "Japan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Disabled": 2,
+          "Included": 1,
+          "Not Trusted": 1,
+          "Trusted": 2
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 2,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Government_of_Japan_Digital_Agency.json"
+    },
+    {
+      "ca_owner": "Government of Korea, KLID",
+      "record_count": 6,
+      "countries": [
+        "Republic of Korea (South Korea)"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "Removed": 3,
+          "Included": 2,
+          "Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 5,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "Government_of_Korea_KLID.json"
+    },
+    {
+      "ca_owner": "Government of Latvia, Latvian State Radio & Television Centre (LVRTC)",
+      "record_count": 2,
+      "countries": [
+        "Latvia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Government_of_Latvia_Latvian_State_Radio__Television_Centre_LVRTC.json"
+    },
+    {
+      "ca_owner": "Government of Lithuania, Registru Centras",
+      "record_count": 2,
+      "countries": [
+        "Lithuania"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "NotBefore": 1,
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Government_of_Lithuania_Registru_Centras.json"
+    },
+    {
+      "ca_owner": "Government of Mexico, Autoridad Certificadora Raiz de la Secretaria de Economia",
+      "record_count": 2,
+      "countries": [
+        "Mexico"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Government_of_Mexico_Autoridad_Certificadora_Raiz_de_la_Secretaria_de_Economia.json"
+    },
+    {
+      "ca_owner": "Government of Portugal, Sistema de Certificação Electrónica do Estado (SCEE) / Electronic Certification System of the State",
+      "record_count": 1,
+      "countries": [
+        "Portugal"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Government_of_Portugal_Sistema_de_Certificação_Electrónica_do_Estado_SCEE__Electronic_Certification_System_of_the_State.json"
+    },
+    {
+      "ca_owner": "Government of Saudi Arabia, NIC (SDAIA)",
+      "record_count": 12,
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 11
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 11
+        },
+        "microsoft": {
+          "Included": 1,
+          "Trusted": 8,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 11
+        }
+      },
+      "output_filename": "Government_of_Saudi_Arabia_NIC_SDAIA.json"
+    },
+    {
+      "ca_owner": "Government of South Africa, Post Office Trust Centre",
+      "record_count": 3,
+      "countries": [
+        "South Africa"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "NotBefore": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 3
+        }
+      },
+      "output_filename": "Government_of_South_Africa_Post_Office_Trust_Centre.json"
+    },
+    {
+      "ca_owner": "Government of Spain, Autoritat de Certificació de la Comunitat Valenciana (ACCV)",
+      "record_count": 22,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Included": 1,
+          "Not Trusted": 8,
+          "Trusted": 8
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Included": 1,
+          "Not Trusted": 8,
+          "Trusted": 8
+        },
+        "microsoft": {
+          "Not Included": 4,
+          "Included": 1,
+          "Disabled": 1,
+          "Not Trusted": 8,
+          "Trusted": 8
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Included": 1,
+          "Removed": 1,
+          "Not Trusted": 8,
+          "Trusted": 8
+        }
+      },
+      "output_filename": "Government_of_Spain_Autoritat_de_Certificació_de_la_Comunitat_Valenciana_ACCV.json"
+    },
+    {
+      "ca_owner": "Government of Spain, Dirección General de la Policía – Ministerio del Interior – España.",
+      "record_count": 1,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Government_of_Spain_Dirección_General_de_la_Policía__Ministerio_del_Interior__España.json"
+    },
+    {
+      "ca_owner": "Government of Spain, Fábrica Nacional de Moneda y Timbre (FNMT)",
+      "record_count": 22,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 1,
+          "Not Included": 4,
+          "Not Trusted": 10,
+          "Trusted": 7
+        },
+        "chrome": {
+          "Included": 2,
+          "Not Included": 3,
+          "Not Trusted": 8,
+          "Trusted": 9
+        },
+        "microsoft": {
+          "Included": 4,
+          "Disabled": 1,
+          "Not Trusted": 8,
+          "Trusted": 9
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Yet Included": 3,
+          "Not Trusted": 8,
+          "Trusted": 9
+        }
+      },
+      "output_filename": "Government_of_Spain_Fábrica_Nacional_de_Moneda_y_Timbre_FNMT.json"
+    },
+    {
+      "ca_owner": "Government of Spain, Ministerio de Trabajo e Inmigración (MTIN)",
+      "record_count": 1,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Government_of_Spain_Ministerio_de_Trabajo_e_Inmigración_MTIN.json"
+    },
+    {
+      "ca_owner": "Government of Sweden (Försäkringskassan)",
+      "record_count": 3,
+      "countries": [
+        "Sweden"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Disabled": 1,
+          "Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 3
+        }
+      },
+      "output_filename": "Government_of_Sweden_Försäkringskassan.json"
+    },
+    {
+      "ca_owner": "Government of Taiwan, Government Root Certification Authority (GRCA)",
+      "record_count": 21,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 1,
+          "Not Included": 1,
+          "Not Trusted": 19
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 19
+        },
+        "microsoft": {
+          "NotBefore": 2,
+          "Not Trusted": 19
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Removed": 1,
+          "Not Trusted": 19
+        }
+      },
+      "output_filename": "Government_of_Taiwan_Government_Root_Certification_Authority_GRCA.json"
+    },
+    {
+      "ca_owner": "Government of The Netherlands, PKIoverheid (Logius)",
+      "record_count": 113,
+      "countries": [
+        "Netherlands"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Removed": 1,
+          "Not Trusted": 108
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Removed": 1,
+          "Not Trusted": 108
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Included": 2,
+          "Disabled": 2,
+          "Not Trusted": 81,
+          "Trusted": 27
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Removed": 3,
+          "Included": 1,
+          "Not Trusted": 84,
+          "Trusted": 24
+        }
+      },
+      "output_filename": "Government_of_The_Netherlands_PKIoverheid_Logius.json"
+    },
+    {
+      "ca_owner": "Government of Turkey, Kamu Sertifikasyon Merkezi (Kamu SM)",
+      "record_count": 9,
+      "countries": [
+        "Turkey"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 1,
+          "Not Included": 2,
+          "Not Trusted": 4,
+          "Trusted": 2
+        },
+        "chrome": {
+          "Included": 1,
+          "Not Included": 2,
+          "Not Trusted": 4,
+          "Trusted": 2
+        },
+        "microsoft": {
+          "Included": 1,
+          "Not Included": 1,
+          "Disabled": 1,
+          "Not Trusted": 4,
+          "Trusted": 2
+        },
+        "mozilla": {
+          "Included": 1,
+          "Not Yet Included": 1,
+          "Removed": 1,
+          "Not Trusted": 4,
+          "Trusted": 2
+        }
+      },
+      "output_filename": "Government_of_Turkey_Kamu_Sertifikasyon_Merkezi_Kamu_SM.json"
+    },
+    {
+      "ca_owner": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
+      "record_count": 4,
+      "countries": [
+        "Uruguay"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "NotBefore": 1,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Government_of_Uruguay_Agency_for_E-Government_and_Information_Society_AGESIC.json"
+    },
+    {
+      "ca_owner": "Government of Venezuela, Superintendencia de Servicios de Certificación Electrónica (SUSCERTE)",
+      "record_count": 2,
+      "countries": [
+        "Venezuela"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Government_of_Venezuela_Superintendencia_de_Servicios_de_Certificación_Electrónica_SUSCERTE.json"
+    },
+    {
+      "ca_owner": "HALCOM d.d.",
+      "record_count": 5,
+      "countries": [
+        "Slovenia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Trusted": 5
+        },
+        "mozilla": {
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "HALCOM_dd.json"
+    },
+    {
+      "ca_owner": "HARICA",
+      "record_count": 220,
+      "countries": [
+        "Greece"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 6,
+          "Not Included": 2,
+          "Removed": 1,
+          "Not Trusted": 133,
+          "Trusted": 78
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Included": 2,
+          "Removed": 2,
+          "Not Trusted": 193,
+          "Trusted": 18
+        },
+        "microsoft": {
+          "Included": 9,
+          "Not Trusted": 116,
+          "Trusted": 95
+        },
+        "mozilla": {
+          "Included": 6,
+          "Not Yet Included": 2,
+          "Removed": 1,
+          "Not Trusted": 140,
+          "Trusted": 71
+        }
+      },
+      "output_filename": "HARICA.json"
+    },
+    {
+      "ca_owner": "Halcom D.D.",
+      "record_count": 9,
+      "countries": [
+        "Slovenia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Disabled": 3,
+          "Included": 1,
+          "Trusted": 5
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "Halcom_DD.json"
+    },
+    {
+      "ca_owner": "IPS Certification Authority s.l. ipsCA",
+      "record_count": 2,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Removed": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "IPS_Certification_Authority_sl_ipsCA.json"
+    },
+    {
+      "ca_owner": "IPS Seguridad CA",
+      "record_count": 1,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "IPS_Seguridad_CA.json"
+    },
+    {
+      "ca_owner": "IdenTrust Services, LLC",
+      "record_count": 96,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 27,
+          "Included": 2,
+          "Not Trusted": 56,
+          "Trusted": 11
+        },
+        "chrome": {
+          "Not Included": 27,
+          "Included": 1,
+          "Removed": 1,
+          "Not Trusted": 63,
+          "Trusted": 4
+        },
+        "microsoft": {
+          "Removed": 11,
+          "Disabled": 1,
+          "Not Included": 15,
+          "Included": 2,
+          "Not Trusted": 52,
+          "Trusted": 15
+        },
+        "mozilla": {
+          "Not Yet Included": 23,
+          "Removed": 4,
+          "Included": 2,
+          "Not Trusted": 56,
+          "Trusted": 11
+        }
+      },
+      "output_filename": "IdenTrust_Services_LLC.json"
+    },
+    {
+      "ca_owner": "Image-X Enterprises Inc",
+      "record_count": 1,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Image-X_Enterprises_Inc.json"
+    },
+    {
+      "ca_owner": "Inera AB (SITHS)",
+      "record_count": 5,
+      "countries": [
+        "Sweden"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "NotBefore": 1,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Inera_AB_SITHS.json"
+    },
+    {
+      "ca_owner": "InfoNotary",
+      "record_count": 1,
+      "countries": [
+        "Bulgaria"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "InfoNotary.json"
+    },
+    {
+      "ca_owner": "Internet Security Research Group",
+      "record_count": 26,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 2,
+          "Trusted": 20,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Included": 2,
+          "Trusted": 20,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Included": 2,
+          "Trusted": 20,
+          "Not Trusted": 4
+        },
+        "mozilla": {
+          "Included": 2,
+          "Trusted": 20,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "Internet_Security_Research_Group.json"
+    },
+    {
+      "ca_owner": "Izenpe S.A.",
+      "record_count": 20,
+      "countries": [
+        "Spain"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 1,
+          "Included": 1,
+          "Not Included": 1,
+          "Trusted": 6,
+          "Not Trusted": 11
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Included": 1,
+          "Trusted": 6,
+          "Not Trusted": 11
+        },
+        "microsoft": {
+          "Disabled": 2,
+          "Included": 1,
+          "Trusted": 6,
+          "Not Trusted": 11
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Included": 1,
+          "Trusted": 6,
+          "Not Trusted": 11
+        }
+      },
+      "output_filename": "Izenpe_SA.json"
+    },
+    {
+      "ca_owner": "JIPDEC",
+      "record_count": 1,
+      "countries": [
+        "Japan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "JIPDEC.json"
+    },
+    {
+      "ca_owner": "Japan Local Authority Information Systems (J-LIS)",
+      "record_count": 5,
+      "countries": [
+        "Japan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Disabled": 3,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "Japan_Local_Authority_Information_Systems_J-LIS.json"
+    },
+    {
+      "ca_owner": "Korea Information Security Agency (KISA)",
+      "record_count": 4,
+      "countries": [
+        "Republic of Korea (South Korea)"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Removed": 1
+        },
+        "chrome": {
+          "Not Included": 4
+        },
+        "microsoft": {
+          "Removed": 2,
+          "NotBefore": 1,
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 4
+        }
+      },
+      "output_filename": "Korea_Information_Security_Agency_KISA.json"
+    },
+    {
+      "ca_owner": "Krajowa Izba Rozliczeniowa S.A. (KIR)",
+      "record_count": 8,
+      "countries": [
+        "Poland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 1,
+          "Not Included": 1,
+          "Not Trusted": 6
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Included": 1,
+          "Trusted": 2,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 1,
+          "Trusted": 3,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Included": 1,
+          "Trusted": 3,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Krajowa_Izba_Rozliczeniowa_SA_KIR.json"
+    },
+    {
+      "ca_owner": "LAWtrust",
+      "record_count": 14,
+      "countries": [
+        "South Africa"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 11
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 11
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Included": 2,
+          "Trusted": 5,
+          "Not Trusted": 6
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Included": 1,
+          "Not Trusted": 10,
+          "Trusted": 1
+        }
+      },
+      "output_filename": "LAWtrust.json"
+    },
+    {
+      "ca_owner": "LuxTrust",
+      "record_count": 5,
+      "countries": [
+        "Luxembourg"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "NotBefore": 1,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Removed": 1,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "LuxTrust.json"
+    },
+    {
+      "ca_owner": "MSC Trustgate",
+      "record_count": 15,
+      "countries": [
+        "Malaysia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 7,
+          "Not Trusted": 8
+        },
+        "chrome": {
+          "Not Included": 7,
+          "Not Trusted": 8
+        },
+        "microsoft": {
+          "Not Included": 7,
+          "Not Trusted": 8
+        },
+        "mozilla": {
+          "Not Yet Included": 7,
+          "Not Trusted": 8
+        }
+      },
+      "output_filename": "MSC_Trustgate.json"
+    },
+    {
+      "ca_owner": "MULTICERT",
+      "record_count": 7,
+      "countries": [
+        "Portugal"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 6
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 6
+        },
+        "microsoft": {
+          "Included": 1,
+          "Trusted": 4,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 6
+        }
+      },
+      "output_filename": "MULTICERT.json"
+    },
+    {
+      "ca_owner": "Macao Post and Telecommunications Bureau",
+      "record_count": 10,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 7
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 7
+        },
+        "microsoft": {
+          "Included": 1,
+          "Removed": 1,
+          "Disabled": 1,
+          "Trusted": 7
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 7
+        }
+      },
+      "output_filename": "Macao_Post_and_Telecommunications_Bureau.json"
+    },
+    {
+      "ca_owner": "Microsec Ltd.",
+      "record_count": 113,
+      "countries": [
+        "Hungary"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 10,
+          "Included": 1,
+          "Trusted": 59,
+          "Not Trusted": 43
+        },
+        "chrome": {
+          "Not Included": 9,
+          "Included": 2,
+          "Trusted": 58,
+          "Not Trusted": 44
+        },
+        "microsoft": {
+          "Not Included": 6,
+          "Included": 3,
+          "Disabled": 1,
+          "Removed": 1,
+          "Trusted": 71,
+          "Not Trusted": 31
+        },
+        "mozilla": {
+          "Not Yet Included": 8,
+          "Included": 2,
+          "Removed": 1,
+          "Trusted": 66,
+          "Not Trusted": 36
+        }
+      },
+      "output_filename": "Microsec_Ltd.json"
+    },
+    {
+      "ca_owner": "Microsoft Corporation",
+      "record_count": 115,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 18,
+          "Included": 2,
+          "Not Trusted": 67,
+          "Trusted": 28
+        },
+        "chrome": {
+          "Not Included": 18,
+          "Included": 2,
+          "Not Trusted": 67,
+          "Trusted": 28
+        },
+        "microsoft": {
+          "Removed": 8,
+          "Included": 8,
+          "Disabled": 2,
+          "Not Included": 2,
+          "Not Trusted": 67,
+          "Trusted": 28
+        },
+        "mozilla": {
+          "Not Yet Included": 18,
+          "Included": 2,
+          "Not Trusted": 67,
+          "Trusted": 28
+        }
+      },
+      "output_filename": "Microsoft_Corporation.json"
+    },
+    {
+      "ca_owner": "NATIXIS",
+      "record_count": 1,
+      "countries": [
+        "France"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "NATIXIS.json"
+    },
+    {
+      "ca_owner": "NAVER Cloud Trust Services",
+      "record_count": 8,
+      "countries": [
+        "Republic of Korea (South Korea)"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Included": 1,
+          "Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Included": 1,
+          "Trusted": 5
+        },
+        "microsoft": {
+          "Included": 3,
+          "Trusted": 5
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Included": 1,
+          "Trusted": 5
+        }
+      },
+      "output_filename": "NAVER_Cloud_Trust_Services.json"
+    },
+    {
+      "ca_owner": "NETLOCK",
+      "record_count": 4,
+      "countries": [
+        "Hungary"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4
+        },
+        "chrome": {
+          "Not Included": 4
+        },
+        "microsoft": {
+          "Not Included": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 4
+        }
+      },
+      "output_filename": "NETLOCK.json"
+    },
+    {
+      "ca_owner": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
+      "record_count": 1,
+      "countries": [
+        "Hungary"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "NISZ_Nemzeti_Infokommunikációs_Szolgáltató_Zrt.json"
+    },
+    {
+      "ca_owner": "NLB Nova Ljubljanska Banka d.d. Ljubljana",
+      "record_count": 1,
+      "countries": [
+        "Slovenia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "NLB_Nova_Ljubljanska_Banka_dd_Ljubljana.json"
+    },
+    {
+      "ca_owner": "National Authority for Digital Certification",
+      "record_count": 1,
+      "countries": [
+        "Sudan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "National_Authority_for_Digital_Certification.json"
+    },
+    {
+      "ca_owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+      "record_count": 1,
+      "countries": [
+        "Sri Lanka"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "National_Certification_Authority_of_Sri_Lanka_NCA_of_Sri_Lanka.json"
+    },
+    {
+      "ca_owner": "Netlock",
+      "record_count": 50,
+      "countries": [
+        "Hungary"
+      ],
+      "status_counts": {
+        "apple": {
+          "Blocked": 1,
+          "Not Included": 8,
+          "Not Trusted": 41
+        },
+        "chrome": {
+          "Included": 1,
+          "Not Included": 8,
+          "Not Trusted": 18,
+          "Trusted": 23
+        },
+        "microsoft": {
+          "Included": 2,
+          "Removed": 2,
+          "Disabled": 2,
+          "Not Included": 3,
+          "Not Trusted": 16,
+          "Trusted": 25
+        },
+        "mozilla": {
+          "Included": 1,
+          "Removed": 4,
+          "Not Yet Included": 4,
+          "Not Trusted": 17,
+          "Trusted": 24
+        }
+      },
+      "output_filename": "Netlock.json"
+    },
+    {
+      "ca_owner": "Netrust Pte Ltd",
+      "record_count": 4,
+      "countries": [
+        "Singapore"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 1,
+          "Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "Netrust_Pte_Ltd.json"
+    },
+    {
+      "ca_owner": "Nets DanID",
+      "record_count": 3,
+      "countries": [
+        "Denmark"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Removed": 1
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "Removed": 2,
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Nets_DanID.json"
+    },
+    {
+      "ca_owner": "Network Solutions",
+      "record_count": 14,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Blocked": 1,
+          "Not Trusted": 10
+        },
+        "chrome": {
+          "Removed": 1,
+          "Not Included": 3,
+          "Not Trusted": 10
+        },
+        "microsoft": {
+          "NotBefore": 3,
+          "Removed": 1,
+          "Not Trusted": 10
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Removed": 1,
+          "Not Trusted": 10
+        }
+      },
+      "output_filename": "Network_Solutions.json"
+    },
+    {
+      "ca_owner": "Notarius",
+      "record_count": 5,
+      "countries": [
+        "Canada"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Included": 2,
+          "Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Notarius.json"
+    },
+    {
+      "ca_owner": "OISTE",
+      "record_count": 38,
+      "countries": [
+        "Switzerland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Included": 3,
+          "Trusted": 9,
+          "Not Trusted": 22
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Included": 2,
+          "Trusted": 6,
+          "Not Trusted": 25
+        },
+        "microsoft": {
+          "Not Included": 4,
+          "Included": 3,
+          "Trusted": 9,
+          "Not Trusted": 22
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Included": 3,
+          "Trusted": 9,
+          "Not Trusted": 22
+        }
+      },
+      "output_filename": "OISTE.json"
+    },
+    {
+      "ca_owner": "Open Access Technology International, Inc. (OATI)",
+      "record_count": 5,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Included": 1,
+          "Not Included": 1,
+          "Not Trusted": 2,
+          "Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Open_Access_Technology_International_Inc_OATI.json"
+    },
+    {
+      "ca_owner": "Orange Polska S.A.",
+      "record_count": 1,
+      "countries": [
+        "Poland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Orange_Polska_SA.json"
+    },
+    {
+      "ca_owner": "PROCERT",
+      "record_count": 1,
+      "countries": [
+        "Venezuela"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Removed": 1
+        }
+      },
+      "output_filename": "PROCERT.json"
+    },
+    {
+      "ca_owner": "PT Indonesia Digital Identity",
+      "record_count": 1,
+      "countries": [
+        "Indonesia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "PT_Indonesia_Digital_Identity.json"
+    },
+    {
+      "ca_owner": "Personal I.D. LTD",
+      "record_count": 1,
+      "countries": [
+        "Israel"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Personal_ID_LTD.json"
+    },
+    {
+      "ca_owner": "Pos Digicert Sdn. Bhd (Malaysia)",
+      "record_count": 3,
+      "countries": [
+        "Malaysia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Disabled": 1,
+          "Not Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "Pos_Digicert_Sdn_Bhd_Malaysia.json"
+    },
+    {
+      "ca_owner": "Post of Serbia",
+      "record_count": 1,
+      "countries": [
+        "Serbia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Post_of_Serbia.json"
+    },
+    {
+      "ca_owner": "Post of Slovenia",
+      "record_count": 1,
+      "countries": [
+        "Slovenia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Disabled": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Post_of_Slovenia.json"
+    },
+    {
+      "ca_owner": "PostSignum",
+      "record_count": 7,
+      "countries": [
+        "Czech Republic"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Included": 2,
+          "Not Included": 1,
+          "Trusted": 2,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "PostSignum.json"
+    },
+    {
+      "ca_owner": "První certifikační autorita, a.s.",
+      "record_count": 25,
+      "countries": [
+        "Czech Republic"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 9,
+          "Not Trusted": 16
+        },
+        "chrome": {
+          "Not Included": 9,
+          "Not Trusted": 16
+        },
+        "microsoft": {
+          "Disabled": 4,
+          "Included": 5,
+          "Trusted": 13,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 9,
+          "Not Trusted": 16
+        }
+      },
+      "output_filename": "První_certifikační_autorita_as.json"
+    },
+    {
+      "ca_owner": "QuoVadis",
+      "record_count": 268,
+      "countries": [
+        "Bermuda"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 9,
+          "Included": 5,
+          "Not Trusted": 205,
+          "Trusted": 49
+        },
+        "chrome": {
+          "Not Included": 9,
+          "Removed": 2,
+          "Included": 3,
+          "Not Trusted": 238,
+          "Trusted": 16
+        },
+        "microsoft": {
+          "Included": 13,
+          "Disabled": 1,
+          "Not Trusted": 192,
+          "Trusted": 62
+        },
+        "mozilla": {
+          "Not Yet Included": 8,
+          "Included": 5,
+          "Removed": 1,
+          "Not Trusted": 206,
+          "Trusted": 48
+        }
+      },
+      "output_filename": "QuoVadis.json"
+    },
+    {
+      "ca_owner": "RSA the Security Division of EMC",
+      "record_count": 3,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "Removed": 3
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "RSA_the_Security_Division_of_EMC.json"
+    },
+    {
+      "ca_owner": "SECOM Trust Systems CO., LTD.",
+      "record_count": 160,
+      "countries": [
+        "Japan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Removed": 2,
+          "Included": 1,
+          "Not Trusted": 136,
+          "Trusted": 16
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Included": 2,
+          "Removed": 1,
+          "Not Trusted": 141,
+          "Trusted": 11
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Included": 5,
+          "Not Included": 1,
+          "Disabled": 1,
+          "Not Trusted": 129,
+          "Trusted": 23
+        },
+        "mozilla": {
+          "Removed": 4,
+          "Not Yet Included": 2,
+          "Included": 2,
+          "Not Trusted": 138,
+          "Trusted": 14
+        }
+      },
+      "output_filename": "SECOM_Trust_Systems_CO_LTD.json"
+    },
+    {
+      "ca_owner": "SECOM Trust Systems Co., Ltd.",
+      "record_count": 27,
+      "countries": [
+        "Japan"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Trusted": 17,
+          "Not Trusted": 6
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 7,
+          "Trusted": 16
+        },
+        "microsoft": {
+          "Included": 4,
+          "Trusted": 23
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Trusted": 19,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
+    },
+    {
+      "ca_owner": "SG Trust Services",
+      "record_count": 1,
+      "countries": [
+        "France"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Removed": 1
+        }
+      },
+      "output_filename": "SG_Trust_Services.json"
+    },
+    {
+      "ca_owner": "SI-TRUST",
+      "record_count": 8,
+      "countries": [
+        "Slovenia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Included": 1,
+          "Disabled": 2,
+          "Trusted": 3,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "SI-TRUST.json"
+    },
+    {
+      "ca_owner": "SISP - Sociedade Interbancaria e Sistemas de Pagamentos, S.A.",
+      "record_count": 5,
+      "countries": [
+        "Cabo Verde"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Not Included": 3,
+          "Not Trusted": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "SISP_-_Sociedade_Interbancaria_e_Sistemas_de_Pagamentos_SA.json"
+    },
+    {
+      "ca_owner": "SK ID Solutions AS",
+      "record_count": 19,
+      "countries": [
+        "Estonia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 17
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 17
+        },
+        "microsoft": {
+          "NotBefore": 1,
+          "Disabled": 1,
+          "Not Trusted": 17
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Trusted": 17
+        }
+      },
+      "output_filename": "SK_ID_Solutions_AS.json"
+    },
+    {
+      "ca_owner": "SOLUTI GLOBAL ROOT CA",
+      "record_count": 5,
+      "countries": [
+        "Brazil"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Not Trusted": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "SOLUTI_GLOBAL_ROOT_CA.json"
+    },
+    {
+      "ca_owner": "SSL.com",
+      "record_count": 226,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 8,
+          "Not Included": 7,
+          "Trusted": 108,
+          "Not Trusted": 103
+        },
+        "chrome": {
+          "Not Included": 9,
+          "Included": 6,
+          "Trusted": 84,
+          "Not Trusted": 127
+        },
+        "microsoft": {
+          "Included": 12,
+          "Disabled": 1,
+          "Not Included": 2,
+          "Trusted": 126,
+          "Not Trusted": 85
+        },
+        "mozilla": {
+          "Included": 8,
+          "Not Yet Included": 7,
+          "Trusted": 95,
+          "Not Trusted": 116
+        }
+      },
+      "output_filename": "SSLcom.json"
+    },
+    {
+      "ca_owner": "SSLCOM GROUP LTD",
+      "record_count": 8,
+      "countries": [
+        "Israel"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 6
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 6
+        },
+        "microsoft": {
+          "Not Included": 2,
+          "Not Trusted": 6
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 6
+        }
+      },
+      "output_filename": "SSLCOM_GROUP_LTD.json"
+    },
+    {
+      "ca_owner": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+      "record_count": 2,
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "Saudi_Data_and_Artificial_Intelligence_Authority_SDAIA.json"
+    },
+    {
+      "ca_owner": "Sectigo",
+      "record_count": 1303,
+      "countries": [
+        "United Kingdom"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 12,
+          "Not Included": 16,
+          "Not Trusted": 546,
+          "Trusted": 729
+        },
+        "chrome": {
+          "Removed": 1,
+          "Not Included": 20,
+          "Included": 7,
+          "Not Trusted": 714,
+          "Trusted": 561
+        },
+        "microsoft": {
+          "Included": 16,
+          "Not Included": 6,
+          "Disabled": 3,
+          "Removed": 3,
+          "Not Trusted": 459,
+          "Trusted": 816
+        },
+        "mozilla": {
+          "Included": 10,
+          "Removed": 11,
+          "Not Yet Included": 7,
+          "Not Trusted": 587,
+          "Trusted": 688
+        }
+      },
+      "output_filename": "Sectigo.json"
+    },
+    {
+      "ca_owner": "Serasa S.A.",
+      "record_count": 3,
+      "countries": [
+        "Brazil"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "Removed": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 3
+        }
+      },
+      "output_filename": "Serasa_SA.json"
+    },
+    {
+      "ca_owner": "Serviço Federal de Processamento de Dados",
+      "record_count": 2,
+      "countries": [
+        "Brazil"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Not Included": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "Serviço_Federal_de_Processamento_de_Dados.json"
+    },
+    {
+      "ca_owner": "Shanghai Electronic Certification Authority Co., Ltd.",
+      "record_count": 98,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 12,
+          "Trusted": 45,
+          "Not Trusted": 41
+        },
+        "chrome": {
+          "Included": 2,
+          "Not Included": 10,
+          "Trusted": 54,
+          "Not Trusted": 32
+        },
+        "microsoft": {
+          "Included": 2,
+          "Disabled": 2,
+          "Not Included": 8,
+          "Trusted": 57,
+          "Not Trusted": 29
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Yet Included": 10,
+          "Trusted": 54,
+          "Not Trusted": 32
+        }
+      },
+      "output_filename": "Shanghai_Electronic_Certification_Authority_Co_Ltd.json"
+    },
+    {
+      "ca_owner": "Skaitmeninio sertifikavimo centras (SSC)",
+      "record_count": 10,
+      "countries": [
+        "Lithuania"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Disabled": 6,
+          "Not Trusted": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "Skaitmeninio_sertifikavimo_centras_SSC.json"
+    },
+    {
+      "ca_owner": "Start Commercial (StartCom) Ltd.",
+      "record_count": 65,
+      "countries": [
+        "Israel"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 3,
+          "Not Trusted": 62
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 62
+        },
+        "microsoft": {
+          "Not Included": 1,
+          "Disabled": 2,
+          "Not Trusted": 62
+        },
+        "mozilla": {
+          "Removed": 3,
+          "Not Trusted": 62
+        }
+      },
+      "output_filename": "Start_Commercial_StartCom_Ltd.json"
+    },
+    {
+      "ca_owner": "Swiss BIT, Swiss Federal Office of Information Technology, Systems and Telecommunication (FOITT)",
+      "record_count": 7,
+      "countries": [
+        "Switzerland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 6,
+          "Not Trusted": 1
+        },
+        "chrome": {
+          "Not Included": 6,
+          "Not Trusted": 1
+        },
+        "microsoft": {
+          "Disabled": 4,
+          "Included": 1,
+          "Not Included": 1,
+          "Not Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Not Trusted": 1
+        }
+      },
+      "output_filename": "Swiss_BIT_Swiss_Federal_Office_of_Information_Technology_Systems_and_Telecommunication_FOITT.json"
+    },
+    {
+      "ca_owner": "SwissSign AG",
+      "record_count": 86,
+      "countries": [
+        "Switzerland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 2,
+          "Not Included": 5,
+          "Removed": 1,
+          "Not Trusted": 58,
+          "Trusted": 20
+        },
+        "chrome": {
+          "Included": 1,
+          "Not Included": 6,
+          "Removed": 1,
+          "Not Trusted": 68,
+          "Trusted": 10
+        },
+        "microsoft": {
+          "Included": 4,
+          "Disabled": 3,
+          "NotBefore": 1,
+          "Not Trusted": 58,
+          "Trusted": 20
+        },
+        "mozilla": {
+          "Included": 3,
+          "Not Yet Included": 3,
+          "Removed": 2,
+          "Not Trusted": 59,
+          "Trusted": 19
+        }
+      },
+      "output_filename": "SwissSign_AG.json"
+    },
+    {
+      "ca_owner": "Swisscom (Switzerland) Ltd",
+      "record_count": 24,
+      "countries": [
+        "Switzerland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 3,
+          "Not Trusted": 21
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 21
+        },
+        "microsoft": {
+          "Disabled": 3,
+          "Not Trusted": 21
+        },
+        "mozilla": {
+          "Removed": 3,
+          "Not Trusted": 21
+        }
+      },
+      "output_filename": "Swisscom_Switzerland_Ltd.json"
+    },
+    {
+      "ca_owner": "Swisskey AG",
+      "record_count": 1,
+      "countries": [
+        "Switzerland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Swisskey_AG.json"
+    },
+    {
+      "ca_owner": "Taiwan-CA Inc. (TWCA)",
+      "record_count": 31,
+      "countries": [
+        "Taiwan (Republic of China)"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Included": 2,
+          "Not Trusted": 11,
+          "Trusted": 15
+        },
+        "chrome": {
+          "Included": 2,
+          "Not Included": 2,
+          "Removed": 1,
+          "Not Trusted": 16,
+          "Trusted": 10
+        },
+        "microsoft": {
+          "Included": 4,
+          "Disabled": 1,
+          "Not Trusted": 11,
+          "Trusted": 15
+        },
+        "mozilla": {
+          "Included": 4,
+          "Not Yet Included": 1,
+          "Not Trusted": 11,
+          "Trusted": 15
+        }
+      },
+      "output_filename": "Taiwan-CA_Inc_TWCA.json"
+    },
+    {
+      "ca_owner": "Telekom Applied Business Malaysia (TMCA)",
+      "record_count": 1,
+      "countries": [
+        "Malaysia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "NotBefore": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Telekom_Applied_Business_Malaysia_TMCA.json"
+    },
+    {
+      "ca_owner": "Telekom-Control-Kommission",
+      "record_count": 1,
+      "countries": [
+        "Austria"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Telekom-Control-Kommission.json"
+    },
+    {
+      "ca_owner": "Telia Company",
+      "record_count": 87,
+      "countries": [
+        "Sweden"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 10,
+          "Included": 2,
+          "Not Trusted": 47,
+          "Trusted": 28
+        },
+        "chrome": {
+          "Not Included": 10,
+          "Included": 2,
+          "Not Trusted": 65,
+          "Trusted": 10
+        },
+        "microsoft": {
+          "Removed": 1,
+          "Disabled": 1,
+          "Not Included": 8,
+          "Included": 2,
+          "Not Trusted": 41,
+          "Trusted": 34
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Yet Included": 8,
+          "Included": 2,
+          "Not Trusted": 52,
+          "Trusted": 23
+        }
+      },
+      "output_filename": "Telia_Company.json"
+    },
+    {
+      "ca_owner": "Thailand National Root Certificate Authority (Electronic Transactions Development Agency)",
+      "record_count": 8,
+      "countries": [
+        "Thailand"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Included": 1,
+          "Not Included": 2,
+          "Trusted": 2,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "Thailand_National_Root_Certificate_Authority_Electronic_Transactions_Development_Agency.json"
+    },
+    {
+      "ca_owner": "The Uruguayan Post, “El Correo Uruguayo”",
+      "record_count": 2,
+      "countries": [
+        "Uruguay"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Removed": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "The_Uruguayan_Post_El_Correo_Uruguayo.json"
+    },
+    {
+      "ca_owner": "TrustAsia Technologies, Inc.",
+      "record_count": 53,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 12,
+          "Not Trusted": 41
+        },
+        "chrome": {
+          "Not Included": 10,
+          "Included": 2,
+          "Not Trusted": 35,
+          "Trusted": 6
+        },
+        "microsoft": {
+          "Not Included": 12,
+          "Not Trusted": 41
+        },
+        "mozilla": {
+          "Not Yet Included": 6,
+          "Included": 6,
+          "Not Trusted": 25,
+          "Trusted": 16
+        }
+      },
+      "output_filename": "TrustAsia_Technologies_Inc.json"
+    },
+    {
+      "ca_owner": "TrustCor Systems",
+      "record_count": 40,
+      "countries": [
+        "Canada"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 7,
+          "Blocked": 3,
+          "Not Trusted": 30
+        },
+        "chrome": {
+          "Not Included": 7,
+          "Blocked": 3,
+          "Not Trusted": 30
+        },
+        "microsoft": {
+          "Not Included": 4,
+          "Removed": 3,
+          "NotBefore": 3,
+          "Not Trusted": 30
+        },
+        "mozilla": {
+          "Not Yet Included": 7,
+          "Removed": 3,
+          "Not Trusted": 30
+        }
+      },
+      "output_filename": "TrustCor_Systems.json"
+    },
+    {
+      "ca_owner": "TrustFactory(Pty)Ltd",
+      "record_count": 4,
+      "countries": [
+        "South Africa"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 2
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 2
+        },
+        "microsoft": {
+          "Included": 1,
+          "NotBefore": 1,
+          "Trusted": 1,
+          "Not Trusted": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 2
+        }
+      },
+      "output_filename": "TrustFactoryPtyLtd.json"
+    },
+    {
+      "ca_owner": "Trustis",
+      "record_count": 6,
+      "countries": [
+        "United Kingdom of Great Britain and Northern Ireland"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Blocked": 1,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Removed": 1,
+          "NotBefore": 1,
+          "Not Trusted": 4
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Removed": 1,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "Trustis.json"
+    },
+    {
+      "ca_owner": "TurkTrust",
+      "record_count": 22,
+      "countries": [
+        "Turkey"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 7,
+          "Not Trusted": 15
+        },
+        "chrome": {
+          "Not Included": 7,
+          "Not Trusted": 15
+        },
+        "microsoft": {
+          "Removed": 6,
+          "Disabled": 1,
+          "Not Trusted": 15
+        },
+        "mozilla": {
+          "Removed": 5,
+          "Not Yet Included": 2,
+          "Not Trusted": 15
+        }
+      },
+      "output_filename": "TurkTrust.json"
+    },
+    {
+      "ca_owner": "U.S. Federal Public Key Infrastructure (US FPKI)",
+      "record_count": 15,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3,
+          "Not Trusted": 12
+        },
+        "chrome": {
+          "Not Included": 3,
+          "Not Trusted": 12
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Removed": 2,
+          "Not Trusted": 12
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Not Trusted": 12
+        }
+      },
+      "output_filename": "US_Federal_Public_Key_Infrastructure_US_FPKI.json"
+    },
+    {
+      "ca_owner": "Valid Certificadora",
+      "record_count": 1,
+      "countries": [
+        "Brasil"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "Valid_Certificadora.json"
+    },
+    {
+      "ca_owner": "Viking Cloud, Inc.",
+      "record_count": 105,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Blocked": 1,
+          "Included": 5,
+          "Not Included": 2,
+          "Not Trusted": 56,
+          "Trusted": 41
+        },
+        "chrome": {
+          "Removed": 2,
+          "Included": 4,
+          "Not Included": 2,
+          "Not Trusted": 68,
+          "Trusted": 29
+        },
+        "microsoft": {
+          "Included": 6,
+          "Not Included": 2,
+          "Not Trusted": 43,
+          "Trusted": 54
+        },
+        "mozilla": {
+          "Included": 6,
+          "Not Yet Included": 2,
+          "Not Trusted": 60,
+          "Trusted": 37
+        }
+      },
+      "output_filename": "Viking_Cloud_Inc.json"
+    },
+    {
+      "ca_owner": "Vintegris / vinCAsign",
+      "record_count": 7,
+      "countries": [
+        "SPAIN"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 2,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Not Included": 2,
+          "Not Trusted": 5
+        },
+        "mozilla": {
+          "Not Yet Included": 2,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "Vintegris__vinCAsign.json"
+    },
+    {
+      "ca_owner": "Visa",
+      "record_count": 14,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Included": 1,
+          "Not Trusted": 9
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Not Trusted": 9
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Included": 3,
+          "Not Included": 1,
+          "Trusted": 3,
+          "Not Trusted": 6
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 4,
+          "Not Trusted": 9
+        }
+      },
+      "output_filename": "Visa.json"
+    },
+    {
+      "ca_owner": "Wells Fargo Bank N.A.",
+      "record_count": 9,
+      "countries": [
+        "United States of America"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Not Trusted": 5
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Not Trusted": 5
+        },
+        "microsoft": {
+          "Removed": 4,
+          "Not Trusted": 5
+        },
+        "mozilla": {
+          "Not Yet Included": 3,
+          "Removed": 1,
+          "Not Trusted": 5
+        }
+      },
+      "output_filename": "Wells_Fargo_Bank_NA.json"
+    },
+    {
+      "ca_owner": "WoSign CA Limited",
+      "record_count": 48,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 5,
+          "Not Trusted": 43
+        },
+        "chrome": {
+          "Not Included": 5,
+          "Not Trusted": 43
+        },
+        "microsoft": {
+          "Disabled": 5,
+          "Not Trusted": 43
+        },
+        "mozilla": {
+          "Removed": 4,
+          "Not Yet Included": 1,
+          "Not Trusted": 43
+        }
+      },
+      "output_filename": "WoSign_CA_Limited.json"
+    },
+    {
+      "ca_owner": "Zetes",
+      "record_count": 4,
+      "countries": [
+        "Belgium"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1,
+          "Not Trusted": 3
+        },
+        "chrome": {
+          "Not Included": 1,
+          "Not Trusted": 3
+        },
+        "microsoft": {
+          "Included": 1,
+          "Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 1,
+          "Not Trusted": 3
+        }
+      },
+      "output_filename": "Zetes.json"
+    },
+    {
+      "ca_owner": "brainit.sk, s. r. o.",
+      "record_count": 1,
+      "countries": [
+        "Slovakia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 1
+        },
+        "chrome": {
+          "Not Included": 1
+        },
+        "microsoft": {
+          "Not Included": 1
+        },
+        "mozilla": {
+          "Not Yet Included": 1
+        }
+      },
+      "output_filename": "brainitsk_s_r_o.json"
+    },
+    {
+      "ca_owner": "certSIGN",
+      "record_count": 21,
+      "countries": [
+        "Romania"
+      ],
+      "status_counts": {
+        "apple": {
+          "Included": 2,
+          "Not Trusted": 12,
+          "Trusted": 7
+        },
+        "chrome": {
+          "Included": 2,
+          "Not Trusted": 12,
+          "Trusted": 7
+        },
+        "microsoft": {
+          "Included": 2,
+          "Not Trusted": 12,
+          "Trusted": 7
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Trusted": 12,
+          "Trusted": 7
+        }
+      },
+      "output_filename": "certSIGN.json"
+    },
+    {
+      "ca_owner": "e-Guven Elektronik Bilgi Guvenligi A.S.",
+      "record_count": 3,
+      "countries": [
+        "Turkey"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 3
+        },
+        "chrome": {
+          "Not Included": 3
+        },
+        "microsoft": {
+          "Disabled": 1,
+          "Removed": 2
+        },
+        "mozilla": {
+          "Removed": 1,
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "e-Guven_Elektronik_Bilgi_Guvenligi_AS.json"
+    },
+    {
+      "ca_owner": "e-commerce monitoring GmbH",
+      "record_count": 58,
+      "countries": [
+        "Austria"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 4,
+          "Blocked": 1,
+          "Not Trusted": 53
+        },
+        "chrome": {
+          "Not Included": 4,
+          "Removed": 1,
+          "Not Trusted": 53
+        },
+        "microsoft": {
+          "Removed": 2,
+          "Included": 3,
+          "Trusted": 50,
+          "Not Trusted": 3
+        },
+        "mozilla": {
+          "Not Yet Included": 4,
+          "Included": 1,
+          "Not Trusted": 36,
+          "Trusted": 17
+        }
+      },
+      "output_filename": "e-commerce_monitoring_GmbH.json"
+    },
+    {
+      "ca_owner": "e-tugra",
+      "record_count": 6,
+      "countries": [
+        "Turkey"
+      ],
+      "status_counts": {
+        "apple": {
+          "Removed": 1,
+          "Not Included": 1,
+          "Not Trusted": 4
+        },
+        "chrome": {
+          "Removed": 1,
+          "Not Included": 1,
+          "Not Trusted": 4
+        },
+        "microsoft": {
+          "Disabled": 2,
+          "Not Trusted": 4
+        },
+        "mozilla": {
+          "Removed": 2,
+          "Not Trusted": 4
+        }
+      },
+      "output_filename": "e-tugra.json"
+    },
+    {
+      "ca_owner": "eMudhra Technologies Limited",
+      "record_count": 108,
+      "countries": [
+        "India"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 14,
+          "Included": 2,
+          "Not Trusted": 48,
+          "Trusted": 44
+        },
+        "chrome": {
+          "Removed": 2,
+          "Included": 2,
+          "Not Included": 12,
+          "Not Trusted": 58,
+          "Trusted": 34
+        },
+        "microsoft": {
+          "Included": 6,
+          "Not Included": 10,
+          "Not Trusted": 9,
+          "Trusted": 83
+        },
+        "mozilla": {
+          "Included": 4,
+          "Not Yet Included": 12,
+          "Not Trusted": 39,
+          "Trusted": 53
+        }
+      },
+      "output_filename": "eMudhra_Technologies_Limited.json"
+    },
+    {
+      "ca_owner": "eSign Australia",
+      "record_count": 2,
+      "countries": [
+        "Australia"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2
+        },
+        "chrome": {
+          "Not Included": 2
+        },
+        "microsoft": {
+          "Removed": 2
+        },
+        "mozilla": {
+          "Not Yet Included": 2
+        }
+      },
+      "output_filename": "eSign_Australia.json"
+    },
+    {
+      "ca_owner": "iTrusChina Co., Ltd.",
+      "record_count": 17,
+      "countries": [
+        "China"
+      ],
+      "status_counts": {
+        "apple": {
+          "Not Included": 2,
+          "Not Trusted": 15
+        },
+        "chrome": {
+          "Included": 2,
+          "Not Trusted": 7,
+          "Trusted": 8
+        },
+        "microsoft": {
+          "Not Included": 2,
+          "Not Trusted": 15
+        },
+        "mozilla": {
+          "Included": 2,
+          "Not Trusted": 7,
+          "Trusted": 8
+        }
+      },
+      "output_filename": "iTrusChina_Co_Ltd.json"
+    }
+  ]
+}
