@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>CCADB Browser</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+      }
+
+      th,
+      td {
+        padding: 8px 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+
+      th {
+        background-color: #f5f5f5;
+        font-weight: bold;
+      }
+
+      .ca-row {
+        cursor: pointer;
+        background-color: #fff;
+      }
+
+      .ca-row:hover {
+        background-color: #f0f8ff;
+      }
+
+      .record-row {
+        cursor: pointer;
+        background-color: #fff;
+      }
+
+      .record-row:hover {
+        background-color: #f0f8ff;
+      }
+
+      .record-details {
+        background-color: #f9f9f9;
+        font-size: 0.9em;
+      }
+
+      .record-details td {
+        padding: 4px 12px;
+      }
+
+      .record-field {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+        gap: 10px;
+        margin: 3px 0;
+        padding: 2px 0;
+        border-bottom: 1px solid #eee;
+      }
+
+      .record-field:last-child {
+        border-bottom: none;
+      }
+
+      .field-name {
+        font-weight: bold;
+        color: #555;
+      }
+
+      .field-value {
+        word-break: break-all;
+        font-family: monospace;
+        font-size: 0.9em;
+      }
+
+      .back-button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-bottom: 20px;
+      }
+
+      .back-button:hover {
+        background-color: #0056b3;
+      }
+
+      .loading {
+        text-align: center;
+        padding: 20px;
+        color: #666;
+      }
+
+      .error {
+        color: red;
+        text-align: center;
+        padding: 20px;
+      }
+
+      .hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CCADB Browser</h1>
+
+    <div id="loading" class="loading">Loading CCADB data...</div>
+    <div id="error" class="error hidden"></div>
+
+    <!-- CA Owners View -->
+    <div id="ca-owners-view" class="hidden">
+      <h2>Certificate Authorities</h2>
+      <table id="ca-owners-table">
+        <thead>
+          <tr>
+            <th>CA Owner</th>
+            <th>Country</th>
+            <th>Records</th>
+            <th>Trusted Roots</th>
+            <th>Partially Trusted</th>
+            <th>Untrusted Roots</th>
+            <th>Intermediates</th>
+          </tr>
+        </thead>
+        <tbody id="ca-owners-tbody"></tbody>
+      </table>
+    </div>
+
+    <!-- CA Records View -->
+    <div id="ca-records-view" class="hidden">
+      <button id="back-to-owners" class="back-button">Back to CA Owners</button>
+      <h2 id="ca-records-title">CA Records</h2>
+      <table id="ca-records-table">
+        <thead>
+          <tr>
+            <th>Certificate Name</th>
+            <th>Record Type</th>
+            <th>Apple Status</th>
+            <th>Chrome Status</th>
+            <th>Microsoft Status</th>
+            <th>Mozilla Status</th>
+          </tr>
+        </thead>
+        <tbody id="ca-records-tbody"></tbody>
+      </table>
+    </div>
+
+    <!-- Record Details View -->
+    <div id="record-details-view" class="hidden">
+      <button id="back-to-records" class="back-button">Back to Records</button>
+      <h2 id="record-details-title">Record Details</h2>
+      <div id="record-details-content"></div>
+    </div>
+
+    <script>
+      let ccadbData = null;
+      let currentCA = null;
+      let currentRecord = null;
+
+      // Load CCADB data
+      async function loadCCADBData() {
+        try {
+          const response = await fetch("data/ccadb/ca_owners.json");
+          if (!response.ok) {
+            throw new Error("Failed to load CCADB data");
+          }
+          ccadbData = await response.json();
+          showCAOwners();
+        } catch (error) {
+          showError("Error loading CCADB data: " + error.message);
+        }
+      }
+
+      // Show error message
+      function showError(message) {
+        document.getElementById("loading").classList.add("hidden");
+        document.getElementById("error").textContent = message;
+        document.getElementById("error").classList.remove("hidden");
+      }
+
+      // Show CA owners view
+      function showCAOwners() {
+        document.getElementById("loading").classList.add("hidden");
+        document.getElementById("ca-records-view").classList.add("hidden");
+        document.getElementById("record-details-view").classList.add("hidden");
+        document.getElementById("ca-owners-view").classList.remove("hidden");
+
+        const tbody = document.getElementById("ca-owners-tbody");
+        tbody.innerHTML = "";
+
+        ccadbData.ca_owners.forEach((ca, index) => {
+          // Single CA row with all data
+          const caRow = document.createElement("tr");
+          caRow.className = "ca-row";
+          caRow.onclick = () => showCARecords(ca);
+
+          const countries = ca.countries.join(", ");
+          caRow.innerHTML = `
+            <td>${ca.ca_owner}</td>
+            <td>${countries}</td>
+            <td>${ca.record_count}</td>
+            <td>${ca.aggregated_counts ? ca.aggregated_counts.trusted_roots : 0}</td>
+            <td>${ca.aggregated_counts ? ca.aggregated_counts.partially_trusted_roots : 0}</td>
+            <td>${ca.aggregated_counts ? ca.aggregated_counts.untrusted_roots : 0}</td>
+            <td>${ca.aggregated_counts ? ca.aggregated_counts.intermediates : 0}</td>
+          `;
+          tbody.appendChild(caRow);
+        });
+      }
+
+      // Show CA records view
+      async function showCARecords(ca) {
+        currentCA = ca;
+        document.getElementById("ca-owners-view").classList.add("hidden");
+        document.getElementById("record-details-view").classList.add("hidden");
+        document.getElementById("ca-records-view").classList.remove("hidden");
+
+        document.getElementById("ca-records-title").textContent =
+          `Records for ${ca.ca_owner}`;
+
+        try {
+          const response = await fetch(`data/ccadb/ca/${ca.output_filename}`);
+          if (!response.ok) {
+            throw new Error("Failed to load CA records");
+          }
+          const records = await response.json();
+
+          const tbody = document.getElementById("ca-records-tbody");
+          tbody.innerHTML = "";
+
+          records.forEach((record, index) => {
+            // Single record row with all data
+            const recordRow = document.createElement("tr");
+            recordRow.className = "record-row";
+            recordRow.onclick = () => showRecordDetails(record);
+
+            recordRow.innerHTML = `
+              <td>${record["Certificate Name"] || "N/A"}</td>
+              <td>${record["Certificate Record Type"] || "N/A"}</td>
+              <td>${record["Apple Status"] || "N/A"}</td>
+              <td>${record["Chrome Status"] || "N/A"}</td>
+              <td>${record["Microsoft Status"] || "N/A"}</td>
+              <td>${record["Mozilla Status"] || "N/A"}</td>
+            `;
+            tbody.appendChild(recordRow);
+          });
+        } catch (error) {
+          showError("Error loading CA records: " + error.message);
+        }
+      }
+
+      // Show record details view
+      function showRecordDetails(record) {
+        currentRecord = record;
+        document.getElementById("ca-records-view").classList.add("hidden");
+        document
+          .getElementById("record-details-view")
+          .classList.remove("hidden");
+
+        document.getElementById("record-details-title").textContent =
+          `Details for ${record["Certificate Name"] || "Unknown Certificate"}`;
+
+        const content = document.getElementById("record-details-content");
+        content.innerHTML = "";
+
+        // Display all record fields
+        Object.entries(record).forEach(([key, value]) => {
+          const fieldDiv = document.createElement("div");
+          fieldDiv.className = "record-field";
+          fieldDiv.innerHTML = `
+            <div class="field-name">${key}:</div>
+            <div class="field-value">${value || "N/A"}</div>
+          `;
+          content.appendChild(fieldDiv);
+        });
+      }
+
+      // Event listeners
+      document.getElementById("back-to-owners").onclick = showCAOwners;
+      document.getElementById("back-to-records").onclick = () =>
+        showCARecords(currentCA);
+
+      // Load data when page loads
+      document.addEventListener("DOMContentLoaded", loadCCADBData);
+    </script>
+  </body>
+</html>
