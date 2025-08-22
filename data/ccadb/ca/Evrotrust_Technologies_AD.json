@@ -1,0 +1,30 @@
+[
+  {
+    "CA Owner": "Evrotrust Technologies AD",
+    "Salesforce Record ID": "0014o00001nqlHUAAY",
+    "Certificate Name": "Evrotrust RSA Root CA",
+    "Parent Salesforce Record ID": "0014o00001nQXiBAAW",
+    "Parent Certificate Name": "Evrotrust Technologies AD",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "B49CF652B72E586498DB42CD007500912FD1672AFC3DFF0B11B927EA97D41A2D",
+    "Valid From (GMT)": "2016.05.20",
+    "Valid To (GMT)": "2036.05.20",
+    "Subject Key Identifier": "dFyhQHMuH+b5O7yroKSnVER0T3A=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Bulgaria"
+  }
+]

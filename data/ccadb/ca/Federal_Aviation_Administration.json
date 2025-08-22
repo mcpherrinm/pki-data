@@ -1,0 +1,31 @@
+[
+  {
+    "CA Owner": "Federal Aviation Administration",
+    "Salesforce Record ID": "001TO00000EaPz7YAF",
+    "Certificate Name": "FAA_IDMS_ROOT_CA_R1",
+    "Parent Salesforce Record ID": "001TO00000DlFXCYA3",
+    "Parent Certificate Name": "Federal Aviation Administration",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "94E7B0985F419C3AA8C5EE4260E10EEBFDEDB55DB8F15DB48D61470F252949A0",
+    "Valid From (GMT)": "2024.06.18",
+    "Valid To (GMT)": "2044.06.17",
+    "Subject Key Identifier": "DbK0+AD4oQ6tF+D6EjKH9S47CE4=",
+    "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "https://idms-repository.faa.gov/crl/FAA_IDMS_ROOT_CA_R1.crl",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "US"
+  }
+]

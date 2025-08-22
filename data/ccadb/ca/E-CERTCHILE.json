@@ -1,0 +1,30 @@
+[
+  {
+    "CA Owner": "E-CERTCHILE",
+    "Salesforce Record ID": "0018Z00002iKhWbQAK",
+    "Certificate Name": "E-CERT ROOT CA",
+    "Parent Salesforce Record ID": "0018Z00002Y0c3VQAR",
+    "Parent Certificate Name": "E-CERTCHILE",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Removed",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "C109E0D1B64000B01E894BDAA955E1FF91B6D084A838D90E044B9E3FCD2A8BFA",
+    "Valid From (GMT)": "2008.09.05",
+    "Valid To (GMT)": "2028.09.05",
+    "Subject Key Identifier": "UN2C0YiSLY886bpdx2Jm4m97qyA=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Chile"
+  }
+]
