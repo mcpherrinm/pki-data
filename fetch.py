@@ -42,18 +42,18 @@ def save_json(data, filepath, description):
         sys.exit(1)
 
 
-def fetch_csv_data(url, description):
+def fetch_csv_data(url):
     """Fetch CSV data from a URL and return it as a string."""
-    print(f"Fetching {description}...")
+    print(f"Fetching {url}...")
     try:
         with urllib.request.urlopen(url) as response:
             data = response.read().decode("utf-8")
             return data
     except urllib.error.URLError as e:
-        print(f"Error fetching {description}: {e}")
+        print(f"Error fetching {url}: {e}")
         sys.exit(1)
     except UnicodeDecodeError as e:
-        print(f"Error decoding CSV data for {description}: {e}")
+        print(f"Error decoding CSV data for {url}: {e}")
         sys.exit(1)
 
 
@@ -71,7 +71,9 @@ def convert_ccadb_csv_to_json(csv_data):
 
         for row in reader:
             # Clean up the row data and omit empty strings
-            clean_row = {k.strip(): v.strip() for k, v in row.items() if v and v.strip()}
+            clean_row = {
+                k.strip(): v.strip() for k, v in row.items() if v and v.strip()
+            }
             all_records.append(clean_row)
 
             # Group by CA Owner
@@ -84,49 +86,71 @@ def convert_ccadb_csv_to_json(csv_data):
         for ca_owner, records in ca_owners.items():
             # Collect countries (deduplicated)
             countries = set()
-            
-            # Count statuses for each browser
-            apple_status_counts = defaultdict(int)
-            chrome_status_counts = defaultdict(int)
-            microsoft_status_counts = defaultdict(int)
-            mozilla_status_counts = defaultdict(int)
-            
+
             for record in records:
                 # Collect country
                 country = record.get("Country", "").strip()
                 if country:
                     countries.add(country)
-                
-                # Count statuses
-                apple_status = record.get("Apple Status", "").strip()
-                if apple_status:
-                    apple_status_counts[apple_status] += 1
-                    
-                chrome_status = record.get("Chrome Status", "").strip()
-                if chrome_status:
-                    chrome_status_counts[chrome_status] += 1
-                    
-                microsoft_status = record.get("Microsoft Status", "").strip()
-                if microsoft_status:
-                    microsoft_status_counts[microsoft_status] += 1
-                    
-                mozilla_status = record.get("Mozilla Status", "").strip()
-                if mozilla_status:
-                    mozilla_status_counts[mozilla_status] += 1
-            
+
+            # Calculate aggregated counts for roots and intermediates
+            trusted_roots = 0
+            partially_trusted_roots = 0
+            untrusted_roots = 0
+            intermediates = 0
+
+            for record in records:
+                record_type = record.get("Certificate Record Type", "").strip()
+
+                if record_type == "Intermediate Certificate":
+                    intermediates += 1
+                elif record_type == "Root Certificate":
+                    # Get statuses for all four programs
+                    apple_status = record.get("Apple Status", "").strip()
+                    chrome_status = record.get("Chrome Status", "").strip()
+                    microsoft_status = record.get("Microsoft Status", "").strip()
+                    mozilla_status = record.get("Mozilla Status", "").strip()
+
+                    # Define trusted statuses for each program
+                    trusted_statuses = {
+                        "apple": ["Included"],
+                        "chrome": ["Included"],
+                        "microsoft": ["Included", "Trusted"],
+                        "mozilla": ["Included"],
+                    }
+
+                    # Count how many programs trust this root
+                    trusted_count = 0
+                    if apple_status in trusted_statuses["apple"]:
+                        trusted_count += 1
+                    if chrome_status in trusted_statuses["chrome"]:
+                        trusted_count += 1
+                    if microsoft_status in trusted_statuses["microsoft"]:
+                        trusted_count += 1
+                    if mozilla_status in trusted_statuses["mozilla"]:
+                        trusted_count += 1
+
+                    # Categorize based on trust level
+                    if trusted_count == 4:
+                        trusted_roots += 1
+                    elif trusted_count > 0:
+                        partially_trusted_roots += 1
+                    else:
+                        untrusted_roots += 1
+
             # Create enhanced CA owner entry
             ca_entry = {
                 "ca_owner": ca_owner,
                 "record_count": len(records),
                 "countries": sorted(list(countries)),
-                "status_counts": {
-                    "apple": dict(apple_status_counts),
-                    "chrome": dict(chrome_status_counts),
-                    "microsoft": dict(microsoft_status_counts),
-                    "mozilla": dict(mozilla_status_counts)
-                }
+                "aggregated_counts": {
+                    "trusted_roots": trusted_roots,
+                    "partially_trusted_roots": partially_trusted_roots,
+                    "untrusted_roots": untrusted_roots,
+                    "intermediates": intermediates,
+                },
             }
-            
+
             ca_owners_list.append(ca_entry)
 
         # Sort by CA owner name
@@ -145,13 +169,13 @@ def convert_ccadb_csv_to_json(csv_data):
 
             filepath = f"data/ccadb/ca/{safe_filename}.json"
             filename = f"{safe_filename}.json"
-            
+
             # Add filename to the corresponding ca_owners_list entry
             for ca_entry in ca_owners_list:
                 if ca_entry["ca_owner"] == ca_owner:
                     ca_entry["output_filename"] = filename
                     break
-            
+
             save_json(records, filepath, f"CCADB records for {ca_owner}")
 
         # Save main JSON file after filenames have been added
@@ -210,9 +234,7 @@ def main():
     ccadb_csv_url = (
         "https://ccadb.my.salesforce-sites.com/ccadb/AllCertificateRecordsCSVFormatv3"
     )
-    ccadb_csv_data = fetch_csv_data(
-        ccadb_csv_url, "CCADB All Certificate Records"
-    )
+    ccadb_csv_data = fetch_csv_data(ccadb_csv_url)
 
     # Convert CCADB CSV to JSON
     convert_ccadb_csv_to_json(ccadb_csv_data)
