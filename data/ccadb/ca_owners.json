@@ -45,34 +45,6 @@
       "output_filename": "ACIN_-_iCloud_Solutions_Lda.json"
     },
     {
-      "ca_owner": "AOL",
-      "record_count": 2,
-      "countries": [
-        "United States of America"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 0
-      },
-      "output_filename": "AOL.json"
-    },
-    {
-      "ca_owner": "AUTORITE NATIONALE DE CERTIFICATION ELECTRONIQUE",
-      "record_count": 16,
-      "countries": [
-        "Algeria"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 15
-      },
-      "output_filename": "AUTORITE_NATIONALE_DE_CERTIFICATION_ELECTRONIQUE.json"
-    },
-    {
       "ca_owner": "Actalis",
       "record_count": 48,
       "countries": [
@@ -141,6 +113,20 @@
         "intermediates": 0
       },
       "output_filename": "An_Post.json"
+    },
+    {
+      "ca_owner": "AOL",
+      "record_count": 2,
+      "countries": [
+        "United States of America"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
+      },
+      "output_filename": "AOL.json"
     },
     {
       "ca_owner": "Apple Inc.",
@@ -241,18 +227,18 @@
       "output_filename": "Autoridad_de_Certificación_ANF_AC.json"
     },
     {
-      "ca_owner": "BEIJING CERTIFICATE AUTHORITY Co., Ltd.",
-      "record_count": 42,
+      "ca_owner": "AUTORITE NATIONALE DE CERTIFICATION ELECTRONIQUE",
+      "record_count": 16,
       "countries": [
-        "China"
+        "Algeria"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 4,
-        "intermediates": 36
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 15
       },
-      "output_filename": "BEIJING_CERTIFICATE_AUTHORITY_Co_Ltd.json"
+      "output_filename": "AUTORITE_NATIONALE_DE_CERTIFICATION_ELECTRONIQUE.json"
     },
     {
       "ca_owner": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
@@ -267,6 +253,34 @@
         "intermediates": 0
       },
       "output_filename": "Bangladesh_Office_of_the_Controller_of_Certifying_Authorities_CCA.json"
+    },
+    {
+      "ca_owner": "BEIJING CERTIFICATE AUTHORITY Co., Ltd.",
+      "record_count": 42,
+      "countries": [
+        "China"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 4,
+        "intermediates": 36
+      },
+      "output_filename": "BEIJING_CERTIFICATE_AUTHORITY_Co_Ltd.json"
+    },
+    {
+      "ca_owner": "brainit.sk, s. r. o.",
+      "record_count": 1,
+      "countries": [
+        "Slovakia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "brainitsk_s_r_o.json"
     },
     {
       "ca_owner": "Buypass",
@@ -311,20 +325,6 @@
       "output_filename": "Carillon_Information_Security_Inc.json"
     },
     {
-      "ca_owner": "CertEurope France",
-      "record_count": 1,
-      "countries": [
-        "France"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "CertEurope_France.json"
-    },
-    {
       "ca_owner": "Certainly LLC",
       "record_count": 4,
       "countries": [
@@ -337,6 +337,20 @@
         "intermediates": 2
       },
       "output_filename": "Certainly_LLC.json"
+    },
+    {
+      "ca_owner": "CertEurope France",
+      "record_count": 1,
+      "countries": [
+        "France"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "CertEurope_France.json"
     },
     {
       "ca_owner": "Certicámara",
@@ -409,6 +423,20 @@
       "output_filename": "Certisign_Certificadora_Digital.json"
     },
     {
+      "ca_owner": "certSIGN",
+      "record_count": 21,
+      "countries": [
+        "Romania"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 0,
+        "intermediates": 19
+      },
+      "output_filename": "certSIGN.json"
+    },
+    {
       "ca_owner": "China Financial Certification Authority (CFCA)",
       "record_count": 13,
       "countries": [
@@ -479,20 +507,6 @@
       "output_filename": "Collegio_de_Registradores_Mercantile_Spanish_Property__Commerce_Registry.json"
     },
     {
-      "ca_owner": "ComSign",
-      "record_count": 21,
-      "countries": [
-        "Israel"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 3,
-        "intermediates": 17
-      },
-      "output_filename": "ComSign.json"
-    },
-    {
       "ca_owner": "CommScope",
       "record_count": 10,
       "countries": [
@@ -505,6 +519,20 @@
         "intermediates": 6
       },
       "output_filename": "CommScope.json"
+    },
+    {
+      "ca_owner": "ComSign",
+      "record_count": 21,
+      "countries": [
+        "Israel"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 3,
+        "intermediates": 17
+      },
+      "output_filename": "ComSign.json"
     },
     {
       "ca_owner": "Consejo General de la Abogacía Española",
@@ -577,20 +605,6 @@
       "output_filename": "D-Trust.json"
     },
     {
-      "ca_owner": "DATEV eG",
-      "record_count": 9,
-      "countries": [
-        "Germany"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 9,
-        "intermediates": 0
-      },
-      "output_filename": "DATEV_eG.json"
-    },
-    {
       "ca_owner": "DarkMatter LLC",
       "record_count": 24,
       "countries": [
@@ -603,6 +617,20 @@
         "intermediates": 14
       },
       "output_filename": "DarkMatter_LLC.json"
+    },
+    {
+      "ca_owner": "DATEV eG",
+      "record_count": 9,
+      "countries": [
+        "Germany"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 9,
+        "intermediates": 0
+      },
+      "output_filename": "DATEV_eG.json"
     },
     {
       "ca_owner": "Department of Defence Australia",
@@ -661,20 +689,6 @@
       "output_filename": "DigiCert.json"
     },
     {
-      "ca_owner": "DigiNotar",
-      "record_count": 4,
-      "countries": [
-        "NL"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 4,
-        "intermediates": 0
-      },
-      "output_filename": "DigiNotar.json"
-    },
-    {
       "ca_owner": "Digidentity B.V.",
       "record_count": 6,
       "countries": [
@@ -687,6 +701,20 @@
         "intermediates": 4
       },
       "output_filename": "Digidentity_BV.json"
+    },
+    {
+      "ca_owner": "DigiNotar",
+      "record_count": 4,
+      "countries": [
+        "NL"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 0
+      },
+      "output_filename": "DigiNotar.json"
     },
     {
       "ca_owner": "DigitalSign - Certificadora Digital, S.A.",
@@ -773,6 +801,48 @@
       "output_filename": "E-CERTCHILE.json"
     },
     {
+      "ca_owner": "e-commerce monitoring GmbH",
+      "record_count": 58,
+      "countries": [
+        "Austria"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 2,
+        "intermediates": 53
+      },
+      "output_filename": "e-commerce_monitoring_GmbH.json"
+    },
+    {
+      "ca_owner": "e-Guven Elektronik Bilgi Guvenligi A.S.",
+      "record_count": 3,
+      "countries": [
+        "Turkey"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
+      },
+      "output_filename": "e-Guven_Elektronik_Bilgi_Guvenligi_AS.json"
+    },
+    {
+      "ca_owner": "e-tugra",
+      "record_count": 6,
+      "countries": [
+        "Turkey"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 4
+      },
+      "output_filename": "e-tugra.json"
+    },
+    {
       "ca_owner": "E-Tugra",
       "record_count": 13,
       "countries": [
@@ -785,20 +855,6 @@
         "intermediates": 11
       },
       "output_filename": "E-Tugra.json"
-    },
-    {
-      "ca_owner": "EDICOM",
-      "record_count": 7,
-      "countries": [
-        "Spain"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 1,
-        "intermediates": 5
-      },
-      "output_filename": "EDICOM.json"
     },
     {
       "ca_owner": "Echoworx",
@@ -815,6 +871,20 @@
       "output_filename": "Echoworx.json"
     },
     {
+      "ca_owner": "EDICOM",
+      "record_count": 7,
+      "countries": [
+        "Spain"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 5
+      },
+      "output_filename": "EDICOM.json"
+    },
+    {
       "ca_owner": "Electronic Certification Accreditation Council (ECAC)",
       "record_count": 21,
       "countries": [
@@ -829,6 +899,20 @@
       "output_filename": "Electronic_Certification_Accreditation_Council_ECAC.json"
     },
     {
+      "ca_owner": "eMudhra Technologies Limited",
+      "record_count": 108,
+      "countries": [
+        "India"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 10,
+        "intermediates": 92
+      },
+      "output_filename": "eMudhra_Technologies_Limited.json"
+    },
+    {
       "ca_owner": "Entrust",
       "record_count": 180,
       "countries": [
@@ -841,6 +925,20 @@
         "intermediates": 159
       },
       "output_filename": "Entrust.json"
+    },
+    {
+      "ca_owner": "eSign Australia",
+      "record_count": 2,
+      "countries": [
+        "Australia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
+      },
+      "output_filename": "eSign_Australia.json"
     },
     {
       "ca_owner": "European Agency of Digital Trust",
@@ -1333,6 +1431,20 @@
       "output_filename": "Government_of_Venezuela_Superintendencia_de_Servicios_de_Certificación_Electrónica_SUSCERTE.json"
     },
     {
+      "ca_owner": "Halcom D.D.",
+      "record_count": 9,
+      "countries": [
+        "Slovenia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 3,
+        "intermediates": 5
+      },
+      "output_filename": "Halcom_DD.json"
+    },
+    {
       "ca_owner": "HALCOM d.d.",
       "record_count": 5,
       "countries": [
@@ -1359,48 +1471,6 @@
         "intermediates": 211
       },
       "output_filename": "HARICA.json"
-    },
-    {
-      "ca_owner": "Halcom D.D.",
-      "record_count": 9,
-      "countries": [
-        "Slovenia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 3,
-        "intermediates": 5
-      },
-      "output_filename": "Halcom_DD.json"
-    },
-    {
-      "ca_owner": "IPS Certification Authority s.l. ipsCA",
-      "record_count": 2,
-      "countries": [
-        "Spain"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 0
-      },
-      "output_filename": "IPS_Certification_Authority_sl_ipsCA.json"
-    },
-    {
-      "ca_owner": "IPS Seguridad CA",
-      "record_count": 1,
-      "countries": [
-        "Spain"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "IPS_Seguridad_CA.json"
     },
     {
       "ca_owner": "IdenTrust Services, LLC",
@@ -1473,6 +1543,48 @@
       "output_filename": "Internet_Security_Research_Group.json"
     },
     {
+      "ca_owner": "IPS Certification Authority s.l. ipsCA",
+      "record_count": 2,
+      "countries": [
+        "Spain"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
+      },
+      "output_filename": "IPS_Certification_Authority_sl_ipsCA.json"
+    },
+    {
+      "ca_owner": "IPS Seguridad CA",
+      "record_count": 1,
+      "countries": [
+        "Spain"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "IPS_Seguridad_CA.json"
+    },
+    {
+      "ca_owner": "iTrusChina Co., Ltd.",
+      "record_count": 17,
+      "countries": [
+        "China"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 15
+      },
+      "output_filename": "iTrusChina_Co_Ltd.json"
+    },
+    {
       "ca_owner": "Izenpe S.A.",
       "record_count": 20,
       "countries": [
@@ -1487,20 +1599,6 @@
       "output_filename": "Izenpe_SA.json"
     },
     {
-      "ca_owner": "JIPDEC",
-      "record_count": 1,
-      "countries": [
-        "Japan"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "JIPDEC.json"
-    },
-    {
       "ca_owner": "Japan Local Authority Information Systems (J-LIS)",
       "record_count": 5,
       "countries": [
@@ -1513,6 +1611,20 @@
         "intermediates": 2
       },
       "output_filename": "Japan_Local_Authority_Information_Systems_J-LIS.json"
+    },
+    {
+      "ca_owner": "JIPDEC",
+      "record_count": 1,
+      "countries": [
+        "Japan"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "JIPDEC.json"
     },
     {
       "ca_owner": "Korea Information Security Agency (KISA)",
@@ -1571,34 +1683,6 @@
       "output_filename": "LuxTrust.json"
     },
     {
-      "ca_owner": "MSC Trustgate",
-      "record_count": 15,
-      "countries": [
-        "Malaysia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 7,
-        "intermediates": 8
-      },
-      "output_filename": "MSC_Trustgate.json"
-    },
-    {
-      "ca_owner": "MULTICERT",
-      "record_count": 7,
-      "countries": [
-        "Portugal"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 0,
-        "intermediates": 6
-      },
-      "output_filename": "MULTICERT.json"
-    },
-    {
       "ca_owner": "Macao Post and Telecommunications Bureau",
       "record_count": 10,
       "countries": [
@@ -1641,74 +1725,32 @@
       "output_filename": "Microsoft_Corporation.json"
     },
     {
-      "ca_owner": "NATIXIS",
-      "record_count": 1,
+      "ca_owner": "MSC Trustgate",
+      "record_count": 15,
       "countries": [
-        "France"
+        "Malaysia"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
+        "untrusted_roots": 7,
+        "intermediates": 8
       },
-      "output_filename": "NATIXIS.json"
+      "output_filename": "MSC_Trustgate.json"
     },
     {
-      "ca_owner": "NAVER Cloud Trust Services",
-      "record_count": 8,
+      "ca_owner": "MULTICERT",
+      "record_count": 7,
       "countries": [
-        "Republic of Korea (South Korea)"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 1,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 0,
-        "intermediates": 5
-      },
-      "output_filename": "NAVER_Cloud_Trust_Services.json"
-    },
-    {
-      "ca_owner": "NETLOCK",
-      "record_count": 4,
-      "countries": [
-        "Hungary"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 4,
-        "intermediates": 0
-      },
-      "output_filename": "NETLOCK.json"
-    },
-    {
-      "ca_owner": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
-      "record_count": 1,
-      "countries": [
-        "Hungary"
+        "Portugal"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 0,
-        "intermediates": 0
+        "intermediates": 6
       },
-      "output_filename": "NISZ_Nemzeti_Infokommunikációs_Szolgáltató_Zrt.json"
-    },
-    {
-      "ca_owner": "NLB Nova Ljubljanska Banka d.d. Ljubljana",
-      "record_count": 1,
-      "countries": [
-        "Slovenia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "NLB_Nova_Ljubljanska_Banka_dd_Ljubljana.json"
+      "output_filename": "MULTICERT.json"
     },
     {
       "ca_owner": "National Authority for Digital Certification",
@@ -1739,6 +1781,34 @@
       "output_filename": "National_Certification_Authority_of_Sri_Lanka_NCA_of_Sri_Lanka.json"
     },
     {
+      "ca_owner": "NATIXIS",
+      "record_count": 1,
+      "countries": [
+        "France"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "NATIXIS.json"
+    },
+    {
+      "ca_owner": "NAVER Cloud Trust Services",
+      "record_count": 8,
+      "countries": [
+        "Republic of Korea (South Korea)"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 5
+      },
+      "output_filename": "NAVER_Cloud_Trust_Services.json"
+    },
+    {
       "ca_owner": "Netlock",
       "record_count": 50,
       "countries": [
@@ -1751,6 +1821,20 @@
         "intermediates": 41
       },
       "output_filename": "Netlock.json"
+    },
+    {
+      "ca_owner": "NETLOCK",
+      "record_count": 4,
+      "countries": [
+        "Hungary"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 0
+      },
+      "output_filename": "NETLOCK.json"
     },
     {
       "ca_owner": "Netrust Pte Ltd",
@@ -1793,6 +1877,34 @@
         "intermediates": 10
       },
       "output_filename": "Network_Solutions.json"
+    },
+    {
+      "ca_owner": "NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.",
+      "record_count": 1,
+      "countries": [
+        "Hungary"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 0
+      },
+      "output_filename": "NISZ_Nemzeti_Infokommunikációs_Szolgáltató_Zrt.json"
+    },
+    {
+      "ca_owner": "NLB Nova Ljubljanska Banka d.d. Ljubljana",
+      "record_count": 1,
+      "countries": [
+        "Slovenia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "NLB_Nova_Ljubljanska_Banka_dd_Ljubljana.json"
     },
     {
       "ca_owner": "Notarius",
@@ -1849,34 +1961,6 @@
         "intermediates": 0
       },
       "output_filename": "Orange_Polska_SA.json"
-    },
-    {
-      "ca_owner": "PROCERT",
-      "record_count": 1,
-      "countries": [
-        "Venezuela"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "PROCERT.json"
-    },
-    {
-      "ca_owner": "PT Indonesia Digital Identity",
-      "record_count": 1,
-      "countries": [
-        "Indonesia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "PT_Indonesia_Digital_Identity.json"
     },
     {
       "ca_owner": "Personal I.D. LTD",
@@ -1949,6 +2033,20 @@
       "output_filename": "PostSignum.json"
     },
     {
+      "ca_owner": "PROCERT",
+      "record_count": 1,
+      "countries": [
+        "Venezuela"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "PROCERT.json"
+    },
+    {
       "ca_owner": "První certifikační autorita, a.s.",
       "record_count": 25,
       "countries": [
@@ -1961,6 +2059,20 @@
         "intermediates": 16
       },
       "output_filename": "První_certifikační_autorita_as.json"
+    },
+    {
+      "ca_owner": "PT Indonesia Digital Identity",
+      "record_count": 1,
+      "countries": [
+        "Indonesia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "PT_Indonesia_Digital_Identity.json"
     },
     {
       "ca_owner": "QuoVadis",
@@ -1991,6 +2103,20 @@
       "output_filename": "RSA_the_Security_Division_of_EMC.json"
     },
     {
+      "ca_owner": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+      "record_count": 2,
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 1
+      },
+      "output_filename": "Saudi_Data_and_Artificial_Intelligence_Authority_SDAIA.json"
+    },
+    {
       "ca_owner": "SECOM Trust Systems CO., LTD.",
       "record_count": 160,
       "countries": [
@@ -2017,118 +2143,6 @@
         "intermediates": 23
       },
       "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
-    },
-    {
-      "ca_owner": "SG Trust Services",
-      "record_count": 1,
-      "countries": [
-        "France"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "SG_Trust_Services.json"
-    },
-    {
-      "ca_owner": "SI-TRUST",
-      "record_count": 8,
-      "countries": [
-        "Slovenia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 2,
-        "intermediates": 5
-      },
-      "output_filename": "SI-TRUST.json"
-    },
-    {
-      "ca_owner": "SISP - Sociedade Interbancaria e Sistemas de Pagamentos, S.A.",
-      "record_count": 5,
-      "countries": [
-        "Cabo Verde"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 3,
-        "intermediates": 2
-      },
-      "output_filename": "SISP_-_Sociedade_Interbancaria_e_Sistemas_de_Pagamentos_SA.json"
-    },
-    {
-      "ca_owner": "SK ID Solutions AS",
-      "record_count": 19,
-      "countries": [
-        "Estonia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 17
-      },
-      "output_filename": "SK_ID_Solutions_AS.json"
-    },
-    {
-      "ca_owner": "SOLUTI GLOBAL ROOT CA",
-      "record_count": 5,
-      "countries": [
-        "Brazil"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 4
-      },
-      "output_filename": "SOLUTI_GLOBAL_ROOT_CA.json"
-    },
-    {
-      "ca_owner": "SSL.com",
-      "record_count": 226,
-      "countries": [
-        "United States of America"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 6,
-        "partially_trusted_roots": 6,
-        "untrusted_roots": 3,
-        "intermediates": 211
-      },
-      "output_filename": "SSLcom.json"
-    },
-    {
-      "ca_owner": "SSLCOM GROUP LTD",
-      "record_count": 8,
-      "countries": [
-        "Israel"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 6
-      },
-      "output_filename": "SSLCOM_GROUP_LTD.json"
-    },
-    {
-      "ca_owner": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
-      "record_count": 2,
-      "countries": [
-        "Saudi Arabia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 1
-      },
-      "output_filename": "Saudi_Data_and_Artificial_Intelligence_Authority_SDAIA.json"
     },
     {
       "ca_owner": "Sectigo",
@@ -2173,6 +2187,20 @@
       "output_filename": "Serviço_Federal_de_Processamento_de_Dados.json"
     },
     {
+      "ca_owner": "SG Trust Services",
+      "record_count": 1,
+      "countries": [
+        "France"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "SG_Trust_Services.json"
+    },
+    {
       "ca_owner": "Shanghai Electronic Certification Authority Co., Ltd.",
       "record_count": 98,
       "countries": [
@@ -2187,6 +2215,48 @@
       "output_filename": "Shanghai_Electronic_Certification_Authority_Co_Ltd.json"
     },
     {
+      "ca_owner": "SI-TRUST",
+      "record_count": 8,
+      "countries": [
+        "Slovenia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 5
+      },
+      "output_filename": "SI-TRUST.json"
+    },
+    {
+      "ca_owner": "SISP - Sociedade Interbancaria e Sistemas de Pagamentos, S.A.",
+      "record_count": 5,
+      "countries": [
+        "Cabo Verde"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 2
+      },
+      "output_filename": "SISP_-_Sociedade_Interbancaria_e_Sistemas_de_Pagamentos_SA.json"
+    },
+    {
+      "ca_owner": "SK ID Solutions AS",
+      "record_count": 19,
+      "countries": [
+        "Estonia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 17
+      },
+      "output_filename": "SK_ID_Solutions_AS.json"
+    },
+    {
       "ca_owner": "Skaitmeninio sertifikavimo centras (SSC)",
       "record_count": 10,
       "countries": [
@@ -2199,6 +2269,48 @@
         "intermediates": 4
       },
       "output_filename": "Skaitmeninio_sertifikavimo_centras_SSC.json"
+    },
+    {
+      "ca_owner": "SOLUTI GLOBAL ROOT CA",
+      "record_count": 5,
+      "countries": [
+        "Brazil"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 4
+      },
+      "output_filename": "SOLUTI_GLOBAL_ROOT_CA.json"
+    },
+    {
+      "ca_owner": "SSL.com",
+      "record_count": 226,
+      "countries": [
+        "United States of America"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 6,
+        "partially_trusted_roots": 6,
+        "untrusted_roots": 3,
+        "intermediates": 211
+      },
+      "output_filename": "SSLcom.json"
+    },
+    {
+      "ca_owner": "SSLCOM GROUP LTD",
+      "record_count": 8,
+      "countries": [
+        "Israel"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 6
+      },
+      "output_filename": "SSLCOM_GROUP_LTD.json"
     },
     {
       "ca_owner": "Start Commercial (StartCom) Ltd.",
@@ -2229,20 +2341,6 @@
       "output_filename": "Swiss_BIT_Swiss_Federal_Office_of_Information_Technology_Systems_and_Telecommunication_FOITT.json"
     },
     {
-      "ca_owner": "SwissSign AG",
-      "record_count": 86,
-      "countries": [
-        "Switzerland"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 1,
-        "partially_trusted_roots": 3,
-        "untrusted_roots": 4,
-        "intermediates": 78
-      },
-      "output_filename": "SwissSign_AG.json"
-    },
-    {
       "ca_owner": "Swisscom (Switzerland) Ltd",
       "record_count": 24,
       "countries": [
@@ -2269,6 +2367,20 @@
         "intermediates": 0
       },
       "output_filename": "Swisskey_AG.json"
+    },
+    {
+      "ca_owner": "SwissSign AG",
+      "record_count": 86,
+      "countries": [
+        "Switzerland"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 4,
+        "intermediates": 78
+      },
+      "output_filename": "SwissSign_AG.json"
     },
     {
       "ca_owner": "Taiwan-CA Inc. (TWCA)",
@@ -2535,118 +2647,6 @@
         "intermediates": 3
       },
       "output_filename": "Zetes.json"
-    },
-    {
-      "ca_owner": "brainit.sk, s. r. o.",
-      "record_count": 1,
-      "countries": [
-        "Slovakia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
-        "intermediates": 0
-      },
-      "output_filename": "brainitsk_s_r_o.json"
-    },
-    {
-      "ca_owner": "certSIGN",
-      "record_count": 21,
-      "countries": [
-        "Romania"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 2,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 0,
-        "intermediates": 19
-      },
-      "output_filename": "certSIGN.json"
-    },
-    {
-      "ca_owner": "e-Guven Elektronik Bilgi Guvenligi A.S.",
-      "record_count": 3,
-      "countries": [
-        "Turkey"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 3,
-        "intermediates": 0
-      },
-      "output_filename": "e-Guven_Elektronik_Bilgi_Guvenligi_AS.json"
-    },
-    {
-      "ca_owner": "e-commerce monitoring GmbH",
-      "record_count": 58,
-      "countries": [
-        "Austria"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 3,
-        "untrusted_roots": 2,
-        "intermediates": 53
-      },
-      "output_filename": "e-commerce_monitoring_GmbH.json"
-    },
-    {
-      "ca_owner": "e-tugra",
-      "record_count": 6,
-      "countries": [
-        "Turkey"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 4
-      },
-      "output_filename": "e-tugra.json"
-    },
-    {
-      "ca_owner": "eMudhra Technologies Limited",
-      "record_count": 108,
-      "countries": [
-        "India"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 2,
-        "partially_trusted_roots": 4,
-        "untrusted_roots": 10,
-        "intermediates": 92
-      },
-      "output_filename": "eMudhra_Technologies_Limited.json"
-    },
-    {
-      "ca_owner": "eSign Australia",
-      "record_count": 2,
-      "countries": [
-        "Australia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 0
-      },
-      "output_filename": "eSign_Australia.json"
-    },
-    {
-      "ca_owner": "iTrusChina Co., Ltd.",
-      "record_count": 17,
-      "countries": [
-        "China"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 0,
-        "intermediates": 15
-      },
-      "output_filename": "iTrusChina_Co_Ltd.json"
     }
   ]
 }
