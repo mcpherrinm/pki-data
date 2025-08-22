@@ -35,18 +35,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Fetch Google CT Log Schema
-        run: curl -sSL 'https://www.gstatic.com/ct/log_list/v3/log_list_schema.json' | jq . > data/google/log_list_schema.json
-      - name: Fetch Apple CT Log Schema
-        run: curl -sSL 'https://valid.apple.com/ct/log_list/schema_versions/log_list_schema_v4.json' | jq . > data/apple/log_list_schema_v4.json
-      - name: Generate
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
-          cache: 'pip'
-      - run: pip install -r requirements.txt
-      - name: Generate html
-        run: python render.py
+      - name: Fetch CT Log Data
+        run: ./fetch-logs.sh
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
