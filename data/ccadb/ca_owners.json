@@ -8,22 +8,11 @@
       "countries": [
         "Austria"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 10
-        },
-        "chrome": {
-          "Not Included": 10
-        },
-        "microsoft": {
-          "Removed": 4,
-          "Disabled": 4,
-          "Included": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 9,
-          "Removed": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 8,
+        "intermediates": 0
       },
       "output_filename": "A-Trust.json"
     },
@@ -33,29 +22,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 2,
-          "Blocked": 2,
-          "Not Included": 3,
-          "Not Trusted": 64
-        },
-        "chrome": {
-          "Not Included": 7,
-          "Not Trusted": 64
-        },
-        "microsoft": {
-          "NotBefore": 2,
-          "Included": 4,
-          "Removed": 1,
-          "Not Trusted": 48,
-          "Trusted": 16
-        },
-        "mozilla": {
-          "Removed": 4,
-          "Not Yet Included": 3,
-          "Not Trusted": 64
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 3,
+        "intermediates": 64
       },
       "output_filename": "AC_Camerfirma_SA.json"
     },
@@ -65,23 +36,11 @@
       "countries": [
         "Portugal"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 1
       },
       "output_filename": "ACIN_-_iCloud_Solutions_Lda.json"
     },
@@ -91,20 +50,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Removed": 1
-        },
-        "mozilla": {
-          "Removed": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "AOL.json"
     },
@@ -114,23 +64,11 @@
       "countries": [
         "Algeria"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 15
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 15
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Not Trusted": 15
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 15
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 15
       },
       "output_filename": "AUTORITE_NATIONALE_DE_CERTIFICATION_ELECTRONIQUE.json"
     },
@@ -140,31 +78,11 @@
       "countries": [
         "Italy"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Included": 1,
-          "Not Trusted": 18,
-          "Trusted": 28
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Included": 1,
-          "Not Trusted": 24,
-          "Trusted": 22
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 1,
-          "Not Trusted": 17,
-          "Trusted": 29
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Included": 1,
-          "Not Trusted": 18,
-          "Trusted": 28
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 46
       },
       "output_filename": "Actalis.json"
     },
@@ -174,30 +92,11 @@
       "countries": [
         "Tunisia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Included": 1,
-          "Not Trusted": 1,
-          "Trusted": 2
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "NotBefore": 1,
-          "Included": 1,
-          "Not Trusted": 1,
-          "Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Included": 1,
-          "Not Trusted": 1,
-          "Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 3
       },
       "output_filename": "Agence_Nationale_de_Certification_Electronique.json"
     },
@@ -207,21 +106,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 7
-        },
-        "chrome": {
-          "Not Included": 7
-        },
-        "microsoft": {
-          "Removed": 2,
-          "Disabled": 3,
-          "Included": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 7
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 5,
+        "intermediates": 0
       },
       "output_filename": "Agencia_Notarial_de_Certificación_ANCERT.json"
     },
@@ -231,32 +120,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Included": 5,
-          "Not Trusted": 12,
-          "Trusted": 47
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Included": 4,
-          "Removed": 1,
-          "Not Trusted": 12,
-          "Trusted": 47
-        },
-        "microsoft": {
-          "Not Included": 3,
-          "Included": 5,
-          "Not Trusted": 12,
-          "Trusted": 47
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Included": 5,
-          "Not Trusted": 12,
-          "Trusted": 47
-        }
+      "aggregated_counts": {
+        "trusted_roots": 4,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 3,
+        "intermediates": 59
       },
       "output_filename": "Amazon_Trust_Services.json"
     },
@@ -266,19 +134,11 @@
       "countries": [
         "Ireland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Removed": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "An_Post.json"
     },
@@ -288,19 +148,11 @@
       "countries": [
         "US"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4
-        },
-        "chrome": {
-          "Not Included": 4
-        },
-        "microsoft": {
-          "Not Included": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 0
       },
       "output_filename": "Apple_Inc.json"
     },
@@ -310,19 +162,11 @@
       "countries": [
         "United Kingdom"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Aretiico_Group_PLC_and_Aretiico_Inc.json"
     },
@@ -332,23 +176,11 @@
       "countries": [
         "中国"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 2
       },
       "output_filename": "Aspire_Digital_Technology_Shenzhen_Co_Ltd.json"
     },
@@ -358,32 +190,11 @@
       "countries": [
         "Polska"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 5,
-          "Not Included": 9,
-          "Trusted": 113,
-          "Not Trusted": 61
-        },
-        "chrome": {
-          "Not Included": 10,
-          "Included": 4,
-          "Trusted": 106,
-          "Not Trusted": 68
-        },
-        "microsoft": {
-          "Included": 5,
-          "Not Included": 8,
-          "Removed": 1,
-          "Trusted": 122,
-          "Not Trusted": 52
-        },
-        "mozilla": {
-          "Included": 5,
-          "Not Yet Included": 9,
-          "Trusted": 112,
-          "Not Trusted": 62
-        }
+      "aggregated_counts": {
+        "trusted_roots": 4,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 9,
+        "intermediates": 174
       },
       "output_filename": "Asseco_Data_Systems_SA_previously_Unizeto_Certum.json"
     },
@@ -393,19 +204,11 @@
       "countries": [
         "Greece"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Athens_Exchange_SA_Athex.json"
     },
@@ -415,33 +218,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 1,
-          "Not Included": 3,
-          "Not Trusted": 27,
-          "Trusted": 8
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Included": 1,
-          "Not Trusted": 30,
-          "Trusted": 5
-        },
-        "microsoft": {
-          "Included": 2,
-          "Removed": 1,
-          "Not Included": 1,
-          "Not Trusted": 26,
-          "Trusted": 9
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 1,
-          "Included": 2,
-          "Not Trusted": 28,
-          "Trusted": 7
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 1,
+        "intermediates": 35
       },
       "output_filename": "Autoridad_de_Certificacion_Firmaprofesional.json"
     },
@@ -451,29 +232,11 @@
       "countries": [
         "España"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 1,
-          "Not Included": 4,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Included": 1,
-          "Not Trusted": 2,
-          "Trusted": 1
-        },
-        "microsoft": {
-          "Not Included": 3,
-          "Disabled": 2,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Included": 1,
-          "Not Trusted": 2,
-          "Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 4,
+        "intermediates": 3
       },
       "output_filename": "Autoridad_de_Certificación_ANF_AC.json"
     },
@@ -483,25 +246,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 36
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 36
-        },
-        "microsoft": {
-          "Not Included": 6,
-          "Not Trusted": 36
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Yet Included": 4,
-          "Not Trusted": 20,
-          "Trusted": 16
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 4,
+        "intermediates": 36
       },
       "output_filename": "BEIJING_CERTIFICATE_AUTHORITY_Co_Ltd.json"
     },
@@ -511,19 +260,11 @@
       "countries": [
         "Bangladesh"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Not Included": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Bangladesh_Office_of_the_Controller_of_Certifying_Authorities_CCA.json"
     },
@@ -533,32 +274,11 @@
       "countries": [
         "Norway"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Included": 2,
-          "Not Trusted": 13,
-          "Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Included": 2,
-          "Not Trusted": 14,
-          "Trusted": 4
-        },
-        "microsoft": {
-          "Removed": 2,
-          "Included": 3,
-          "Not Trusted": 13,
-          "Trusted": 5
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Included": 2,
-          "Not Yet Included": 1,
-          "Not Trusted": 14,
-          "Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 18
       },
       "output_filename": "Buypass.json"
     },
@@ -568,19 +288,11 @@
       "countries": [
         "Greece"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 0
       },
       "output_filename": "Byte_Computer_SA.json"
     },
@@ -590,20 +302,11 @@
       "countries": [
         "Canada"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Included": 1,
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Carillon_Information_Security_Inc.json"
     },
@@ -613,19 +316,11 @@
       "countries": [
         "France"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "CertEurope_France.json"
     },
@@ -635,23 +330,11 @@
       "countries": [
         "USA"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 2,
-          "Trusted": 2
-        },
-        "chrome": {
-          "Included": 2,
-          "Trusted": 2
-        },
-        "microsoft": {
-          "Not Included": 2,
-          "Trusted": 2
-        },
-        "mozilla": {
-          "Included": 2,
-          "Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 2
       },
       "output_filename": "Certainly_LLC.json"
     },
@@ -661,26 +344,11 @@
       "countries": [
         "Colombia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "Included": 1,
-          "Disabled": 1,
-          "Removed": 2,
-          "Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Removed": 1,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 3,
+        "intermediates": 1
       },
       "output_filename": "Certicámara.json"
     },
@@ -690,31 +358,11 @@
       "countries": [
         "France"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 1,
-          "Not Included": 5,
-          "Not Trusted": 44,
-          "Trusted": 14
-        },
-        "chrome": {
-          "Included": 2,
-          "Not Included": 4,
-          "Not Trusted": 43,
-          "Trusted": 15
-        },
-        "microsoft": {
-          "Included": 2,
-          "Not Included": 4,
-          "Not Trusted": 43,
-          "Trusted": 15
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Yet Included": 4,
-          "Not Trusted": 43,
-          "Trusted": 15
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 4,
+        "intermediates": 58
       },
       "output_filename": "Certigna.json"
     },
@@ -724,23 +372,11 @@
       "countries": [
         "United States"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Not Included": 6,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 6,
+        "intermediates": 2
       },
       "output_filename": "Certiphire_Inc.json"
     },
@@ -750,25 +386,11 @@
       "countries": [
         "Belgium"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 8,
-          "Not Trusted": 28
-        },
-        "chrome": {
-          "Not Included": 8,
-          "Not Trusted": 28
-        },
-        "microsoft": {
-          "Not Included": 3,
-          "Disabled": 3,
-          "Removed": 2,
-          "Not Trusted": 28
-        },
-        "mozilla": {
-          "Not Yet Included": 8,
-          "Not Trusted": 28
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 8,
+        "intermediates": 28
       },
       "output_filename": "Certipost_sanv.json"
     },
@@ -778,24 +400,11 @@
       "countries": [
         "Brazil"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Removed": 4,
-          "Not Included": 1,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 5,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 5,
+        "intermediates": 3
       },
       "output_filename": "Certisign_Certificadora_Digital.json"
     },
@@ -805,32 +414,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 1,
-          "Not Included": 6,
-          "Trusted": 3,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Included": 1,
-          "Not Included": 6,
-          "Trusted": 3,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Included": 2,
-          "Not Included": 4,
-          "Disabled": 1,
-          "Trusted": 3,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Included": 1,
-          "Not Yet Included": 6,
-          "Trusted": 3,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 5,
+        "intermediates": 6
       },
       "output_filename": "China_Financial_Certification_Authority_CFCA.json"
     },
@@ -840,24 +428,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Removed": 1,
-          "Not Trusted": 7
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 7
-        },
-        "microsoft": {
-          "Disabled": 2,
-          "Not Trusted": 7
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Trusted": 7
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 7
       },
       "output_filename": "China_Internet_Network_Information_Center_CNNIC.json"
     },
@@ -867,31 +442,11 @@
       "countries": [
         "Taiwan, Republic of China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Included": 2,
-          "Not Trusted": 9,
-          "Trusted": 16
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Included": 2,
-          "Not Trusted": 12,
-          "Trusted": 13
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Included": 4,
-          "Not Trusted": 6,
-          "Trusted": 19
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Included": 2,
-          "Not Trusted": 11,
-          "Trusted": 14
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 1,
+        "intermediates": 25
       },
       "output_filename": "Chunghwa_Telecom.json"
     },
@@ -901,24 +456,11 @@
       "countries": [
         "US"
       ],
-      "status_counts": {
-        "apple": {
-          "Blocked": 1,
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "NotBefore": 2,
-          "Not Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 1
       },
       "output_filename": "Cisco.json"
     },
@@ -928,20 +470,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Removed": 1,
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Collegio_de_Registradores_Mercantile_Spanish_Property__Commerce_Registry.json"
     },
@@ -951,28 +484,11 @@
       "countries": [
         "Israel"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Removed": 2,
-          "Blocked": 1,
-          "Not Trusted": 17
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 17
-        },
-        "microsoft": {
-          "Disabled": 3,
-          "Included": 1,
-          "Not Trusted": 11,
-          "Trusted": 6
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Removed": 2,
-          "Not Trusted": 17
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 3,
+        "intermediates": 17
       },
       "output_filename": "ComSign.json"
     },
@@ -982,23 +498,11 @@
       "countries": [
         "USA"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Not Trusted": 6
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 6
-        },
-        "microsoft": {
-          "Not Included": 4,
-          "Not Trusted": 6
-        },
-        "mozilla": {
-          "Included": 4,
-          "Trusted": 6
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 0,
+        "intermediates": 6
       },
       "output_filename": "CommScope.json"
     },
@@ -1008,24 +512,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Included": 1,
-          "Disabled": 1,
-          "Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 3
       },
       "output_filename": "Consejo_General_de_la_Abogacía_Española.json"
     },
@@ -1035,24 +526,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 19
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 19
-        },
-        "microsoft": {
-          "Included": 1,
-          "Trusted": 6,
-          "Not Trusted": 13
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Trusted": 19
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 19
       },
       "output_filename": "Consorci_Administració_Oberta_de_Catalunya_Consorci_AOC_CATCert.json"
     },
@@ -1062,30 +540,11 @@
       "countries": [
         "Japan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 12,
-          "Not Trusted": 40
-        },
-        "chrome": {
-          "Not Included": 11,
-          "Removed": 1,
-          "Not Trusted": 40
-        },
-        "microsoft": {
-          "Included": 6,
-          "Not Included": 3,
-          "Removed": 3,
-          "Not Trusted": 32,
-          "Trusted": 8
-        },
-        "mozilla": {
-          "Not Yet Included": 8,
-          "Included": 3,
-          "Removed": 1,
-          "Not Trusted": 35,
-          "Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 6,
+        "untrusted_roots": 6,
+        "intermediates": 40
       },
       "output_filename": "Cybertrust_Japan__JCSI.json"
     },
@@ -1095,31 +554,11 @@
       "countries": [
         "Germany"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Included": 3,
-          "Trusted": 15,
-          "Not Trusted": 14
-        },
-        "chrome": {
-          "Included": 4,
-          "Not Included": 5,
-          "Not Trusted": 22,
-          "Trusted": 7
-        },
-        "microsoft": {
-          "Included": 7,
-          "Disabled": 2,
-          "Trusted": 18,
-          "Not Trusted": 11
-        },
-        "mozilla": {
-          "Included": 7,
-          "Not Yet Included": 2,
-          "Trusted": 18,
-          "Not Trusted": 11
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 5,
+        "untrusted_roots": 2,
+        "intermediates": 29
       },
       "output_filename": "D-TRUST.json"
     },
@@ -1129,27 +568,11 @@
       "countries": [
         "Germany"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Trusted": 16,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 17,
-          "Trusted": 4
-        },
-        "microsoft": {
-          "Included": 2,
-          "Removed": 1,
-          "Trusted": 21
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Yet Included": 1,
-          "Trusted": 21
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 1,
+        "intermediates": 21
       },
       "output_filename": "D-Trust.json"
     },
@@ -1159,19 +582,11 @@
       "countries": [
         "Germany"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 9
-        },
-        "chrome": {
-          "Not Included": 9
-        },
-        "microsoft": {
-          "Disabled": 9
-        },
-        "mozilla": {
-          "Not Yet Included": 9
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 9,
+        "intermediates": 0
       },
       "output_filename": "DATEV_eG.json"
     },
@@ -1181,23 +596,11 @@
       "countries": [
         "UAE"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 10,
-          "Not Trusted": 14
-        },
-        "chrome": {
-          "Not Included": 10,
-          "Not Trusted": 14
-        },
-        "microsoft": {
-          "Not Included": 10,
-          "Not Trusted": 14
-        },
-        "mozilla": {
-          "Not Yet Included": 10,
-          "Not Trusted": 14
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 10,
+        "intermediates": 14
       },
       "output_filename": "DarkMatter_LLC.json"
     },
@@ -1207,20 +610,11 @@
       "countries": [
         "Australia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Department_of_Defence_Australia.json"
     },
@@ -1230,31 +624,11 @@
       "countries": [
         "Germany"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Included": 2,
-          "Not Trusted": 794,
-          "Trusted": 26
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Included": 2,
-          "Not Trusted": 800,
-          "Trusted": 20
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 6,
-          "Not Trusted": 776,
-          "Trusted": 44
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Included": 6,
-          "Not Trusted": 776,
-          "Trusted": 44
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 1,
+        "intermediates": 820
       },
       "output_filename": "Deutsche_Telekom_Security_GmbH.json"
     },
@@ -1264,19 +638,11 @@
       "countries": [
         "Germany"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "Disabled": 3
-        },
-        "mozilla": {
-          "Removed": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
       },
       "output_filename": "Deutscher_Sparkassen_Verlag_GmbH_S-TRUST_DSV-Gruppe.json"
     },
@@ -1286,38 +652,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 10,
-          "Not Included": 66,
-          "Blocked": 3,
-          "Removed": 17,
-          "Not Trusted": 1770,
-          "Trusted": 480
-        },
-        "chrome": {
-          "Removed": 1,
-          "Not Included": 85,
-          "Included": 10,
-          "Not Trusted": 1937,
-          "Trusted": 313
-        },
-        "microsoft": {
-          "Included": 26,
-          "Removed": 39,
-          "Disabled": 26,
-          "Not Included": 2,
-          "NotBefore": 3,
-          "Trusted": 565,
-          "Not Trusted": 1685
-        },
-        "mozilla": {
-          "Removed": 39,
-          "Not Yet Included": 45,
-          "Included": 12,
-          "Not Trusted": 1801,
-          "Trusted": 449
-        }
+      "aggregated_counts": {
+        "trusted_roots": 8,
+        "partially_trusted_roots": 19,
+        "untrusted_roots": 69,
+        "intermediates": 2250
       },
       "output_filename": "DigiCert.json"
     },
@@ -1327,20 +666,11 @@
       "countries": [
         "NL"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 3,
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 4
-        },
-        "microsoft": {
-          "Removed": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 0
       },
       "output_filename": "DigiNotar.json"
     },
@@ -1350,24 +680,11 @@
       "countries": [
         "Netherlands"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "NotBefore": 1,
-          "Not Trusted": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 4
       },
       "output_filename": "Digidentity_BV.json"
     },
@@ -1377,24 +694,11 @@
       "countries": [
         "Portugal"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 8
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 8
-        },
-        "microsoft": {
-          "Not Included": 2,
-          "Not Trusted": 8
-        },
-        "mozilla": {
-          "Included": 2,
-          "Trusted": 4,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 8
       },
       "output_filename": "DigitalSign_-_Certificadora_Digital_SA.json"
     },
@@ -1404,32 +708,11 @@
       "countries": [
         "Slovakia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Removed": 1,
-          "Included": 1,
-          "Not Trusted": 4,
-          "Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Included": 1,
-          "Not Trusted": 5,
-          "Trusted": 2
-        },
-        "microsoft": {
-          "Disabled": 2,
-          "Included": 1,
-          "Not Trusted": 4,
-          "Trusted": 3
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Included": 1,
-          "Not Trusted": 4,
-          "Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 7
       },
       "output_filename": "Disig_as.json"
     },
@@ -1439,25 +722,11 @@
       "countries": [
         "France"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 2,
-          "Not Trusted": 24
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 24
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 1,
-          "Not Trusted": 17,
-          "Trusted": 7
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Trusted": 24
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 24
       },
       "output_filename": "Docaposte_Certinomis_SAS.json"
     },
@@ -1467,26 +736,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 5,
-          "Not Included": 5,
-          "Not Trusted": 51
-        },
-        "chrome": {
-          "Not Included": 10,
-          "Not Trusted": 51
-        },
-        "microsoft": {
-          "Disabled": 9,
-          "Removed": 1,
-          "Not Trusted": 51
-        },
-        "mozilla": {
-          "Removed": 6,
-          "Not Yet Included": 4,
-          "Not Trusted": 51
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 10,
+        "intermediates": 51
       },
       "output_filename": "DocuSign_OpenTrustKeynectis.json"
     },
@@ -1496,23 +750,11 @@
       "countries": [
         "UAE"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 10
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 10
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Not Trusted": 10
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 10
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 10
       },
       "output_filename": "Dubai_Electronic_Security_Center_DESC.json"
     },
@@ -1522,19 +764,11 @@
       "countries": [
         "Chile"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "E-CERTCHILE.json"
     },
@@ -1544,24 +778,11 @@
       "countries": [
         "Turkey"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 11
-        },
-        "chrome": {
-          "Removed": 2,
-          "Not Trusted": 11
-        },
-        "microsoft": {
-          "Included": 2,
-          "Trusted": 6,
-          "Not Trusted": 5
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Trusted": 11
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 11
       },
       "output_filename": "E-Tugra.json"
     },
@@ -1571,26 +792,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 1,
-          "Not Trusted": 4,
-          "Trusted": 1
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 1,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 5
       },
       "output_filename": "EDICOM.json"
     },
@@ -1600,19 +806,11 @@
       "countries": [
         "Canada"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 0
       },
       "output_filename": "Echoworx.json"
     },
@@ -1622,23 +820,11 @@
       "countries": [
         "Pakistan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Not Trusted": 16
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Not Trusted": 16
-        },
-        "microsoft": {
-          "Not Included": 5,
-          "Not Trusted": 16
-        },
-        "mozilla": {
-          "Not Yet Included": 5,
-          "Not Trusted": 16
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 5,
+        "intermediates": 16
       },
       "output_filename": "Electronic_Certification_Accreditation_Council_ECAC.json"
     },
@@ -1648,34 +834,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 11,
-          "Included": 10,
-          "Not Trusted": 118,
-          "Trusted": 41
-        },
-        "chrome": {
-          "Not Included": 12,
-          "Included": 5,
-          "Removed": 4,
-          "Not Trusted": 134,
-          "Trusted": 25
-        },
-        "microsoft": {
-          "Included": 17,
-          "Not Included": 3,
-          "Removed": 1,
-          "Trusted": 60,
-          "Not Trusted": 99
-        },
-        "mozilla": {
-          "Not Yet Included": 11,
-          "Included": 9,
-          "Removed": 1,
-          "Not Trusted": 120,
-          "Trusted": 39
-        }
+      "aggregated_counts": {
+        "trusted_roots": 5,
+        "partially_trusted_roots": 13,
+        "untrusted_roots": 3,
+        "intermediates": 159
       },
       "output_filename": "Entrust.json"
     },
@@ -1685,19 +848,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "European_Agency_of_Digital_Trust.json"
     },
@@ -1707,28 +862,11 @@
       "countries": [
         "Germany"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 5,
-          "Trusted": 33,
-          "Not Trusted": 26
-        },
-        "chrome": {
-          "Included": 3,
-          "Not Included": 2,
-          "Not Trusted": 55,
-          "Trusted": 4
-        },
-        "microsoft": {
-          "Included": 5,
-          "Trusted": 35,
-          "Not Trusted": 24
-        },
-        "mozilla": {
-          "Included": 5,
-          "Trusted": 33,
-          "Not Trusted": 26
-        }
+      "aggregated_counts": {
+        "trusted_roots": 3,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 59
       },
       "output_filename": "Eviden.json"
     },
@@ -1738,19 +876,11 @@
       "countries": [
         "Bulgaria"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Evrotrust_Technologies_AD.json"
     },
@@ -1760,23 +890,11 @@
       "countries": [
         "United States"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Not Included": 6,
-          "Not Trusted": 5
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 6,
+        "intermediates": 5
       },
       "output_filename": "Example_CA.json"
     },
@@ -1786,19 +904,11 @@
       "countries": [
         "US"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Federal_Aviation_Administration.json"
     },
@@ -1808,19 +918,11 @@
       "countries": [
         "Croatia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 0
       },
       "output_filename": "Financijska_agencija_Fina.json"
     },
@@ -1830,19 +932,11 @@
       "countries": [
         "Colombia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Not Included": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "GESTIÓN_DE_SEGURIDAD_ELECTRÓNICA_SA.json"
     },
@@ -1852,19 +946,11 @@
       "countries": [
         "Colombia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 0,
+        "intermediates": 2
       },
       "output_filename": "Gestión_de_Seguridad_Electrónica_SA.json"
     },
@@ -1874,27 +960,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 1,
-          "Not Trusted": 7,
-          "Trusted": 9
-        },
-        "chrome": {
-          "Included": 1,
-          "Not Trusted": 7,
-          "Trusted": 9
-        },
-        "microsoft": {
-          "Included": 1,
-          "Not Trusted": 4,
-          "Trusted": 12
-        },
-        "mozilla": {
-          "Included": 1,
-          "Not Trusted": 7,
-          "Trusted": 9
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 0,
+        "intermediates": 16
       },
       "output_filename": "Global_Digital_Cybersecurity_Authority_Co_Ltd_Formerly_Guang_Dong_Certificate_Authority_GDCA.json"
     },
@@ -1904,32 +974,11 @@
       "countries": [
         "Belgium"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 8,
-          "Not Included": 8,
-          "Not Trusted": 477,
-          "Trusted": 255
-        },
-        "chrome": {
-          "Included": 5,
-          "Not Included": 10,
-          "Removed": 1,
-          "Not Trusted": 560,
-          "Trusted": 172
-        },
-        "microsoft": {
-          "Included": 15,
-          "Not Included": 1,
-          "Not Trusted": 436,
-          "Trusted": 296
-        },
-        "mozilla": {
-          "Included": 8,
-          "Not Yet Included": 8,
-          "Not Trusted": 497,
-          "Trusted": 235
-        }
+      "aggregated_counts": {
+        "trusted_roots": 5,
+        "partially_trusted_roots": 10,
+        "untrusted_roots": 1,
+        "intermediates": 732
       },
       "output_filename": "GlobalSign_nv-sa.json"
     },
@@ -1939,35 +988,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 4,
-          "Not Included": 6,
-          "Not Trusted": 8,
-          "Trusted": 12
-        },
-        "chrome": {
-          "Removed": 2,
-          "Included": 2,
-          "Not Included": 6,
-          "Not Trusted": 14,
-          "Trusted": 6
-        },
-        "microsoft": {
-          "Included": 4,
-          "Not Included": 4,
-          "Removed": 1,
-          "Disabled": 1,
-          "Not Trusted": 4,
-          "Trusted": 16
-        },
-        "mozilla": {
-          "Included": 4,
-          "Not Yet Included": 5,
-          "Removed": 1,
-          "Not Trusted": 8,
-          "Trusted": 12
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 6,
+        "intermediates": 20
       },
       "output_filename": "GoDaddy.json"
     },
@@ -1977,33 +1002,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 7,
-          "Included": 5,
-          "Trusted": 16,
-          "Not Trusted": 42
-        },
-        "chrome": {
-          "Included": 5,
-          "Not Included": 7,
-          "Trusted": 15,
-          "Not Trusted": 43
-        },
-        "microsoft": {
-          "Included": 10,
-          "Disabled": 1,
-          "Not Included": 1,
-          "Trusted": 16,
-          "Not Trusted": 42
-        },
-        "mozilla": {
-          "Included": 5,
-          "Removed": 6,
-          "Not Yet Included": 1,
-          "Trusted": 16,
-          "Not Trusted": 42
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 10,
+        "untrusted_roots": 2,
+        "intermediates": 58
       },
       "output_filename": "Google_Trust_Services_LLC.json"
     },
@@ -2013,26 +1016,11 @@
       "countries": [
         "Brazil"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 21
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 21
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Included": 4,
-          "Not Included": 1,
-          "Not Trusted": 16,
-          "Trusted": 5
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Not Trusted": 21
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 2,
+        "intermediates": 21
       },
       "output_filename": "Government_of_Brazil_Instituto_Nacional_de_Tecnologia_da_Informação_ITI.json"
     },
@@ -2042,25 +1030,11 @@
       "countries": [
         "Finland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Removed": 1,
-          "Not Trusted": 6
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 6
-        },
-        "microsoft": {
-          "Included": 4,
-          "Trusted": 4,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Not Trusted": 6
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 0,
+        "intermediates": 6
       },
       "output_filename": "Government_of_Finland_Population_Register_Centres_Väestörekisterikeskus_VRK.json"
     },
@@ -2070,20 +1044,11 @@
       "countries": [
         "France"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 2
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Government_of_France_ANSSI_DCSSI.json"
     },
@@ -2093,35 +1058,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Removed": 1,
-          "Included": 1,
-          "Not Trusted": 10,
-          "Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Removed": 1,
-          "Included": 1,
-          "Not Trusted": 10,
-          "Trusted": 5
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Disabled": 1,
-          "Included": 2,
-          "Not Trusted": 7,
-          "Trusted": 8
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Removed": 1,
-          "Included": 1,
-          "Not Trusted": 10,
-          "Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 15
       },
       "output_filename": "Government_of_Hong_Kong_SAR_Hongkong_Post_Certizen.json"
     },
@@ -2131,25 +1072,11 @@
       "countries": [
         "India"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Disabled": 1,
-          "Included": 4,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 2,
+        "intermediates": 3
       },
       "output_filename": "Government_of_India_Ministry_of_Communications__Information_Technology_Controller_of_Certifying_Authorities_CCA.json"
     },
@@ -2159,26 +1086,11 @@
       "countries": [
         "Japan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Disabled": 2,
-          "Included": 1,
-          "Not Trusted": 1,
-          "Trusted": 2
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 2,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 3
       },
       "output_filename": "Government_of_Japan_Digital_Agency.json"
     },
@@ -2188,24 +1100,11 @@
       "countries": [
         "Republic of Korea (South Korea)"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "Removed": 3,
-          "Included": 2,
-          "Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 5,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 3,
+        "intermediates": 1
       },
       "output_filename": "Government_of_Korea_KLID.json"
     },
@@ -2215,19 +1114,11 @@
       "countries": [
         "Latvia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Latvia_Latvian_State_Radio__Television_Centre_LVRTC.json"
     },
@@ -2237,20 +1128,11 @@
       "countries": [
         "Lithuania"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "NotBefore": 1,
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Lithuania_Registru_Centras.json"
     },
@@ -2260,20 +1142,11 @@
       "countries": [
         "Mexico"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Mexico_Autoridad_Certificadora_Raiz_de_la_Secretaria_de_Economia.json"
     },
@@ -2283,19 +1156,11 @@
       "countries": [
         "Portugal"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Portugal_Sistema_de_Certificação_Electrónica_do_Estado_SCEE__Electronic_Certification_System_of_the_State.json"
     },
@@ -2305,24 +1170,11 @@
       "countries": [
         "Saudi Arabia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 11
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 11
-        },
-        "microsoft": {
-          "Included": 1,
-          "Trusted": 8,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 11
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 11
       },
       "output_filename": "Government_of_Saudi_Arabia_NIC_SDAIA.json"
     },
@@ -2332,19 +1184,11 @@
       "countries": [
         "South Africa"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "NotBefore": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
       },
       "output_filename": "Government_of_South_Africa_Post_Office_Trust_Centre.json"
     },
@@ -2354,33 +1198,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Included": 1,
-          "Not Trusted": 8,
-          "Trusted": 8
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Included": 1,
-          "Not Trusted": 8,
-          "Trusted": 8
-        },
-        "microsoft": {
-          "Not Included": 4,
-          "Included": 1,
-          "Disabled": 1,
-          "Not Trusted": 8,
-          "Trusted": 8
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Included": 1,
-          "Removed": 1,
-          "Not Trusted": 8,
-          "Trusted": 8
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 5,
+        "intermediates": 16
       },
       "output_filename": "Government_of_Spain_Autoritat_de_Certificació_de_la_Comunitat_Valenciana_ACCV.json"
     },
@@ -2390,19 +1212,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Spain_Dirección_General_de_la_Policía__Ministerio_del_Interior__España.json"
     },
@@ -2412,31 +1226,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 1,
-          "Not Included": 4,
-          "Not Trusted": 10,
-          "Trusted": 7
-        },
-        "chrome": {
-          "Included": 2,
-          "Not Included": 3,
-          "Not Trusted": 8,
-          "Trusted": 9
-        },
-        "microsoft": {
-          "Included": 4,
-          "Disabled": 1,
-          "Not Trusted": 8,
-          "Trusted": 9
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Yet Included": 3,
-          "Not Trusted": 8,
-          "Trusted": 9
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 1,
+        "intermediates": 17
       },
       "output_filename": "Government_of_Spain_Fábrica_Nacional_de_Moneda_y_Timbre_FNMT.json"
     },
@@ -2446,19 +1240,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Spain_Ministerio_de_Trabajo_e_Inmigración_MTIN.json"
     },
@@ -2468,21 +1254,11 @@
       "countries": [
         "Sweden"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Disabled": 1,
-          "Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Sweden_Försäkringskassan.json"
     },
@@ -2492,25 +1268,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 1,
-          "Not Included": 1,
-          "Not Trusted": 19
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 19
-        },
-        "microsoft": {
-          "NotBefore": 2,
-          "Not Trusted": 19
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Removed": 1,
-          "Not Trusted": 19
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 19
       },
       "output_filename": "Government_of_Taiwan_Government_Root_Certification_Authority_GRCA.json"
     },
@@ -2520,31 +1282,11 @@
       "countries": [
         "Netherlands"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Removed": 1,
-          "Not Trusted": 108
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Removed": 1,
-          "Not Trusted": 108
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Included": 2,
-          "Disabled": 2,
-          "Not Trusted": 81,
-          "Trusted": 27
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Removed": 3,
-          "Included": 1,
-          "Not Trusted": 84,
-          "Trusted": 24
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 3,
+        "intermediates": 108
       },
       "output_filename": "Government_of_The_Netherlands_PKIoverheid_Logius.json"
     },
@@ -2554,33 +1296,11 @@
       "countries": [
         "Turkey"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 1,
-          "Not Included": 2,
-          "Not Trusted": 4,
-          "Trusted": 2
-        },
-        "chrome": {
-          "Included": 1,
-          "Not Included": 2,
-          "Not Trusted": 4,
-          "Trusted": 2
-        },
-        "microsoft": {
-          "Included": 1,
-          "Not Included": 1,
-          "Disabled": 1,
-          "Not Trusted": 4,
-          "Trusted": 2
-        },
-        "mozilla": {
-          "Included": 1,
-          "Not Yet Included": 1,
-          "Removed": 1,
-          "Not Trusted": 4,
-          "Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 6
       },
       "output_filename": "Government_of_Turkey_Kamu_Sertifikasyon_Merkezi_Kamu_SM.json"
     },
@@ -2590,23 +1310,11 @@
       "countries": [
         "Uruguay"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "NotBefore": 1,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 3
       },
       "output_filename": "Government_of_Uruguay_Agency_for_E-Government_and_Information_Society_AGESIC.json"
     },
@@ -2616,19 +1324,11 @@
       "countries": [
         "Venezuela"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Government_of_Venezuela_Superintendencia_de_Servicios_de_Certificación_Electrónica_SUSCERTE.json"
     },
@@ -2638,19 +1338,11 @@
       "countries": [
         "Slovenia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Trusted": 5
-        },
-        "mozilla": {
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 0,
+        "intermediates": 5
       },
       "output_filename": "HALCOM_dd.json"
     },
@@ -2660,33 +1352,11 @@
       "countries": [
         "Greece"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 6,
-          "Not Included": 2,
-          "Removed": 1,
-          "Not Trusted": 133,
-          "Trusted": 78
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Included": 2,
-          "Removed": 2,
-          "Not Trusted": 193,
-          "Trusted": 18
-        },
-        "microsoft": {
-          "Included": 9,
-          "Not Trusted": 116,
-          "Trusted": 95
-        },
-        "mozilla": {
-          "Included": 6,
-          "Not Yet Included": 2,
-          "Removed": 1,
-          "Not Trusted": 140,
-          "Trusted": 71
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 7,
+        "untrusted_roots": 0,
+        "intermediates": 211
       },
       "output_filename": "HARICA.json"
     },
@@ -2696,24 +1366,11 @@
       "countries": [
         "Slovenia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Disabled": 3,
-          "Included": 1,
-          "Trusted": 5
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 3,
+        "intermediates": 5
       },
       "output_filename": "Halcom_DD.json"
     },
@@ -2723,19 +1380,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Removed": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "IPS_Certification_Authority_sl_ipsCA.json"
     },
@@ -2745,19 +1394,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "IPS_Seguridad_CA.json"
     },
@@ -2767,35 +1408,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 27,
-          "Included": 2,
-          "Not Trusted": 56,
-          "Trusted": 11
-        },
-        "chrome": {
-          "Not Included": 27,
-          "Included": 1,
-          "Removed": 1,
-          "Not Trusted": 63,
-          "Trusted": 4
-        },
-        "microsoft": {
-          "Removed": 11,
-          "Disabled": 1,
-          "Not Included": 15,
-          "Included": 2,
-          "Not Trusted": 52,
-          "Trusted": 15
-        },
-        "mozilla": {
-          "Not Yet Included": 23,
-          "Removed": 4,
-          "Included": 2,
-          "Not Trusted": 56,
-          "Trusted": 11
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 27,
+        "intermediates": 67
       },
       "output_filename": "IdenTrust_Services_LLC.json"
     },
@@ -2805,19 +1422,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Image-X_Enterprises_Inc.json"
     },
@@ -2827,24 +1436,11 @@
       "countries": [
         "Sweden"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "NotBefore": 1,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 3
       },
       "output_filename": "Inera_AB_SITHS.json"
     },
@@ -2854,19 +1450,11 @@
       "countries": [
         "Bulgaria"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "InfoNotary.json"
     },
@@ -2876,27 +1464,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 2,
-          "Trusted": 20,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Included": 2,
-          "Trusted": 20,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Included": 2,
-          "Trusted": 20,
-          "Not Trusted": 4
-        },
-        "mozilla": {
-          "Included": 2,
-          "Trusted": 20,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 0,
+        "intermediates": 24
       },
       "output_filename": "Internet_Security_Research_Group.json"
     },
@@ -2906,32 +1478,11 @@
       "countries": [
         "Spain"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 1,
-          "Included": 1,
-          "Not Included": 1,
-          "Trusted": 6,
-          "Not Trusted": 11
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Included": 1,
-          "Trusted": 6,
-          "Not Trusted": 11
-        },
-        "microsoft": {
-          "Disabled": 2,
-          "Included": 1,
-          "Trusted": 6,
-          "Not Trusted": 11
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Included": 1,
-          "Trusted": 6,
-          "Not Trusted": 11
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 17
       },
       "output_filename": "Izenpe_SA.json"
     },
@@ -2941,19 +1492,11 @@
       "countries": [
         "Japan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "JIPDEC.json"
     },
@@ -2963,23 +1506,11 @@
       "countries": [
         "Japan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Disabled": 3,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 2
       },
       "output_filename": "Japan_Local_Authority_Information_Systems_J-LIS.json"
     },
@@ -2989,22 +1520,11 @@
       "countries": [
         "Republic of Korea (South Korea)"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Removed": 1
-        },
-        "chrome": {
-          "Not Included": 4
-        },
-        "microsoft": {
-          "Removed": 2,
-          "NotBefore": 1,
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 0
       },
       "output_filename": "Korea_Information_Security_Agency_KISA.json"
     },
@@ -3014,30 +1534,11 @@
       "countries": [
         "Poland"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 1,
-          "Not Included": 1,
-          "Not Trusted": 6
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Included": 1,
-          "Trusted": 2,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 1,
-          "Trusted": 3,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Included": 1,
-          "Trusted": 3,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 6
       },
       "output_filename": "Krajowa_Izba_Rozliczeniowa_SA_KIR.json"
     },
@@ -3047,27 +1548,11 @@
       "countries": [
         "South Africa"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 11
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 11
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Included": 2,
-          "Trusted": 5,
-          "Not Trusted": 6
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Included": 1,
-          "Not Trusted": 10,
-          "Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 1,
+        "intermediates": 11
       },
       "output_filename": "LAWtrust.json"
     },
@@ -3077,25 +1562,11 @@
       "countries": [
         "Luxembourg"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "NotBefore": 1,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Removed": 1,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 3
       },
       "output_filename": "LuxTrust.json"
     },
@@ -3105,23 +1576,11 @@
       "countries": [
         "Malaysia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 7,
-          "Not Trusted": 8
-        },
-        "chrome": {
-          "Not Included": 7,
-          "Not Trusted": 8
-        },
-        "microsoft": {
-          "Not Included": 7,
-          "Not Trusted": 8
-        },
-        "mozilla": {
-          "Not Yet Included": 7,
-          "Not Trusted": 8
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 7,
+        "intermediates": 8
       },
       "output_filename": "MSC_Trustgate.json"
     },
@@ -3131,24 +1590,11 @@
       "countries": [
         "Portugal"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 6
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 6
-        },
-        "microsoft": {
-          "Included": 1,
-          "Trusted": 4,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 6
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 6
       },
       "output_filename": "MULTICERT.json"
     },
@@ -3158,25 +1604,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 7
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 7
-        },
-        "microsoft": {
-          "Included": 1,
-          "Removed": 1,
-          "Disabled": 1,
-          "Trusted": 7
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 7
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 7
       },
       "output_filename": "Macao_Post_and_Telecommunications_Bureau.json"
     },
@@ -3186,34 +1618,11 @@
       "countries": [
         "Hungary"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 10,
-          "Included": 1,
-          "Trusted": 59,
-          "Not Trusted": 43
-        },
-        "chrome": {
-          "Not Included": 9,
-          "Included": 2,
-          "Trusted": 58,
-          "Not Trusted": 44
-        },
-        "microsoft": {
-          "Not Included": 6,
-          "Included": 3,
-          "Disabled": 1,
-          "Removed": 1,
-          "Trusted": 71,
-          "Not Trusted": 31
-        },
-        "mozilla": {
-          "Not Yet Included": 8,
-          "Included": 2,
-          "Removed": 1,
-          "Trusted": 66,
-          "Not Trusted": 36
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 8,
+        "intermediates": 102
       },
       "output_filename": "Microsec_Ltd.json"
     },
@@ -3223,33 +1632,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 18,
-          "Included": 2,
-          "Not Trusted": 67,
-          "Trusted": 28
-        },
-        "chrome": {
-          "Not Included": 18,
-          "Included": 2,
-          "Not Trusted": 67,
-          "Trusted": 28
-        },
-        "microsoft": {
-          "Removed": 8,
-          "Included": 8,
-          "Disabled": 2,
-          "Not Included": 2,
-          "Not Trusted": 67,
-          "Trusted": 28
-        },
-        "mozilla": {
-          "Not Yet Included": 18,
-          "Included": 2,
-          "Not Trusted": 67,
-          "Trusted": 28
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 6,
+        "untrusted_roots": 12,
+        "intermediates": 95
       },
       "output_filename": "Microsoft_Corporation.json"
     },
@@ -3259,19 +1646,11 @@
       "countries": [
         "France"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "NATIXIS.json"
     },
@@ -3281,26 +1660,11 @@
       "countries": [
         "Republic of Korea (South Korea)"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Included": 1,
-          "Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Included": 1,
-          "Trusted": 5
-        },
-        "microsoft": {
-          "Included": 3,
-          "Trusted": 5
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Included": 1,
-          "Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 5
       },
       "output_filename": "NAVER_Cloud_Trust_Services.json"
     },
@@ -3310,19 +1674,11 @@
       "countries": [
         "Hungary"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4
-        },
-        "chrome": {
-          "Not Included": 4
-        },
-        "microsoft": {
-          "Not Included": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 0
       },
       "output_filename": "NETLOCK.json"
     },
@@ -3332,19 +1688,11 @@
       "countries": [
         "Hungary"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 0
       },
       "output_filename": "NISZ_Nemzeti_Infokommunikációs_Szolgáltató_Zrt.json"
     },
@@ -3354,19 +1702,11 @@
       "countries": [
         "Slovenia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "NLB_Nova_Ljubljanska_Banka_dd_Ljubljana.json"
     },
@@ -3376,19 +1716,11 @@
       "countries": [
         "Sudan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "National_Authority_for_Digital_Certification.json"
     },
@@ -3398,19 +1730,11 @@
       "countries": [
         "Sri Lanka"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "National_Certification_Authority_of_Sri_Lanka_NCA_of_Sri_Lanka.json"
     },
@@ -3420,33 +1744,11 @@
       "countries": [
         "Hungary"
       ],
-      "status_counts": {
-        "apple": {
-          "Blocked": 1,
-          "Not Included": 8,
-          "Not Trusted": 41
-        },
-        "chrome": {
-          "Included": 1,
-          "Not Included": 8,
-          "Not Trusted": 18,
-          "Trusted": 23
-        },
-        "microsoft": {
-          "Included": 2,
-          "Removed": 2,
-          "Disabled": 2,
-          "Not Included": 3,
-          "Not Trusted": 16,
-          "Trusted": 25
-        },
-        "mozilla": {
-          "Included": 1,
-          "Removed": 4,
-          "Not Yet Included": 4,
-          "Not Trusted": 17,
-          "Trusted": 24
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 7,
+        "intermediates": 41
       },
       "output_filename": "Netlock.json"
     },
@@ -3456,24 +1758,11 @@
       "countries": [
         "Singapore"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 1,
-          "Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 2
       },
       "output_filename": "Netrust_Pte_Ltd.json"
     },
@@ -3483,22 +1772,11 @@
       "countries": [
         "Denmark"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Removed": 1
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "Removed": 2,
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
       },
       "output_filename": "Nets_DanID.json"
     },
@@ -3508,27 +1786,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Blocked": 1,
-          "Not Trusted": 10
-        },
-        "chrome": {
-          "Removed": 1,
-          "Not Included": 3,
-          "Not Trusted": 10
-        },
-        "microsoft": {
-          "NotBefore": 3,
-          "Removed": 1,
-          "Not Trusted": 10
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Removed": 1,
-          "Not Trusted": 10
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 10
       },
       "output_filename": "Network_Solutions.json"
     },
@@ -3538,23 +1800,11 @@
       "countries": [
         "Canada"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Included": 2,
-          "Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 3
       },
       "output_filename": "Notarius.json"
     },
@@ -3564,31 +1814,11 @@
       "countries": [
         "Switzerland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Included": 3,
-          "Trusted": 9,
-          "Not Trusted": 22
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Included": 2,
-          "Trusted": 6,
-          "Not Trusted": 25
-        },
-        "microsoft": {
-          "Not Included": 4,
-          "Included": 3,
-          "Trusted": 9,
-          "Not Trusted": 22
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Included": 3,
-          "Trusted": 9,
-          "Not Trusted": 22
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 4,
+        "intermediates": 31
       },
       "output_filename": "OISTE.json"
     },
@@ -3598,25 +1828,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Included": 1,
-          "Not Included": 1,
-          "Not Trusted": 2,
-          "Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 3
       },
       "output_filename": "Open_Access_Technology_International_Inc_OATI.json"
     },
@@ -3626,19 +1842,11 @@
       "countries": [
         "Poland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Orange_Polska_SA.json"
     },
@@ -3648,19 +1856,11 @@
       "countries": [
         "Venezuela"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Removed": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "PROCERT.json"
     },
@@ -3670,19 +1870,11 @@
       "countries": [
         "Indonesia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "PT_Indonesia_Digital_Identity.json"
     },
@@ -3692,19 +1884,11 @@
       "countries": [
         "Israel"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Personal_ID_LTD.json"
     },
@@ -3714,24 +1898,11 @@
       "countries": [
         "Malaysia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Disabled": 1,
-          "Not Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 1
       },
       "output_filename": "Pos_Digicert_Sdn_Bhd_Malaysia.json"
     },
@@ -3741,19 +1912,11 @@
       "countries": [
         "Serbia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Post_of_Serbia.json"
     },
@@ -3763,19 +1926,11 @@
       "countries": [
         "Slovenia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Disabled": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Post_of_Slovenia.json"
     },
@@ -3785,25 +1940,11 @@
       "countries": [
         "Czech Republic"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Included": 2,
-          "Not Included": 1,
-          "Trusted": 2,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 1,
+        "intermediates": 4
       },
       "output_filename": "PostSignum.json"
     },
@@ -3813,25 +1954,11 @@
       "countries": [
         "Czech Republic"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 9,
-          "Not Trusted": 16
-        },
-        "chrome": {
-          "Not Included": 9,
-          "Not Trusted": 16
-        },
-        "microsoft": {
-          "Disabled": 4,
-          "Included": 5,
-          "Trusted": 13,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 9,
-          "Not Trusted": 16
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 5,
+        "untrusted_roots": 4,
+        "intermediates": 16
       },
       "output_filename": "První_certifikační_autorita_as.json"
     },
@@ -3841,33 +1968,11 @@
       "countries": [
         "Bermuda"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 9,
-          "Included": 5,
-          "Not Trusted": 205,
-          "Trusted": 49
-        },
-        "chrome": {
-          "Not Included": 9,
-          "Removed": 2,
-          "Included": 3,
-          "Not Trusted": 238,
-          "Trusted": 16
-        },
-        "microsoft": {
-          "Included": 13,
-          "Disabled": 1,
-          "Not Trusted": 192,
-          "Trusted": 62
-        },
-        "mozilla": {
-          "Not Yet Included": 8,
-          "Included": 5,
-          "Removed": 1,
-          "Not Trusted": 206,
-          "Trusted": 48
-        }
+      "aggregated_counts": {
+        "trusted_roots": 3,
+        "partially_trusted_roots": 10,
+        "untrusted_roots": 1,
+        "intermediates": 254
       },
       "output_filename": "QuoVadis.json"
     },
@@ -3877,20 +1982,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "Removed": 3
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
       },
       "output_filename": "RSA_the_Security_Division_of_EMC.json"
     },
@@ -3900,36 +1996,11 @@
       "countries": [
         "Japan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Removed": 2,
-          "Included": 1,
-          "Not Trusted": 136,
-          "Trusted": 16
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Included": 2,
-          "Removed": 1,
-          "Not Trusted": 141,
-          "Trusted": 11
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Included": 5,
-          "Not Included": 1,
-          "Disabled": 1,
-          "Not Trusted": 129,
-          "Trusted": 23
-        },
-        "mozilla": {
-          "Removed": 4,
-          "Not Yet Included": 2,
-          "Included": 2,
-          "Not Trusted": 138,
-          "Trusted": 14
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 3,
+        "intermediates": 152
       },
       "output_filename": "SECOM_Trust_Systems_CO_LTD.json"
     },
@@ -3939,26 +2010,11 @@
       "countries": [
         "Japan"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Trusted": 17,
-          "Not Trusted": 6
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 7,
-          "Trusted": 16
-        },
-        "microsoft": {
-          "Included": 4,
-          "Trusted": 23
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Trusted": 19,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 0,
+        "intermediates": 23
       },
       "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
     },
@@ -3968,19 +2024,11 @@
       "countries": [
         "France"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Removed": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "SG_Trust_Services.json"
     },
@@ -3990,25 +2038,11 @@
       "countries": [
         "Slovenia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Included": 1,
-          "Disabled": 2,
-          "Trusted": 3,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 5
       },
       "output_filename": "SI-TRUST.json"
     },
@@ -4018,23 +2052,11 @@
       "countries": [
         "Cabo Verde"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Not Included": 3,
-          "Not Trusted": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 2
       },
       "output_filename": "SISP_-_Sociedade_Interbancaria_e_Sistemas_de_Pagamentos_SA.json"
     },
@@ -4044,24 +2066,11 @@
       "countries": [
         "Estonia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 17
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 17
-        },
-        "microsoft": {
-          "NotBefore": 1,
-          "Disabled": 1,
-          "Not Trusted": 17
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Trusted": 17
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 17
       },
       "output_filename": "SK_ID_Solutions_AS.json"
     },
@@ -4071,23 +2080,11 @@
       "countries": [
         "Brazil"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Not Trusted": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 4
       },
       "output_filename": "SOLUTI_GLOBAL_ROOT_CA.json"
     },
@@ -4097,32 +2094,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 8,
-          "Not Included": 7,
-          "Trusted": 108,
-          "Not Trusted": 103
-        },
-        "chrome": {
-          "Not Included": 9,
-          "Included": 6,
-          "Trusted": 84,
-          "Not Trusted": 127
-        },
-        "microsoft": {
-          "Included": 12,
-          "Disabled": 1,
-          "Not Included": 2,
-          "Trusted": 126,
-          "Not Trusted": 85
-        },
-        "mozilla": {
-          "Included": 8,
-          "Not Yet Included": 7,
-          "Trusted": 95,
-          "Not Trusted": 116
-        }
+      "aggregated_counts": {
+        "trusted_roots": 6,
+        "partially_trusted_roots": 6,
+        "untrusted_roots": 3,
+        "intermediates": 211
       },
       "output_filename": "SSLcom.json"
     },
@@ -4132,23 +2108,11 @@
       "countries": [
         "Israel"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 6
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 6
-        },
-        "microsoft": {
-          "Not Included": 2,
-          "Not Trusted": 6
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 6
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 6
       },
       "output_filename": "SSLCOM_GROUP_LTD.json"
     },
@@ -4158,23 +2122,11 @@
       "countries": [
         "Saudi Arabia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 1
       },
       "output_filename": "Saudi_Data_and_Artificial_Intelligence_Authority_SDAIA.json"
     },
@@ -4184,35 +2136,11 @@
       "countries": [
         "United Kingdom"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 12,
-          "Not Included": 16,
-          "Not Trusted": 546,
-          "Trusted": 729
-        },
-        "chrome": {
-          "Removed": 1,
-          "Not Included": 20,
-          "Included": 7,
-          "Not Trusted": 714,
-          "Trusted": 561
-        },
-        "microsoft": {
-          "Included": 16,
-          "Not Included": 6,
-          "Disabled": 3,
-          "Removed": 3,
-          "Not Trusted": 459,
-          "Trusted": 816
-        },
-        "mozilla": {
-          "Included": 10,
-          "Removed": 11,
-          "Not Yet Included": 7,
-          "Not Trusted": 587,
-          "Trusted": 688
-        }
+      "aggregated_counts": {
+        "trusted_roots": 6,
+        "partially_trusted_roots": 11,
+        "untrusted_roots": 11,
+        "intermediates": 1275
       },
       "output_filename": "Sectigo.json"
     },
@@ -4222,19 +2150,11 @@
       "countries": [
         "Brazil"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "Removed": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
       },
       "output_filename": "Serasa_SA.json"
     },
@@ -4244,19 +2164,11 @@
       "countries": [
         "Brazil"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Not Included": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "Serviço_Federal_de_Processamento_de_Dados.json"
     },
@@ -4266,31 +2178,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 12,
-          "Trusted": 45,
-          "Not Trusted": 41
-        },
-        "chrome": {
-          "Included": 2,
-          "Not Included": 10,
-          "Trusted": 54,
-          "Not Trusted": 32
-        },
-        "microsoft": {
-          "Included": 2,
-          "Disabled": 2,
-          "Not Included": 8,
-          "Trusted": 57,
-          "Not Trusted": 29
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Yet Included": 10,
-          "Trusted": 54,
-          "Not Trusted": 32
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 10,
+        "intermediates": 86
       },
       "output_filename": "Shanghai_Electronic_Certification_Authority_Co_Ltd.json"
     },
@@ -4300,23 +2192,11 @@
       "countries": [
         "Lithuania"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Disabled": 6,
-          "Not Trusted": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 6,
+        "intermediates": 4
       },
       "output_filename": "Skaitmeninio_sertifikavimo_centras_SSC.json"
     },
@@ -4326,24 +2206,11 @@
       "countries": [
         "Israel"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 3,
-          "Not Trusted": 62
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 62
-        },
-        "microsoft": {
-          "Not Included": 1,
-          "Disabled": 2,
-          "Not Trusted": 62
-        },
-        "mozilla": {
-          "Removed": 3,
-          "Not Trusted": 62
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 62
       },
       "output_filename": "Start_Commercial_StartCom_Ltd.json"
     },
@@ -4353,25 +2220,11 @@
       "countries": [
         "Switzerland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 6,
-          "Not Trusted": 1
-        },
-        "chrome": {
-          "Not Included": 6,
-          "Not Trusted": 1
-        },
-        "microsoft": {
-          "Disabled": 4,
-          "Included": 1,
-          "Not Included": 1,
-          "Not Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Not Trusted": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 5,
+        "intermediates": 1
       },
       "output_filename": "Swiss_BIT_Swiss_Federal_Office_of_Information_Technology_Systems_and_Telecommunication_FOITT.json"
     },
@@ -4381,35 +2234,11 @@
       "countries": [
         "Switzerland"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 2,
-          "Not Included": 5,
-          "Removed": 1,
-          "Not Trusted": 58,
-          "Trusted": 20
-        },
-        "chrome": {
-          "Included": 1,
-          "Not Included": 6,
-          "Removed": 1,
-          "Not Trusted": 68,
-          "Trusted": 10
-        },
-        "microsoft": {
-          "Included": 4,
-          "Disabled": 3,
-          "NotBefore": 1,
-          "Not Trusted": 58,
-          "Trusted": 20
-        },
-        "mozilla": {
-          "Included": 3,
-          "Not Yet Included": 3,
-          "Removed": 2,
-          "Not Trusted": 59,
-          "Trusted": 19
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 4,
+        "intermediates": 78
       },
       "output_filename": "SwissSign_AG.json"
     },
@@ -4419,23 +2248,11 @@
       "countries": [
         "Switzerland"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 3,
-          "Not Trusted": 21
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 21
-        },
-        "microsoft": {
-          "Disabled": 3,
-          "Not Trusted": 21
-        },
-        "mozilla": {
-          "Removed": 3,
-          "Not Trusted": 21
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 21
       },
       "output_filename": "Swisscom_Switzerland_Ltd.json"
     },
@@ -4445,19 +2262,11 @@
       "countries": [
         "Switzerland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Swisskey_AG.json"
     },
@@ -4467,32 +2276,11 @@
       "countries": [
         "Taiwan (Republic of China)"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Included": 2,
-          "Not Trusted": 11,
-          "Trusted": 15
-        },
-        "chrome": {
-          "Included": 2,
-          "Not Included": 2,
-          "Removed": 1,
-          "Not Trusted": 16,
-          "Trusted": 10
-        },
-        "microsoft": {
-          "Included": 4,
-          "Disabled": 1,
-          "Not Trusted": 11,
-          "Trusted": 15
-        },
-        "mozilla": {
-          "Included": 4,
-          "Not Yet Included": 1,
-          "Not Trusted": 11,
-          "Trusted": 15
-        }
+      "aggregated_counts": {
+        "trusted_roots": 1,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 1,
+        "intermediates": 26
       },
       "output_filename": "Taiwan-CA_Inc_TWCA.json"
     },
@@ -4502,19 +2290,11 @@
       "countries": [
         "Malaysia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "NotBefore": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Telekom_Applied_Business_Malaysia_TMCA.json"
     },
@@ -4524,19 +2304,11 @@
       "countries": [
         "Austria"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Telekom-Control-Kommission.json"
     },
@@ -4546,34 +2318,11 @@
       "countries": [
         "Sweden"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 10,
-          "Included": 2,
-          "Not Trusted": 47,
-          "Trusted": 28
-        },
-        "chrome": {
-          "Not Included": 10,
-          "Included": 2,
-          "Not Trusted": 65,
-          "Trusted": 10
-        },
-        "microsoft": {
-          "Removed": 1,
-          "Disabled": 1,
-          "Not Included": 8,
-          "Included": 2,
-          "Not Trusted": 41,
-          "Trusted": 34
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Yet Included": 8,
-          "Included": 2,
-          "Not Trusted": 52,
-          "Trusted": 23
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 10,
+        "intermediates": 75
       },
       "output_filename": "Telia_Company.json"
     },
@@ -4583,25 +2332,11 @@
       "countries": [
         "Thailand"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Included": 1,
-          "Not Included": 2,
-          "Trusted": 2,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
+        "intermediates": 5
       },
       "output_filename": "Thailand_National_Root_Certificate_Authority_Electronic_Transactions_Development_Agency.json"
     },
@@ -4611,20 +2346,11 @@
       "countries": [
         "Uruguay"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Removed": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "The_Uruguayan_Post_El_Correo_Uruguayo.json"
     },
@@ -4634,27 +2360,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 12,
-          "Not Trusted": 41
-        },
-        "chrome": {
-          "Not Included": 10,
-          "Included": 2,
-          "Not Trusted": 35,
-          "Trusted": 6
-        },
-        "microsoft": {
-          "Not Included": 12,
-          "Not Trusted": 41
-        },
-        "mozilla": {
-          "Not Yet Included": 6,
-          "Included": 6,
-          "Not Trusted": 25,
-          "Trusted": 16
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 6,
+        "untrusted_roots": 6,
+        "intermediates": 41
       },
       "output_filename": "TrustAsia_Technologies_Inc.json"
     },
@@ -4664,28 +2374,11 @@
       "countries": [
         "Canada"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 7,
-          "Blocked": 3,
-          "Not Trusted": 30
-        },
-        "chrome": {
-          "Not Included": 7,
-          "Blocked": 3,
-          "Not Trusted": 30
-        },
-        "microsoft": {
-          "Not Included": 4,
-          "Removed": 3,
-          "NotBefore": 3,
-          "Not Trusted": 30
-        },
-        "mozilla": {
-          "Not Yet Included": 7,
-          "Removed": 3,
-          "Not Trusted": 30
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 10,
+        "intermediates": 30
       },
       "output_filename": "TrustCor_Systems.json"
     },
@@ -4695,25 +2388,11 @@
       "countries": [
         "South Africa"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 2
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 2
-        },
-        "microsoft": {
-          "Included": 1,
-          "NotBefore": 1,
-          "Trusted": 1,
-          "Not Trusted": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
+        "intermediates": 2
       },
       "output_filename": "TrustFactoryPtyLtd.json"
     },
@@ -4723,26 +2402,11 @@
       "countries": [
         "United Kingdom of Great Britain and Northern Ireland"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Blocked": 1,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Removed": 1,
-          "NotBefore": 1,
-          "Not Trusted": 4
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Removed": 1,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 4
       },
       "output_filename": "Trustis.json"
     },
@@ -4752,25 +2416,11 @@
       "countries": [
         "Turkey"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 7,
-          "Not Trusted": 15
-        },
-        "chrome": {
-          "Not Included": 7,
-          "Not Trusted": 15
-        },
-        "microsoft": {
-          "Removed": 6,
-          "Disabled": 1,
-          "Not Trusted": 15
-        },
-        "mozilla": {
-          "Removed": 5,
-          "Not Yet Included": 2,
-          "Not Trusted": 15
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 7,
+        "intermediates": 15
       },
       "output_filename": "TurkTrust.json"
     },
@@ -4780,24 +2430,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3,
-          "Not Trusted": 12
-        },
-        "chrome": {
-          "Not Included": 3,
-          "Not Trusted": 12
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Removed": 2,
-          "Not Trusted": 12
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Not Trusted": 12
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 12
       },
       "output_filename": "US_Federal_Public_Key_Infrastructure_US_FPKI.json"
     },
@@ -4807,19 +2444,11 @@
       "countries": [
         "Brasil"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "Valid_Certificadora.json"
     },
@@ -4829,33 +2458,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Blocked": 1,
-          "Included": 5,
-          "Not Included": 2,
-          "Not Trusted": 56,
-          "Trusted": 41
-        },
-        "chrome": {
-          "Removed": 2,
-          "Included": 4,
-          "Not Included": 2,
-          "Not Trusted": 68,
-          "Trusted": 29
-        },
-        "microsoft": {
-          "Included": 6,
-          "Not Included": 2,
-          "Not Trusted": 43,
-          "Trusted": 54
-        },
-        "mozilla": {
-          "Included": 6,
-          "Not Yet Included": 2,
-          "Not Trusted": 60,
-          "Trusted": 37
-        }
+      "aggregated_counts": {
+        "trusted_roots": 4,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 2,
+        "intermediates": 97
       },
       "output_filename": "Viking_Cloud_Inc.json"
     },
@@ -4865,23 +2472,11 @@
       "countries": [
         "SPAIN"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 2,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Not Included": 2,
-          "Not Trusted": 5
-        },
-        "mozilla": {
-          "Not Yet Included": 2,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 5
       },
       "output_filename": "Vintegris__vinCAsign.json"
     },
@@ -4891,28 +2486,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Included": 1,
-          "Not Trusted": 9
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Not Trusted": 9
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Included": 3,
-          "Not Included": 1,
-          "Trusted": 3,
-          "Not Trusted": 6
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 4,
-          "Not Trusted": 9
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 2,
+        "intermediates": 9
       },
       "output_filename": "Visa.json"
     },
@@ -4922,24 +2500,11 @@
       "countries": [
         "United States of America"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Not Trusted": 5
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Not Trusted": 5
-        },
-        "microsoft": {
-          "Removed": 4,
-          "Not Trusted": 5
-        },
-        "mozilla": {
-          "Not Yet Included": 3,
-          "Removed": 1,
-          "Not Trusted": 5
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 5
       },
       "output_filename": "Wells_Fargo_Bank_NA.json"
     },
@@ -4949,24 +2514,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 5,
-          "Not Trusted": 43
-        },
-        "chrome": {
-          "Not Included": 5,
-          "Not Trusted": 43
-        },
-        "microsoft": {
-          "Disabled": 5,
-          "Not Trusted": 43
-        },
-        "mozilla": {
-          "Removed": 4,
-          "Not Yet Included": 1,
-          "Not Trusted": 43
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 5,
+        "intermediates": 43
       },
       "output_filename": "WoSign_CA_Limited.json"
     },
@@ -4976,23 +2528,11 @@
       "countries": [
         "Belgium"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1,
-          "Not Trusted": 3
-        },
-        "chrome": {
-          "Not Included": 1,
-          "Not Trusted": 3
-        },
-        "microsoft": {
-          "Included": 1,
-          "Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 1,
-          "Not Trusted": 3
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
+        "intermediates": 3
       },
       "output_filename": "Zetes.json"
     },
@@ -5002,19 +2542,11 @@
       "countries": [
         "Slovakia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 1
-        },
-        "chrome": {
-          "Not Included": 1
-        },
-        "microsoft": {
-          "Not Included": 1
-        },
-        "mozilla": {
-          "Not Yet Included": 1
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
       },
       "output_filename": "brainitsk_s_r_o.json"
     },
@@ -5024,27 +2556,11 @@
       "countries": [
         "Romania"
       ],
-      "status_counts": {
-        "apple": {
-          "Included": 2,
-          "Not Trusted": 12,
-          "Trusted": 7
-        },
-        "chrome": {
-          "Included": 2,
-          "Not Trusted": 12,
-          "Trusted": 7
-        },
-        "microsoft": {
-          "Included": 2,
-          "Not Trusted": 12,
-          "Trusted": 7
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Trusted": 12,
-          "Trusted": 7
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 0,
+        "intermediates": 19
       },
       "output_filename": "certSIGN.json"
     },
@@ -5054,21 +2570,11 @@
       "countries": [
         "Turkey"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 3
-        },
-        "chrome": {
-          "Not Included": 3
-        },
-        "microsoft": {
-          "Disabled": 1,
-          "Removed": 2
-        },
-        "mozilla": {
-          "Removed": 1,
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 3,
+        "intermediates": 0
       },
       "output_filename": "e-Guven_Elektronik_Bilgi_Guvenligi_AS.json"
     },
@@ -5078,29 +2584,11 @@
       "countries": [
         "Austria"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 4,
-          "Blocked": 1,
-          "Not Trusted": 53
-        },
-        "chrome": {
-          "Not Included": 4,
-          "Removed": 1,
-          "Not Trusted": 53
-        },
-        "microsoft": {
-          "Removed": 2,
-          "Included": 3,
-          "Trusted": 50,
-          "Not Trusted": 3
-        },
-        "mozilla": {
-          "Not Yet Included": 4,
-          "Included": 1,
-          "Not Trusted": 36,
-          "Trusted": 17
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 2,
+        "intermediates": 53
       },
       "output_filename": "e-commerce_monitoring_GmbH.json"
     },
@@ -5110,25 +2598,11 @@
       "countries": [
         "Turkey"
       ],
-      "status_counts": {
-        "apple": {
-          "Removed": 1,
-          "Not Included": 1,
-          "Not Trusted": 4
-        },
-        "chrome": {
-          "Removed": 1,
-          "Not Included": 1,
-          "Not Trusted": 4
-        },
-        "microsoft": {
-          "Disabled": 2,
-          "Not Trusted": 4
-        },
-        "mozilla": {
-          "Removed": 2,
-          "Not Trusted": 4
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 4
       },
       "output_filename": "e-tugra.json"
     },
@@ -5138,32 +2612,11 @@
       "countries": [
         "India"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 14,
-          "Included": 2,
-          "Not Trusted": 48,
-          "Trusted": 44
-        },
-        "chrome": {
-          "Removed": 2,
-          "Included": 2,
-          "Not Included": 12,
-          "Not Trusted": 58,
-          "Trusted": 34
-        },
-        "microsoft": {
-          "Included": 6,
-          "Not Included": 10,
-          "Not Trusted": 9,
-          "Trusted": 83
-        },
-        "mozilla": {
-          "Included": 4,
-          "Not Yet Included": 12,
-          "Not Trusted": 39,
-          "Trusted": 53
-        }
+      "aggregated_counts": {
+        "trusted_roots": 2,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 10,
+        "intermediates": 92
       },
       "output_filename": "eMudhra_Technologies_Limited.json"
     },
@@ -5173,19 +2626,11 @@
       "countries": [
         "Australia"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2
-        },
-        "chrome": {
-          "Not Included": 2
-        },
-        "microsoft": {
-          "Removed": 2
-        },
-        "mozilla": {
-          "Not Yet Included": 2
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
       },
       "output_filename": "eSign_Australia.json"
     },
@@ -5195,25 +2640,11 @@
       "countries": [
         "China"
       ],
-      "status_counts": {
-        "apple": {
-          "Not Included": 2,
-          "Not Trusted": 15
-        },
-        "chrome": {
-          "Included": 2,
-          "Not Trusted": 7,
-          "Trusted": 8
-        },
-        "microsoft": {
-          "Not Included": 2,
-          "Not Trusted": 15
-        },
-        "mozilla": {
-          "Included": 2,
-          "Not Trusted": 7,
-          "Trusted": 8
-        }
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 15
       },
       "output_filename": "iTrusChina_Co_Ltd.json"
     }
