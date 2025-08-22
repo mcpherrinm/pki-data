@@ -1,0 +1,30 @@
+[
+  {
+    "CA Owner": "Telekom-Control-Kommission",
+    "Salesforce Record ID": "0018Z00002iKhihQAC",
+    "Certificate Name": "Telekom-Control-Kommission Top 1",
+    "Parent Salesforce Record ID": "0018Z00002Y0c7bQAB",
+    "Parent Certificate Name": "Telekom-Control-Kommission",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Removed",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "4DBB0157A691FA7382289D65C0332DDB1DCB640B40AD10F010A43E20F3AFED1E",
+    "Valid From (GMT)": "2002.09.24",
+    "Valid To (GMT)": "2005.09.24",
+    "Subject Key Identifier": "Zc1XTrud0/+mvLt5IJ3p4EZT7Qs=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Austria"
+  }
+]

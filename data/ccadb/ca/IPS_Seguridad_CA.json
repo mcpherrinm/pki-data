@@ -1,0 +1,29 @@
+[
+  {
+    "CA Owner": "IPS Seguridad CA",
+    "Salesforce Record ID": "0018Z00002iKhwCQAS",
+    "Certificate Name": "IPS SERVIDORES",
+    "Parent Salesforce Record ID": "0018Z00002Y0c5lQAB",
+    "Parent Certificate Name": "IPS Seguridad CA",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Removed",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "F1F3CC207A6D47947B8CB9C30422229DE0D71FB867E0B9A3EDA08E0E1736BC28",
+    "Valid From (GMT)": "1998.01.01",
+    "Valid To (GMT)": "2009.12.29",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Spain"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "CA Owner": "NATIXIS",
+    "Salesforce Record ID": "0018Z00002iKhLsQAK",
+    "Certificate Name": "CESAM",
+    "Parent Salesforce Record ID": "0018Z00002Y0c5mQAB",
+    "Parent Certificate Name": "NATIXIS",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Removed",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "B2259996FFF735AB35014EF63F3D413190079DD03A0962432635A8695F995305",
+    "Valid From (GMT)": "2009.01.30",
+    "Valid To (GMT)": "2019.01.30",
+    "Authority Key Identifier": "cDieyrAN6sjPJVOAJBrjJs6E/yI=",
+    "Subject Key Identifier": "cDieyrAN6sjPJVOAJBrjJs6E/yI=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "France"
+  }
+]

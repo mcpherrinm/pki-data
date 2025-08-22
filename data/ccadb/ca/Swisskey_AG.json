@@ -1,0 +1,29 @@
+[
+  {
+    "CA Owner": "Swisskey AG",
+    "Salesforce Record ID": "0018Z00002iKhk9QAC",
+    "Certificate Name": "Swisskey Root CA",
+    "Parent Salesforce Record ID": "0018Z00002Y0c5NQAR",
+    "Parent Certificate Name": "Swisskey AG",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Removed",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "844B0FFE9BAAEA2FC14397C0C4D2677B5FAE54AEDE1BA061AF94F73DDDAB4E6C",
+    "Valid From (GMT)": "1999.04.15",
+    "Valid To (GMT)": "2015.12.31",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Switzerland"
+  }
+]
