@@ -1,346 +1,455 @@
 <!doctype html>
 <html lang="en">
-<head>
+  <head>
     <title>CT Logs</title>
     <style>
-        table {
-            width: 100%;
-        }
-        table, thead, tr, td {
-            margin: 0;
-            border-spacing: 0;
-            padding: 0.25em;
-        }
-        th, td {
-            width: 10rem;
-            overflow: hidden;
-        }
-        tbody#logs > tr {
-            height: 2.5rem;
-        }
-        tr.log_id > td.value, tr.key > td.value {
-            font-family: monospace;
-            word-break: break-all;
-        }
-        thead, td.key {
-            font-weight: bold;
-            text-align: left;
-        }
-        input.expand:not(:checked) ~ table {
-            display:none;
-        }
-        label {
-            background: lightsteelblue;
-            padding: 0.3rem 1rem;
-            border-radius: 0.5rem;
-            margin: 1rem 0;
-            cursor: pointer;
-            user-select: none;
-        }
-        input.expand:checked ~ label.expand {
-            background: cornflowerblue;
-        }
-        input.expand:checked ~ label.expand::before {
-            content: "un";
-        }
-        input.expand, input#hideNotCurrent {
-            display: none;
-        }
-        input#hideNotCurrent:not(:checked) ~ table tbody#logs > tr:not(.current) {
-            display:none;
-        }
+      table {
+        width: 100%;
+      }
+      table,
+      thead,
+      tr,
+      td {
+        margin: 0;
+        border-spacing: 0;
+        padding: 0.25em;
+      }
+      th,
+      td {
+        width: 10rem;
+        overflow: hidden;
+      }
+      tbody#logs > tr {
+        height: 2.5rem;
+      }
+      tr.log_id > td.value,
+      tr.key > td.value {
+        font-family: monospace;
+        word-break: break-all;
+      }
+      thead,
+      td.key {
+        font-weight: bold;
+        text-align: left;
+      }
+      input.expand:not(:checked) ~ table {
+        display: none;
+      }
+      label {
+        background: lightsteelblue;
+        padding: 0.3rem 1rem;
+        border-radius: 0.5rem;
+        margin: 1rem 0;
+        cursor: pointer;
+        user-select: none;
+      }
+      input.expand:checked ~ label.expand {
+        background: cornflowerblue;
+      }
+      input.expand:checked ~ label.expand::before {
+        content: "un";
+      }
+      input.expand,
+      input#hideNotCurrent {
+        display: none;
+      }
+      input#hideNotCurrent:not(:checked)
+        ~ table
+        tbody#logs
+        > tr:not(.current):not(.operator-header) {
+        display: none;
+      }
+      input#hideNotCurrent:not(:checked)
+        ~ table
+        tbody#logs
+        > tr.operator-header.no-current-logs {
+        display: none;
+      }
 
-        input#hideNotCurrent ~ label::before {
-            content: "hide ";
-        }
-        input#hideNotCurrent:not(:checked) ~ label::before {
-            content: "show ";
-        }
-        
-        .conflict-value {
-            font-weight: bold;
-            color: #d63384;
-        }
+      input#hideNotCurrent ~ label::before {
+        content: "hide ";
+      }
+      input#hideNotCurrent:not(:checked) ~ label::before {
+        content: "show ";
+      }
+
+      .conflict-value {
+        font-weight: bold;
+        color: #d63384;
+      }
+
+      .operator-header {
+        background-color: #f8f9fa;
+      }
+
+      .operator-header td {
+        font-weight: bold;
+        font-size: 1.1em;
+        background-color: #e9ecef;
+        padding: 0.75rem;
+        border-top: 2px solid #6c757d;
+        border-bottom: 1px solid #dee2e6;
+      }
     </style>
-</head>
-<body>
-<h1>CT Logs</h1>
+  </head>
+  <body>
+    <h1>CT Logs</h1>
 
-<input type="checkbox" id="hideNotCurrent">
-<!-- CSS adds a "show" or "hide" ::before this label -->
-<label for="hideNotCurrent">not-current logs</label>
+    <input type="checkbox" id="hideNotCurrent" />
+    <!-- CSS adds a "show" or "hide" ::before this label -->
+    <label for="hideNotCurrent">not-current logs</label>
 
-<div id="loading">Loading CT log data...</div>
-<div id="error" style="display: none; color: red;"></div>
+    <div id="loading">Loading CT log data...</div>
+    <div id="error" style="display: none; color: red"></div>
 
-<table id="logTable" style="display: none;">
-    <thead>
-    <tr>
-        <th>Operator</th>
-        <th>Name</th>
-        <th>State</th>
-        <th class="data" colspan="4">Data</th>
-    </tr>
-    </thead>
-    <tbody id="logs">
-    </tbody>
-</table>
+    <table id="logTable" style="display: none">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>State</th>
+          <th class="data" colspan="4">Data</th>
+        </tr>
+      </thead>
+      <tbody id="logs"></tbody>
+    </table>
 
-<script>
-// Utility functions from render.py
-function logName(operator, description) {
-    let orig = description;
-    
-    // Remove suffixes
-    const suffixes = ["CT Log", "CT log", "Log", "log", " ", "'"];
-    for (const suffix of suffixes) {
-        if (description.endsWith(suffix)) {
+    <script>
+      // Utility functions from render.py
+      function logName(operator, description) {
+        let orig = description;
+
+        // Remove suffixes
+        const suffixes = ["CT Log", "CT log", "Log", "log", " ", "'"];
+        for (const suffix of suffixes) {
+          if (description.endsWith(suffix)) {
             description = description.slice(0, -suffix.length);
+          }
         }
-    }
-    
-    // Remove prefixes
-    const prefixes = [operator, "Nordu", "Up In The Air", "Symantec", " ", "'"];
-    for (const prefix of prefixes) {
-        if (description.startsWith(prefix)) {
-            description = description.slice(prefix.length);
-        }
-    }
-    
-    return description.length === 0 ? orig : description;
-}
 
-function flattenLogs(logs) {
-    const result = [];
-    for (const operator of logs.operators) {
-        const opName = operator.name;
-        const allLogs = [...(operator.logs || []), ...(operator.tiled_logs || [])];
-        
-        for (const log of allLogs) {
+        // Remove prefixes
+        const prefixes = [
+          operator,
+          "Nordu",
+          "Up In The Air",
+          "Symantec",
+          " ",
+          "'",
+        ];
+        for (const prefix of prefixes) {
+          if (description.startsWith(prefix)) {
+            description = description.slice(prefix.length);
+          }
+        }
+
+        return description.length === 0 ? orig : description;
+      }
+
+      function normalizeOperatorName(operatorName) {
+        // Map operator name variations to a canonical form
+        const operatorMappings = {
+          "IPng GmbH": "IPng Networks",
+        };
+
+        return operatorMappings[operatorName] || operatorName;
+      }
+
+      function flattenLogs(logs) {
+        const result = [];
+        for (const operator of logs.operators) {
+          const opName = normalizeOperatorName(operator.name);
+          const allLogs = [
+            ...(operator.logs || []),
+            ...(operator.tiled_logs || []),
+          ];
+
+          for (const log of allLogs) {
             const flatLog = { ...log };
             flatLog.operator = opName;
             flatLog.name = logName(opName, log.description);
-            
+
             // Handle state
             if (log.state) {
-                const stateKeys = Object.keys(log.state);
-                if (stateKeys.length > 0) {
-                    flatLog.state = stateKeys[0];
-                    flatLog.state_timestamp = log.state[stateKeys[0]].timestamp;
-                }
+              const stateKeys = Object.keys(log.state);
+              if (stateKeys.length > 0) {
+                flatLog.state = stateKeys[0];
+                flatLog.state_timestamp = log.state[stateKeys[0]].timestamp;
+              }
+            } else if (log.log_type) {
+              // Use log_type as state when state is missing
+              flatLog.state = log.log_type;
             }
-            
+
             // Handle temporal_interval
             if (log.temporal_interval) {
-                flatLog.start = log.temporal_interval.start_inclusive;
-                flatLog.end = log.temporal_interval.end_exclusive;
+              flatLog.start = log.temporal_interval.start_inclusive;
+              flatLog.end = log.temporal_interval.end_exclusive;
             }
-            
+
             result.push(flatLog);
+          }
         }
-    }
-    return result;
-}
+        return result;
+      }
 
-function allKeys(a, b) {
-    const keysA = a ? Object.keys(a) : [];
-    const keysB = b ? Object.keys(b) : [];
-    return new Set([...keysA, ...keysB]);
-}
+      function allKeys(a, b) {
+        const keysA = a ? Object.keys(a) : [];
+        const keysB = b ? Object.keys(b) : [];
+        return new Set([...keysA, ...keysB]);
+      }
 
-function mergeStateConflict(apple, google) {
-    if (google === "rejected" || apple === "rejected") {
-        return "rejected";
-    }
-    if (google === "pending" || apple === "pending") {
-        return "pending";
-    }
-    if (apple === "usable" && google !== "usable") {
-        return google;
-    }
-    if (google === "usable" && apple !== "usable") {
-        return apple;
-    }
-    
-    // jank for other potential cases
-    return apple + google;
-}
-
-function condGet(m, k) {
-    return m ? m[k] : null;
-}
-
-function mergeItem(d, k, appleValue, googleValue) {
-    if (appleValue === null || appleValue === undefined) {
-        d[k] = googleValue;
-        return;
-    }
-    if (googleValue === null || googleValue === undefined) {
-        d[k] = appleValue;
-        return;
-    }
-    if (appleValue === googleValue) {
-        d[k] = appleValue;
-        return;
-    }
-    if (k === "name") {
-        // Only really want one of the names, so pick one
-        d[k] = googleValue;
-        return;
-    }
-    if (k === "description" || k === "state_timestamp") {
-        // Don't highlight differences for description or state_timestamp
-        d[k] = googleValue; // Pick one value, don't create conflict prefixes
-        return;
-    }
-    if (k === "state") {
-        // Resolve state conflicts specially
-        d[k] = mergeStateConflict(appleValue, googleValue);
-        // No return here, keep the originals too
-    }
-    d["apple_" + k] = appleValue;
-    d["google_" + k] = googleValue;
-}
-
-function mergeLog(apple, google) {
-    const merge = { 
-        apple: apple !== null && apple !== undefined, 
-        google: google !== null && google !== undefined 
-    };
-    
-    for (const key of allKeys(apple, google)) {
-        mergeItem(merge, key, condGet(apple, key), condGet(google, key));
-    }
-    
-    return merge;
-}
-
-function mergeLogLists(appleLogs, googleLogs) {
-    const appleMap = {};
-    const googleMap = {};
-    
-    // Create maps using URL as key
-    for (const log of appleLogs) {
-        const key = log.url || log.submission_url;
-        if (key) appleMap[key] = log;
-    }
-    
-    for (const log of googleLogs) {
-        const key = log.url || log.submission_url;
-        if (key) googleMap[key] = log;
-    }
-    
-    const result = [];
-    const allUrls = new Set([...Object.keys(appleMap), ...Object.keys(googleMap)]);
-    
-    for (const url of allUrls) {
-        const merged = mergeLog(appleMap[url] || null, googleMap[url] || null);
-        result.push(merged);
-    }
-    
-    return result;
-}
-
-function renderLogTable(logs) {
-    // Sort logs by operator and name
-    logs.sort((a, b) => {
-        const opCompare = (a.operator || '').localeCompare(b.operator || '');
-        if (opCompare !== 0) return opCompare;
-        return (a.name || '').localeCompare(b.name || '');
-    });
-    
-    const tbody = document.getElementById('logs');
-    tbody.innerHTML = '';
-    
-    logs.forEach((log, index) => {
-        const tr = document.createElement('tr');
-        
-        // Add current class if log is current
-        const state = log.state;
-        if (state === 'pending' || state === 'usable' || state === 'qualified') {
-            tr.classList.add('current');
+      function mergeStateConflict(apple, google) {
+        if (google === "rejected" || apple === "rejected") {
+          return "rejected";
+        }
+        if (google === "pending" || apple === "pending") {
+          return "pending";
+        }
+        if (apple === "usable" && google !== "usable") {
+          return google;
+        }
+        if (google === "usable" && apple !== "usable") {
+          return apple;
         }
 
-        tr.innerHTML = `
-            <td class="operator">${log.operator || ''}</td>
-            <td class="name">${log.name || ''}</td>
-            <td class="state">${log.state || ''}</td>
+        // jank for other potential cases
+        return apple + google;
+      }
+
+      function condGet(m, k) {
+        return m ? m[k] : null;
+      }
+
+      function mergeItem(d, k, appleValue, googleValue) {
+        if (appleValue === null || appleValue === undefined) {
+          d[k] = googleValue;
+          return;
+        }
+        if (googleValue === null || googleValue === undefined) {
+          d[k] = appleValue;
+          return;
+        }
+        if (appleValue === googleValue) {
+          d[k] = appleValue;
+          return;
+        }
+        if (k === "name") {
+          // Only really want one of the names, so pick one
+          d[k] = googleValue;
+          return;
+        }
+        if (k === "description" || k === "state_timestamp") {
+          // Don't highlight differences for description or state_timestamp
+          d[k] = googleValue; // Pick one value, don't create conflict prefixes
+          return;
+        }
+        if (k === "state") {
+          // Resolve state conflicts specially
+          d[k] = mergeStateConflict(appleValue, googleValue);
+          // No return here, keep the originals too
+        }
+        d["apple_" + k] = appleValue;
+        d["google_" + k] = googleValue;
+      }
+
+      function mergeLog(apple, google) {
+        const merge = {
+          apple: apple !== null && apple !== undefined,
+          google: google !== null && google !== undefined,
+        };
+
+        for (const key of allKeys(apple, google)) {
+          mergeItem(merge, key, condGet(apple, key), condGet(google, key));
+        }
+
+        return merge;
+      }
+
+      function mergeLogLists(appleLogs, googleLogs) {
+        const appleMap = {};
+        const googleMap = {};
+
+        // Create maps using URL as key
+        for (const log of appleLogs) {
+          const key = log.url || log.submission_url;
+          if (key) appleMap[key] = log;
+        }
+
+        for (const log of googleLogs) {
+          const key = log.url || log.submission_url;
+          if (key) googleMap[key] = log;
+        }
+
+        const result = [];
+        const allUrls = new Set([
+          ...Object.keys(appleMap),
+          ...Object.keys(googleMap),
+        ]);
+
+        for (const url of allUrls) {
+          const merged = mergeLog(
+            appleMap[url] || null,
+            googleMap[url] || null,
+          );
+          result.push(merged);
+        }
+
+        return result;
+      }
+
+      function renderLogTable(logs) {
+        // Sort logs by operator and name
+        logs.sort((a, b) => {
+          const opCompare = (a.operator || "").localeCompare(b.operator || "");
+          if (opCompare !== 0) return opCompare;
+          return (a.name || "").localeCompare(b.name || "");
+        });
+
+        // First pass: determine which operators have current logs
+        const operatorsWithCurrentLogs = new Set();
+        logs.forEach((log) => {
+          const state = log.state;
+          if (
+            state === "pending" ||
+            state === "usable" ||
+            state === "qualified"
+          ) {
+            operatorsWithCurrentLogs.add(log.operator);
+          }
+        });
+
+        const tbody = document.getElementById("logs");
+        tbody.innerHTML = "";
+
+        let currentOperator = "";
+        let logIndex = 0;
+
+        logs.forEach((log) => {
+          // Add operator section header if this is a new operator
+          if (log.operator !== currentOperator) {
+            currentOperator = log.operator;
+
+            const operatorRow = document.createElement("tr");
+            operatorRow.classList.add("operator-header");
+
+            // Add class if operator has no current logs
+            if (!operatorsWithCurrentLogs.has(log.operator)) {
+              operatorRow.classList.add("no-current-logs");
+            }
+
+            operatorRow.innerHTML = `
+                <td colspan="3">
+                    ${log.operator || "Unknown Operator"}
+                </td>
+            `;
+            tbody.appendChild(operatorRow);
+          }
+
+          logIndex++;
+          const tr = document.createElement("tr");
+
+          // Add current class if log is current
+          const state = log.state;
+          if (
+            state === "pending" ||
+            state === "usable" ||
+            state === "qualified"
+          ) {
+            tr.classList.add("current");
+          }
+
+          tr.innerHTML = `
+            <td class="name">${log.name || ""}</td>
+            <td class="state">${log.state || ""}</td>
             <td class="data" colspan="4">
-                <input id="log${index + 1}" class="expand" type="checkbox">
-                <label for="log${index + 1}" class="expand">expand</label>
+                <input id="log${logIndex}" class="expand" type="checkbox">
+                <label for="log${logIndex}" class="expand">expand</label>
                 <table>
                     ${renderLogDetails(log)}
                 </table>
             </td>
         `;
-        
-        tbody.appendChild(tr);
-    });
-}
 
-function renderLogDetails(log) {
-    const keys = ["description", "state", "log_type", "url", "submission_url", "monitoring_url", "start", "end", "log_id", "key", "mmd", "state_timestamp", "apple", "google"];
-    let html = '';
-    
-    for (const baseKey of keys) {
-        const variants = [baseKey, "apple_" + baseKey, "google_" + baseKey];
-        
-        for (const key of variants) {
+          tbody.appendChild(tr);
+        });
+      }
+
+      function renderLogDetails(log) {
+        const keys = [
+          "description",
+          "state",
+          "log_type",
+          "url",
+          "submission_url",
+          "monitoring_url",
+          "start",
+          "end",
+          "log_id",
+          "key",
+          "mmd",
+          "state_timestamp",
+          "apple",
+          "google",
+        ];
+        let html = "";
+
+        for (const baseKey of keys) {
+          const variants = [baseKey, "apple_" + baseKey, "google_" + baseKey];
+
+          for (const key of variants) {
             if (log.hasOwnProperty(key)) {
-                let rowClass = key;
-                let valueClass = 'value';
-                
-                // Add conflict highlighting for apple_/google_ prefixed fields
-                if (key.startsWith('apple_') || key.startsWith('google_')) {
-                    valueClass += ' conflict-value';
-                }
-                
-                html += `
+              let rowClass = key;
+              let valueClass = "value";
+
+              // Add conflict highlighting for apple_/google_ prefixed fields
+              if (key.startsWith("apple_") || key.startsWith("google_")) {
+                valueClass += " conflict-value";
+              }
+
+              html += `
                     <tr class="${rowClass}">
                         <td class="key">${key}</td>
                         <td class="${valueClass}" colspan="3">${log[key]}</td>
                     </tr>
                 `;
             }
+          }
         }
-    }
-    
-    return html;
-}
 
-async function loadData() {
-    try {
-        const [appleResponse, googleResponse] = await Promise.all([
-            fetch('data/apple/current_log_list.json'),
-            fetch('data/google/all_log_list.json')
-        ]);
-        
-        if (!appleResponse.ok || !googleResponse.ok) {
-            throw new Error('Failed to load JSON data');
+        return html;
+      }
+
+      async function loadData() {
+        try {
+          const [appleResponse, googleResponse] = await Promise.all([
+            fetch("data/apple/current_log_list.json"),
+            fetch("data/google/all_log_list.json"),
+          ]);
+
+          if (!appleResponse.ok || !googleResponse.ok) {
+            throw new Error("Failed to load JSON data");
+          }
+
+          const appleData = await appleResponse.json();
+          const googleData = await googleResponse.json();
+
+          const appleLogs = flattenLogs(appleData);
+          const googleLogs = flattenLogs(googleData);
+          const mergedLogs = mergeLogLists(appleLogs, googleLogs);
+
+          document.getElementById("loading").style.display = "none";
+          document.getElementById("logTable").style.display = "table";
+
+          renderLogTable(mergedLogs);
+        } catch (error) {
+          document.getElementById("loading").style.display = "none";
+          document.getElementById("error").style.display = "block";
+          document.getElementById("error").textContent =
+            "Error loading data: " + error.message;
         }
-        
-        const appleData = await appleResponse.json();
-        const googleData = await googleResponse.json();
-        
-        const appleLogs = flattenLogs(appleData);
-        const googleLogs = flattenLogs(googleData);
-        const mergedLogs = mergeLogLists(appleLogs, googleLogs);
-        
-        document.getElementById('loading').style.display = 'none';
-        document.getElementById('logTable').style.display = 'table';
-        
-        renderLogTable(mergedLogs);
-        
-    } catch (error) {
-        document.getElementById('loading').style.display = 'none';
-        document.getElementById('error').style.display = 'block';
-        document.getElementById('error').textContent = 'Error loading data: ' + error.message;
-    }
-}
+      }
 
-// Load data when page loads
-document.addEventListener('DOMContentLoaded', loadData);
-</script>
-
-</body>
+      // Load data when page loads
+      document.addEventListener("DOMContentLoaded", loadData);
+    </script>
+  </body>
 </html>
