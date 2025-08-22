@@ -1,5 +1,5 @@
 {
-  "total_ca_owners": 189,
+  "total_ca_owners": 183,
   "total_records": 9573,
   "ca_owners": [
     {
@@ -578,31 +578,17 @@
     },
     {
       "ca_owner": "D-TRUST",
-      "record_count": 38,
+      "record_count": 62,
       "countries": [
         "Germany"
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
-        "partially_trusted_roots": 5,
-        "untrusted_roots": 2,
-        "intermediates": 29
+        "partially_trusted_roots": 7,
+        "untrusted_roots": 3,
+        "intermediates": 50
       },
       "output_filename": "D-TRUST.json"
-    },
-    {
-      "ca_owner": "D-Trust",
-      "record_count": 24,
-      "countries": [
-        "Germany"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 1,
-        "intermediates": 21
-      },
-      "output_filename": "D-Trust.json"
     },
     {
       "ca_owner": "DarkMatter LLC",
@@ -830,31 +816,17 @@
     },
     {
       "ca_owner": "e-tugra",
-      "record_count": 6,
-      "countries": [
-        "Turkey"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 4
-      },
-      "output_filename": "e-tugra.json"
-    },
-    {
-      "ca_owner": "E-Tugra",
-      "record_count": 13,
+      "record_count": 19,
       "countries": [
         "Turkey"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
-        "untrusted_roots": 0,
-        "intermediates": 11
+        "untrusted_roots": 2,
+        "intermediates": 15
       },
-      "output_filename": "E-Tugra.json"
+      "output_filename": "e-tugra.json"
     },
     {
       "ca_owner": "Echoworx",
@@ -1026,7 +998,7 @@
     },
     {
       "ca_owner": "GESTIÓN DE SEGURIDAD ELECTRÓNICA S.A.",
-      "record_count": 2,
+      "record_count": 4,
       "countries": [
         "Colombia"
       ],
@@ -1034,23 +1006,9 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
         "untrusted_roots": 2,
-        "intermediates": 0
-      },
-      "output_filename": "GESTIÓN_DE_SEGURIDAD_ELECTRÓNICA_SA.json"
-    },
-    {
-      "ca_owner": "Gestión de Seguridad Electrónica S.A.",
-      "record_count": 2,
-      "countries": [
-        "Colombia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 0,
         "intermediates": 2
       },
-      "output_filename": "Gestión_de_Seguridad_Electrónica_SA.json"
+      "output_filename": "GESTIÓN_DE_SEGURIDAD_ELECTRÓNICA_SA.json"
     },
     {
       "ca_owner": "Global Digital Cybersecurity Authority Co., Ltd. (Formerly Guang Dong Certificate Authority (GDCA))",
@@ -1432,7 +1390,7 @@
     },
     {
       "ca_owner": "Halcom D.D.",
-      "record_count": 9,
+      "record_count": 14,
       "countries": [
         "Slovenia"
       ],
@@ -1440,23 +1398,9 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 3,
-        "intermediates": 5
+        "intermediates": 10
       },
       "output_filename": "Halcom_DD.json"
-    },
-    {
-      "ca_owner": "HALCOM d.d.",
-      "record_count": 5,
-      "countries": [
-        "Slovenia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 0,
-        "intermediates": 5
-      },
-      "output_filename": "HALCOM_dd.json"
     },
     {
       "ca_owner": "HARICA",
@@ -1810,31 +1754,17 @@
     },
     {
       "ca_owner": "Netlock",
-      "record_count": 50,
+      "record_count": 54,
       "countries": [
         "Hungary"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
-        "untrusted_roots": 7,
+        "untrusted_roots": 11,
         "intermediates": 41
       },
       "output_filename": "Netlock.json"
-    },
-    {
-      "ca_owner": "NETLOCK",
-      "record_count": 4,
-      "countries": [
-        "Hungary"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 4,
-        "intermediates": 0
-      },
-      "output_filename": "NETLOCK.json"
     },
     {
       "ca_owner": "Netrust Pte Ltd",
@@ -2118,31 +2048,17 @@
     },
     {
       "ca_owner": "SECOM Trust Systems CO., LTD.",
-      "record_count": 160,
+      "record_count": 187,
       "countries": [
         "Japan"
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
-        "partially_trusted_roots": 4,
+        "partially_trusted_roots": 8,
         "untrusted_roots": 3,
-        "intermediates": 152
+        "intermediates": 175
       },
       "output_filename": "SECOM_Trust_Systems_CO_LTD.json"
-    },
-    {
-      "ca_owner": "SECOM Trust Systems Co., Ltd.",
-      "record_count": 27,
-      "countries": [
-        "Japan"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 4,
-        "untrusted_roots": 0,
-        "intermediates": 23
-      },
-      "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
     },
     {
       "ca_owner": "Sectigo",
