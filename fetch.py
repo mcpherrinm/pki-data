@@ -154,7 +154,7 @@ def convert_ccadb_csv_to_json(csv_data):
             ca_owners_list.append(ca_entry)
 
         # Sort by CA owner name
-        ca_owners_list.sort(key=lambda x: x["ca_owner"])
+        ca_owners_list.sort(key=lambda x: x["ca_owner"].casefold())
 
         # Create individual JSON files per CA Owner and update ca_owners_list with filenames
         os.makedirs("data/ccadb/ca", exist_ok=True)
