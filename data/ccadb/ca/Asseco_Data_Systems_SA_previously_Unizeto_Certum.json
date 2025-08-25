@@ -1017,7 +1017,9 @@
     "Subject Key Identifier": "+gNHTfvyaTReG8ycbPXM5JeQyJc=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1246,7 +1248,9 @@
     "Authority Key Identifier": "jPscdbwC059OLkjZ+WBUqsSzT/o=",
     "Subject Key Identifier": "wM6Ap8brkae57rb7glZkLdTyOCU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

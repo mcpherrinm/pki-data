@@ -1245,7 +1245,9 @@
     "Authority Key Identifier": "1GToQ4g6cy/QGnGCNgtehd7H3kM=",
     "Subject Key Identifier": "/E0zmMpN5Lk2JJ/fWW7ALdE9qyM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1834,7 +1836,9 @@
     "Authority Key Identifier": "sMep0t2yKFZzBJSMFFxIbzdSkqg=",
     "Subject Key Identifier": "OqWt1q81Q5/wEsZvOq97OOwjK3o=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1964,7 +1968,9 @@
     "Authority Key Identifier": "sMep0t2yKFZzBJSMFFxIbzdSkqg=",
     "Subject Key Identifier": "VdmjcIJ8PN+o0/nefwXRumZLv+0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1996,7 +2002,9 @@
     "Authority Key Identifier": "BH2j4TOfyYr7QrBWwRS5U4Y1chI=",
     "Subject Key Identifier": "soIG7GY4Rf0DtwSdpy7PB4hgpVA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

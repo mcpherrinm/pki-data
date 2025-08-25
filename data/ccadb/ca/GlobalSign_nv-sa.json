@@ -1240,7 +1240,9 @@
     "Subject Key Identifier": "frCorFUZI6Hdv/ab5XxNpbzVNio=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -5217,7 +5219,9 @@
     "Subject Key Identifier": "i5tErQPihossQbGDyuh/gHecTCM=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -5444,7 +5448,9 @@
     "Subject Key Identifier": "xS/GeRNtDaJu/7gAnFiqLq+BvkQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -6253,7 +6259,9 @@
     "Subject Key Identifier": "+jsQSslYbjQWDLWOkyujd5y4LIM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -6351,7 +6359,9 @@
     "Subject Key Identifier": "QaCGM59rrGefLkdsj6htbtpgCwA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -6417,7 +6427,9 @@
     "Subject Key Identifier": "4DZEXUeHwL80W6vsztbllsbTnh4=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -7519,7 +7531,9 @@
     "Subject Key Identifier": "MpgmxLog+GqXVAy18/3ZDIDOwSg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -8557,7 +8571,9 @@
     "Subject Key Identifier": "RLWUB0+MCE5lA1gQi9D/qakhPto=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -9206,7 +9222,9 @@
     "Subject Key Identifier": "WLdB1+d0cMZFYYJM+OD4pnCy4tM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -10373,7 +10391,9 @@
     "Subject Key Identifier": "sEOeMHD23v1UHhI6HeD3Ycv7IMc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -11539,7 +11559,9 @@
     "Subject Key Identifier": "LcCGbLo0RhtxJLthgH2Uu6QnuEU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -11670,7 +11692,9 @@
     "Subject Key Identifier": "UKNpfRnxIy/eWdJEfzDO/It/NuQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -11832,7 +11856,9 @@
     "Subject Key Identifier": "KiMwIvX2D8faHh/yJVkWXyyOSMo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -11964,7 +11990,9 @@
     "Subject Key Identifier": "qaz+fVcY1JtRUIDLToP6TTQo0Z8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12127,7 +12155,9 @@
     "Subject Key Identifier": "9nMvvlt63KoxIS6BFVEz6TYTugo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12193,7 +12223,9 @@
     "Subject Key Identifier": "Wx9579SgZwNc3WS4m/1Nb255Eg8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12874,7 +12906,9 @@
     "Subject Key Identifier": "HTMDbSKKyRWvSAoJulvGAqYk6ok=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12972,7 +13006,9 @@
     "Subject Key Identifier": "ubTwP+fvXzMUfbnslOqpgA529VA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -13557,7 +13593,9 @@
     "Subject Key Identifier": "e2S4mOgwOtM7zQLbC5qTLTiuBXs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -15625,7 +15663,9 @@
     "Subject Key Identifier": "M8CLkUq4e+05F4HCNs5onBmQA8g=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -15658,7 +15698,9 @@
     "Subject Key Identifier": "KsY3JsamQ6vRUgl7rUlBRj/dI8s=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -16669,7 +16711,9 @@
     "Subject Key Identifier": "TvZ816Ku9eW1F3dCd0A8uZxkWcc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -16735,7 +16779,9 @@
     "Subject Key Identifier": "jLkjXLhfL/yeuI7MUbawnisQsbU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -16768,7 +16814,9 @@
     "Subject Key Identifier": "2aSgJ8sKJKoxqkN9c3DMf7Ulu5M=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -17062,7 +17110,9 @@
     "Subject Key Identifier": "gPf1uN6e044ovsDy9amOUxmRpHc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -17128,7 +17178,9 @@
     "Subject Key Identifier": "4pUMd//J1h17EJZZkIOS+ztKi50=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
