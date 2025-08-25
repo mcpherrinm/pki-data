@@ -583,7 +583,6 @@
     "Parent Salesforce Record ID": "001o0000010cvfIAAQ",
     "Parent Certificate Name": "AC RAIZ FNMT-RCM",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "AC Sector Público",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
