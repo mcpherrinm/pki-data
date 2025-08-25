@@ -4092,7 +4092,9 @@
     "Subject Key Identifier": "y1yTroib/kNvVlBSAm14/KzhsVo=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -4125,7 +4127,9 @@
     "Subject Key Identifier": "KA5MiRyZl/GB8I8I3lcSS7y4eM8=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -4217,7 +4221,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "SzIup/2VZybVnNiuJQwMBChNca0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AAMCDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AAMCDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5002,7 +5008,9 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "LvgC5zTBxa4cWAsGPCAiQpwGDLU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5035,7 +5043,9 @@
     "Subject Key Identifier": "eKriGoKwUlDgZMvTsioSakejtqc=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5068,7 +5078,9 @@
     "Subject Key Identifier": "AYgP7JI2/lGlzlLs0JkBhWCI75Q=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA-G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -7126,7 +7138,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "uatEevzaYhsJH887rxBLiYEUYyM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AetnaIncSecureCA2-2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureCA2-2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -7158,7 +7172,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "uatEevzaYhsJH887rxBLiYEUYyM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AetnaIncSecureCA2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureCA2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -7191,7 +7207,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "uatEevzaYhsJH887rxBLiYEUYyM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AetnaIncSecureCA2-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureCA2-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -7223,7 +7241,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "tsHF0+csl5yWnGFyNCLfQ6VFU10=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AetnaIncSecureEVCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureEVCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -7255,7 +7275,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "tsHF0+csl5yWnGFyNCLfQ6VFU10=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AetnaIncSecureEVCA-2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureEVCA-2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -7287,7 +7309,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "tsHF0+csl5yWnGFyNCLfQ6VFU10=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AetnaIncSecureEVCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureEVCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -7444,7 +7468,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "P8VMogX/jhwO8fbpw28F/HHPKXc=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AlaskaeHealthNetworkCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AlaskaeHealthNetworkCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -7638,7 +7664,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "sFH5fVXkuHKf0TpoCtCF2tqFD5A=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AllinaHealthConnectHIEIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AllinaHealthConnectHIEIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -9387,7 +9415,9 @@
     "Authority Key Identifier": "FV81V1FV+yWyrQNp/AGj+r4RVdU=",
     "Subject Key Identifier": "w8SkWAVj14MGupaN3LKPMva7t0E=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=15b92005-0ad5-4bc7-a9f1-3f2b27097bf0",
@@ -9436,7 +9466,9 @@
     "Subject Key Identifier": "w8SkWAVj14MGupaN3LKPMva7t0E=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=3b31eff7-674b-4451-beb8-096a4491c366",
@@ -9531,7 +9563,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "AZx2ScXuGnekilOgzAOqJ74sSMc=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=0d292b65-1e65-4e62-af35-df3a710d7739",
@@ -9580,7 +9614,9 @@
     "Subject Key Identifier": "Q2kR/5bhY0ndPeqdjVejbT46e8I=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=3b31eff7-674b-4451-beb8-096a4491c366",
@@ -9982,7 +10018,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "tWRvvBefyVBl2PU/hOmVCXp8X2Y=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=0d292b65-1e65-4e62-af35-df3a710d7739",
@@ -10082,7 +10120,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "kGHzo9cGzvUXtlcO2YynlUsWMok=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=0d292b65-1e65-4e62-af35-df3a710d7739",
@@ -11274,7 +11314,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "vo9HBupdv4RBw44FURHao0fvnMs=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/AxessonDirectCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AxessonDirectCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12109,7 +12151,9 @@
     "Subject Key Identifier": "YSm11Fct0Af3RKwqrtH9e0Ay7qE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/BloombergTLSCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/BloombergTLSCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12142,7 +12186,9 @@
     "Subject Key Identifier": "YSm11Fct0Af3RKwqrtH9e0Ay7qE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/BloombergTLSCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/BloombergTLSCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -12205,7 +12251,9 @@
     "Subject Key Identifier": "SlqMEdBz/5fXdbizpgm0KzpxL2g=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -13230,7 +13278,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "inEwMMGVB+czGIfRF1ZWSHiU5gg=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CalINDEXCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CalINDEXCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -13361,7 +13411,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "VpAaa/n0QppkpgcvFSTujCgOKmM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/Care360DirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/Care360DirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -13517,7 +13569,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "ZtJyahxnWpUgu2Mh4djlTFRSQqI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CatholicHealthInitiativesCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CatholicHealthInitiativesCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -13579,7 +13633,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "UrcshUQMH2L4exxiGt1sTbmPCTE=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CernerCorporationDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CernerCorporationDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -19726,7 +19782,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "pc436uuwdQ6UZ4i0RfrZJBCHlh8=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CloudflareIncECCCA-3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CloudflareIncECCCA-3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -19822,7 +19880,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "GKka/LJFScFvMDQIK9mHnLAlV3o=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CloudflareIncRSACA-2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CloudflareIncRSACA-2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -19979,7 +20039,10 @@
     "Subject Key Identifier": "Smn6DGAemCMbm+R9/bmkpy8rbYo=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CTUCA.crl\",\"http://crl3.digicert.com/ComcastTrustedUserCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CTUCA.crl",
+      "http://crl3.digicert.com/ComcastTrustedUserCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20012,7 +20075,9 @@
     "Subject Key Identifier": "dI7q23BshX937wWCKvhoFGPInbo=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ComcastTrustedUserRSACA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ComcastTrustedUserRSACA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20044,7 +20109,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "DRd/SlhutA8V0arz0eSGeGxn4jY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CompuGroupMedicalCertificateAuthority.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CompuGroupMedicalCertificateAuthority.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20106,7 +20173,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "MmiO71XFhRlh0tsJ0H6umJEmMrw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CorepointDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CorepointDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20887,7 +20956,9 @@
     "Subject Key Identifier": "+jfnyb6nUW83iHdpLrOzArRnrLE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CrowdStrikeGlobalEVCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CrowdStrikeGlobalEVCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20920,7 +20991,9 @@
     "Subject Key Identifier": "+jfnyb6nUW83iHdpLrOzArRnrLE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CrowdStrikeGlobalEVCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CrowdStrikeGlobalEVCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20953,7 +21026,9 @@
     "Subject Key Identifier": "gLeRNcgBkmiCJj1jvhhh+/TvIvs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CrowdStrikeGlobalEVCAG2-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CrowdStrikeGlobalEVCAG2-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -20986,7 +21061,9 @@
     "Subject Key Identifier": "gLeRNcgBkmiCJj1jvhhh+/TvIvs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CrowdStrikeGlobalEVCAG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CrowdStrikeGlobalEVCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -21911,7 +21988,9 @@
     "Subject Key Identifier": "inctIzd+4nH45L9K0PIGoZYqFOI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CybertrustJapanExtendedValidationServerCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CybertrustJapanExtendedValidationServerCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -21944,7 +22023,9 @@
     "Subject Key Identifier": "N8Mtgb0UhtKwYgcxPPVnjkFPAoA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/CybertrustJapanIssuingCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CybertrustJapanIssuingCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23126,7 +23207,9 @@
     "Subject Key Identifier": "19+Smg5KuLe5cAm9dmcyd1fJLx8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DataManagementIntermediateCA-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DataManagementIntermediateCA-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23253,7 +23336,9 @@
     "Subject Key Identifier": "07s4KbnuJILxZZvqw7PIySYiU2g=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DCGovernmentSHA2AssuredIDIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DCGovernmentSHA2AssuredIDIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23680,7 +23765,9 @@
     "Subject Key Identifier": "mbOEKZ6VUC5Fh28JiKvekObjI1U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredG2EURSMIMERSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredG2EURSMIMERSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23745,7 +23832,9 @@
     "Authority Key Identifier": "zsNKuZlV8rjbYL+pfr1WtZc2p9Y=",
     "Subject Key Identifier": "+WgXo71lwGeiUuqszo6bHqWGthc=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredG2MultiDocSignEURRSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredG2MultiDocSignEURRSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23778,7 +23867,9 @@
     "Subject Key Identifier": "hdNzUYhBS83nFLHEmk3NNmq8PNk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23811,7 +23902,9 @@
     "Subject Key Identifier": "95uiTtOXxfQ0D0MOgYXOkZMyr/k=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24003,7 +24096,9 @@
     "Subject Key Identifier": "pWIgUNy7W1eXrSOPNeJUbKl++U4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDClientCAG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24036,7 +24131,9 @@
     "Subject Key Identifier": "CVM6EVvudJpalWhLIxne6Y2JxSc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDClientCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDClientCAG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24069,7 +24166,10 @@
     "Subject Key Identifier": "e2jOKarAF75JeuHlP9an90WPNTI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/assured-cs-2011a.crl\",\"http://crl3.digicert.com/assured-cs-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/assured-cs-2011a.crl",
+      "http://crl3.digicert.com/assured-cs-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24102,7 +24202,10 @@
     "Subject Key Identifier": "e2jOKarAF75JeuHlP9an90WPNTI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/assured-cs-2011a.crl\",\"http://crl3.digicert.com/assured-cs-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/assured-cs-2011a.crl",
+      "http://crl3.digicert.com/assured-cs-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24134,7 +24237,9 @@
     "Authority Key Identifier": "zsNKuZlV8rjbYL+pfr1WtZc2p9Y=",
     "Subject Key Identifier": "R/LaEbRzWG6qw1i8IF+NWNnXQYM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2AATLEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2AATLEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24167,7 +24272,9 @@
     "Subject Key Identifier": "84w9Qqs0Gj4cizYoDbttLxLUdq8=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2Client2FAEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2Client2FAEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24200,7 +24307,9 @@
     "Subject Key Identifier": "qEwfSNAOmNLQE/4HsLe1+p16+mw=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2ClientEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2ClientEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24233,7 +24342,9 @@
     "Subject Key Identifier": "nd7ZfgyJkb7gbwWgGDku9xwPfEE=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2ClientEuropeRSA4096SHA2562024CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2ClientEuropeRSA4096SHA2562024CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24266,7 +24377,9 @@
     "Subject Key Identifier": "ZtKcNB1KVReG9v/TSVACDyBe2Wg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2DocSigningEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2DocSigningEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24298,7 +24411,9 @@
     "Authority Key Identifier": "zsNKuZlV8rjbYL+pfr1WtZc2p9Y=",
     "Subject Key Identifier": "Tli7kB59tPvroEwExNYjUO/M3UE=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDG2MultiDocSigningRSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDG2MultiDocSigningRSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24331,7 +24446,9 @@
     "Subject Key Identifier": "Zjut6nkBUec1C5htd7ho0JpwqCY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2SMIMEEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2SMIMEEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24364,7 +24481,9 @@
     "Subject Key Identifier": "dcZUOe5ZgGQRlTc0jVNFKaSOrN4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertAssuredIDG2SMIMEEuropeRSA4096SHA2562023CA2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2SMIMEEuropeRSA4096SHA2562023CA2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24463,7 +24582,9 @@
     "Subject Key Identifier": "MdbetUkUNeOEgqleCEzSF8iUVZI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562022CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562022CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24495,7 +24616,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "F8iXD2Bz0jq5wFgq6n8g13D6YVw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24528,7 +24651,9 @@
     "Subject Key Identifier": "iLwa3ulUYkvkxc6qUHbvs9FBpVE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562024CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562024CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24625,7 +24750,9 @@
     "Subject Key Identifier": "+N2S88tKz04u8ejlvCGuumR4gfs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDSMIMERSASHA2562020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDSMIMERSASHA2562020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24658,7 +24785,9 @@
     "Subject Key Identifier": "IDOW02Zm3x3cASYr3eLg4nbJQAw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertAssuredIDSMIMERSA2048SHA2562021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDSMIMERSA2048SHA2562021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24820,7 +24949,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "tvlIUEhv85/rvlO6J4lOdZq0vWc=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertBaltimoreCA1G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertBaltimoreCA1G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24852,7 +24983,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "wBKyKHRoRmfpcCV0GgBFWwZ9XEQ=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertBaltimoreCA-2G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertBaltimoreCA-2G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24884,7 +25017,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "FgBwmOHoRWfDm6xUlxvOsSo2Hnk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertBaltimoreEVCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertBaltimoreEVCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24916,7 +25051,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "g5pV3UIHHTsE8sJISmWe4/4sIrU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertBaltimoreSMIMERSASHA2562020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertBaltimoreSMIMERSASHA2562020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24948,7 +25085,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "8labB4YHmVN+Eiz4fS/m1SbYk1Q=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertBaltimoreTLSRSASHA2562020CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertBaltimoreTLSRSASHA2562020CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -24980,7 +25119,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "8labB4YHmVN+Eiz4fS/m1SbYk1Q=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertBaltimoreTLSRSASHA2562020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertBaltimoreTLSRSASHA2562020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25471,7 +25612,9 @@
     "Subject Key Identifier": "3VHQojFzqXOuj7QBfl2MV8uf8Pc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertCloudServicesCA-1-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertCloudServicesCA-1-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -25505,7 +25648,9 @@
     "Subject Key Identifier": "3VHQojFzqXOuj7QBfl2MV8uf8Pc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertCloudServicesCA-1-g2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertCloudServicesCA-1-g2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25702,7 +25847,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "+YhmiCZX+ydjez9jQ9GLAco6EvM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertDirectNon-ProviderCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertDirectNon-ProviderCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25735,7 +25882,9 @@
     "Subject Key Identifier": "7841k872hsX4hPUM51pv2S9L42Q=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertDocumentSigningCA-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertDocumentSigningCA-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25801,7 +25950,9 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "o53mH/naOU/AbuiRy5Wl2jHiCp8=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ssca-ecc-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ssca-ecc-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -25835,7 +25986,9 @@
     "Subject Key Identifier": "rWkGcPyAGxazqRiUa5QChl73J4w=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/EVCodeSigning-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EVCodeSigning-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25868,7 +26021,9 @@
     "Subject Key Identifier": "j+h+8G0yagAFI8dwl2o6kP9r6tQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25901,7 +26056,9 @@
     "Subject Key Identifier": "oZC3RvJ0Xplg67NV/QeASlZXyaA=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertEVCodeSigningCASHA2G1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertEVCodeSigningCASHA2G1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26062,7 +26219,9 @@
     "Subject Key Identifier": "mTn/X6SzWV+BwFeZ0aOkR6xgY00=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/evca-g3-group1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/evca-g3-group1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -26222,7 +26381,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "gk2XhnwEz9MRRNIcEmPIiUF+LT4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedHealthcareCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedHealthcareCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26347,7 +26508,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "3ppcrlPTyXQYAAAxkhtKJwnIeUg=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedID-L1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedID-L1.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26379,7 +26542,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "CiYgUReRDXHbOz5eAgCg6AO2VRk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedIDL2CA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedIDL2CA.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26504,7 +26669,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "4zp1SZzaRC9shgMcgYsoV8j/ojI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedID-L4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedID-L4.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26629,7 +26796,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "Co/uAWZzXeIj7agp6FWSUlrQvog=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedIDUSL3CA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedIDUSL3CA.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26692,7 +26861,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "msRDcTAOMCWlSum0I07TOPM3P6g=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedID-US-L4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedID-US-L4.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26724,7 +26895,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedTrustCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedTrustCA.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -26787,7 +26960,9 @@
     "Authority Key Identifier": "0Cs7/2hx1pAM98RzeceZcADlR0A=",
     "Subject Key Identifier": "a9IC09GpY4s5S0Uxmo8MvinmASs=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertFederatedTrustCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertFederatedTrustCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27001,7 +27176,9 @@
     "Subject Key Identifier": "yBwJy/UadDcgDEJZIKMZw2rbyoQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5CodeSigningECCP256SHA3842022CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningECCP256SHA3842022CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27034,7 +27211,9 @@
     "Subject Key Identifier": "PjPK9I6u0GE3nyVXHBe7bYmde+g=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5CodeSigningECCP384SHA3842022CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningECCP384SHA3842022CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27067,7 +27246,9 @@
     "Subject Key Identifier": "yQOVNynOnbbz7iKS6vIpNRjlFtQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertG5CodeSigningEuropeECCP-384SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertG5CodeSigningEuropeECCP-384SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27100,7 +27281,9 @@
     "Subject Key Identifier": "rg6D1aXmifsAhb/jhbSWgkvzzW0=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertG5CodeSigningEuropeRSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertG5CodeSigningEuropeRSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27133,7 +27316,9 @@
     "Subject Key Identifier": "jvYefBlNbfNaZABkvCTMweGwou0=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA2562022CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA2562022CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27166,7 +27351,9 @@
     "Subject Key Identifier": "XFm0RvhUcT4wUNMlJ5cFMu3aVZk=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA3842022CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA3842022CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27199,7 +27386,9 @@
     "Subject Key Identifier": "1x3H+sb6gnQgRXE0Ei9V1ZhBkl4=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5CSECCSHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CSECCSHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27232,7 +27421,9 @@
     "Subject Key Identifier": "iRgH/z5tMBfJNa27i3GG5Z9mksM=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5CSRSA4096SHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CSRSA4096SHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27265,7 +27456,9 @@
     "Subject Key Identifier": "z5V2jy3UX5s1gu7yyJy4ChDRB+E=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5ECCSHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5ECCSHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27298,7 +27491,9 @@
     "Subject Key Identifier": "z5V2jy3UX5s1gu7yyJy4ChDRB+E=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5ECCSHA3842021CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5ECCSHA3842021CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27331,7 +27526,9 @@
     "Subject Key Identifier": "bYE39zhEfkdCe1al7Lt3ZyEJ9Dw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5RSA4096SHA3842021CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5RSA4096SHA3842021CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27364,7 +27561,9 @@
     "Subject Key Identifier": "bYE39zhEfkdCe1al7Lt3ZyEJ9Dw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5RSA4096SHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5RSA4096SHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27529,7 +27728,9 @@
     "Subject Key Identifier": "m1jcjaZlmOe8Bv4apBWgb8vmqZA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5TLSECCSHA3842021CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5TLSECCSHA3842021CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27562,7 +27763,9 @@
     "Subject Key Identifier": "m1jcjaZlmOe8Bv4apBWgb8vmqZA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5TLSECCSHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5TLSECCSHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27663,7 +27866,9 @@
     "Subject Key Identifier": "rrqUM7rvN00L1xjvSuShDbwHtnM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27696,7 +27901,9 @@
     "Subject Key Identifier": "rrqUM7rvN00L1xjvSuShDbwHtnM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -27893,7 +28100,9 @@
     "Subject Key Identifier": "2QoTWN1g6RtSyIte7UETGHYeaJQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGlobalClientCAG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalClientCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -27927,7 +28136,9 @@
     "Subject Key Identifier": "SRCU+VF02fQWF3ieb9kVMLcek4g=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGlobalClientCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalClientCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -27994,7 +28205,9 @@
     "Subject Key Identifier": "dIWAwGbH3zfez70pN6oDHb7tzRc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28060,7 +28273,9 @@
     "Subject Key Identifier": "itxqf3PAJzivA9jcnvV5zIkIMQc=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCP256SHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCP256SHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28093,7 +28308,9 @@
     "Subject Key Identifier": "m1+wNrqdBq4ZJ73AoCLAi4s4d+0=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCSHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCSHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28126,7 +28343,9 @@
     "Subject Key Identifier": "9bRWHqaLerSVkMYm/NiATEUZn80=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertGlobalG3CodeSigningEuropeECCP-384SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertGlobalG3CodeSigningEuropeECCP-384SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28192,7 +28411,9 @@
     "Subject Key Identifier": "Lmb1k6UDJ3lNT+fIu2gCzOlY9/k=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGlobalG3SMIMEECCP384SHA3842024CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG3SMIMEECCP384SHA3842024CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28689,7 +28910,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "cC1LqYQBGoR193ipCUnsMEv5b+s=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertGovDirect.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGovDirect.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28916,7 +29139,9 @@
     "Subject Key Identifier": "MRaRonVMwWo1VdlLIWJ3H6nme+Y=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertHighAssuranceCA-3b-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceCA-3b-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28949,7 +29174,9 @@
     "Subject Key Identifier": "MRaRonVMwWo1VdlLIWJ3H6nme+Y=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertHighAssuranceCA-3b.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceCA-3b.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -28982,7 +29209,9 @@
     "Subject Key Identifier": "l0gD6xUIa7myWCPMlC7xxmXSZI4=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ha-cs-2011a.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ha-cs-2011a.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29015,7 +29244,9 @@
     "Subject Key Identifier": "l0gD6xUIa7myWCPMlC7xxmXSZI4=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ha-cs-2011a.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ha-cs-2011a.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29364,7 +29595,9 @@
     "Subject Key Identifier": "UGGmoNI1xBEqII0fD6xC8M0pz0s=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29397,7 +29630,9 @@
     "Subject Key Identifier": "UGGmoNI1xBEqII0fD6xC8M0pz0s=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29430,7 +29665,9 @@
     "Subject Key Identifier": "iZbeemQcy91OdrdvqzfbKvmAxdM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29463,7 +29700,9 @@
     "Subject Key Identifier": "iZbeemQcy91OdrdvqzfbKvmAxdM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29562,7 +29801,9 @@
     "Subject Key Identifier": "+viywSYabJu1z3FKiNfHXdx5rcI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_27a567c957b32a1b3163837b60b6bdee/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_27a567c957b32a1b3163837b60b6bdee/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29628,7 +29869,9 @@
     "Subject Key Identifier": "4PH6bPwb5+Wq6x3vt4RDb4JgiV8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertOmniTLSRSA4096SHA2562022CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertOmniTLSRSA4096SHA2562022CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29947,7 +30190,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "da7kDy6pvrIz2RWayZTB9zC0Nao=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertProvisionalDirectMedCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertProvisionalDirectMedCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -29980,7 +30225,9 @@
     "Subject Key Identifier": "9pPXsj3OzgS0ZlUGRKnb0eXt6sY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/secure-auth-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/secure-auth-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -30046,7 +30293,9 @@
     "Subject Key Identifier": "5eGtF2dq2lJonBgaOzGIqdiUem0=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertSecureAuthCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertSecureAuthCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -30079,7 +30328,15 @@
     "Subject Key Identifier": "kHHbN+tzyO/c1R4StjS6K1qgppI=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ssca-master.crl",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ssca-g1.crl\",\"http://crl3.digicert.com/ssca-g2.crl\",\"http://crl3.digicert.com/ssca-g3.crl\",\"http://crl3.digicert.com/ssca-g4.crl\",\"http://crl3.digicert.com/ssca-g5.crl\",\"http://crl3.digicert.com/ssca-g6.crl\",\"http://crl3.digicert.com/ssca-g7.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ssca-g1.crl",
+      "http://crl3.digicert.com/ssca-g2.crl",
+      "http://crl3.digicert.com/ssca-g3.crl",
+      "http://crl3.digicert.com/ssca-g4.crl",
+      "http://crl3.digicert.com/ssca-g5.crl",
+      "http://crl3.digicert.com/ssca-g6.crl",
+      "http://crl3.digicert.com/ssca-g7.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -31166,7 +31423,9 @@
     "Valid To (GMT)": "2028.08.01",
     "Subject Key Identifier": "ErW3HpgQmqEOYi0zrHC4sfWcqKs=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertSHA1CodeSigningICAVRSNPCA3-G1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertSHA1CodeSigningICAVRSNPCA3-G1.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -31263,7 +31522,9 @@
     "Subject Key Identifier": "JJ8BKKixUhS7iw2g1PTQHA8baLE=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertSHA2AssuredIDCodeSigning.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertSHA2AssuredIDCodeSigning.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31296,7 +31557,9 @@
     "Subject Key Identifier": "WsS5eyoKo6XqcQPAYPkt9mV1Dlg=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/sha2-assured-cs-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-assured-cs-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31391,7 +31654,9 @@
     "Subject Key Identifier": "9LbhIB3+Ka7S5GGlsqIlssgXNW4=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/sha2-assured-ts.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-assured-ts.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31521,7 +31786,9 @@
     "Subject Key Identifier": "Z50PIAkMzIo65YJGcmL88cyQ5UA=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/sha2-ha-cs-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-ha-cs-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31588,7 +31855,16 @@
     "Subject Key Identifier": "D4BhHIIxYdUvKOeNRji0LOHG2eI=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/sha2-ssca-master.crl",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ssca-sha2-g1.crl\",\"http://crl3.digicert.com/ssca-sha2-g2.crl\",\"http://crl3.digicert.com/ssca-sha2-g3.crl\",\"http://crl3.digicert.com/ssca-sha2-g4.crl\",\"http://crl3.digicert.com/ssca-sha2-g5.crl\",\"http://crl3.digicert.com/ssca-sha2-g6-1.crl\",\"http://crl3.digicert.com/ssca-sha2-g6.crl\",\"http://crl3.digicert.com/ssca-sha2-g7.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ssca-sha2-g1.crl",
+      "http://crl3.digicert.com/ssca-sha2-g2.crl",
+      "http://crl3.digicert.com/ssca-sha2-g3.crl",
+      "http://crl3.digicert.com/ssca-sha2-g4.crl",
+      "http://crl3.digicert.com/ssca-sha2-g5.crl",
+      "http://crl3.digicert.com/ssca-sha2-g6-1.crl",
+      "http://crl3.digicert.com/ssca-sha2-g6.crl",
+      "http://crl3.digicert.com/ssca-sha2-g7.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -31719,7 +31995,9 @@
     "Subject Key Identifier": "CrwIKReMpTlteg7OM8cus+37w3o=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31857,7 +32135,9 @@
     "Authority Key Identifier": "FV81V1FV+yWyrQNp/AGj+r4RVdU=",
     "Subject Key Identifier": "QGk5Tikk/53bPwR5sP8Cf6zgywQ=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAGeoTrustPCA-G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAGeoTrustPCA-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31889,7 +32169,9 @@
     "Authority Key Identifier": "xHnKjqFOAx0c3GvbMVuUPj8wfy0=",
     "Subject Key Identifier": "D6UC1bez6Ss/Z9S6eshBUTPio0M=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAGeoTrustPCA-G3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAGeoTrustPCA-G3.crl"
+    ],
     "Auditor": "Scott S. Perry CPA, PLLC",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://bug1458024.bmoattachments.org/attachment.cgi?id=9131333",
@@ -31932,7 +32214,9 @@
     "Authority Key Identifier": "xHnKjqFOAx0c3GvbMVuUPj8wfy0=",
     "Subject Key Identifier": "Xb1bnjTRRg7JRuUmVTH16dkELxU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAGeoTrustPCA-G32021.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAGeoTrustPCA-G32021.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31964,7 +32248,9 @@
     "Authority Key Identifier": "f9Nlp8Ld7LvwMAnzQzn6Aq8zMTM=",
     "Subject Key Identifier": "9adXa/KpAF/L8+GNUh09Ch4fsgQ=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAPCA-G52021.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAPCA-G52021.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -31996,7 +32282,9 @@
     "Authority Key Identifier": "8BFcIKvw0P49CELvlXHjcsEcElY=",
     "Subject Key Identifier": "GPjNd8GEJpNY4r8T8HkSvVM5xOA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAPCA3-G3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAPCA3-G3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32028,7 +32316,9 @@
     "Authority Key Identifier": "sxaR/e6mbuS1LkmPh3iBgOzlsbU=",
     "Subject Key Identifier": "rZrSywcvHQ7JASx+b7aqfM/24u0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAPCA3-G4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAPCA3-G4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32060,7 +32350,9 @@
     "Authority Key Identifier": "JJ280nH3HcIlviLxiaUsFTs0Hl4=",
     "Subject Key Identifier": "ODmvI3V11xdwv2N14w5rd2YgdT4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICASYMCPCA3-G4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICASYMCPCA3-G4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32092,7 +32384,9 @@
     "Authority Key Identifier": "OXEIAD7eyIbnkP/k/SEPziQZFvY=",
     "Subject Key Identifier": "HM6h9XiS+rfvs1dRQ9rb8z++X0M=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICASYMCPCA3-G6.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICASYMCPCA3-G6.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32155,7 +32449,9 @@
     "Authority Key Identifier": "e1tFz6/Oy3r9MZIaarbzRutXSFA=",
     "Subject Key Identifier": "qJrFTiIeY3Jpvtdo9fdICJgmwd0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAThawtePCA2021.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAThawtePCA2021.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32187,7 +32483,9 @@
     "Authority Key Identifier": "mtgAMADna3+FGO6Lts6KDPgR4bs=",
     "Subject Key Identifier": "J6MJduvUZCnFjN/8jsXjNQFVh3Y=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAThawtePCA-G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAThawtePCA-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32261,7 +32559,9 @@
     "Authority Key Identifier": "rWyqlGCc7eT/+j4KdCtjA/e2Wb8=",
     "Subject Key Identifier": "tMrOv11DexEdd1dlKzIjMr1gxWk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAThawtePCA-G32021.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAThawtePCA-G32021.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32294,7 +32594,9 @@
     "Subject Key Identifier": "uv2GutBPp6VGBfoSahbwYHP1E80=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTLSICAUniversal2021.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAUniversal2021.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -32691,7 +32993,9 @@
     "Authority Key Identifier": "440cQvbhCde2F0PnPxSTUOeO9Q0=",
     "Subject Key Identifier": "u9N66+pKPwNUkhv+Xx7Z/27E/mk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTransitionIssuingCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTransitionIssuingCAG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33036,7 +33340,9 @@
     "Subject Key Identifier": "LufLapnUVPEm1VpSENm3efZupCI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertTrustedG4CodeSigningEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertTrustedG4CodeSigningEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33069,7 +33375,9 @@
     "Subject Key Identifier": "+vQ24zlIWOG6A6V1HEcYbV/WYRY=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertTrustedG4CodeSigningEuropeRSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertTrustedG4CodeSigningEuropeRSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33102,7 +33410,9 @@
     "Subject Key Identifier": "vGsiZZ2MaObmHgXx2HIl1LjgSMA=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA2562021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA2562021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33135,7 +33445,9 @@
     "Subject Key Identifier": "aDfg67Y7+F8Rhvv+YXsIiGX0TkI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33168,7 +33480,9 @@
     "Subject Key Identifier": "uhbZbU2FL3MpdpovdYxqII+eyG8=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33234,7 +33548,9 @@
     "Subject Key Identifier": "tmw5J1bOl1p+GJwKE7LBoWy4Grs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -33267,7 +33583,9 @@
     "Subject Key Identifier": "tmw5J1bOl1p+GJwKE7LBoWy4Grs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33528,7 +33846,9 @@
     "Authority Key Identifier": "m134UlTQ5rEsvI8qc9lkPL5S/OI=",
     "Subject Key Identifier": "LCAgLxhzK/E7S5IEyMt9+snC9AU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigiCertUniversalIssuingCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertUniversalIssuingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33929,7 +34249,9 @@
     "Subject Key Identifier": "TegugfywDHBCUvas3k0EkPQPL/M=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigitalSignCA-G5.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigitalSignCA-G5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -33993,7 +34315,9 @@
     "Subject Key Identifier": "qWy3lDJLJ0GZpp/gO4UWx6dqgY8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DigitalSignCA-G7.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigitalSignCA-G7.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -34311,7 +34635,9 @@
     "Subject Key Identifier": "3N/HVNQw+lSEQHGD/9LDzoP9xdw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DKBCA1O1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DKBCA1O1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -34344,7 +34670,9 @@
     "Subject Key Identifier": "3N/HVNQw+lSEQHGD/9LDzoP9xdw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/DKBCA1O1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DKBCA1O1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -36564,7 +36892,11 @@
     "Subject Key Identifier": "VXRPsnJP9WC6UNHX5lFcmgGHGtc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1-1.crl\",\"http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1.crl\",\"http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1-1.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -38906,7 +39238,9 @@
     "Valid To (GMT)": "2025.06.03",
     "Subject Key Identifier": "m5MZVgcFDLL2jMh+IM5UhnQyId4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -39066,7 +39400,9 @@
     "Subject Key Identifier": "11ZC3C+fdcuUlhPG295iLkK2Hk8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_dbaae79f9a9490156249037c17a9bcce/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_dbaae79f9a9490156249037c17a9bcce/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -40038,7 +40374,9 @@
     "Subject Key Identifier": "7pouRvDC2jxcx4zWpHWY3qgZCmU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdp.geotrust.com/GeoTrustECCCA2018.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdp.geotrust.com/GeoTrustECCCA2018.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -41046,7 +41384,9 @@
     "Authority Key Identifier": "HLhC0psqAQM7gyoMEb7PwzXdGDs=",
     "Subject Key Identifier": "OwqPZ2//CZERqaN2cYCUm1MIjzU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GeoTrustPrimaryIssuingCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustPrimaryIssuingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -41140,7 +41480,9 @@
     "Subject Key Identifier": "kFj/sJx1qFFUd7Ht8qNDFjiebMU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdp.geotrust.com/GeoTrustRSACA2018.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdp.geotrust.com/GeoTrustRSACA2018.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -41425,7 +41767,9 @@
     "Subject Key Identifier": "8S+1dxz0gOuXhfRoEOjEp55HslU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GeoTrustSupremeSSL1CA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustSupremeSSL1CA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -41489,7 +41833,9 @@
     "Subject Key Identifier": "LXPoaPMAH3IPlzbAQBpSkeH3VUY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GeoTrustSupremeSSLEV1CA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustSupremeSSLEV1CA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -41523,7 +41869,9 @@
     "Subject Key Identifier": "q9SIVzuXBMIcz3dHg9sJK72DPYY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -41556,7 +41904,10 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "EsmImy/JRHp9EvHfQANCmJLHJNY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GeoTrustTLSDVRSAMixedSHA2562020CA-1-1.crl\",\"http://crl3.digicert.com/GeoTrustTLSDVRSAMixedSHA2562020CA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustTLSDVRSAMixedSHA2562020CA-1-1.crl",
+      "http://crl3.digicert.com/GeoTrustTLSDVRSAMixedSHA2562020CA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -41588,7 +41939,9 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "/l2VBe37vok8LGuBPsi+avfM+YA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GeoTrustTLSDVRSAMixedSHA2562021CA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustTLSDVRSAMixedSHA2562021CA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -42169,7 +42522,9 @@
     "Subject Key Identifier": "yfwQ71DIy2t/vQhE7zpik+1bXpo=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GoGetSSLG4CSRSA4096SHA2562022CA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GoGetSSLG4CSRSA4096SHA2562022CA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -42265,7 +42620,9 @@
     "Subject Key Identifier": "FX/vvYnuvK4aGYnFKt52Fswmxm4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GoogleCA1-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GoogleCA1-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -43273,7 +43630,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "4K23lsEmjBL8RwuKhXeev+FSXDE=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/GreenvilleHealthSystemCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GreenvilleHealthSystemCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -43462,7 +43821,9 @@
     "Subject Key Identifier": "DNhApJ7zteB+dLSPPGeenxqbj9c=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/HenkelSecureE-mailCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/HenkelSecureE-mailCAG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -43686,7 +44047,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "vrHcMSi8tTFCxFzLKHo6O7/v/7o=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/HighmarkTapestryHIECA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/HighmarkTapestryHIECA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -43752,7 +44115,9 @@
     "Subject Key Identifier": "5xPA6gEqksyxRaGbqECEvjHCR30=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/HitachiEnergyUserIDCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/HitachiEnergyUserIDCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -44173,7 +44538,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "6G4iyvSZUC9E9NQtYudsWXXc+hk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/HuntsvilleHospitalSystemCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/HuntsvilleHospitalSystemCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -44206,7 +44573,9 @@
     "Subject Key Identifier": "O/VXw7lBvaJlDj2pkKB4ud6R3Ik=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/HydrantIDEVSSLCAD1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/HydrantIDEVSSLCAD1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -44239,7 +44608,9 @@
     "Subject Key Identifier": "O/VXw7lBvaJlDj2pkKB4ud6R3Ik=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/HydrantIDEVSSLCAD1-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/HydrantIDEVSSLCAD1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -44495,7 +44866,9 @@
     "Subject Key Identifier": "dUr5NEFIJd1GChOaETs7mzbVWUY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/IBMCertificationAuthorityG7.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/IBMCertificationAuthorityG7.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -44931,7 +45304,9 @@
     "Subject Key Identifier": "5uLVQUlNhDwq0eehsOrLbH7Uy84=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/ImprivataSecureIDCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ImprivataSecureIDCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -44963,7 +45338,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "G3PbUX6yzeFF4FTgbSuYcvBmwCo=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/IndianHealthServiceRPMSDIRECTMessagingCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/IndianHealthServiceRPMSDIRECTMessagingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -45104,7 +45481,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "DJXwR1LbS6Tr50fSibZc0a86MBA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/InlandEmpireHealthInformationExchange.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/InlandEmpireHealthInformationExchange.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -45198,7 +45577,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "yoeC+6ZC/2OpbERRz3T3bok25rw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/INTEGRISDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/INTEGRISDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -45543,7 +45924,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "Bak/pt4Jxd60Xeny0PlO/T7ktN0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/iShareMedicalDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/iShareMedicalDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -45701,7 +46084,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "Dn4OYvn4ty9PxvR4PqyH0heQzgA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/JaxHRSaintVincentsHIECA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/JaxHRSaintVincentsHIECA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -46285,7 +46670,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "l25JqpinL9q7onbFHvIGBz3HDCI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/KeystoneHIEKeyHIECA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/KeystoneHIEKeyHIECA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -46736,7 +47123,9 @@
     "Subject Key Identifier": "pdV5VtWAFwRnGTHOQ7M/bRiXvz8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_e3b1a622197562e0df0b92059717dafd/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_e3b1a622197562e0df0b92059717dafd/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -47485,7 +47874,9 @@
     "Subject Key Identifier": "WKJE3eL7Rei4RzFyhAWNq0cO5bQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/KyndrylCertificationAuthorityG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/KyndrylCertificationAuthorityG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -47720,7 +48111,9 @@
     "Authority Key Identifier": "zsNKuZlV8rjbYL+pfr1WtZc2p9Y=",
     "Subject Key Identifier": "22/y1ifsWUx7lWJJcWNXlb3SOCY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -47785,7 +48178,9 @@
     "Authority Key Identifier": "s9tIpPmhxdiuNkHMEWNpYim8S8Y=",
     "Subject Key Identifier": "b5pz6y/3mCDSD9ZY6K7+MPE8mCw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -47883,7 +48278,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "+4jh58EjxutrEdPyJNQvEZYt3Jw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/LouisianaHealthCareQualityForumCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/LouisianaHealthCareQualityForumCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -48293,7 +48690,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "MCrykitIXQBz6QFzWDLsDcMx0v8=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MaryWashingtonHealthcareCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MaryWashingtonHealthcareCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -48325,7 +48724,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "QfSG8pxDxaqcUlp6PH7xhDG8Ybo=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MassHIwayCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MassHIwayCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -48387,7 +48788,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "PbHEDk5+l3ulb4WS4MiWjEKrCJY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MedicaSoftDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MedicaSoftDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -48482,7 +48885,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "OWKdlKz4c92y/aTRXCCGQaSXxsk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MHINDirectCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MHINDirectCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -51242,7 +51647,9 @@
     "Authority Key Identifier": "a9IC09GpY4s5S0Uxmo8MvinmASs=",
     "Subject Key Identifier": "JA5ADC7QJ9wfKZfrHpsqxtjpoMU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MIDIGATECA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MIDIGATECA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -51368,7 +51775,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "tHa2ks8K9De6Jhf6vyARmFqBknE=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MississippiDivisionofMedicaidCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MississippiDivisionofMedicaidCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -51400,7 +51809,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "BVJExngwVmwEcWEsEsikk+FEUqw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MobileMDDirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MobileMDDirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -51728,7 +52139,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "0kUBDBiNczD81A4s/6DgI+i2DNs=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MRODirectIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MRODirectIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -52477,7 +52890,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "RrvwLB8qZEsh6K7dytty1KohKFw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/MSFTBALTRS256CA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/MSFTBALTRS256CA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53249,7 +53664,9 @@
     "Subject Key Identifier": "4wsl5fhk/ePdxQb7yucfHkzmYSM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NBNCoLimitedPublicIssuingCA-G4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NBNCoLimitedPublicIssuingCA-G4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53282,7 +53699,9 @@
     "Subject Key Identifier": "POyH7zGQgQ4D/ysHrrRTpRWn+AI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NCCGroupSecureServerCAG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NCCGroupSecureServerCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -53316,7 +53735,9 @@
     "Subject Key Identifier": "lr8KhkPeF3L2R/GS3vdzFU6Y/qE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NCCGroupSecureServerCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NCCGroupSecureServerCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -53350,7 +53771,9 @@
     "Subject Key Identifier": "qGIOJHClHiRaeqmZ+RSCXHR7IJc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NCCGroupSecureServerCAG4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NCCGroupSecureServerCAG4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53578,7 +54001,9 @@
     "Subject Key Identifier": "ycVACeRSmh7g4XhQ9MXEOXxOgHI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_3aaed4dc4ed4b39ea0ce9a55af8f701c/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_3aaed4dc4ed4b39ea0ce9a55af8f701c/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53640,7 +54065,9 @@
     "Valid To (GMT)": "2029.07.31",
     "Subject Key Identifier": "3tHisWwISUZ3pJ9xaI1ihGot+s0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NetflixPublicSHA2RSACA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NetflixPublicSHA2RSACA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53672,7 +54099,9 @@
     "Authority Key Identifier": "8BFcIKvw0P49CELvlXHjcsEcElY=",
     "Subject Key Identifier": "B6XI8u2aHxpmf70HV/eq4LkELW4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NetflixPublicSHA2RSACA2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NetflixPublicSHA2RSACA2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -53704,7 +54133,9 @@
     "Authority Key Identifier": "8BFcIKvw0P49CELvlXHjcsEcElY=",
     "Subject Key Identifier": "fdKonNYRBz+sf86SuD8nOynBBL8=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NetflixPublicSHA2RSACA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NetflixPublicSHA2RSACA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53766,7 +54197,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "E8qgUP7erp5P3Kph/dyBPEvX1pU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NewHampshireHIO.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NewHampshireHIO.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -53798,7 +54231,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "ozHdFLYGCFNLYClCBVcsQOEhjJ4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NewMexicoHealthInformationCollaborativeCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NewMexicoHealthInformationCollaborativeCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -54278,7 +54713,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "DxYgS10dodTlBCEohHj8akctEfM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NorthCarolinaHealthInformationExchangeCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NorthCarolinaHealthInformationExchangeCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -54310,7 +54747,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "lcXf+RcoKOE/8mfq2RE9QzgcS+E=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/NorthDakotaITDeptCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NorthDakotaITDeptCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -54565,7 +55004,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "CXL3ZX/GbzU/tM8TgjiVvh2AqYY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/OklahomaStateDepartmentofHealthCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/OklahomaStateDepartmentofHealthCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -54687,7 +55128,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "rXWO+6UVi1FWUZVFDRpxS+xPPmM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/OptioncareCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/OptioncareCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -54719,7 +55162,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "/kVgwfz3R2bwPX7r3RD34sN3Jfc=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/OptumPublicTrustCA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/OptumPublicTrustCA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -54999,7 +55444,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "akqRKGhwMjhWSfK+TV0JKFExzA0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/OregonHealthAuthorityDirectCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/OregonHealthAuthorityDirectCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -55062,7 +55509,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/OrionHealthDirectSecureMessagingCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/OrionHealthDirectSecureMessagingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -55094,7 +55543,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "+8L5tBWVmjhNVXSg372HO9V4PTg=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/OrionHealthDirectPublicHISPCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/OrionHealthDirectPublicHISPCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -55595,7 +56046,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "8D+toY17ddQeuPWGYv9VaL3hjV4=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/PlexDevicesHighAssuranceCA3-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/PlexDevicesHighAssuranceCA3-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -56096,7 +56549,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "kqJcrd7JD0wuNzAtbqmcrN5tc0s=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/PostecomCS4.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/PostecomCS4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -56128,7 +56583,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "FQw9f/crZ9b9g3bAubYtkDjU1lI=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/PostecomCS5.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/PostecomCS5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -56849,7 +57306,9 @@
     "Subject Key Identifier": "QmC1s0lOutdDqD1o59WaJCX5ZtM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdp.rapidssl.com/RapidSSLECCCA2018.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdp.rapidssl.com/RapidSSLECCCA2018.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57012,7 +57471,9 @@
     "Subject Key Identifier": "U8oXWfxrwAMhLxqu5KqoHIJW2nU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdp.rapidssl.com/RapidSSLRSACA2018.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdp.rapidssl.com/RapidSSLRSACA2018.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57168,7 +57629,9 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "pI3lvnx55HAjbS4pNK0jWNz1MX8=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RapidSSLTLSDVRSAMixedSHA2562020CA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RapidSSLTLSDVRSAMixedSHA2562020CA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57200,7 +57663,9 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "zU4tLq0zkA3bPhFA/U/H/Tit6rs=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RapidSSLTLSDVRSAMixedSHA2562021CA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RapidSSLTLSDVRSAMixedSHA2562021CA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57329,7 +57794,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "WOMh8wKRTXLGEL5eKfX4ck15IfA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RelayHealthDirectCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RelayHealthDirectCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57393,7 +57860,9 @@
     "Subject Key Identifier": "QvfIhY+0hC8lPb6gD7XMd6ZIOOQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RiverbedCertificateIssuer.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RiverbedCertificateIssuer.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57426,7 +57895,9 @@
     "Subject Key Identifier": "4IwgXZKYlhhOPtfM+HwLaLPEpaU=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RiverbedCertificateIssuer-G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RiverbedCertificateIssuer-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57458,7 +57929,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "OZefMKq6gL7NgUY/MevUn6k22tE=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RochesterRHIOIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RochesterRHIOIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57566,7 +58039,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "vmbNmnmEnxsCPts9GtCPMhZJluA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RushHealthCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RushHealthCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57599,7 +58074,9 @@
     "Subject Key Identifier": "iubE8T8MF8zbTbQek7o6qWtHIPU=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RVBDCertificateIssuer.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RVBDCertificateIssuer.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -57632,7 +58109,9 @@
     "Subject Key Identifier": "N+ZL4L3r6VM/RVHsBiBiPTb7jXg=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/RVBDENGCertificateIssuer-G2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RVBDENGCertificateIssuer-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -58671,7 +59150,9 @@
     "Authority Key Identifier": "Rgg4WqmOILsMr14xuomzKL+sjDY=",
     "Subject Key Identifier": "zukCNH2qBjhBbQTVz7ry8DqkQ1w=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/SCHIExDirectCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SCHIExDirectCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -58766,7 +59247,9 @@
     "Subject Key Identifier": "xBF+iECGwkG/ZfMa4bRTQKOr7H0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/SecureSiteCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SecureSiteCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -58799,7 +59282,9 @@
     "Subject Key Identifier": "xBF+iECGwkG/ZfMa4bRTQKOr7H0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert-cn.com/SecureSiteCA-1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert-cn.com/SecureSiteCA-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -58931,7 +59416,9 @@
     "Subject Key Identifier": "RUHjk1RwuOmlt5a8JrFYdUKXPvM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert-cn.com/SecureSiteProCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert-cn.com/SecureSiteProCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -59256,7 +59743,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "7J24TQOqz7IHbu8i0NwXouFqeXk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/securitymetrics-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/securitymetrics-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -59289,7 +59778,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "pNEIbic1ZuVXsRier0TXtaCnjd0=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/securitymetrics-ev-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/securitymetrics-ev-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -59667,7 +60158,9 @@
     "Subject Key Identifier": "aGPKgBAK76uv/6/4Jv611OHfpoQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_dafca45ec6f1d66ccbae26266966931e/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_dafca45ec6f1d66ccbae26266966931e/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -60673,7 +61166,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "OjNgKWFClk3CDEFMlkaPw0quWNA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/Sonovation-g1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/Sonovation-g1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -61204,7 +61699,9 @@
     "Subject Key Identifier": "yRa/nBrK04LgiaYJ0r6eRFjp07w=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/STMicroelectronicsPublicUserCA2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/STMicroelectronicsPublicUserCA2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -61800,7 +62297,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "3ysBdA6UafqPBV9I6h2Ya6yu5fw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/SutterHealthCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SutterHealthCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -62291,7 +62790,9 @@
     "Subject Key Identifier": "yqxd4ZAv8e+M1J81AeEBO6DOwXc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66055,7 +66556,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "MgrBDMFoPleoLfl5IuWOnOlEjjI=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENACodeSigningCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENACodeSigningCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66087,7 +66590,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "8oEuQ+0dJNTw0UY8ATb956OAAfw=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENACodeSigningCA3G3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENACodeSigningCA3G3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66119,7 +66624,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "jJ8RLubjegSlHlWLRggEpu2XcKY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENAeSciencePersonalCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENAeSciencePersonalCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66151,7 +66658,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "KaobbjD5MGdjpYcmDKzxgZxpdEk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENAeScienceSSLCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENAeScienceSSLCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66183,7 +66692,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "8CHpSXdzn4WuGDvoUnAUBu1C7so=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENAPersonalCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENAPersonalCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66215,7 +66726,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "JOtM0c7xJMYFp2WD8kXW+ZSrGYs=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENAPersonalCA3G3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENAPersonalCA3G3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66247,7 +66760,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "Z/2IIBQnmMcJ0iUZu+lREWN1UGI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENASSLCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENASSLCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66279,7 +66794,9 @@
     "Authority Key Identifier": "Reuir/SSy4IxLVGLp6chnfNtyA8=",
     "Subject Key Identifier": "gZpGVLqQzpQMECoMhzKXLC9dgFE=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENASSLCA3G3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENASSLCA3G3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -66311,7 +66828,9 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "wriF1+G5E73RSLz9Xtx9kEJ6iqk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TERENASSLHighAssuranceCA3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TERENASSLHighAssuranceCA3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -67205,7 +67724,9 @@
     "Subject Key Identifier": "BK9Pbgo2psIngg6c/rkCQkk79bk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdp.thawte.com/ThawteECCCA2018.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdp.thawte.com/ThawteECCCA2018.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -67913,7 +68434,9 @@
     "Authority Key Identifier": "MfrNVh3Pj4JkmbbPlVrfuGAKTTo=",
     "Subject Key Identifier": "CNalHaiMkUfDTlTDPRWpHTP6dDI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/thawtePrimaryIssuingCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/thawtePrimaryIssuingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -67945,7 +68468,9 @@
     "Authority Key Identifier": "cjKEmDzGd9/2Ji+C18ClMkGI2b0=",
     "Subject Key Identifier": "UwwQwA8gDxb7LcCJepEiNGGT++k=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/thawtePrimaryIssuingCAG3.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/thawtePrimaryIssuingCAG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -68239,7 +68764,9 @@
     "Subject Key Identifier": "o8heZVTlMHjBBeoHCmpZzLn+3lo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdp.thawte.com/ThawteRSACA2018.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdp.thawte.com/ThawteRSACA2018.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -68666,7 +69193,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "z2BKxu29xQTZyWoXmjT80/nU3nk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TheKobleGroupCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TheKobleGroupCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -68728,7 +69257,9 @@
     "Subject Key Identifier": "D9onxZ5tLuTwfoW2A4u1ic1iuMU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -69120,7 +69651,9 @@
     "Authority Key Identifier": "a9IC09GpY4s5S0Uxmo8MvinmASs=",
     "Subject Key Identifier": "pcLkOha0GcPh+rw+fsdYw1N5i8E=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrinityHealthDirectCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrinityHealthDirectCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -69874,7 +70407,9 @@
     "Subject Key Identifier": "qVhpPrZZ9bVwLwPU1lt+Ed0mgU8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrustItaliaIntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustItaliaIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -69907,7 +70442,9 @@
     "Subject Key Identifier": "eiMDK9R8Tx+u2gLKY1ecqLSAp9I=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrustItaliaIntermediateCAG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustItaliaIntermediateCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -70356,7 +70893,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "xgcJEqU2hj93WaFoVxCq2GPWh8Q=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrustTechnologiesGlobalCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustTechnologiesGlobalCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -70388,7 +70927,9 @@
     "Authority Key Identifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
     "Subject Key Identifier": "3N+jvg1kHjMuEqSAu2sCveU9BoY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrustTechnologiesGlobalClientCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustTechnologiesGlobalClientCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -70452,7 +70993,9 @@
     "Subject Key Identifier": "3qQwrOQ/9ScrMXyvkGcdriKe7GQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -70972,7 +71515,9 @@
     "Subject Key Identifier": "T4X8m1nTxlOXj7weg/MegiUUvHk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert-cn.com/TrustAsiaOVTLSProCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert-cn.com/TrustAsiaOVTLSProCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -71164,7 +71709,9 @@
     "Subject Key Identifier": "tEr1/aqLeyHCJIIvtmgIZh8S9c8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrustAsiaSecureEmailCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustAsiaSecureEmailCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -71197,7 +71744,9 @@
     "Subject Key Identifier": "4+lpRuzYNfszqH9p6hGD2IQxd4c=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/TrustAsiaSecureEnterpriseEmailCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustAsiaSecureEnterpriseEmailCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -71354,7 +71903,9 @@
     "Subject Key Identifier": "EoZEZiYIVCaPZTeyKU4mIeCTvts=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdpf.digitalcertvalidation.com/TrustAsiaTLSECCCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdpf.digitalcertvalidation.com/TrustAsiaTLSECCCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -71486,7 +72037,10 @@
     "Subject Key Identifier": "f9OZ86BHDjEAVlYijrfMnt3KAYo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA-1.crl\",\"http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA-1.crl",
+      "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -72075,7 +72629,9 @@
     "Subject Key Identifier": "Trymjn9jSnTTl0xEiy6Lb/ao5kA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -72407,7 +72963,9 @@
     "Subject Key Identifier": "sts1T0+N3Qx01pvFg1NYCibIJKA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_c281cdcd2d211b818786739bfc8a0a0c/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_c281cdcd2d211b818786739bfc8a0a0c/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -72440,7 +72998,9 @@
     "Subject Key Identifier": "xaApQZ+ezlk3Di9r8Xz4n6ejIKk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/UniperSMIMECAG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/UniperSMIMECAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -76334,7 +76894,9 @@
     "Subject Key Identifier": "wg2spn9hvfdw79g1LdO9LZ1PWic=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmail.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmail.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -76367,7 +76929,9 @@
     "Subject Key Identifier": "mDvAZwcyKiAQoxgVnYXg/Lp45Wc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmailG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmailG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -76400,7 +76964,9 @@
     "Subject Key Identifier": "NvOXVg+1XI6fo1r8QsVEdd5byok=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/VerokeyHighAssuranceSecureCodeEV.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyHighAssuranceSecureCodeEV.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -76565,7 +77131,9 @@
     "Subject Key Identifier": "cMTmaqM31UOPJMOw0unvfLT5qPI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/VerokeySecureCode.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeySecureCode.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -76598,7 +77166,9 @@
     "Subject Key Identifier": "pymXqOgKDD8qEXZf6shhzSTMYpY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/VerokeySecureEmail.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeySecureEmail.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -76631,7 +77201,9 @@
     "Subject Key Identifier": "iUgI6iBOd2uG5YHI1+GNZIR//HA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/VerokeySecureEmailG2.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeySecureEmailG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -78789,7 +79361,9 @@
     "Authority Key Identifier": "pW4i/zlpOiP7iSQXxmCUABrajp4=",
     "Subject Key Identifier": "W0t3r3Sf1PNhRv6Txa+BUaEYB1s=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/WesternConnecticutHealthNetworkCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WesternConnecticutHealthNetworkCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -78912,7 +79486,9 @@
     "Authority Key Identifier": "Zw5JLGEXnuvt4FTnhNmbrWRgc2U=",
     "Subject Key Identifier": "G0XTFF8x8ywUPai50NQph2fIfJc=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/WFAHotspot20IntermediateCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WFAHotspot20IntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -79003,7 +79579,9 @@
     "Valid To (GMT)": "2023.05.02",
     "Subject Key Identifier": "0WBvCxqYrNU6z4UWfhDLSCdevyo=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": "[\"http://pki-crl.symauth.com/ca_9f13dbeb5db73bb64ee6777bd30555da/LatestCRL.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://pki-crl.symauth.com/ca_9f13dbeb5db73bb64ee6777bd30555da/LatestCRL.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -79134,7 +79712,9 @@
     "Subject Key Identifier": "OFFnpbYC2j1TjhLteDgYXRnvJR0=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/WoSignEVCodeSigningProCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoSignEVCodeSigningProCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -79235,7 +79815,9 @@
     "Subject Key Identifier": "1pHQJ8f3GFZoolL9cnSkmztnlMk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/WoTrusEVSSLProCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoTrusEVSSLProCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -79268,7 +79850,9 @@
     "Subject Key Identifier": "TAdb3novZ4r5go1NAA/6+8aXGUQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl3.digicert.com/WoTrusOVSSLProCA.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoTrusOVSSLProCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

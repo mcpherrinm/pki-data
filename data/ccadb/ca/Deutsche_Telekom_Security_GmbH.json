@@ -3174,7 +3174,9 @@
     "Authority Key Identifier": "v1kgNgB5oKAia4zV8mHSuCzLgko=",
     "Subject Key Identifier": "cUK1AQVWzOef5MES5SOskKEXFHs=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -3242,7 +3244,9 @@
     "Subject Key Identifier": "FgdYHWYvzpAHM90qQ0rBezH/PGQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -3276,7 +3280,9 @@
     "Subject Key Identifier": "z1RxhunpXH/jZGlj4lw7/dN77JI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20036,7 +20042,9 @@
     "Subject Key Identifier": "igBGhnGCrG6sIvJe80D/726jvic=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20138,7 +20146,9 @@
     "Subject Key Identifier": "qN+OFRgRWpY9guZlj4B/wEAVpuc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20172,7 +20182,9 @@
     "Subject Key Identifier": "Zj3rE/wnN+UAmAhjyiI5T0qP2Vg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20274,7 +20286,9 @@
     "Subject Key Identifier": "4nGAgcI3sjFijlmFi6rR9oImzRM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20478,7 +20492,9 @@
     "Subject Key Identifier": "1OpX+VAMy47gbBDn35bFv5pUpNU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20512,7 +20528,9 @@
     "Subject Key Identifier": "PArUR534k4Q85aG3jxfCifLCdWg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -20614,7 +20632,9 @@
     "Subject Key Identifier": "us68p3AhlWG4Bch2o/4jgMRUcQ8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",

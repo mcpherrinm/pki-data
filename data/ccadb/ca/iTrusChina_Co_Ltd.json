@@ -133,7 +133,9 @@
     "Authority Key Identifier": "VGJwY/F1hENYjtEWILHGrBq89ok=",
     "Subject Key Identifier": "xGHmi8C1SENNkJoSG6GG/KHbJgg=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

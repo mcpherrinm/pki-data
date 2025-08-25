@@ -274,9 +274,26 @@
         Object.entries(record).forEach(([key, value]) => {
           const fieldDiv = document.createElement("div");
           fieldDiv.className = "record-field";
+          
+          let displayValue;
+          // Special handling for JSON arrays
+          if (Array.isArray(value)) {
+            if (value.length === 0) {
+              displayValue = "N/A";
+            } else if (value.length === 1 && value[0] === "") {
+              displayValue = "N/A";
+            } else {
+              // Create an HTML list for array values
+              const listItems = value.map(item => `<li>${item || "N/A"}</li>`).join("");
+              displayValue = `<ul style="margin: 0; padding-left: 20px;">${listItems}</ul>`;
+            }
+          } else {
+            displayValue = value || "N/A";
+          }
+          
           fieldDiv.innerHTML = `
             <div class="field-name">${key}:</div>
-            <div class="field-value">${value || "N/A"}</div>
+            <div class="field-value">${displayValue}</div>
           `;
           content.appendChild(fieldDiv);
         });

@@ -150,7 +150,9 @@
     "Subject Key Identifier": "ORxlUUIH54KrmHfX8C2rm0dXadE=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -478,7 +480,9 @@
     "Subject Key Identifier": "Sl1w+g4f/DEfbVg0Bk3mNdBHUYA=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

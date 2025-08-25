@@ -546,7 +546,9 @@
     "Authority Key Identifier": "0+zHOmVuzOHadppW+5zzhm1X5YE=",
     "Subject Key Identifier": "pSHN2+tTIZmqytlnQpQlsnv0wuM=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2c9785a1-7f1b-43ca-9f2b-8d0c37c841b5",
@@ -664,7 +666,10 @@
     "Authority Key Identifier": "hBjMhTTsvAyUlC4IWZzHshBOCgg=",
     "Subject Key Identifier": "WaRmBlKge5WSPKOUByeWdFv5PdA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.sca1b.amazontrust.com/sca1b-1.crl\", \"http://crl.sca1b.amazontrust.com/sca1b.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.sca1b.amazontrust.com/sca1b-1.crl",
+      "http://crl.sca1b.amazontrust.com/sca1b.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9309728",
@@ -724,7 +729,9 @@
     "Authority Key Identifier": "nF8A36oB1zArOIiiuG1KnPIRkYM=",
     "Subject Key Identifier": "l+rEItIGGO2FBP/cUsJu2w4G4T8=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2c9785a1-7f1b-43ca-9f2b-8d0c37c841b5",
@@ -773,7 +780,10 @@
     "Authority Key Identifier": "hBjMhTTsvAyUlC4IWZzHshBOCgg=",
     "Subject Key Identifier": "WaRmBlKge5WSPKOUByeWdFv5PdA=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.sca1b.amazontrust.com/sca1b-1.crl\", \"http://crl.sca1b.amazontrust.com/sca1b.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.sca1b.amazontrust.com/sca1b-1.crl",
+      "http://crl.sca1b.amazontrust.com/sca1b.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9309728",
@@ -894,7 +904,9 @@
     "Authority Key Identifier": "hBjMhTTsvAyUlC4IWZzHshBOCgg=",
     "Subject Key Identifier": "YtRCXoZwdWqQvMa40k1gwjS6UTo=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2c9785a1-7f1b-43ca-9f2b-8d0c37c841b5",
@@ -943,7 +955,9 @@
     "Authority Key Identifier": "sAzwTDD0BVgCSP0z5VKvS4TjZlI=",
     "Subject Key Identifier": "2kNK0PwBwEu/WCeMds0KgfOULvQ=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2c9785a1-7f1b-43ca-9f2b-8d0c37c841b5",
@@ -992,7 +1006,9 @@
     "Authority Key Identifier": "q7bb1waeN6wwhgeRcMecxBmxeMA=",
     "Subject Key Identifier": "BNzgleXouWuUoe+MWzEeE35Vl9o=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2c9785a1-7f1b-43ca-9f2b-8d0c37c841b5",
@@ -2495,7 +2511,10 @@
     "Subject Key Identifier": "gbgOY4qJEhjl+js7UJWf5uWQE4U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.r2m01.amazontrust.com/r2m01.crl\", \"http://crl.r2m01.amazontrust.com/AmazonRSA2048M01.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r2m01.amazontrust.com/r2m01.crl",
+      "http://crl.r2m01.amazontrust.com/AmazonRSA2048M01.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ffc2cba4-ab1a-4f7b-af96-9607dd7cae98",
@@ -2633,7 +2652,10 @@
     "Subject Key Identifier": "VdkYX9IczAHhWLS+q9lVQgHXLgI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.r2m03.amazontrust.com/r2m03.crl\", \"http://crl.r2m03.amazontrust.com/AmazonRSA2048M03.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r2m03.amazontrust.com/r2m03.crl",
+      "http://crl.r2m03.amazontrust.com/AmazonRSA2048M03.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ffc2cba4-ab1a-4f7b-af96-9607dd7cae98",
