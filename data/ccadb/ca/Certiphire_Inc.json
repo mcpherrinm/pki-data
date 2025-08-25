@@ -163,7 +163,9 @@
     "Subject Key Identifier": "mO6B2UlPxCt1v2WzzpwGn60QbNM=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://repository.certiphire.com/certificate-revocation-list/certificate-revocation-list.crl",
-    "JSON Array of Partitioned CRLs": "[ \"https://repository.certiphire.com/certificate-revocation-list/certificate-revocation-list.crl\" ]",
+    "JSON Array of Partitioned CRLs": [
+      "https://repository.certiphire.com/certificate-revocation-list/certificate-revocation-list.crl"
+    ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": "https://repository.certiphire.com/legal/certificate-policy.pdf",

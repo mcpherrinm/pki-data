@@ -72,9 +72,27 @@ def convert_ccadb_csv_to_json(csv_data):
 
         for row in reader:
             # Clean up the row data and omit empty strings
-            clean_row = {
-                k.strip(): v.strip() for k, v in row.items() if v and v.strip()
-            }
+            clean_row = {}
+            for k, v in row.items():
+                if v and v.strip():
+                    key = k.strip()
+                    value = v.strip()
+                    
+                    # Special handling for JSON array fields
+                    if "JSON Array" in key and value:
+                        try:
+                            # Try to parse as JSON array
+                            parsed_value = json.loads(value)
+                            if isinstance(parsed_value, list):
+                                clean_row[key] = parsed_value
+                            else:
+                                clean_row[key] = value
+                        except (json.JSONDecodeError, ValueError):
+                            # If parsing fails, keep as string
+                            clean_row[key] = value
+                    else:
+                        clean_row[key] = value
+            
             all_records.append(clean_row)
 
             # Group by CA Owner (case-insensitive)

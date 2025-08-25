@@ -616,7 +616,18 @@
     "Subject Key Identifier": "CpiYrk86191nhueXJVqbI09bWB0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crls.certainly.com/11083093410258787/1.crl\", \"http://crls.certainly.com/11083093410258787/2.crl\", \"http://crls.certainly.com/11083093410258787/3.crl\", \"http://crls.certainly.com/11083093410258787/4.crl\", \"http://crls.certainly.com/11083093410258787/5.crl\", \"http://crls.certainly.com/11083093410258787/6.crl\", \"http://crls.certainly.com/11083093410258787/7.crl\", \"http://crls.certainly.com/11083093410258787/8.crl\", \"http://crls.certainly.com/11083093410258787/9.crl\", \"http://crls.certainly.com/11083093410258787/10.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crls.certainly.com/11083093410258787/1.crl",
+      "http://crls.certainly.com/11083093410258787/2.crl",
+      "http://crls.certainly.com/11083093410258787/3.crl",
+      "http://crls.certainly.com/11083093410258787/4.crl",
+      "http://crls.certainly.com/11083093410258787/5.crl",
+      "http://crls.certainly.com/11083093410258787/6.crl",
+      "http://crls.certainly.com/11083093410258787/7.crl",
+      "http://crls.certainly.com/11083093410258787/8.crl",
+      "http://crls.certainly.com/11083093410258787/9.crl",
+      "http://crls.certainly.com/11083093410258787/10.crl"
+    ],
     "Auditor": "Schellman & Company, LLC.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=43fedd00-a8c7-4aa1-80e4-05bc4ccd57d6",
@@ -716,7 +727,18 @@
     "Subject Key Identifier": "vZed36HYGyWZ4wwEBolkEtdlJMc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crls.certainly.com/17182262453002514/1.crl\", \"http://crls.certainly.com/17182262453002514/2.crl\", \"http://crls.certainly.com/17182262453002514/3.crl\", \"http://crls.certainly.com/17182262453002514/4.crl\", \"http://crls.certainly.com/17182262453002514/5.crl\", \"http://crls.certainly.com/17182262453002514/6.crl\", \"http://crls.certainly.com/17182262453002514/7.crl\", \"http://crls.certainly.com/17182262453002514/8.crl\", \"http://crls.certainly.com/17182262453002514/9.crl\", \"http://crls.certainly.com/17182262453002514/10.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crls.certainly.com/17182262453002514/1.crl",
+      "http://crls.certainly.com/17182262453002514/2.crl",
+      "http://crls.certainly.com/17182262453002514/3.crl",
+      "http://crls.certainly.com/17182262453002514/4.crl",
+      "http://crls.certainly.com/17182262453002514/5.crl",
+      "http://crls.certainly.com/17182262453002514/6.crl",
+      "http://crls.certainly.com/17182262453002514/7.crl",
+      "http://crls.certainly.com/17182262453002514/8.crl",
+      "http://crls.certainly.com/17182262453002514/9.crl",
+      "http://crls.certainly.com/17182262453002514/10.crl"
+    ],
     "Auditor": "Schellman & Company, LLC.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=43fedd00-a8c7-4aa1-80e4-05bc4ccd57d6",
@@ -801,7 +823,9 @@
     "Subject Key Identifier": "OpqFBxBnKLbv9r0FQW4gwZTaD94=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -900,7 +924,9 @@
     "Subject Key Identifier": "yRmF8N85O6YaSTO60iKuqZsx8R8=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -933,7 +959,9 @@
     "Subject Key Identifier": "DRtJfVLX79GHwABxZnuBy7BRNjI=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1031,7 +1059,9 @@
     "Subject Key Identifier": "fAwyH6fZMH/EfWijYqihzqsHWyc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1162,7 +1192,9 @@
     "Subject Key Identifier": "lGMvzd6F5Os2Hw+2U3bvZmLJxWc=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1195,7 +1227,9 @@
     "Subject Key Identifier": "I0/+gxCejUGIpror0/mZSsNCYN8=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

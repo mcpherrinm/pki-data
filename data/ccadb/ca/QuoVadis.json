@@ -1823,7 +1823,9 @@
     "Subject Key Identifier": "tefrHpVFkjbDq+qjmM++Ki9D1ig=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/BEKBBCBEG3SMIMECHRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/BEKBBCBEG3SMIMECHRSA4096SHA2562023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2279,7 +2281,9 @@
     "Subject Key Identifier": "EqaW+1T3rrCSAqcKRc3FYN/6Hi0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadis1G3ClientAuthRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadis1G3ClientAuthRSA4096SHA2562023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ffc2cba4-ab1a-4f7b-af96-9607dd7cae98",
@@ -2391,7 +2395,9 @@
     "Subject Key Identifier": "KTwdk7iH++GP7XKgehRGvr+Nx1g=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedBEitsmeRIVRSA40962562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedBEitsmeRIVRSA40962562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2424,7 +2430,9 @@
     "Subject Key Identifier": "7RAkwGs8hi1E+nylj8w5J87dR7c=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedBEitsmeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedBEitsmeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2457,7 +2465,9 @@
     "Subject Key Identifier": "jyc2nv9Ms7NBLyYL8sEoxfhGWW4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedBERSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedBERSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2490,7 +2500,9 @@
     "Subject Key Identifier": "fA+E5vXGNrJPM3qUujXzY0whR60=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedCHRegRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedCHRegRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2522,7 +2534,9 @@
     "Authority Key Identifier": "o5fW816iEOGrRZ88F2Q87gFwnMw=",
     "Subject Key Identifier": "xG64TNqYQZx8AD/2kD9FoZuyHvw=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedCHRegSPRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedCHRegSPRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2555,7 +2569,9 @@
     "Subject Key Identifier": "j0ab0ELBEgisbDiRUZaShyAUT+s=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3QualifiedEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2621,7 +2637,9 @@
     "Subject Key Identifier": "AuJCpHZDL7LkINLu0SqfQe6Qfaw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3SMIMERSA4096SHA3842023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3SMIMERSA4096SHA3842023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2654,7 +2672,9 @@
     "Subject Key Identifier": "lkB90Cr7pYOrjZ8hg9ViILPVIqk=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3TSEuropeECCP256SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3TSEuropeECCP256SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2687,7 +2707,9 @@
     "Subject Key Identifier": "xyThKNbI+JAojGijGAqavxDXWcQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/DigiCertQuoVadisG3TSEuropeRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG3TSEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -3884,7 +3906,9 @@
     "Subject Key Identifier": "ZcLVBUTaJZDp2ZpUBBsc4UBCJps=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": "[\"http://crl.digicert.eu/HINHealthInfoG3CHRSA4096SHA2562023CA1.crl\"]",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/HINHealthInfoG3CHRSA4096SHA2562023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ffc2cba4-ab1a-4f7b-af96-9607dd7cae98",
@@ -7969,7 +7993,9 @@
     "Authority Key Identifier": "nLyhKRCt16EstLSeMtrGXYpPzmE=",
     "Subject Key Identifier": "Soi3Et5kD2dnR/D7C9DPRnnwJxI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

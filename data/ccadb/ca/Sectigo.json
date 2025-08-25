@@ -2193,7 +2193,9 @@
     "Subject Key Identifier": "1JBCMXdVi5u+hiiRkxzVYmi5whM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=3b31eff7-674b-4451-beb8-096a4491c366",
@@ -2301,7 +2303,9 @@
     "Subject Key Identifier": "X/aWj461iB1z3CB7eDHcX7a3PRg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=3b31eff7-674b-4451-beb8-096a4491c366",
@@ -2517,7 +2521,9 @@
     "Subject Key Identifier": "LSJM8XsXn07aeTK2hl2sEcKK3Fs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=3b31eff7-674b-4451-beb8-096a4491c366",
@@ -2839,7 +2845,9 @@
     "Authority Key Identifier": "2u1kdBScFDyr3ZmpvVsoTYs8ydg=",
     "Subject Key Identifier": "MquKjIGQsLMgk9tc7vWdh9oOOwI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2871,7 +2879,9 @@
     "Authority Key Identifier": "iYJnfcSdJnAAS7RQSHzePa4Ebn0=",
     "Subject Key Identifier": "21tH2ZVrwxlroLp60B/QsiUr91U=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2903,7 +2913,9 @@
     "Authority Key Identifier": "oXJfJhsomEOVXQc31YWWnUvSw0U=",
     "Subject Key Identifier": "mh4eaBDVUO+haBNKXniiQnQmxBY=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -13264,7 +13276,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG2B.crl",
-    "JSON Array of Partitioned CRLs": "[\"\"]",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
