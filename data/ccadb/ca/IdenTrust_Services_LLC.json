@@ -1987,7 +1987,7 @@
     "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/; https://letsencrypt.org/documents/isrg-cps-v2.7/",
+    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.7/; https://letsencrypt.org/documents/isrg-cps-v2.9/",
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
