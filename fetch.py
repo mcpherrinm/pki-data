@@ -202,6 +202,9 @@ def convert_ccadb_csv_to_json(csv_data):
                     ca_entry["output_filename"] = filename
                     break
 
+            # Sort the entries so the json files are consistent
+            records.sort(key=lambda x: (x.get("Valid To (GMT)", ""), x.get("SHA-256 Fingerprint", "")))
+
             save_json(records, filepath, f"CCADB records for {ca_owner}")
 
         # Save main JSON file after filenames have been added
