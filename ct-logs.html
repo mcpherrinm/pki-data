@@ -237,13 +237,8 @@
           d[k] = googleValue;
           return;
         }
-        if (k === "description") {
-          // Don't highlight differences for description - there's minor differences
-          d[k] = googleValue; // Pick one value, don't create conflict prefixes
-          return;
-        }
         if (k === "state") {
-          // Resolve state conflicts specially
+          // If the log states are different per-log, compute an overall status
           d[k] = mergeStateConflict(appleValue, googleValue);
           // No return here, keep the originals too
         }
@@ -402,7 +397,7 @@
 
               // Add conflict highlighting for apple_/google_ prefixed fields
               if (key.startsWith("apple_") || key.startsWith("google_")) {
-                if (!key.endsWith("_state_timestamp")) {
+                if (!key.endsWith("_state_timestamp") && !key.endsWith("_description")) {
                   valueClass += " conflict-value";
                 }
               }
