@@ -3404,6 +3404,136 @@
           "log_type": "monitoring_only"
         },
         {
+          "description": "IPng Networks 'Lipase2025h2'",
+          "log_id": "+aEI1Vq8bDZUG/1vReL3fh66SuI7WN/b7i2cu11WxTo=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7EQwVVApz4BNqjMSRcZ1XQ734331CwWkdkELyNxCybvxqt3A5DVZpfKQKknJR3aH9bsIZKUncy9Bnh8vX5s17A==",
+          "submission_url": "https://lipase2025h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://lipase2025h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2025-07-01T00:00:00Z",
+            "end_exclusive": "2026-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Lipase2026h1'",
+          "log_id": "b8whyKsJkXnvusRMwpnQ7EENf77I4306CVV2zZ9jxgg=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErPjPlZYd4uo5aH/eIfHevbWqGHIiQIb7CXg0OszD+a0jbGERdUrnBP8afGBq6ey4/vDgI9aqqGiCmT9YGb1x4A==",
+          "submission_url": "https://lipase2026h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://lipase2026h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2026-01-01T00:00:00Z",
+            "end_exclusive": "2026-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Lipase2026h2'",
+          "log_id": "wrITHXl+UNevVCq6lNe/gvkblit8VSpx1d6TA3oaZHo=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzbuyo3fveONSA2O1SGsO+FH+H3nKfkOBGeDYAUwvP9xVt4leZF5ATRrvyAq6fh1ryXrq3KpIGjVkZxetF4c3QQ==",
+          "submission_url": "https://lipase2026h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://lipase2026h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2026-07-01T00:00:00Z",
+            "end_exclusive": "2027-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Lipase2027h1'",
+          "log_id": "lobDwHKqsHMHbjlGc7fpkBd6BWGOonZNS6ZQqQ6eCMw=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEk3QA2r+4a13klobghHrz4PYkYfvCFDw3sIYwtnLjQMRij9jFucMgoCca5KOv42tJh6JJpYt2JjG8I28AxlLk3g==",
+          "submission_url": "https://lipase2027h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://lipase2027h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2027-01-01T00:00:00Z",
+            "end_exclusive": "2027-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Lipase2027h2'",
+          "log_id": "vDvULt2EjVnlRf/XkJcMGs3KpHmmbmmVMI49ZsSR/kA=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1aNm1Y4mLoC1AiEtf9PebaUapA5jA0sEoNV8KmNgMEjdAvHXJRONdqVKD5e0rlLIc2UlZMwe5Qi3b+dtiPlCeA==",
+          "submission_url": "https://lipase2027h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://lipase2027h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2027-07-01T00:00:00Z",
+            "end_exclusive": "2028-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Halloumi2025h2'",
+          "log_id": "+3xjpo0eBq3Qg4ibuNQyHLJFROv2/mlyKRkuOD5ebiM=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqJxSnCcMhWikCFeWo1RiplGaVEZL5Vn4KEJYZM97Ro5XuTg4h6+n807utfPS7qqpLv5me/ddlpKFGoFfkMBrAQ==",
+          "submission_url": "https://halloumi2025h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://halloumi2025h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2025-07-01T00:00:00Z",
+            "end_exclusive": "2026-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Halloumi2026h1'",
+          "log_id": "fz035/iSPY5xZb6w0+q+5yoivkbAy4TEFtTkuYJky8I=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzdcnGwRjm2ZoA68JFZKfoM4cOPPG2fr0iR72p3XanznOlw57HJ9RlYRNt75gIMIKgB1r0dxY5Jojq1m8uobYjg==",
+          "submission_url": "https://halloumi2026h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://halloumi2026h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2026-01-01T00:00:00Z",
+            "end_exclusive": "2026-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Halloumi2026h2'",
+          "log_id": "YKWe2Ffs01lJBV7vitDrq2CYZIALz1+41gv1v/87FMU=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENDhVrTtcQebbk/R6YW8Gt1RW+WZ8qscHUsI2/TW5f7bu+mEst2lskXbR9HEBQvyhkYKVTuigQjgZvDYqRhcn0Q==",
+          "submission_url": "https://halloumi2026h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://halloumi2026h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2026-01-01T00:00:00Z",
+            "end_exclusive": "2026-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Halloumi2027h1'",
+          "log_id": "ROgi/CurDpLu0On61pZkYCd20Bdg4IkFCckjobA/w38=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEw5SUl2yfd5TFSqUGv7A+I5+TpLe+zEccmtWVQakQQtOHYKqH8TbycalFx5xaqE5PU4NEwwnAJ9FWeT/6QaovZw==",
+          "submission_url": "https://halloumi2027h1.log.ct.ipng.ch/",
+          "monitoring_url": "https://halloumi2027h1.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2027-01-01T00:00:00Z",
+            "end_exclusive": "2027-07-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
+          "description": "IPng Networks 'Halloumi2027h2'",
+          "log_id": "CRV/Yy1Gx/dtlSZUk7wPALOVrF2zorJr+wQ9ukrGOJM=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErmKbFkPG7QfQUARhbIik8vVbIkXhK+YMB6TvLZkyhnzv7wedn+l7VChqovZHKOQXmZEd4B+3ljovIpQz2HmyHA==",
+          "submission_url": "https://halloumi2027h2.log.ct.ipng.ch/",
+          "monitoring_url": "https://halloumi2027h2.mon.ct.ipng.ch/",
+          "mmd": 60,
+          "temporal_interval": {
+            "start_inclusive": "2027-07-01T00:00:00Z",
+            "end_exclusive": "2028-01-01T00:00:00Z"
+          },
+          "log_type": "monitoring_only"
+        },
+        {
           "description": "IPng Networks 'Gouda2025h2'",
           "log_id": "GoudanQ8ze1gH3O9MJcIHbyuxKYTnJKwtUDDE3sg7AU=",
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpHiP24MNo8pgt5RNoawsvGIwSaVEKNqdzYCUXtMu0MM15t63d26eDUDz+nkQjACuRo4LRJcyia7I0anEdNH9wA==",
