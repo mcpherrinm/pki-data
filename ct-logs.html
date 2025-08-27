@@ -237,8 +237,8 @@
           d[k] = googleValue;
           return;
         }
-        if (k === "description" || k === "state_timestamp") {
-          // Don't highlight differences for description or state_timestamp
+        if (k === "description") {
+          // Don't highlight differences for description - there's minor differences
           d[k] = googleValue; // Pick one value, don't create conflict prefixes
           return;
         }
@@ -402,7 +402,9 @@
 
               // Add conflict highlighting for apple_/google_ prefixed fields
               if (key.startsWith("apple_") || key.startsWith("google_")) {
-                valueClass += " conflict-value";
+                if (!key.endsWith("_state_timestamp")) {
+                  valueClass += " conflict-value";
+                }
               }
 
               html += `
