@@ -84,7 +84,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
+    "Certificate Practice & Policy Statement": "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl-valid-evcp.certsign.ro/",
