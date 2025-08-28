@@ -31,9 +31,13 @@
     "TLS BR Audit Period End Date": "2016.08.02",
     "CA Document Repository": "https://www.procert.net.ve/eng/ca.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.procert.net.ve/documentos/AC-D-0011.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.procert.net.ve/documentos/AC-D-0011.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.procert.net.ve/documentos/AC-D-0003.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.procert.net.ve/documentos/AC-D-0003.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://mail.procert.net.ve/exchange",

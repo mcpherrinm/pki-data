@@ -160,10 +160,15 @@
     "TLS BR Audit Period End Date": "2018.03.31",
     "CA Document Repository": "https://www.inera.se/siths/dokument/styrande",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=8997789; https://bugzilla.mozilla.org/attachment.cgi?id=8997790",
+    "Certificate Policy (CP) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8997789",
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8997790"
+    ],
     "CP Last Updated Date": "2018.08.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.telia.com/Portals/0/CPS/Telia%20SITHS%20CA%20v1%20CPS%20v1.3.pdf?ver=2018-08-02-114150-233",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.telia.com/Portals/0/CPS/Telia%20SITHS%20CA%20v1%20CPS%20v1.3.pdf?ver=2018-08-02-114150-233"
+    ],
     "CPS Last Updated Date": "2018.08.03",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

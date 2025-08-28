@@ -964,10 +964,14 @@
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
     "CA Document Repository": "https://www.digicert.com/legal-repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.digicert.com/wp-content/uploads/2020/02/DigiCert-Certificate-Policy-Version-5.1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.digicert.com/wp-content/uploads/2020/02/DigiCert-Certificate-Policy-Version-5.1.4.pdf"
+    ],
     "CP Last Updated Date": "2020.10.08",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/wp-content/uploads/2020/02/DigiCert-CPS-Version-5.1.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/wp-content/uploads/2020/02/DigiCert-CPS-Version-5.1.4.pdf"
+    ],
     "CPS Last Updated Date": "2020.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1175,7 +1179,9 @@
     "CA Document Repository": "https://certificaat.kpn.com/support/downloads/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_DTN_CPS_v4.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_DTN_CPS_v4.2.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1207,7 +1213,9 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.pki.bayern.de/policy/policy_bay_ssl_pki.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.pki.bayern.de/policy/policy_bay_ssl_pki.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1246,9 +1254,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1287,9 +1299,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1328,9 +1344,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1369,9 +1389,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1410,9 +1434,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1451,9 +1479,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1492,9 +1524,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1533,9 +1569,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1574,9 +1614,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1615,9 +1659,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1656,9 +1704,13 @@
     "Standard Audit Period End Date": "2020.02.27",
     "CA Document Repository": "https://www.siemens.com/corp/en/index/digital_id.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/en/index/digital_id.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/en/index/digital_id.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1697,7 +1749,9 @@
     "CA Document Repository": "http://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1736,7 +1790,9 @@
     "CA Document Repository": "http://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1780,7 +1836,9 @@
     "CA Document Repository": "http://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.siemens.com/corp/en/index/digital_id/siemens_issuing_ca.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.siemens.com/corp/en/index/digital_id/siemens_issuing_ca.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1814,7 +1872,9 @@
     "CA Document Repository": "https://certificaat.kpn.com/support/downloads/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_DTN_CPS_v4.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_DTN_CPS_v4.2.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2419,7 +2479,9 @@
     "CA Document Repository": "http://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2464,7 +2526,9 @@
     "CA Document Repository": "http://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.siemens.com/corp/pool/pki/siemens_cps_issuingcas_en.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3585,9 +3649,13 @@
     "Policy Documentation": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
     "CA Document Repository": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
+    "Certificate Policy (CP) URL": [
+      "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3631,9 +3699,13 @@
     "Policy Documentation": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
     "CA Document Repository": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
+    "Certificate Policy (CP) URL": [
+      "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.fiduciagad.de/leistungen/services/vr-ident-Zertifikate.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3884,9 +3956,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://new.siemens.com/global/en/general/digital-id.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Policy (CP) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3931,9 +4007,13 @@
     "S/MIME BR Audit Period End Date": "2024.02.23",
     "CA Document Repository": "https://new.siemens.com/global/en/general/digital-id.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Policy (CP) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3978,9 +4058,13 @@
     "S/MIME BR Audit Period End Date": "2024.02.23",
     "CA Document Repository": "https://new.siemens.com/global/en/general/digital-id.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Policy (CP) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4025,9 +4109,13 @@
     "S/MIME BR Audit Period End Date": "2024.02.23",
     "CA Document Repository": "https://new.siemens.com/global/en/general/digital-id.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Policy (CP) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4072,9 +4160,13 @@
     "S/MIME BR Audit Period End Date": "2024.02.23",
     "CA Document Repository": "https://new.siemens.com/global/en/general/digital-id.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Policy (CP) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://new.siemens.com/global/en/general/digital-id.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://new.siemens.com/global/en/general/digital-id.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -5644,7 +5736,9 @@
     "CA Document Repository": "https://www.trustwise.com/legal-repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.trustwise.com/legal-repository/assets/pdf/BT-CPS-v5.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.trustwise.com/legal-repository/assets/pdf/BT-CPS-v5.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6024,7 +6118,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -6083,7 +6179,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -6846,7 +6944,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -6905,7 +7005,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -6964,7 +7066,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -7023,7 +7127,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -7196,7 +7302,9 @@
     "CA Document Repository": "https://www.digicert.com/legal-repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/wp-content/uploads/2020/07/DigiCert-CPS-V.5.3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/wp-content/uploads/2020/07/DigiCert-CPS-V.5.3.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7231,7 +7339,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-v7.04.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-v7.04.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.10.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7282,7 +7392,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7481,7 +7593,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-3.chain-demos.digicert.com",
@@ -7582,7 +7696,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-2.chain-demos.digicert.com",
@@ -8149,7 +8265,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -8208,7 +8326,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -8865,7 +8985,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-3-g3.chain-demos.digicert.com",
@@ -8932,7 +9054,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-1-g3.chain-demos.digicert.com",
@@ -8999,7 +9123,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-2-g3.chain-demos.digicert.com",
@@ -9066,7 +9192,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -9129,7 +9257,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-tls-ecc-p384-root-g4.chain-demos.digicert.com",
@@ -9196,7 +9326,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -9259,7 +9391,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -9322,7 +9456,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -9385,7 +9521,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -9448,7 +9586,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-tls-rsa4096-root-g4.chain-demos.digicert.com",
@@ -9515,7 +9655,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

@@ -19,9 +19,13 @@
     "Audits Same as Parent": "false",
     "Standard Audit Type": "ETSI TS 101 456",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.e-guven.com/SertifikaIlkeleri.aspx",
+    "Certificate Policy (CP) URL": [
+      "http://www.e-guven.com/SertifikaIlkeleri.aspx"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.e-guven.com/Documents/genel_kullanima_iliskin_nes_ilkeleri.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.e-guven.com/Documents/genel_kullanima_iliskin_nes_ilkeleri.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.imzalagonder.com",

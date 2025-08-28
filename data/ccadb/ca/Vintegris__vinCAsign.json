@@ -165,10 +165,14 @@
     "Policy Documentation": "https://www.vincasign.net/policy/en/DPC/Vintegris-CPS-EN.pdf",
     "CA Document Repository": "https://www.vincasign.net/historico.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.vincasign.net/policy/en/PDS-sede/pds-sede-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.vincasign.net/policy/en/PDS-sede/pds-sede-en.pdf"
+    ],
     "CP Last Updated Date": "2020.11.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.vincasign.net/policy/en/DPC/Vintegris-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.vincasign.net/policy/en/DPC/Vintegris-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.11.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

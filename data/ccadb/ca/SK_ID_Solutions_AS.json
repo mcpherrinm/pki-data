@@ -30,7 +30,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.sk.ee/en/repository/CPS",
+    "Certificate Practice & Policy Statement": [
+      "http://www.sk.ee/en/repository/CPS"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.sk.ee",
     "TLS Capable": "False",
@@ -478,10 +480,14 @@
     "TLS EVG Audit Period End Date": "2020.02.28",
     "CA Document Repository": "https://www.skidsolutions.eu/en/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.skidsolutions.eu/upload/files/SK-CP-TLS-EN-v7_0-20200410.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.skidsolutions.eu/upload/files/SK-CP-TLS-EN-v7_0-20200410.pdf"
+    ],
     "CP Last Updated Date": "2020.04.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.skidsolutions.eu/upload/files/SK-CPS-KLASS3-EN-v9_0-20200410.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.skidsolutions.eu/upload/files/SK-CPS-KLASS3-EN-v9_0-20200410.pdf"
+    ],
     "CPS Last Updated Date": "2020.04.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

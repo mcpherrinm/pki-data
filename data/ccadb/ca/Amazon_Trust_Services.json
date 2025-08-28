@@ -303,10 +303,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "https://www.digicert.com/legal-repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cp-v5-15.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cp-v5-15.pdf"
+    ],
     "CP Last Updated Date": "2023.04.13",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cps-v5-15.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cps-v5-15.pdf"
+    ],
     "CPS Last Updated Date": "2023.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -376,7 +380,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -445,7 +451,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -514,7 +522,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -583,7 +593,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -652,7 +664,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -721,7 +735,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -790,7 +806,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -859,7 +877,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -928,7 +948,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1000,7 +1022,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1069,7 +1093,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1138,7 +1164,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1210,7 +1238,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1279,7 +1309,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1348,7 +1380,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1417,7 +1451,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1486,7 +1522,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1554,7 +1592,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1622,7 +1662,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1690,7 +1732,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cpcps-7.06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2684,7 +2728,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca0a.amazontrust.com/",
@@ -2818,7 +2864,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca1a.amazontrust.com/",
@@ -2886,7 +2934,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca3a.amazontrust.com/",
@@ -2954,7 +3004,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.rootca2.demo.amazontrust.com/",
@@ -3022,7 +3074,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca4a.amazontrust.com/",
@@ -3086,10 +3140,14 @@
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
     "CA Document Repository": "https://www.digicert.com/legal-repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cp-v5-15.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cp-v5-15.pdf"
+    ],
     "CP Last Updated Date": "2023.04.13",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cps-v5-15.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cps-v5-15.pdf"
+    ],
     "CPS Last Updated Date": "2023.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3214,7 +3272,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3276,7 +3336,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3338,7 +3400,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.amazontrust.com/repository/cp-cps__2-0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

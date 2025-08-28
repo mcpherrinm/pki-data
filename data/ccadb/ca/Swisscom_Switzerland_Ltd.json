@@ -621,7 +621,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.swissdigicert.ch/sdcs/portal/page?node=download_docs&lang=en",
+    "Certificate Practice & Policy Statement": [
+      "http://www.swissdigicert.ch/sdcs/portal/page?node=download_docs&lang=en"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-emerald-ca-1.pre.swissdigicert.ch/",
     "TLS Capable": "False",
@@ -657,9 +659,13 @@
     "Standard Audit Period Start Date": "2017.08.08",
     "Standard Audit Period End Date": "2018.08.07",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -695,9 +701,13 @@
     "Standard Audit Period Start Date": "2017.08.08",
     "Standard Audit Period End Date": "2018.08.07",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.swissdigicert.ch/sdcs/portal/open_pdf?file=english%2F012_CP_CPS_Diamant_Saphir_AU_2_16_756_1_83_en.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -744,7 +754,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.swissdigicert.ch/sdcs/portal/page?node=download_docs&lang=en",
+    "Certificate Practice & Policy Statement": [
+      "http://www.swissdigicert.ch/sdcs/portal/page?node=download_docs&lang=en"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-quarz-ev-ca-2.pre.swissdigicert.ch/",
     "TLS Capable": "False",
@@ -782,7 +794,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://bugzilla.mozilla.org/attachment.cgi?id=8985888; https://bugzilla.mozilla.org/attachment.cgi?id=8985889",
+    "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8985888",
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8985889"
+    ],
     "CP/CPS Last Updated Date": "2018.04.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

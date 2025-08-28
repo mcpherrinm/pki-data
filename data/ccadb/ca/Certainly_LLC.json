@@ -122,7 +122,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.root-r1.certainly.com",
@@ -168,7 +170,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.root-e1.certainly.com",

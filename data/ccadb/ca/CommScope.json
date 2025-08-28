@@ -37,7 +37,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cert.pkiworks.com/Public/DownloadDocument/22; https://cert.pkiworks.com/Public/DownloadDocument/21",
+    "Certificate Practice & Policy Statement": [
+      "https://cert.pkiworks.com/Public/DownloadDocument/21",
+      "https://cert.pkiworks.com/Public/DownloadDocument/22"
+    ],
     "CP/CPS Last Updated Date": "2025.07.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://rsa-current.ca-1.test.pkiworks.com",
@@ -88,7 +91,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cert.pkiworks.com/Public/DownloadDocument/22; https://cert.pkiworks.com/Public/DownloadDocument/21",
+    "Certificate Practice & Policy Statement": [
+      "https://cert.pkiworks.com/Public/DownloadDocument/21",
+      "https://cert.pkiworks.com/Public/DownloadDocument/22"
+    ],
     "CP/CPS Last Updated Date": "2025.07.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ecc-current.ca-1.test.pkiworks.com",
@@ -139,7 +145,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cert.pkiworks.com/Public/DownloadDocument/22; https://cert.pkiworks.com/Public/DownloadDocument/21",
+    "Certificate Practice & Policy Statement": [
+      "https://cert.pkiworks.com/Public/DownloadDocument/21",
+      "https://cert.pkiworks.com/Public/DownloadDocument/22"
+    ],
     "CP/CPS Last Updated Date": "2025.07.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ecc-current.ca-2.test.pkiworks.com",
@@ -190,7 +199,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cert.pkiworks.com/Public/DownloadDocument/22; https://cert.pkiworks.com/Public/DownloadDocument/21",
+    "Certificate Practice & Policy Statement": [
+      "https://cert.pkiworks.com/Public/DownloadDocument/21",
+      "https://cert.pkiworks.com/Public/DownloadDocument/22"
+    ],
     "CP/CPS Last Updated Date": "2025.07.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://rsa-current.ca-2.test.pkiworks.com",

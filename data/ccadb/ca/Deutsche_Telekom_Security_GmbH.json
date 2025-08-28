@@ -53,9 +53,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/serverpass-en/support/root-ca",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -87,9 +91,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/serverpass/support/root-sub-ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -121,9 +129,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/serverpass/support/root-sub-ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -155,9 +167,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/serverpass/support/root-sub-ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2948,9 +2964,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://pks.telesec.de",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2982,9 +3002,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://pks.telesec.de",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3016,9 +3040,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://pks.telesec.de",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3421,9 +3449,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://corporate-pki.telekom.de/en/cps/cps.htm",
+    "Certificate Policy (CP) URL": [
+      "https://corporate-pki.telekom.de/en/cps/cps.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://corporate-pki.telekom.de/en/cps/cps.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://corporate-pki.telekom.de/en/cps/cps.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6783,10 +6815,14 @@
     "TLS BR Audit Period End Date": "2018.10.02",
     "CA Document Repository": "https://www.pki.dfn.de/policies/informationen/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf"
+    ],
     "CP Last Updated Date": "2019.02.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf"
+    ],
     "CPS Last Updated Date": "2019.02.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -9485,9 +9521,13 @@
     "Audits Same as Parent": "false",
     "CA Document Repository": "https://www.pki.fraunhofer.de/cmsExtern/de/pkis-und-zertifizierungsstellen/fraunhofer-pki-version-2.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.fraunhofer.de/cp/Certificate_Policy_Fraunhofer_Corporate_PKI.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://pki.fraunhofer.de/cp/Certificate_Policy_Fraunhofer_Corporate_PKI.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pki.fraunhofer.de/cp/Certification_Practice_Statement_Fraunhofer_Corporate_PKI.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pki.fraunhofer.de/cp/Certification_Practice_Statement_Fraunhofer_Corporate_PKI.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -13115,9 +13155,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/serverpass-en/support/root-ca",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -13242,9 +13286,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/serverpass-en/support/root-ca",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -13338,9 +13386,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/signaturecard",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/en/signaturecard/support/download-area/category/107-zertifizierungserklaerung-cps",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/en/signaturecard/support/download-area/category/107-zertifizierungserklaerung-cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/en/signaturecard/support/download-area/category/107-zertifizierungserklaerung-cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/en/signaturecard/support/download-area/category/107-zertifizierungserklaerung-cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -14953,9 +15005,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/serverpass/support/root-sub-ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.telesec.de/serverpass/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.telesec.de/serverpass/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.telesec.de/serverpass/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.telesec.de/serverpass/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -15742,10 +15798,14 @@
     "TLS BR Audit Period End Date": "2018.10.02",
     "CA Document Repository": "https://www.pki.dfn.de/policies/informationen/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf"
+    ],
     "CP Last Updated Date": "2019.02.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf"
+    ],
     "CPS Last Updated Date": "2019.02.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -16429,9 +16489,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/sbca-en",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/en/sbca-en/support/cps",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/en/sbca-en/support/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/en/sbca-en/support/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/en/sbca-en/support/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -17362,9 +17426,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://pks.telesec.de",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pks.telesec.de/cps/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pks.telesec.de/cps/cps.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -19069,9 +19137,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://corporate-pki1.telekom.de/cps/cps.htm",
+    "Certificate Policy (CP) URL": [
+      "http://corporate-pki1.telekom.de/cps/cps.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://corporate-pki1.telekom.de/cps/cps.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://corporate-pki1.telekom.de/cps/cps.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -20008,9 +20080,13 @@
     "Policy Documentation": "https://www.pki.dfn.de/policies/informationen/",
     "CA Document Repository": "https://www.pki.dfn.de/root/globalroot/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -20197,9 +20273,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/sbca/support/ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://sbca.telesec.de/sbca/download/cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://sbca.telesec.de/sbca/download/cp.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://sbca.telesec.de/sbca/download/cp.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://sbca.telesec.de/sbca/download/cp.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -20767,10 +20847,14 @@
     "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
     "CA Document Repository": "https://www.telesec.de/en/root-program/informations-about-ca-certificates/root-certificates/; https://www.telesec.de/en/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps?download=775:cp-telesec-globalroot",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps?download=775:cp-telesec-globalroot"
+    ],
     "CP Last Updated Date": "2019.10.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps?download=776:cps-telesec-globalroot",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps?download=776:cps-telesec-globalroot"
+    ],
     "CPS Last Updated Date": "2019.10.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -22170,9 +22254,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/sbca-en",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/en/sbca-en/support/cps",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/en/sbca-en/support/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/en/sbca-en/support/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/en/sbca-en/support/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -23791,9 +23879,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/en/serverpass-en/support/root-ca",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.telesec.de/en/serverpass/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.telesec.de/en/serverpass/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -23825,9 +23917,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/serverpass/support/root-sub-ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Policy (CP) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://pki.telesec.de/cps/cps.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://pki.telesec.de/cps/cps.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -23860,10 +23956,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -23896,9 +23996,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.telesec.de/de/sbca/support/ca-zertifikate",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://sbca.telesec.de/cps/cps2.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://sbca.telesec.de/cps/cps2.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://sbca.telesec.de/cps/cps2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://sbca.telesec.de/cps/cps2.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -23999,10 +24103,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -24167,10 +24275,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -24203,10 +24315,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -24594,10 +24710,14 @@
     "S/MIME BR Audit Period End Date": "2024.08.28",
     "CA Document Repository": "https://www.pki.dfn.de/policies/informationen/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v15-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v15-en.pdf"
+    ],
     "CP Last Updated Date": "2025.07.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v15-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v15-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -24765,10 +24885,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf"
+    ],
     "CP Last Updated Date": "2023.01.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf"
+    ],
     "CPS Last Updated Date": "2023.01.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -24801,10 +24925,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf"
+    ],
     "CP Last Updated Date": "2023.01.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf"
+    ],
     "CPS Last Updated Date": "2023.01.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -24906,10 +25034,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf"
+    ],
     "CP Last Updated Date": "2023.01.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf"
+    ],
     "CPS Last Updated Date": "2023.01.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -25307,10 +25439,15 @@
     "S/MIME BR Audit Period End Date": "2025.04.03",
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf"
+    ],
     "CP Last Updated Date": "2025.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf; https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -25347,10 +25484,14 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://telesec.de/assets/downloads/PKI-Repository/PKS-CPS_07.00_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://telesec.de/assets/downloads/PKI-Repository/PKS-CPS_07.00_EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://telesec.de/assets/downloads/PKI-Repository/PKS-CPS_07.00_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://telesec.de/assets/downloads/PKI-Repository/PKS-CPS_07.00_EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -25402,10 +25543,15 @@
     "TLS EVG Audit Period End Date": "2025.04.03",
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf"
+    ],
     "CP Last Updated Date": "2025.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf; https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -25949,10 +26095,15 @@
     "TLS EVG Audit Period Start Date": "2024.04.08",
     "TLS EVG Audit Period End Date": "2025.04.03",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf"
+    ],
     "CP Last Updated Date": "2025.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf; https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -26008,10 +26159,15 @@
     "S/MIME BR Audit Period Start Date": "2024.04.08",
     "S/MIME BR Audit Period End Date": "2025.04.03",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf"
+    ],
     "CP Last Updated Date": "2025.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf; https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -26064,10 +26220,15 @@
     "S/MIME BR Audit Period Start Date": "2024.04.08",
     "S/MIME BR Audit Period End Date": "2025.04.03",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf"
+    ],
     "CP Last Updated Date": "2025.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf; https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -26120,10 +26281,15 @@
     "TLS EVG Audit Period Start Date": "2024.04.08",
     "TLS EVG Audit Period End Date": "2025.04.03",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V7.0.pdf"
+    ],
     "CP Last Updated Date": "2025.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf; https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V10.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V9.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

@@ -130,7 +130,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf; https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+      "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.06.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://networksolutionscertificateauthority-2011.netsolssl.com",
@@ -212,7 +215,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf; https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+      "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.06.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://networksolutionscertificateauthority-2011.netsolssl.com",
@@ -443,7 +449,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf; https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+      "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.06.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://networksolutionsecccertificateauthority.netsolssl.com",
@@ -488,7 +497,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf; https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://assets.web.com/legal/English/CertificationPracticeStatement.pdf",
+      "https://assets.web.com/legal/English/CertificationPracticeStatement33.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.06.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://networksolutionsrsacertificateauthority.netsolssl.com",

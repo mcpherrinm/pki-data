@@ -201,10 +201,14 @@
     "VMC Audit Period Start Date": "2025.02.24",
     "VMC Audit Period End Date": "2025.02.24",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://test.CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://test.CP.pdf"
+    ],
     "CP Last Updated Date": "2023.02.21",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://cps.example.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://cps.example.pdf"
+    ],
     "CPS Last Updated Date": "2023.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -275,10 +279,14 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
-    "Certificate Policy (CP) URL": "https://file-examples.com/storage/feb05093336710053a32bc1/2017/10/file-sample_150kB.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://file-examples.com/storage/feb05093336710053a32bc1/2017/10/file-sample_150kB.pdf"
+    ],
     "CP Last Updated Date": "2024.10.01",
     "CPS Same as Parent": "true",
-    "Certificate Practice Statement (CPS) URL": "https://file-examples.com/storage/feb05093336710053a32bc1/2017/10/file-sample_150kB.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://file-examples.com/storage/feb05093336710053a32bc1/2017/10/file-sample_150kB.pdf"
+    ],
     "CPS Last Updated Date": "2024.10.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -432,13 +440,19 @@
     "S/MIME BR Audit Period Start Date": "2023.03.12",
     "S/MIME BR Audit Period End Date": "2024.03.11",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sectigo.com/uploads/files/Sectigo_WebPKI_CP_v1_3_4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sectigo.com/uploads/files/Sectigo_WebPKI_CP_v1_3_4.pdf"
+    ],
     "CP Last Updated Date": "2024.02.07",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_0_0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_0_0.pdf"
+    ],
     "CPS Last Updated Date": "2024.10.04",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://letsencrypt.org/documents/isrg-cp-cps-v5.4/",
+    "Certificate Practice & Policy Statement": [
+      "https://letsencrypt.org/documents/isrg-cp-cps-v5.4/"
+    ],
     "CP/CPS Last Updated Date": "2024.09.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

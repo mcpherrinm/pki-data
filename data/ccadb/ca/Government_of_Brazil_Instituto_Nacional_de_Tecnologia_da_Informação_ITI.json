@@ -56,7 +56,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -94,7 +96,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -131,7 +135,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -169,7 +175,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -207,7 +215,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -245,7 +255,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -283,7 +295,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -321,7 +335,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -359,7 +375,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -397,7 +415,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -435,7 +455,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -472,7 +494,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -555,7 +579,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -593,7 +619,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -631,7 +659,9 @@
     "Standard Audit Period End Date": "2017.07.30",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://vtn.certisign.com.br/repositorio/politicas/DPC_da_Certisign.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -670,7 +700,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.11.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -711,7 +743,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf; http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+      "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.08.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -758,10 +793,14 @@
     "TLS BR Audit Period End Date": "2022.05.29",
     "CA Document Repository": "https://www.serpro.gov.br/links-fixos-superiores/pss-serpro/acserprossl",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repositorio.serpro.gov.br/docs/CP_SERPRO_SSL_CA.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repositorio.serpro.gov.br/docs/CP_SERPRO_SSL_CA.pdf"
+    ],
     "CP Last Updated Date": "2020.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repositorio.serpro.gov.br/docs/CPS_SERPRO_SSL_CA.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repositorio.serpro.gov.br/docs/CPS_SERPRO_SSL_CA.pdf"
+    ],
     "CPS Last Updated Date": "2020.11.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -805,7 +844,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.11.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -847,10 +888,14 @@
     "Policy Documentation": "http://ccd.acsoluti.com.br/docs/ps-ac-soluti-ssl-ev.pdf",
     "CA Document Repository": "http://ccd.acsoluti.com.br/#/ac_soluti_ssl",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ccd.acsoluti.com.br/docs/ac-soluti-ssl-ev/pc-a1.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ccd.acsoluti.com.br/docs/ac-soluti-ssl-ev/pc-a1.pdf"
+    ],
     "CP Last Updated Date": "2022.09.02",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ccd.acsoluti.com.br/docs/dpc-ac-soluti-ssl-ev.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ccd.acsoluti.com.br/docs/dpc-ac-soluti-ssl-ev.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -897,9 +942,13 @@
     "Policy Documentation": "http://icp-brasil.validcertificadora.com.br/ac-validcodesigning/ps-ac-validcodesigning.pdf",
     "CA Document Repository": "https://www.validcertificadora.com.br/index.aspx?DID=496",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.validcertificadora.com.br/Politica-de-Certificado/D499",
+    "Certificate Policy (CP) URL": [
+      "https://www.validcertificadora.com.br/Politica-de-Certificado/D499"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://icp-brasil.validcertificadora.com.br/ac-validcodesigning/dpc-ac-validcodesigning.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://icp-brasil.validcertificadora.com.br/ac-validcodesigning/dpc-ac-validcodesigning.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -950,10 +999,14 @@
     "TLS EVG Audit Period End Date": "2022.02.13",
     "CA Document Repository": "http://icp-brasil.certisign.com.br/repositorio/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://icp-brasil.certisign.com.br/repositorio/pc/PSC_Certisign/PCO_PSC_CERTISIGN.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://icp-brasil.certisign.com.br/repositorio/pc/PSC_Certisign/PCO_PSC_CERTISIGN.pdf"
+    ],
     "CP Last Updated Date": "2021.12.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://icp-brasil.certisign.com.br/repositorio/dpc/PSC_Certisign/DPPSC_CERTISIGN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://icp-brasil.certisign.com.br/repositorio/dpc/PSC_Certisign/DPPSC_CERTISIGN.pdf"
+    ],
     "CPS Last Updated Date": "2021.12.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1002,7 +1055,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
+    ],
     "CP/CPS Last Updated Date": "2021.11.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active-repositorio.serpro.gov.br/",
@@ -1058,9 +1113,13 @@
     "Policy Documentation": "https://serasa.certificadodigital.com.br/repositorio/",
     "CA Document Repository": "https://serasa.certificadodigital.com.br/repositorio/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://serasa.certificadodigital.com.br/wp-content/uploads/2020/09/29165747/PC-AC-Serasa-SSL-EV-Tipo-A1-Versao-3.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://serasa.certificadodigital.com.br/wp-content/uploads/2020/09/29165747/PC-AC-Serasa-SSL-EV-Tipo-A1-Versao-3.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://publicacao.certificadodigital.com.br/repositorio/dpc/declaracao-ac.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://publicacao.certificadodigital.com.br/repositorio/dpc/declaracao-ac.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1117,9 +1176,13 @@
     "Policy Documentation": "http://icp-brasil.validcertificadora.com.br/ac-validsslev/ps-ac-validsslev.pdf",
     "CA Document Repository": "https://www.validcertificadora.com.br/Home-Repositorio-ICP-Brasil/Home-Repositorio-ICP-Brasil-AC-VALID/D270",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.validcertificadora.com.br/Politica-de-Certificado/D500",
+    "Certificate Policy (CP) URL": [
+      "https://www.validcertificadora.com.br/Politica-de-Certificado/D500"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://icp-brasil.validcertificadora.com.br/ac-validsslev/dpc-ac-validsslev.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://icp-brasil.validcertificadora.com.br/ac-validsslev/dpc-ac-validsslev.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",

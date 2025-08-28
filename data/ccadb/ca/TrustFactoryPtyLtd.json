@@ -25,10 +25,14 @@
     "Policy Documentation": "https://www.trustfactory.net/repository/",
     "CA Document Repository": "https://www.trustfactory.net/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.trustfactory.net/repository/trustfactory_cp_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.trustfactory.net/repository/trustfactory_cp_v1.7.pdf"
+    ],
     "CP Last Updated Date": "2021.07.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.trustfactory.net/repository/trustfactory_ssl_issuing_ca_cps_v1.7.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.trustfactory.net/repository/trustfactory_ssl_issuing_ca_cps_v1.7.pdf"
+    ],
     "CPS Last Updated Date": "2021.07.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -65,10 +69,14 @@
     "Policy Documentation": "https://www.trustfactory.net/repository/",
     "CA Document Repository": "https://www.trustfactory.net/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.trustfactory.net/repository/trustfactory_cp_v1.8.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.trustfactory.net/repository/trustfactory_cp_v1.8.pdf"
+    ],
     "CP Last Updated Date": "2022.07.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.trustfactory.net/repository/trustfactory_client_issuing_ca_cps_v1.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.trustfactory.net/repository/trustfactory_client_issuing_ca_cps_v1.9.pdf"
+    ],
     "CPS Last Updated Date": "2022.07.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -152,10 +160,14 @@
     "Policy Documentation": "https://www.trustfactory.net/repository/trustfactory_pki_hierarchy_v1.0.pdf, https://www.trustfactory.net/repository/trustfactory_oid_control_v1.0.pdf",
     "CA Document Repository": "https://www.trustfactory.net/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.trustfactory.net/repository/trustfactory_cp_v1.11.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.trustfactory.net/repository/trustfactory_cp_v1.11.pdf"
+    ],
     "CP Last Updated Date": "2024.11.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.trustfactory.net/repository/trustfactory_client_root_ca_cps_v1.10.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.trustfactory.net/repository/trustfactory_client_root_ca_cps_v1.10.pdf"
+    ],
     "CPS Last Updated Date": "2024.08.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

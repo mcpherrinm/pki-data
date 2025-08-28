@@ -128,7 +128,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://bugzilla.mozilla.org/attachment.cgi?id=8846190",
+    "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8846190"
+    ],
     "CP/CPS Last Updated Date": "2016.12.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.test.lgpki.jp/CATest/test.htm",
@@ -172,7 +174,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.lgpki.jp/unei/C-6-3-9_CPCPS_APCAG4Root_20171013.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.lgpki.jp/unei/C-6-3-9_CPCPS_APCAG4Root_20171013.pdf"
+    ],
     "CP/CPS Last Updated Date": "2017.10.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.test.lgpki.jp/CATest/test.htm",

@@ -26,7 +26,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.certifikat.dk/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.certifikat.dk/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -91,10 +93,16 @@
     "Standard Audit Period End Date": "2023.03.31",
     "CA Document Repository": "https://www.nets.eu/dk-da/kundeservice/NemID-Til-Private/Pages/Repository.aspx",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.nemid.nu/dk-da/om-nemid/historien_om_nemid/oces-standarden/oces-certifikatpolitikker/; https://www.nemid.nu/dk-da/om-nemid/historien_om_nemid/oces-standarden/oces-certifikatpolitikker/",
+    "Certificate Policy (CP) URL": [
+      "https://www.nemid.nu/dk-da/om-nemid/historien_om_nemid/oces-standarden/oces-certifikatpolitikker/",
+      "https://www.nemid.nu/dk-da/om-nemid/historien_om_nemid/oces-standarden/oces-certifikatpolitikker/"
+    ],
     "CP Last Updated Date": "2017.08.31",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.nets.eu/dk-da/kundeservice/NemID-Til-Private/Documents/CPS_3.2.pdf; https://www.nets.eu/dk-da/kundeservice/NemID-Til-Private/Documents/CPS_3.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.nets.eu/dk-da/kundeservice/NemID-Til-Private/Documents/CPS_3.1.pdf",
+      "https://www.nets.eu/dk-da/kundeservice/NemID-Til-Private/Documents/CPS_3.2.pdf"
+    ],
     "CPS Last Updated Date": "2023.03.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

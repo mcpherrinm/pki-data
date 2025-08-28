@@ -265,7 +265,9 @@
     "TLS BR Audit Period Start Date": "2017.06.30",
     "TLS BR Audit Period End Date": "2017.06.30",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.halcom.si/faq/admin/index.php?/gateway_main/getAttach/3/20acd60a3e55c4e7faa71c5b3a9c587f/537/Halcom%20Root%20Certificate%20Authority%20v.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.halcom.si/faq/admin/index.php?/gateway_main/getAttach/3/20acd60a3e55c4e7faa71c5b3a9c587f/537/Halcom%20Root%20Certificate%20Authority%20v.2.pdf"
+    ],
     "CP Last Updated Date": "2017.01.06",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -479,7 +481,10 @@
     "CA Document Repository": "https://pomoc.halcom.com/faqs/politike-in-korenska-digitalna-potrdila-struktura-halcom-ca-digitalnih-potrdil/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://static.halcom.com/si/CPS_halcom_ca.pdf; https://www.halcom.com/app/uploads/2024/06/CPS-v.10.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://static.halcom.com/si/CPS_halcom_ca.pdf",
+      "https://www.halcom.com/app/uploads/2024/06/CPS-v.10.pdf"
+    ],
     "CPS Last Updated Date": "2025.06.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

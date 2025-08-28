@@ -37,7 +37,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.izenpe.com/cps",
+    "Certificate Practice & Policy Statement": [
+      "http://www.izenpe.com/cps"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -590,10 +592,14 @@
     "TLS EVG Audit Period End Date": "2019.05.24",
     "CA Document Repository": "https://www.izenpe.eus/s15-content/en/contenidos/informacion/doc_especifica/en_def/index.shtml",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.izenpe.eus/contenidos/informacion/doc_especifica/en_def/adjuntos/Izenpe_CP_website%20certificates_v1.5_(02-2019).pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.izenpe.eus/contenidos/informacion/doc_especifica/en_def/adjuntos/Izenpe_CP_website%20certificates_v1.5_(02-2019).pdf"
+    ],
     "CP Last Updated Date": "2019.05.04",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.izenpe.eus/contenidos/informacion/descarga_certificados/es_url/adjuntos/DOC_P_CPS_v6.3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.izenpe.eus/contenidos/informacion/descarga_certificados/es_url/adjuntos/DOC_P_CPS_v6.3.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -671,13 +677,22 @@
     "Policy Documentation": "All certificate profiles -> https://www.izenpe.eus/contenidos/informacion/doc_especifica/en_def/adjuntos/Certificates_Profile_v3.0.pdf\r\n\r\nPDS -> https://www.izenpe.eus/contenidos/informacion/doc_comun/en_def/adjuntos/DOC_P_PDS_v1.0_en.pdf",
     "CA Document Repository": "https://www.izenpe.eus/cps/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.izenpe.eus/contenidos/informacion/doc_juridica/en_def/adjuntos/IZNP_CP_Website_authentication_certificates_v2.4.pdf; https://www.izenpe.eus/contenidos/informacion/doc_juridica/en_def/adjuntos/IZNP_CP_Website_authentication_certificates_v2.3.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.izenpe.eus/contenidos/informacion/doc_juridica/en_def/adjuntos/IZNP_CP_Website_authentication_certificates_v2.3.pdf",
+      "https://www.izenpe.eus/contenidos/informacion/doc_juridica/en_def/adjuntos/IZNP_CP_Website_authentication_certificates_v2.4.pdf"
+    ],
     "CP Last Updated Date": "2025.04.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.izenpe.eus/contenidos/informacion/dpc_izenpe/en_def/adjuntos/DOC_P_CPS_v7.7.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.izenpe.eus/contenidos/informacion/dpc_izenpe/en_def/adjuntos/DOC_P_CPS_v7.7.pdf"
+    ],
     "CPS Last Updated Date": "2024.11.08",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.7.pdf; https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.6.pdf; https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/Certificate-Policy-Certification-Practices-Statement-for-Website-Authenticacion-Certificates_v2.5.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/Certificate-Policy-Certification-Practices-Statement-for-Website-Authenticacion-Certificates_v2.5.pdf",
+      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.6.pdf",
+      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.7.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-qualified.izenpe.eus",

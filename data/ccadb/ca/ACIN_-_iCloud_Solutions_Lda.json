@@ -49,10 +49,17 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://pki.globaltrustedsign.com/download/doc/en/PL03_GTS.pdf; https://pki.globaltrustedsign.com/download/doc/en/PL04_GTS.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://pki.globaltrustedsign.com/download/doc/en/PL03_GTS.pdf",
+      "https://pki.globaltrustedsign.com/download/doc/en/PL04_GTS.pdf"
+    ],
     "CP Last Updated Date": "2021.06.23",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.globaltrustedsign.com/download/doc/en/DP02_GTS.pdf; https://pki.globaltrustedsign.com/download/doc/en/DP01_GTS.pdf; https://pki.globaltrustedsign.com/index.php/home_c/download/DP05_EN",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.globaltrustedsign.com/download/doc/en/DP01_GTS.pdf",
+      "https://pki.globaltrustedsign.com/download/doc/en/DP02_GTS.pdf",
+      "https://pki.globaltrustedsign.com/index.php/home_c/download/DP05_EN"
+    ],
     "CPS Last Updated Date": "2021.07.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

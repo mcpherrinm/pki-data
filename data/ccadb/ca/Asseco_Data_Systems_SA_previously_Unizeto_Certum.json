@@ -420,10 +420,14 @@
     "Policy Documentation": "All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
+    ],
     "CP Last Updated Date": "2022.09.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -480,10 +484,14 @@
     "Policy Documentation": "All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
+    ],
     "CP Last Updated Date": "2022.09.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1381,10 +1389,14 @@
     "Policy Documentation": "EV CP\r\nhttps://assets-cdn.sheca.com/documents/SHECA-EV-CP-v1.6.8.pdf\r\n\r\nEV CPS\r\nhttps://assets-cdn.sheca.com/documents/SHECA-EV%20CPS-v1.5.2.pdf",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.1%EF%BC%88EN%20)%20%20.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.1%EF%BC%88EN%20)%20%20.pdf"
+    ],
     "CP Last Updated Date": "2023.04.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.7.3%EF%BC%88EN%EF%BC%89.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.7.3%EF%BC%88EN%EF%BC%89.pdf"
+    ],
     "CPS Last Updated Date": "2023.04.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3838,10 +3850,14 @@
     "S/MIME BR Audit Period End Date": "2025.02.10",
     "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4271,10 +4287,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4341,10 +4361,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4500,10 +4524,14 @@
     "S/MIME BR Audit Period End Date": "2025.02.10",
     "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5986,10 +6014,14 @@
     "S/MIME BR Audit Period End Date": "2025.02.10",
     "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6051,10 +6083,14 @@
     "S/MIME BR Audit Period End Date": "2025.02.10",
     "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6114,10 +6150,14 @@
     "S/MIME BR Audit Period Start Date": "2024.02.11",
     "S/MIME BR Audit Period End Date": "2025.02.10",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6205,10 +6245,14 @@
     "S/MIME BR Audit Period End Date": "2025.02.10",
     "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2024/12/CCP-DK02-ZK01-Certification-Policy-of-CERTUM-Certification-Services_v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certum.eu/en/wp-content/uploads/2025/07/CCP-DK02-ZK02-Certification-Practice-Statement-of-Certum-Certification-Services_v7.13_v2.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

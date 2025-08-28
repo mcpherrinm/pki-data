@@ -369,7 +369,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.msctrustgate.com/tgcpcps",
+    "Certificate Practice & Policy Statement": [
+      "https://www.msctrustgate.com/tgcpcps"
+    ],
     "CP/CPS Last Updated Date": "2025.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -416,7 +418,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.msctrustgate.com/tgcpcps",
+    "Certificate Practice & Policy Statement": [
+      "https://www.msctrustgate.com/tgcpcps"
+    ],
     "CP/CPS Last Updated Date": "2025.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -463,7 +467,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.msctrustgate.com/tgcpcps",
+    "Certificate Practice & Policy Statement": [
+      "https://www.msctrustgate.com/tgcpcps"
+    ],
     "CP/CPS Last Updated Date": "2025.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -510,7 +516,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.msctrustgate.com/tgcpcps",
+    "Certificate Practice & Policy Statement": [
+      "https://www.msctrustgate.com/tgcpcps"
+    ],
     "CP/CPS Last Updated Date": "2025.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

@@ -74,10 +74,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated.\r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
+    ],
     "CP Last Updated Date": "2020.04.22",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/wp-content/uploads/2020/04/WPKI-WISeKey-CPS.v3.2-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/wp-content/uploads/2020/04/WPKI-WISeKey-CPS.v3.2-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2020.04.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -195,10 +199,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
+    ],
     "CP Last Updated Date": "2019.05.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -283,10 +291,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
+    ],
     "CP Last Updated Date": "2019.05.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -476,10 +488,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
+    ],
     "CP Last Updated Date": "2019.05.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -601,10 +617,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
+    ],
     "CP Last Updated Date": "2019.05.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -689,10 +709,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1018,10 +1042,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf"
+    ],
     "CP Last Updated Date": "2019.05.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1146,10 +1174,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "Test Website URL - Valid": "https://gbvalidssl.hightrusted.com/",
     "Test Website URL - Expired": "https://gbexpiredssl.hightrusted.com/",
@@ -1271,10 +1303,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
+    ],
     "CP Last Updated Date": "2020.04.22",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/wp-content/uploads/2020/04/WPKI-WISeKey-CPS.v3.2-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/wp-content/uploads/2020/04/WPKI-WISeKey-CPS.v3.2-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2020.04.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1316,10 +1352,14 @@
     "Policy Documentation": "WISeKey adopts the CP documents mandated by the OISTE Foundation, as Root CA to which this intermediate is subordinated. \r\nThe OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
     "CA Document Repository": "https://www.wisekey.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf"
+    ],
     "CP Last Updated Date": "2019.05.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1433,10 +1473,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "Test Website URL - Valid": "https://gcvalidssl.hightrusted.com/",
     "Test Website URL - Expired": "https://gcexpiredssl.hightrusted.com/",
@@ -1493,10 +1537,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "Test Website URL - Valid": "https://rsag1validssl.hightrusted.com/",
     "Test Website URL - Expired": "https://rsag1expiredssl.hightrusted.com/",
@@ -1546,10 +1594,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1596,10 +1648,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1651,10 +1707,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "Certificate Practice & Policy Statement": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "CP/CPS Last Updated Date": "2025.06.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.27",
     "Test Website URL - Valid": "https://eccg1validssl.hightrusted.com/",
     "Test Website URL - Expired": "https://eccg1expiredssl.hightrusted.com/",

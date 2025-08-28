@@ -186,11 +186,17 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
-    "CP/CPS Last Updated Date": "2025.08.06",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.06",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "Test Website URL - Valid": "https://jcsi-valid.managedpki.ne.jp/",
     "Test Website URL - Expired": "https://jcsi-expired.managedpki.ne.jp/",
     "Test Website URL - Revoked": "https://jcsi-revoke.managedpki.ne.jp/",
@@ -1481,11 +1487,17 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
-    "CP/CPS Last Updated Date": "2025.08.06",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.06",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "Test Website URL - Valid": "https://ss12-valid.managedpki.ne.jp",
     "Test Website URL - Expired": "https://ss12-expired.managedpki.ne.jp",
     "Test Website URL - Revoked": "https://ss12-revoked.managedpki.ne.jp",
@@ -1525,7 +1537,12 @@
     "Standard Audit Period End Date": "2024.12.10",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf; https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf; https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf; https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1574,7 +1591,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS_English.pdf; https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS_English.pdf; https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1633,11 +1654,17 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
-    "CP/CPS Last Updated Date": "2025.08.06",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.06",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "Test Website URL - Valid": "https://ss14-valid.managedpki.ne.jp",
     "Test Website URL - Expired": "https://ss14-expired.managedpki.ne.jp",
     "Test Website URL - Revoked": "https://ss14-revoked.managedpki.ne.jp",
@@ -1703,11 +1730,17 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
-    "CP/CPS Last Updated Date": "2025.08.06",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.06",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "Test Website URL - Valid": "https://ss15-valid.managedpki.ne.jp",
     "Test Website URL - Expired": "https://ss15-expired.managedpki.ne.jp",
     "Test Website URL - Revoked": "https://ss15-revoked.managedpki.ne.jp",
@@ -1741,7 +1774,9 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1773,11 +1808,17 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
-    "CP/CPS Last Updated Date": "2025.08.06",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.06",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1801,11 +1842,20 @@
     "Valid To (GMT)": "2050.08.20",
     "Subject Key Identifier": "+gufRQ2q1S49D/kYYfYEkuvydsg=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://rtcrl.cybertrust.ne.jp/tls/eccrtca2025/cdp.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

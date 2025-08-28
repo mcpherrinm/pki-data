@@ -199,7 +199,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.digidentity.eu/assets/files/terms/2019v4-CPCPS-DDY.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digidentity.eu/assets/files/terms/2019v4-CPCPS-DDY.pdf"
+    ],
     "CP/CPS Last Updated Date": "2019.12.06",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.services.digidentity-pki.com",

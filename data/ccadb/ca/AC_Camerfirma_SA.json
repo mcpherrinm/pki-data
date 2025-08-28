@@ -373,7 +373,9 @@
     "CA Document Repository": "https://certificacion.cgcom.es/declaracion_dpc",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificacion.cgcom.es/sites/default/files/Practicas_de_certificacion_v3r2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificacion.cgcom.es/sites/default/files/Practicas_de_certificacion_v3r2.pdf"
+    ],
     "CPS Last Updated Date": "2019.03.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -451,7 +453,9 @@
     "CA Document Repository": "https://pki.multicert.com",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_427_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_427_en.pdf"
+    ],
     "CPS Last Updated Date": "2023.03.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -559,10 +563,14 @@
     "TLS BR Audit Period End Date": "2020.04.28",
     "CA Document Repository": "https://pki.multicert.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_426_en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_426_en.pdf"
+    ],
     "CP Last Updated Date": "2020.09.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_427_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_427_en.pdf"
+    ],
     "CPS Last Updated Date": "2020.09.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -597,10 +605,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://camerfirma.co/practicas-de-certificacion/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-PC-002-POLITICA-DE-CERTIFICACION.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-PC-002-POLITICA-DE-CERTIFICACION.pdf"
+    ],
     "CP Last Updated Date": "2023.03.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-DPC-001-DECLARACION-DE-PRACTICAS-DE-CERTIFICACIOi%CC%80N-DECLARACION-DE-PRACTICAS-DE-CERTIFICACION.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-DPC-001-DECLARACION-DE-PRACTICAS-DE-CERTIFICACIOi%CC%80N-DECLARACION-DE-PRACTICAS-DE-CERTIFICACION.pdf"
+    ],
     "CPS Last Updated Date": "2023.03.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -635,10 +647,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://camerfirma.co/practicas-de-certificacion/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-PC-002-POLITICA-DE-CERTIFICACION.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-PC-002-POLITICA-DE-CERTIFICACION.pdf"
+    ],
     "CP Last Updated Date": "2023.03.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-DPC-001-DECLARACION-DE-PRACTICAS-DE-CERTIFICACIOi%CC%80N-DECLARACION-DE-PRACTICAS-DE-CERTIFICACION.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://camerfirma.com.co/wp-content/uploads/2022/01/CM-DPC-001-DECLARACION-DE-PRACTICAS-DE-CERTIFICACIOi%CC%80N-DECLARACION-DE-PRACTICAS-DE-CERTIFICACION.pdf"
+    ],
     "CPS Last Updated Date": "2023.03.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -685,7 +701,9 @@
     "CA Document Repository": "https://www.firma.infocert.it/documentation/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.infocert.it/pdf/ICERT_INDI_MOWS_ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.infocert.it/pdf/ICERT_INDI_MOWS_ENG.pdf"
+    ],
     "CPS Last Updated Date": "2023.04.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -731,7 +749,9 @@
     "TLS BR Audit Period End Date": "2021.12.29",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.intesasanpaolo.com/portalCais0/cps/cps2048.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.intesasanpaolo.com/portalCais0/cps/cps2048.htm"
+    ],
     "CPS Last Updated Date": "2020.10.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -998,7 +1018,9 @@
     "CA Document Repository": "https://www.firma.infocert.it/documentation/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.infocert.it/pdf/ICERT_INDI_MOWS_ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.infocert.it/pdf/ICERT_INDI_MOWS_ENG.pdf"
+    ],
     "CPS Last Updated Date": "2023.04.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1044,7 +1066,9 @@
     "TLS BR Audit Period End Date": "2021.12.29",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.intesasanpaolo.com/portalIden0/identity/doc/ISP-CBCM-2021-1.8%20CPS%20ISP%20Organization%20Validation.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.intesasanpaolo.com/portalIden0/identity/doc/ISP-CBCM-2021-1.8%20CPS%20ISP%20Organization%20Validation.pdf"
+    ],
     "CPS Last Updated Date": "2021.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1493,7 +1517,9 @@
     "CA Document Repository": "http://www.digitalsign.pt/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digitalsign.pt/repository/media/files/Repository/digitalsign_cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digitalsign.pt/repository/media/files/Repository/digitalsign_cps.pdf"
+    ],
     "CPS Last Updated Date": "2021.04.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1744,10 +1770,15 @@
     "Code Signing Audit Period End Date": "2024.03.01",
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf\nhttps://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+    ],
     "CP Last Updated Date": "2025.05.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2352,7 +2383,9 @@
     "CA Document Repository": "https://policy.ivsign.net",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://policy.ivsign.net/docs/CPS_IvSignCA-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://policy.ivsign.net/docs/CPS_IvSignCA-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.08.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2426,10 +2459,15 @@
     "TLS BR Audit Period End Date": "2024.03.01",
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf\nhttps://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+    ],
     "CP Last Updated Date": "2025.05.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2475,10 +2513,15 @@
     "TLS BR Audit Period End Date": "2024.03.01",
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf\nhttps://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+    ],
     "CP Last Updated Date": "2025.05.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

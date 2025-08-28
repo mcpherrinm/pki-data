@@ -532,7 +532,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.itrus.com.cn/upload/file/20250430/1745992041734025525.pdf; https://www.itrus.com.cn/upload/file/20250324/1742796617745034816.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.itrus.com.cn/upload/file/20250324/1742796617745034816.pdf",
+      "https://www.itrus.com.cn/upload/file/20250430/1745992041734025525.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://eccevtest.itrus.cn/",
@@ -589,7 +592,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.itrus.com.cn/upload/file/20250430/1745992041734025525.pdf; https://www.itrus.com.cn/upload/file/20250324/1742796617745034816.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.itrus.com.cn/upload/file/20250324/1742796617745034816.pdf",
+      "https://www.itrus.com.cn/upload/file/20250430/1745992041734025525.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://evtest.itrus.cn/",

@@ -1711,7 +1711,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.startssl.com/?app=26",
+    "Certificate Practice & Policy Statement": [
+      "https://www.startssl.com/?app=26"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "True",
@@ -1758,7 +1760,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.startssl.com/?app=26",
+    "Certificate Practice & Policy Statement": [
+      "https://www.startssl.com/?app=26"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.startcom.org/",
     "TLS Capable": "False",
@@ -1866,7 +1870,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.startssl.com/?app=26",
+    "Certificate Practice & Policy Statement": [
+      "https://www.startssl.com/?app=26"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://g2.startcom.org/",
     "TLS Capable": "False",

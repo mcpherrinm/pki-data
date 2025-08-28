@@ -27,10 +27,14 @@
     "Policy Documentation": "1.3.6.1.4.1.43887.1.2.1.1.0\r\n1.3.6.1.4.1.43887.1.1.1.1.0",
     "CA Document Repository": "http://www.byte.gr/pki/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.byte.gr/pki/repository/root/BYTE%20Root%20CP_en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.byte.gr/pki/repository/root/BYTE%20Root%20CP_en.pdf"
+    ],
     "CP Last Updated Date": "2022.09.19",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.byte.gr/pki/repository/root/BYTE%20Root%20CPS_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.byte.gr/pki/repository/root/BYTE%20Root%20CPS_en.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

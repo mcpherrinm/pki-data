@@ -197,10 +197,14 @@
     "Policy Documentation": "EV Code Signing is for a Zero-Date Audit also known as Readiness Audit",
     "CA Document Repository": "https://secure.identrust.com/certificates/policy/ts/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://secure.identrust.com/certificates/policy/ts/IdenTrust_TrustID_CP_v2.4_20180130.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://secure.identrust.com/certificates/policy/ts/IdenTrust_TrustID_CP_v2.4_20180130.pdf"
+    ],
     "CP Last Updated Date": "2018.01.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://secure.identrust.com/certificates/policy/ts/IdenTrust_TrustID_CPS_v3.5_20180130.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://secure.identrust.com/certificates/policy/ts/IdenTrust_TrustID_CPS_v3.5_20180130.pdf"
+    ],
     "CPS Last Updated Date": "2018.01.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -387,7 +391,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://secure.identrust.com/certificates/policy/ts/",
+    "Certificate Policy (CP) URL": [
+      "https://secure.identrust.com/certificates/policy/ts/"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -419,7 +425,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://secure.identrust.com/certificates/policy/ts/",
+    "Certificate Policy (CP) URL": [
+      "https://secure.identrust.com/certificates/policy/ts/"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -516,7 +524,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://secure.identrust.com/certificates/policy/ts/",
+    "Certificate Practice & Policy Statement": [
+      "https://secure.identrust.com/certificates/policy/ts/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -580,7 +590,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://secure.identrust.com/certificates/policy/ts/",
+    "Certificate Practice & Policy Statement": [
+      "https://secure.identrust.com/certificates/policy/ts/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -742,9 +754,13 @@
     "TLS BR Audit Period End Date": "2015.12.15",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://secure.identrust.com/certificates/policy/ts/",
+    "Certificate Policy (CP) URL": [
+      "https://secure.identrust.com/certificates/policy/ts/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/repository/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/repository/"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -787,9 +803,13 @@
     "TLS BR Audit Period End Date": "2015.12.15",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://secure.identrust.com/certificates/policy/ts/",
+    "Certificate Policy (CP) URL": [
+      "https://secure.identrust.com/certificates/policy/ts/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/repository/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/repository/"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -833,10 +853,14 @@
     "TLS BR Audit Period End Date": "2020.08.31",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
+    "Certificate Policy (CP) URL": [
+      "https://letsencrypt.org/documents/isrg-cp-v2.4/"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/documents/isrg-cps-v2.9/"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -881,10 +905,14 @@
     "TLS BR Audit Period End Date": "2020.08.31",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
+    "Certificate Policy (CP) URL": [
+      "https://letsencrypt.org/documents/isrg-cp-v2.4/"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/documents/isrg-cps-v2.9/"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -929,10 +957,15 @@
     "TLS BR Audit Period End Date": "2020.08.31",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
+    "Certificate Policy (CP) URL": [
+      "https://letsencrypt.org/documents/isrg-cp-v2.4/"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/; https://letsencrypt.org/documents/isrg-cps-v2.7/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/documents/isrg-cps-v2.7/",
+      "https://letsencrypt.org/documents/isrg-cps-v2.9/"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -977,10 +1010,15 @@
     "TLS BR Audit Period End Date": "2020.08.31",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
+    "Certificate Policy (CP) URL": [
+      "https://letsencrypt.org/documents/isrg-cp-v2.4/"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/; https://letsencrypt.org/documents/isrg-cps-v2.7/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/documents/isrg-cps-v2.7/",
+      "https://letsencrypt.org/documents/isrg-cps-v2.9/"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1025,10 +1063,15 @@
     "TLS BR Audit Period End Date": "2020.08.31",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
+    "Certificate Policy (CP) URL": [
+      "https://letsencrypt.org/documents/isrg-cp-v2.4/"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/; https://letsencrypt.org/documents/isrg-cps-v2.7/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/documents/isrg-cps-v2.7/",
+      "https://letsencrypt.org/documents/isrg-cps-v2.9/"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1073,10 +1116,15 @@
     "TLS BR Audit Period End Date": "2020.08.31",
     "CA Document Repository": "https://letsencrypt.org/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://letsencrypt.org/documents/isrg-cp-v2.4/",
+    "Certificate Policy (CP) URL": [
+      "https://letsencrypt.org/documents/isrg-cp-v2.4/"
+    ],
     "CP Last Updated Date": "2020.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://letsencrypt.org/documents/isrg-cps-v2.9/; https://letsencrypt.org/documents/isrg-cps-v2.7/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://letsencrypt.org/documents/isrg-cps-v2.7/",
+      "https://letsencrypt.org/documents/isrg-cps-v2.9/"
+    ],
     "CPS Last Updated Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1483,7 +1531,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://letsencrypt.org/documents/isrg-cp-cps-v5.5/",
+    "Certificate Practice & Policy Statement": [
+      "https://letsencrypt.org/documents/isrg-cp-cps-v5.5/"
+    ],
     "CP/CPS Last Updated Date": "2024.10.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2682,10 +2732,14 @@
     "S/MIME BR Audit Period End Date": "2024.06.30",
     "CA Document Repository": "https://secure.identrust.com/certificates/policy/ts/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP Last Updated Date": "2024.12.04",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2746,10 +2800,14 @@
     "S/MIME BR Audit Period End Date": "2024.06.30",
     "CA Document Repository": "https://secure.identrust.com/certificates/policy/ts/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP Last Updated Date": "2024.12.04",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2875,7 +2933,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf\nhttps://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://identrust-commercial-rsa-ov-valid.identrustssl.com/",
@@ -3021,7 +3082,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf\nhttps://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3164,7 +3228,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf\nhttps://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3195,7 +3262,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf\nhttps://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3226,7 +3296,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf\nhttps://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
+      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

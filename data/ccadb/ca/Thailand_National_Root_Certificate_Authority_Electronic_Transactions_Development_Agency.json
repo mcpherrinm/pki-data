@@ -22,10 +22,14 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.thaidigitalid.com/wp-content/uploads/2017/08/TDID-CA-G2-CP-CPS-1-5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.thaidigitalid.com/wp-content/uploads/2017/08/TDID-CA-G2-CP-CPS-1-5.pdf"
+    ],
     "CP Last Updated Date": "2017.06.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.thaidigitalid.com/wp-content/uploads/2017/08/TDID-CA-G2-CP-CPS-1-5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.thaidigitalid.com/wp-content/uploads/2017/08/TDID-CA-G2-CP-CPS-1-5.pdf"
+    ],
     "CPS Last Updated Date": "2017.06.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -76,13 +80,19 @@
     "TLS BR Audit Period Start Date": "2023.09.01",
     "TLS BR Audit Period End Date": "2024.02.29",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.thaidigitalid.com/wp-content/uploads/2023/04/en/TDID%20G3%20CP_CPSv1.7_2023-04-03_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.thaidigitalid.com/wp-content/uploads/2023/04/en/TDID%20G3%20CP_CPSv1.7_2023-04-03_EN.pdf"
+    ],
     "CP Last Updated Date": "2023.04.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.thaidigitalid.com/wp-content/uploads/2023/04/en/TDID%20G3%20CP_CPSv1.7_2023-04-03_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.thaidigitalid.com/wp-content/uploads/2023/04/en/TDID%20G3%20CP_CPSv1.7_2023-04-03_EN.pdf"
+    ],
     "CPS Last Updated Date": "2023.04.20",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.thaidigitalid.com/wp-content/uploads//2025/06/TDID-G3-CP_CPS_V2.4.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.thaidigitalid.com/wp-content/uploads//2025/06/TDID-G3-CP_CPS_V2.4.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.06",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -127,10 +137,14 @@
     "NetSec Audit Period Start Date": "2023.12.18",
     "NetSec Audit Period End Date": "2024.12.17",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.inet.co.th/inetca/assets/doc/Present_Version/IP-CA-01_7.0_Certificate_Policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.inet.co.th/inetca/assets/doc/Present_Version/IP-CA-01_7.0_Certificate_Policy.pdf"
+    ],
     "CP Last Updated Date": "2024.04.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.inet.co.th/inetca/assets/doc/Present_Version/IP-CA-02_8.0_Certification_Practice_Statement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.inet.co.th/inetca/assets/doc/Present_Version/IP-CA-02_8.0_Certification_Practice_Statement.pdf"
+    ],
     "CPS Last Updated Date": "2024.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -178,10 +192,14 @@
     "TLS BR Audit Period End Date": "2024.08.31",
     "CA Document Repository": "https://nrca.go.th/publish.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.nrca.go.th/download-publishing/42/",
+    "Certificate Policy (CP) URL": [
+      "https://www.nrca.go.th/download-publishing/42/"
+    ],
     "CP Last Updated Date": "2024.12.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.nrca.go.th/download-publishing/44/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.nrca.go.th/download-publishing/44/"
+    ],
     "CPS Last Updated Date": "2024.12.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -224,13 +242,19 @@
     "Standard Audit Period End Date": "2025.05.31",
     "CA Document Repository": "https://www.thaica.com/repository/cp-cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf"
+    ],
     "CP Last Updated Date": "2025.06.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf"
+    ],
     "CPS Last Updated Date": "2025.06.16",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -270,7 +294,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.thaica.com/wp-content/uploads/2025/06/TKSCA_CP_CPS_v1.6_16June25.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -311,10 +337,14 @@
     "NetSec Audit Period Start Date": "2023.09.01",
     "NetSec Audit Period End Date": "2024.08.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.nrca.go.th/download-publishing/42/",
+    "Certificate Policy (CP) URL": [
+      "https://www.nrca.go.th/download-publishing/42/"
+    ],
     "CP Last Updated Date": "2024.12.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.nrca.go.th/download-publishing/44/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.nrca.go.th/download-publishing/44/"
+    ],
     "CPS Last Updated Date": "2024.12.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -361,10 +391,14 @@
     "TLS BR Audit Period Start Date": "2023.09.01",
     "TLS BR Audit Period End Date": "2024.08.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.nrca.go.th/download-publishing/42/",
+    "Certificate Policy (CP) URL": [
+      "https://www.nrca.go.th/download-publishing/42/"
+    ],
     "CP Last Updated Date": "2024.12.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.nrca.go.th/download-publishing/44/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.nrca.go.th/download-publishing/44/"
+    ],
     "CPS Last Updated Date": "2024.12.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

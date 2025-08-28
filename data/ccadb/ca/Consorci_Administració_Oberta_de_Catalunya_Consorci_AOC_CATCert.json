@@ -598,10 +598,14 @@
     "TLS EVG Audit Period End Date": "2021.03.28",
     "CA Document Repository": "https://www.aoc.cat/catcert/regulacio/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://epscd.aoc.cat/assets/documents/politiques/vigents/politica-certificacio-dispositius-i-infraestructures/PC_Dispositius_i_Infraestructures-6.7-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://epscd.aoc.cat/assets/documents/politiques/vigents/politica-certificacio-dispositius-i-infraestructures/PC_Dispositius_i_Infraestructures-6.7-EN.pdf"
+    ],
     "CP Last Updated Date": "2024.05.22",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://epscd.aoc.cat/assets/documents/politiques/vigents/declaracio-practiques/DPC-6.12-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://epscd.aoc.cat/assets/documents/politiques/vigents/declaracio-practiques/DPC-6.12-EN.pdf"
+    ],
     "CPS Last Updated Date": "2024.05.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

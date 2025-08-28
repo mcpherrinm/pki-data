@@ -25,10 +25,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -64,10 +68,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20devices%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20devices%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -102,10 +110,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20devices%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20devices%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -140,10 +152,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -178,10 +194,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20devices%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20devices%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -217,10 +237,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -255,10 +279,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca.pki.agce.dz/repository/cps/AGCE%20CPS%20for%20Legal%20and%20Natural%20Person%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -309,10 +337,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "http://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -353,10 +385,14 @@
     "Standard Audit Period End Date": "2021.06.15",
     "CA Document Repository": "https://pki.aece.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://pki.aece.dz/repository/cps/Commercial%20CA%20CP%20CPS%20v1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://pki.aece.dz/repository/cps/Commercial%20CA%20CP%20CPS%20v1.4.pdf"
+    ],
     "CP Last Updated Date": "2022.02.24",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.aece.dz/repository/cps/Commercial%20CA%20CP%20CPS%20v1.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.aece.dz/repository/cps/Commercial%20CA%20CP%20CPS%20v1.4.pdf"
+    ],
     "CPS Last Updated Date": "2022.02.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -407,10 +443,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -461,10 +501,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -515,10 +559,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -569,10 +617,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -623,10 +675,14 @@
     "Code Signing Audit Period End Date": "2022.09.30",
     "CA Document Repository": "https://ca.pki.agce.dz/repository/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ca.pki.agce.dz/repository/cps/Government%20CA%20CPS%20v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -709,7 +765,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.1.pdf; https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.0.pdf",
+      "https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2023.06.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.ca.pki.agce.dz",

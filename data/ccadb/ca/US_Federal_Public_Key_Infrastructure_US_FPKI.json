@@ -82,7 +82,9 @@
     "Policy Documentation": "http://pki.treas.gov/cert_policies.htm",
     "CA Document Repository": "http://pki.treas.gov/cert_policies.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -176,7 +178,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -208,7 +212,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -240,7 +246,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -272,7 +280,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -304,7 +314,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -336,7 +348,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -368,7 +382,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -406,10 +422,14 @@
     "Policy Documentation": "https://www.idmanagement.gov/fpki-cas-audit-info/",
     "CA Document Repository": "http://cp1.govt.com-strong-id.net/CPS/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
+    ],
     "CP Last Updated Date": "2017.03.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://cp1.govt.com-strong-id.net/CPS/Verizon-Federal-SSP-CPS_v3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://cp1.govt.com-strong-id.net/CPS/Verizon-Federal-SSP-CPS_v3.pdf"
+    ],
     "CPS Last Updated Date": "2017.03.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -489,10 +509,14 @@
     "Policy Documentation": "https://www.idmanagement.gov/fpki/",
     "CA Document Repository": "https://www.idmanagement.gov/fpki/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.idmanagement.gov/docs/fpki-x509-cert-policy-common.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.idmanagement.gov/docs/fpki-x509-cert-policy-common.pdf"
+    ],
     "CP Last Updated Date": "2021.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.idmanagement.gov/docs/fpki-fpkima-cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.idmanagement.gov/docs/fpki-fpkima-cps.pdf"
+    ],
     "CPS Last Updated Date": "2021.06.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

@@ -85,10 +85,14 @@
     "Policy Documentation": "http://www.cca.gov.in/cca/?q=guidelines.html",
     "CA Document Repository": "http://www.cca.gov.in/cca/?q=guidelines.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf"
+    ],
     "CP Last Updated Date": "2024.06.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf"
+    ],
     "CPS Last Updated Date": "2024.03.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -194,10 +198,14 @@
     "Policy Documentation": "http://www.cca.gov.in/cca/?q=guidelines.html",
     "CA Document Repository": "http://www.cca.gov.in/cca/?q=guidelines.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf"
+    ],
     "CP Last Updated Date": "2024.06.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf"
+    ],
     "CPS Last Updated Date": "2024.03.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -273,10 +281,16 @@
     "TLS BR Audit Period Start Date": "2023.03.21",
     "TLS BR Audit Period End Date": "2024.03.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf; https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf",
+      "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf"
+    ],
     "CP Last Updated Date": "2025.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf; http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -318,10 +332,16 @@
     "TLS BR Audit Period Start Date": "2023.03.21",
     "TLS BR Audit Period End Date": "2024.03.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf; https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf",
+      "https://cca.gov.in/sites/files/pdf/guidelines/CCA-CP.pdf"
+    ],
     "CP Last Updated Date": "2025.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf; http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

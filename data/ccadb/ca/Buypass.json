@@ -36,7 +36,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.buypass.com/home/support/ca-documentation-legal",
+    "Certificate Practice & Policy Statement": [
+      "http://www.buypass.com/home/support/ca-documentation-legal"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.evident.ca13.ssl.buypass.no/",
     "TLS Capable": "False",
@@ -77,7 +79,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.buypass.com/home/support/ca-documentation-legal",
+    "Certificate Practice & Policy Statement": [
+      "http://www.buypass.com/home/support/ca-documentation-legal"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.domainplus.ca12.ssl.buypass.no/",
     "TLS Capable": "False",
@@ -695,7 +699,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repository.buypassca.com/cpsTLS-v1-1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.buypassca.com/cpsTLS-v1-1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.business.ca22.ssl.buypass.no",
@@ -753,7 +759,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repository.buypassca.com/cpsTLS-v1-1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.buypassca.com/cpsTLS-v1-1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.evident.ca23.ssl.buypass.no",

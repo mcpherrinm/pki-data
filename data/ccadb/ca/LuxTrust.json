@@ -37,10 +37,14 @@
     "Policy Documentation": "Documents are in French and English.",
     "CA Document Repository": "https://www.luxtrust.lu/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf"
+    ],
     "CP Last Updated Date": "2018.07.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_ssl_ca_cps_v1.6.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_ssl_ca_cps_v1.6.pdf"
+    ],
     "CPS Last Updated Date": "2018.07.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -88,10 +92,14 @@
     "Policy Documentation": "Documents are in French and English.",
     "CA Document Repository": "https://www.luxtrust.lu/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_certificate_profiles_v1_29.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_certificate_profiles_v1_29.pdf"
+    ],
     "CP Last Updated Date": "2019.03.19",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_ssl_ca_cps_v1.7.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_ssl_ca_cps_v1.7.pdf"
+    ],
     "CPS Last Updated Date": "2019.03.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -139,10 +147,14 @@
     "TLS BR Audit Period End Date": "2019.03.29",
     "CA Document Repository": "https://www.luxtrust.lu/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf"
+    ],
     "CP Last Updated Date": "2018.03.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_corporate_ca_certification_practice_statements_v1_0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_corporate_ca_certification_practice_statements_v1_0.pdf"
+    ],
     "CPS Last Updated Date": "2018.03.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -188,10 +200,14 @@
     "Policy Documentation": "Documents are in French and English",
     "CA Document Repository": "https://repository.luxtrust.lu",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf"
+    ],
     "CP Last Updated Date": "2018.02.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_qualified_ca_certification_practice_statements_v1_10.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_qualified_ca_certification_practice_statements_v1_10.pdf"
+    ],
     "CPS Last Updated Date": "2018.02.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -225,9 +241,13 @@
     "Policy Documentation": "Documents are in French and English",
     "CA Document Repository": "https://repository.luxtrust.lu",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.luxtrust.lu/upload/data/repository/LuxTrust%20Global%20Root%20CA%20-%20Certificate%20Profiles%20v1%2022.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/LuxTrust%20Global%20Root%20CA%20-%20Certificate%20Profiles%20v1%2022.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.luxtrust.lu/upload/data/repository/LuxTrust%20SSL%20CA%20CPS%20v1.3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.luxtrust.lu/upload/data/repository/LuxTrust%20SSL%20CA%20CPS%20v1.3.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

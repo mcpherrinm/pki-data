@@ -155,10 +155,14 @@
     "TLS BR Audit Period End Date": "2016.10.30",
     "CA Document Repository": "https://acedicom.edicomgroup.com/co/caedicomco_es.xml",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://acedicom.edicomgroup.com/es/contenidos/practicasyPoliticas/practicasyPoliticas-jerarquiaAnterior.htm",
+    "Certificate Policy (CP) URL": [
+      "http://acedicom.edicomgroup.com/es/contenidos/practicasyPoliticas/practicasyPoliticas-jerarquiaAnterior.htm"
+    ],
     "CP Last Updated Date": "2017.03.08",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://acedicom.edicomgroup.com/co/CAEDICOMCO_DPC_DeclaracionPracticasCertificacion.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://acedicom.edicomgroup.com/co/CAEDICOMCO_DPC_DeclaracionPracticasCertificacion.pdf"
+    ],
     "CPS Last Updated Date": "2017.03.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -207,10 +211,14 @@
     "Code Signing Audit Period End Date": "2024.04.24",
     "CA Document Repository": "https://acedicom.edicomgroup.com/eu/caedicom_en.xml",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://acedicom.edicomgroup.com/eu/CAEDICOM-PoliticaCertificadosTLS.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://acedicom.edicomgroup.com/eu/CAEDICOM-PoliticaCertificadosTLS.pdf"
+    ],
     "CP Last Updated Date": "2024.12.02",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://acedicom.edicomgroup.com/eu/CAEDICOM%20-%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://acedicom.edicomgroup.com/eu/CAEDICOM%20-%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n.pdf"
+    ],
     "CPS Last Updated Date": "2024.10.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

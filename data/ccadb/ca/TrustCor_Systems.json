@@ -1022,10 +1022,15 @@
     "Code Signing Audit Period End Date": "2022.11.15",
     "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf; https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
+      "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1108,10 +1113,15 @@
     "Code Signing Audit Period End Date": "2022.11.15",
     "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf; https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
+      "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1221,10 +1231,15 @@
     "Code Signing Audit Period End Date": "2022.11.15",
     "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf"
+    ],
     "CP Last Updated Date": "2022.06.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf; https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
+      "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

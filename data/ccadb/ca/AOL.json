@@ -25,7 +25,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://pki-info.aol.com/AOL/",
+    "Certificate Practice & Policy Statement": [
+      "http://pki-info.aol.com/AOL/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -59,7 +61,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://pki-info.aol.com/AOL/",
+    "Certificate Practice & Policy Statement": [
+      "http://pki-info.aol.com/AOL/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.gathr.com/",
     "TLS Capable": "False",

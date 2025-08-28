@@ -31,10 +31,14 @@
     "TLS BR Audit Period End Date": "2021.06.15",
     "CA Document Repository": "http://hiteles.gov.hu/content/20/certificate_policies_and_other_public_documents",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://hiteles.gov.hu/letoltes/373/BR-WOT_v3.1_s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://hiteles.gov.hu/letoltes/373/BR-WOT_v3.1_s.pdf"
+    ],
     "CP Last Updated Date": "2020.01.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://hiteles.gov.hu/download/448/BSZ-WOT%20v3.3%20tisztazott_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://hiteles.gov.hu/download/448/BSZ-WOT%20v3.3%20tisztazott_EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.04.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

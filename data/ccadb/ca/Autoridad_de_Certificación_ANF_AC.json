@@ -179,10 +179,16 @@
     "TLS EVG Audit Period End Date": "2019.03.22",
     "CA Document Repository": "https://anf.es/pdf/Certification_PracticesStatement_ANFAC_v2_5.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf; https://anf.es/pdf/CP_SSL_Electronic_Headquarters_v2_8.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/pdf/CP_SSL_Electronic_Headquarters_v2_8.pdf",
+      "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf; https://anf.es/pdf/Certification_PracticesStatement_ANFAC_v2_5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://anf.es/pdf/Certification_PracticesStatement_ANFAC_v2_5.pdf",
+      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -232,10 +238,14 @@
     "TLS EVG Audit Period Start Date": "2023.03.21",
     "TLS EVG Audit Period End Date": "2024.03.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -282,10 +292,14 @@
     "TLS EVG Audit Period Start Date": "2024.03.21",
     "TLS EVG Audit Period End Date": "2025.03.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -332,10 +346,14 @@
     "TLS EVG Audit Period Start Date": "2024.03.21",
     "TLS EVG Audit Period End Date": "2025.03.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2025/07/CP-for-SSL-and-Electronic-Headquarters-v.3.3.8.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

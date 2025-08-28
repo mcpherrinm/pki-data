@@ -63,7 +63,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.posdigicert.com.my/public/uploads/files/CPS-Rev-7.pdf; https://www.posdigicert.com.my/public/uploads/files/CPS-Rev-60.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.posdigicert.com.my/public/uploads/files/CPS-Rev-60.pdf",
+      "https://www.posdigicert.com.my/public/uploads/files/CPS-Rev-7.pdf"
+    ],
     "CP/CPS Last Updated Date": "2019.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testvalid.posdigicert.com.my/",

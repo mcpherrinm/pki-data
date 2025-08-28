@@ -28,9 +28,13 @@
     "TLS BR Audit Period Start Date": "2016.09.14",
     "TLS BR Audit Period End Date": "2016.10.05",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.netlock.hu/USEREN/html/dok.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.netlock.hu/USEREN/html/dok.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=364923",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=364923"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -63,9 +67,13 @@
     "Standard Audit Period Start Date": "2016.10.20",
     "Standard Audit Period End Date": "2016.10.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.netlock.hu/USEREN/html/dok.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.netlock.hu/USEREN/html/dok.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=364923",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=364923"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -98,9 +106,13 @@
     "Standard Audit Period Start Date": "2016.10.20",
     "Standard Audit Period End Date": "2016.10.20",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.netlock.hu/USEREN/html/dok.html",
+    "Certificate Policy (CP) URL": [
+      "http://www.netlock.hu/USEREN/html/dok.html"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=364923",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=364923"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -133,9 +145,14 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "http://www.netlock.hu/docs/dokumentumok/PDS.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf; https://www.netlock.hu/docs/dokumentumok/KELER_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/KELER_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+      "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -167,9 +184,14 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "http://www.netlock.hu/docs/dokumentumok/PDS.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf; https://www.netlock.hu/docs/dokumentumok/MKB_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/MKB_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+      "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -202,9 +224,14 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "http://www.netlock.hu/docs/dokumentumok/PDS.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf; https://www.netlock.hu/docs/dokumentumok/KELER_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/KELER_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+      "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -236,9 +263,14 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "http://www.netlock.hu/docs/dokumentumok/PDS.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf; https://www.netlock.hu/docs/dokumentumok/MNB_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/MNB_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+      "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -270,9 +302,14 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "http://www.netlock.hu/docs/dokumentumok/PDS.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/NM_HITELESITESI_REND_160902.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf; https://www.netlock.hu/docs/dokumentumok/MNB_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.netlock.hu/docs/dokumentumok/MNB_Szolgaltatasi_Szabalyzat_kegeszites_160701.pdf",
+      "https://www.netlock.hu/docs/dokumentumok/NM_SZOLG_SZAB_160909.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1424,10 +1461,18 @@
     "Policy Documentation": "There 3 sets of CPs and CPSes for these roots; for qualified, non-qualfied and non-eidas certs forced by the regulations/regulators.\r\nThese CPs and CPSes are nearly the same. \r\n\r\nQUALIFIED (EV) \r\nCP https://netlock.hu/download/sp-qc-en-draft/?wpdmdl=59471\r\nCPS https://netlock.hu/download/sps-qc-en-draft/?wpdmdl=59472\r\n\r\nNONQUALIFIED (OV and EV) \r\nCP https://netlock.hu/download/sp-nqc-en/?wpdmdl=53944\r\nCPS https://netlock.hu/download/sps-nqc-en/?wpdmdl=53940\r\n\r\nNON EIDAS (DV) \r\nCP https://netlock.hu/download/sp-c-en/?wpdmdl=53945\r\nCPS https://netlock.hu/download/sps-c-en/?wpdmdl=53957",
     "CA Document Repository": "https://netlock.hu/szabalyzatok-regulations/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://netlock.hu/download/sp-qc-en/; https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/; https://netlock.hu/download/service-policy-statement-for-non-eidas-certificate-services-valid-from-01-09-2024/",
+    "Certificate Policy (CP) URL": [
+      "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+      "https://netlock.hu/download/service-policy-statement-for-non-eidas-certificate-services-valid-from-01-09-2024/",
+      "https://netlock.hu/download/sp-qc-en/"
+    ],
     "CP Last Updated Date": "2024.09.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/en/documents/?type=document-drafts\nhttps://netlock.hu/en/documents/; https://netlock.hu/download/sps-nqc-en/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-nqc-en/",
+      "https://netlock.hu/en/documents/",
+      "https://netlock.hu/en/documents/?type=document-drafts"
+    ],
     "CPS Last Updated Date": "2025.08.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1490,10 +1535,18 @@
     "Policy Documentation": "There 3 sets of CPs and CPSes for these roots; for qualified, non-qualfied and non-eidas certs forced by the regulations/regulators.\r\nThese CPs and CPSes are nearly the same. \r\n\r\nQUALIFIED (EV) \r\nCP https://netlock.hu/download/sp-qc-en-draft/?wpdmdl=59471\r\nCPS https://netlock.hu/download/sps-qc-en-draft/?wpdmdl=59472\r\n\r\nNONQUALIFIED (OV and EV) \r\nCP https://netlock.hu/download/sp-nqc-en/?wpdmdl=53944\r\nCPS https://netlock.hu/download/sps-nqc-en/?wpdmdl=53940\r\n\r\nNON EIDAS (DV) \r\nCP https://netlock.hu/download/sp-c-en/?wpdmdl=53945\r\nCPS https://netlock.hu/download/sps-c-en/?wpdmdl=53957",
     "CA Document Repository": "https://netlock.hu/szabalyzatok-regulations/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://netlock.hu/download/service-policy-statement-for-non-eidas-certificate-services-valid-from-01-09-2024/; https://netlock.hu/download/sp-qc-en/; https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+    "Certificate Policy (CP) URL": [
+      "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+      "https://netlock.hu/download/service-policy-statement-for-non-eidas-certificate-services-valid-from-01-09-2024/",
+      "https://netlock.hu/download/sp-qc-en/"
+    ],
     "CP Last Updated Date": "2024.09.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/en/documents/?type=document-drafts\nhttps://netlock.hu/en/documents/; https://netlock.hu/download/sps-nqc-en/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-nqc-en/",
+      "https://netlock.hu/en/documents/",
+      "https://netlock.hu/en/documents/?type=document-drafts"
+    ],
     "CPS Last Updated Date": "2025.08.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1532,7 +1585,10 @@
     "CA Document Repository": "https://netlock.hu/aktualis-szabalyzatok/#english",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/download/sps-c-en/; https://netlock.hu/drafts#others",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-c-en/",
+      "https://netlock.hu/drafts#others"
+    ],
     "CPS Last Updated Date": "2024.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1566,10 +1622,16 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://netlock.hu/aktualis-szabalyzatok/#english",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/; https://netlock.hu/drafts#others",
+    "Certificate Policy (CP) URL": [
+      "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+      "https://netlock.hu/drafts#others"
+    ],
     "CP Last Updated Date": "2024.07.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/download/sps-nqc-en/; https://netlock.hu/drafts#others",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-nqc-en/",
+      "https://netlock.hu/drafts#others"
+    ],
     "CPS Last Updated Date": "2024.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1602,10 +1664,16 @@
     "Auditor": "MATRIX Ltd.",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/; https://netlock.hu/drafts#others",
+    "Certificate Policy (CP) URL": [
+      "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+      "https://netlock.hu/drafts#others"
+    ],
     "CP Last Updated Date": "2024.07.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/download/sps-nqc-en/; https://netlock.hu/drafts#others",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-nqc-en/",
+      "https://netlock.hu/drafts#others"
+    ],
     "CPS Last Updated Date": "2024.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1714,7 +1782,10 @@
     "S/MIME BR Audit Period End Date": "2025.07.23",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/en/documents/?type=document-drafts\nhttps://netlock.hu/en/documents/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/en/documents/",
+      "https://netlock.hu/en/documents/?type=document-drafts"
+    ],
     "CPS Last Updated Date": "2025.08.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1762,7 +1833,10 @@
     "TLS EVG Audit Period End Date": "2025.07.23",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/en/documents/?type=document-drafts\nhttps://netlock.hu/en/documents/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/en/documents/",
+      "https://netlock.hu/en/documents/?type=document-drafts"
+    ],
     "CPS Last Updated Date": "2025.08.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1803,13 +1877,22 @@
     "TLS BR Audit Period Start Date": "2024.08.25",
     "TLS BR Audit Period End Date": "2025.07.23",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://netlock.hu/download/sp-qc-en/; https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+    "Certificate Policy (CP) URL": [
+      "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+      "https://netlock.hu/download/sp-qc-en/"
+    ],
     "CP Last Updated Date": "2024.09.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/en/documents/?type=document-drafts\nhttps://netlock.hu/en/documents/; https://netlock.hu/download/sps-nqc-en/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-nqc-en/",
+      "https://netlock.hu/en/documents/",
+      "https://netlock.hu/en/documents/?type=document-drafts"
+    ],
     "CPS Last Updated Date": "2025.08.23",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://netlock.hu/aktualis-szabalyzatok/#english",
+    "Certificate Practice & Policy Statement": [
+      "https://netlock.hu/aktualis-szabalyzatok/#english"
+    ],
     "CP/CPS Last Updated Date": "2024.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1854,10 +1937,18 @@
     "TLS EVG Audit Period Start Date": "2023.08.25",
     "TLS EVG Audit Period End Date": "2024.08.24",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://netlock.hu/download/service-policy-statement-for-non-eidas-certificate-services-valid-from-01-09-2024/; https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/; https://netlock.hu/download/sp-qc-en/",
+    "Certificate Policy (CP) URL": [
+      "https://netlock.hu/download/service-policy-for-non-qualified-certificate-services/",
+      "https://netlock.hu/download/service-policy-statement-for-non-eidas-certificate-services-valid-from-01-09-2024/",
+      "https://netlock.hu/download/sp-qc-en/"
+    ],
     "CP Last Updated Date": "2024.09.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://netlock.hu/en/documents/?type=document-drafts\nhttps://netlock.hu/en/documents/; https://netlock.hu/download/sps-nqc-en/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://netlock.hu/download/sps-nqc-en/",
+      "https://netlock.hu/en/documents/",
+      "https://netlock.hu/en/documents/?type=document-drafts"
+    ],
     "CPS Last Updated Date": "2025.08.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

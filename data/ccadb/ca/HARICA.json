@@ -248,9 +248,13 @@
     "TLS BR Audit Period Start Date": "2015.06.09",
     "TLS BR Audit Period End Date": "2015.06.09",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.pki.auth.gr/documents/CPS-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.pki.auth.gr/documents/CPS-EN.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.pki.auth.gr/documents/CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.pki.auth.gr/documents/CPS-EN.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -415,9 +419,13 @@
     "TLS BR Audit Period Start Date": "2016.06.09",
     "TLS BR Audit Period End Date": "2016.06.09",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.pki.auth.gr/documents/CPS-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.pki.auth.gr/documents/CPS-EN.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.pki.auth.gr/documents/CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.pki.auth.gr/documents/CPS-EN.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -793,9 +801,13 @@
     "Full CRL Issued By This CA": "http://crl.harica.gr/AuthCentralCAR5.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.pki.auth.gr/documents/CPS-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.pki.auth.gr/documents/CPS-EN.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.pki.auth.gr/documents/CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.pki.auth.gr/documents/CPS-EN.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6904,7 +6916,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://haricaeccrootca2015-valid-ev.harica.gr",
@@ -6972,7 +6986,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://haricarootca2015-valid-ev.harica.gr",
@@ -7024,7 +7040,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7077,7 +7095,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-ecc-valid-ev.root2021.harica.gr",
@@ -7129,7 +7149,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7177,7 +7199,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7225,7 +7249,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7278,7 +7304,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-rsa-valid-ev.root2021.harica.gr",
