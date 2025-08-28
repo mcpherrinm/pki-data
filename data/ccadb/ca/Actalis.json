@@ -163,9 +163,13 @@
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CA Document Repository": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -200,9 +204,13 @@
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CA Document Repository": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -237,9 +245,13 @@
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CA Document Repository": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -274,9 +286,13 @@
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CA Document Repository": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -311,9 +327,13 @@
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CA Document Repository": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -511,10 +531,15 @@
     "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below. \r\nBoth refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.actalis.com/caact-free-s-mime-certificates-policy-en; https://www.actalis.com/corporate-s-mime-certificates-policy-en",
+    "Certificate Policy (CP) URL": [
+      "https://www.actalis.com/caact-free-s-mime-certificates-policy-en",
+      "https://www.actalis.com/corporate-s-mime-certificates-policy-en"
+    ],
     "CP Last Updated Date": "2024.07.09",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
     "CPS Last Updated Date": "2024.07.09",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -680,9 +705,13 @@
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CA Document Repository": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v6.0_del_29-11-2021.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -902,7 +931,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
     "CP/CPS Last Updated Date": "2025.06.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssltest-active.actalis.it/",
@@ -941,7 +972,9 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v8.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v8.0.pdf"
+    ],
     "CPS Last Updated Date": "2024.07.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -977,7 +1010,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v9.0_en_redlined_20250710.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v9.0_en_redlined_20250710.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1045,7 +1080,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v9.0_en_redlined_20250710.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v9.0_en_redlined_20250710.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1240,10 +1277,15 @@
     "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below. \r\nBoth refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.actalis.com/corporate-s-mime-certificates-policy-en; https://www.actalis.com/caact-free-s-mime-certificates-policy-en",
+    "Certificate Policy (CP) URL": [
+      "https://www.actalis.com/caact-free-s-mime-certificates-policy-en",
+      "https://www.actalis.com/corporate-s-mime-certificates-policy-en"
+    ],
     "CP Last Updated Date": "2024.07.09",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
     "CPS Last Updated Date": "2024.07.09",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

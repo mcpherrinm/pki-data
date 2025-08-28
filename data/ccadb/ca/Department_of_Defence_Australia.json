@@ -79,10 +79,14 @@
     "Policy Documentation": "Updates to the CPS and CPs currently in progress.",
     "CA Document Repository": "http://www.defence.gov.au/pki/_lib/doc_pdf/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://crl.defence.gov.au/pki/_lib/doc_pdf/Defence-ADPRCA-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://crl.defence.gov.au/pki/_lib/doc_pdf/Defence-ADPRCA-CP.pdf"
+    ],
     "CP Last Updated Date": "2024.12.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://crl.defence.gov.au/pki/cps/Defence-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://crl.defence.gov.au/pki/cps/Defence-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

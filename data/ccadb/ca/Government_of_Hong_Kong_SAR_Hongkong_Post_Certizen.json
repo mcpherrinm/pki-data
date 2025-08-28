@@ -587,7 +587,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.ecert.gov.hk/product/cps/ecert/img/cps_en61.pdf; https://www.ecert.gov.hk/product/cps/ecert/img/orgrole_cps_en17.pdf; https://www.ecert.gov.hk/product/cps/gcert/img/gcert_cps_en11.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.ecert.gov.hk/product/cps/ecert/img/cps_en61.pdf",
+      "https://www.ecert.gov.hk/product/cps/ecert/img/orgrole_cps_en17.pdf",
+      "https://www.ecert.gov.hk/product/cps/gcert/img/gcert_cps_en11.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.08.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -642,7 +646,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en24.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en24.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid-ev.ecert.gov.hk/",

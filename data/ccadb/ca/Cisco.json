@@ -25,10 +25,14 @@
     "Standard Audit Period End Date": "2020.09.30",
     "CA Document Repository": "https://www.cisco.com/security/pki/policies/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.cisco.com/security/pki/policies/CiscoRootCA2048-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.cisco.com/security/pki/policies/CiscoRootCA2048-CP.pdf"
+    ],
     "CP Last Updated Date": "2020.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.cisco.com/security/pki/policies/CiscoRootCA2048-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.cisco.com/security/pki/policies/CiscoRootCA2048-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2020.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -69,10 +73,14 @@
     "TLS BR Audit Period End Date": "2020.09.30",
     "CA Document Repository": "https://www.cisco.com/security/pki/policies/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.cisco.com/security/pki/policies/CiscoRXC-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.cisco.com/security/pki/policies/CiscoRXC-CP.pdf"
+    ],
     "CP Last Updated Date": "2020.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.cisco.com/security/pki/policies/CiscoRXCR2-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.cisco.com/security/pki/policies/CiscoRXCR2-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2020.08.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -121,10 +129,14 @@
     "Policy Documentation": "https://www.cisco.com/security/pki/policies",
     "CA Document Repository": "https://www.cisco.com/security/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.cisco.com/security/pki/policies/CiscoRXC-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.cisco.com/security/pki/policies/CiscoRXC-CP.pdf"
+    ],
     "CP Last Updated Date": "2019.04.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.cisco.com/security/pki/policies/CiscoXSSLCA-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.cisco.com/security/pki/policies/CiscoXSSLCA-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2019.04.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

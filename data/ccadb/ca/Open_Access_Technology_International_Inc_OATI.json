@@ -167,7 +167,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf; http://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf",
+      "http://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.01.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid2021.oaticerts.com",

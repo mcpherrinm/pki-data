@@ -24,9 +24,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -60,9 +64,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -96,9 +104,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -132,9 +144,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -275,7 +291,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://repository.trust.teliasonera.com/CPS/index3.html",
+    "Certificate Practice & Policy Statement": [
+      "http://repository.trust.teliasonera.com/CPS/index3.html"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -470,9 +488,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -793,9 +815,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -828,9 +854,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -863,9 +893,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -898,9 +932,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -933,9 +971,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Server_Certificate_CPS_v1.5.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1002,9 +1044,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1100,9 +1146,13 @@
     "Policy Documentation": "This document is valid for all Telia Company CA certificates: https://repository.trust.teliasonera.com/TeliaSonera_Production_CPS_v2.3.pdf",
     "CA Document Repository": "https://repository.trust.teliasonera.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.trust.teliasonera.com/TeliaSonera_Organizational_User_Certificate_CPS_v1.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1214,7 +1264,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf; https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10443/",
@@ -1994,7 +2047,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf; https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10600/",
@@ -2269,10 +2325,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html"
+    ],
     "CP/CPS Last Updated Date": "2025.05.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.05.15",
     "Test Website URL - Valid": "https://teliaectlsrootcav3-valid-2.chain.trust.telia.com",
     "Test Website URL - Expired": "https://teliaectlsrootcav3-expired-2.chain.trust.telia.com",
@@ -2378,7 +2438,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2421,7 +2483,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2464,7 +2528,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2502,7 +2568,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2833,7 +2901,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2871,7 +2941,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2914,10 +2986,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html"
+    ],
     "CP/CPS Last Updated Date": "2025.05.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.05.15",
     "Test Website URL - Valid": "https://teliarsatlsrootcav3-valid-2.chain.trust.telia.com",
     "Test Website URL - Expired": "https://teliarsatlsrootcav3-expired-2.chain.trust.telia.com",

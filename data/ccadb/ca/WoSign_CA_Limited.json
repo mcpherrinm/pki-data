@@ -1398,7 +1398,9 @@
     "CA Document Repository": "http://www.wosign.com/policy/cps_e.htm",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root1evtest.wosign.com/",
@@ -1446,7 +1448,9 @@
     "CA Document Repository": "http://www.wosign.com/policy/cps_e.htm",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root2evtest.wosign.com/",
@@ -1494,7 +1498,9 @@
     "CA Document Repository": "http://www.wosign.com/policy/cps_e.htm",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root5evtest.wosign.com/",
@@ -1542,7 +1548,9 @@
     "CA Document Repository": "http://www.wosign.com/policy/cps_e.htm",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.wosign.com/policy/wosign-policy-1-2-12.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root4evtest.wosign.com/",

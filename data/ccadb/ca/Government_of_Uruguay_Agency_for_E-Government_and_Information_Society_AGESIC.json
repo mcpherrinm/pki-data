@@ -122,9 +122,13 @@
     "TLS BR Audit Period Start Date": "2015.12.01",
     "TLS BR Audit Period End Date": "2016.12.01",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uce.gub.uy/wps/wcm/connect/pvuce/40c693d9-7ef0-4cb2-a047-936f89929451/Política+de+Certificación+de+la+Autoridad+Certificadora+Raíz+de+Uruguay_2.1.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=40c693d9-7ef0-4cb2-a047-936f89929451",
+    "Certificate Policy (CP) URL": [
+      "http://uce.gub.uy/wps/wcm/connect/pvuce/40c693d9-7ef0-4cb2-a047-936f89929451/Política+de+Certificación+de+la+Autoridad+Certificadora+Raíz+de+Uruguay_2.1.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=40c693d9-7ef0-4cb2-a047-936f89929451"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://uce.gub.uy/wps/wcm/connect/pvuce/a1132bfc-cf5b-48ac-932f-ea9759d1ef36/Declaracio%CC%81n+de+Pra%CC%81cticas+de+Certificacio%CC%81n+de+la+Autoridad+Certificadora+Rai%CC%81z+de+Uruguay_v2.1.pdf?MOD=AJPERES",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://uce.gub.uy/wps/wcm/connect/pvuce/a1132bfc-cf5b-48ac-932f-ea9759d1ef36/Declaracio%CC%81n+de+Pra%CC%81cticas+de+Certificacio%CC%81n+de+la+Autoridad+Certificadora+Rai%CC%81z+de+Uruguay_v2.1.pdf?MOD=AJPERES"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

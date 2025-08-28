@@ -55,9 +55,13 @@
     "Standard Audit Period Start Date": "2015.12.18",
     "Standard Audit Period End Date": "2015.12.18",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.gpki.go.jp",
+    "Certificate Policy (CP) URL": [
+      "http://www.gpki.go.jp"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=379657",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=379657"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.gpki.go.jp/apca/index.html",
@@ -99,10 +103,14 @@
     "Policy Documentation": "https://www2.gpki.go.jp/",
     "CA Document Repository": "https://www2.gpki.go.jp/apca2/apca2_eng.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www2.gpki.go.jp/apca2/apca2_eng.html",
+    "Certificate Policy (CP) URL": [
+      "https://www2.gpki.go.jp/apca2/apca2_eng.html"
+    ],
     "CP Last Updated Date": "2017.06.23",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www2.gpki.go.jp/apca2/cpcps/cpcps_root_eng.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www2.gpki.go.jp/apca2/cpcps/cpcps_root_eng.pdf"
+    ],
     "CPS Last Updated Date": "2017.06.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -214,7 +222,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.gpki.go.jp/jgca/cpcps/jgca_cpcps_eng.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.gpki.go.jp/jgca/cpcps/jgca_cpcps_eng.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.05.23",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

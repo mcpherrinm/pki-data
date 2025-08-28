@@ -25,7 +25,9 @@
     "CA Document Repository": "https://ssl.gov.sa/repository",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CA%20CPS%20v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CA%20CPS%20v1.5.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -72,10 +74,15 @@
     "TLS BR Audit Period Start Date": "2024.02.12",
     "TLS BR Audit Period End Date": "2025.02.11",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20v1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20v1.4.pdf"
+    ],
     "CP Last Updated Date": "2025.01.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20Root%20CA%20CPS%20v1.3.pdf; https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CA%20CPS%20v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CA%20CPS%20v1.5.pdf",
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20Root%20CA%20CPS%20v1.3.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

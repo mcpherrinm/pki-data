@@ -37,7 +37,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.tuntrust.tn/sites/default/files/Ressources/CPCPSof%20theTunisianServerCertificateAuthorityPTCBR%20V10.1.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://www.tuntrust.tn/sites/default/files/Ressources/CPCPSof%20theTunisianServerCertificateAuthorityPTCBR%20V10.1.pdf"
+    ],
     "CP/CPS Last Updated Date": "2019.11.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -185,10 +187,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.tuntrust.tn/sites/default/files/Ressources/CPCPS-TunTrustPKI-06.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.tuntrust.tn/sites/default/files/Ressources/CPCPS-TunTrustPKI-06.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.tuntrust.tn/sites/default/files/Ressources/TunTrust_CP_CPS_06.html",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.tuntrust.tn/sites/default/files/Ressources/TunTrust_CP_CPS_06.html"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.06.11",
     "Test Website URL - Valid": "https://validovssl.tuntrust.tn",
     "Test Website URL - Expired": "https://expiredovssl.tuntrust.tn",

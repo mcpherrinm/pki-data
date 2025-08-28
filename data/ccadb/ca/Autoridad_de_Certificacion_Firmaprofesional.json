@@ -123,7 +123,9 @@
     "CA Document Repository": "https://www.signe.es/signe-ac/dpc/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.signe.es/wp-content/uploads/2018/08/DPC_SIGNE_2.1-180731.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.signe.es/wp-content/uploads/2018/08/DPC_SIGNE_2.1-180731.pdf"
+    ],
     "CPS Last Updated Date": "2018.07.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -158,10 +160,14 @@
     "Policy Documentation": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_Perfiles_Certificados-210322-EN-sFP.pdf",
     "CA Document Repository": "https://www.firmaprofesional.com/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-210322-EN-sFP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-210322-EN-sFP.pdf"
+    ],
     "CP Last Updated Date": "2021.03.22",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-210322-EN-sFP.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-210322-EN-sFP.pdf"
+    ],
     "CPS Last Updated Date": "2021.03.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -440,10 +446,14 @@
     "Policy Documentation": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/200205-FP_Perfiles_Certificados-200205-EN-sFP.pdf",
     "CA Document Repository": "https://www.firmaprofesional.com/certification-policies-and-practices/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf"
+    ],
     "CP Last Updated Date": "2025.04.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -490,7 +500,9 @@
     "CA Document Repository": "https://www.signe.es/signe-ac/dpc/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.signe.es/wp-content/uploads/2020/03/SIGNE-ES-AC-DPC-01_Declaracio%CC%81n_de_Practicas_de_Certificacion_v2.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.signe.es/wp-content/uploads/2020/03/SIGNE-ES-AC-DPC-01_Declaracio%CC%81n_de_Practicas_de_Certificacion_v2.4.pdf"
+    ],
     "CPS Last Updated Date": "2020.03.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -590,10 +602,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.firmaprofesional.com/certification-policies-and-practices/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CP-OTC-200612-ES-sFP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CP-OTC-200612-ES-sFP.pdf"
+    ],
     "CP Last Updated Date": "2020.08.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-210322-EN-sFP.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-210322-EN-sFP.pdf"
+    ],
     "CPS Last Updated Date": "2020.08.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -693,7 +709,9 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.firmaprofesional.com/certification-policies-and-practices/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Personal_CFEA-210628-ES-sFP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Personal_CFEA-210628-ES-sFP.pdf"
+    ],
     "CP Last Updated Date": "2021.06.28",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -827,10 +845,14 @@
     "Policy Documentation": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_Perfiles_Certificados-210322-EN-sFP.pdf",
     "CA Document Repository": "https://www.firmaprofesional.com/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_SP_QTSA-210322-EN-sFP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_SP_QTSA-210322-EN-sFP.pdf"
+    ],
     "CP Last Updated Date": "2021.03.22",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-210322-EN-sFP.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-210322-EN-sFP.pdf"
+    ],
     "CPS Last Updated Date": "2021.03.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -897,7 +919,9 @@
     "Policy Documentation": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/200205-FP_Perfiles_Certificados-200205-EN-sFP.pdf",
     "CA Document Repository": "https://www.firmaprofesional.com/certification-policies-and-practices/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-200806-EN-sFP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-200806-EN-sFP.pdf"
+    ],
     "CP Last Updated Date": "2020.08.06",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1029,10 +1053,14 @@
     "CA Document Repository": "https://www.signe.es/signe-ac/dpc/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v3.7.pdf?api=v2",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v3.7.pdf?api=v2"
+    ],
     "CPS Last Updated Date": "2024.07.04",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v3.7.pdf?api=v2",
+    "Certificate Practice & Policy Statement": [
+      "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v3.7.pdf?api=v2"
+    ],
     "CP/CPS Last Updated Date": "2024.07.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1073,7 +1101,9 @@
     "CA Document Repository": "https://www.signe.es/signe-ac/dpc/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.signe.es/wp-content/uploads/2020/03/SIGNE-ES-AC-DPC-01_Declaracio%CC%81n_de_Practicas_de_Certificacion_v2.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.signe.es/wp-content/uploads/2020/03/SIGNE-ES-AC-DPC-01_Declaracio%CC%81n_de_Practicas_de_Certificacion_v2.4.pdf"
+    ],
     "CPS Last Updated Date": "2020.03.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1140,7 +1170,9 @@
     "CA Document Repository": "http://tuisantander.com/certificados/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://tuisantander.com/certificados/uploads/current_docs/CPS_SDS_QUALIFIED_CA.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://tuisantander.com/certificados/uploads/current_docs/CPS_SDS_QUALIFIED_CA.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1204,9 +1236,13 @@
     "Audits Same as Parent": "false",
     "CA Document Repository": "https://www.tuisantander.com/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.tuisantander.com/certificados/",
+    "Certificate Policy (CP) URL": [
+      "http://www.tuisantander.com/certificados/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.tuisantander.com/certificados/",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.tuisantander.com/certificados/"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1286,10 +1322,14 @@
     "Policy Documentation": "Current Documents in Spanish:\r\nhttps://www.firmaprofesional.com/esp/certificados/politicas-y-practicas",
     "CA Document Repository": "https://www.firmaprofesional.com/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf"
+    ],
     "CP Last Updated Date": "2025.04.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1374,10 +1414,14 @@
     "TLS EVG Audit Period Start Date": "2024.03.28",
     "TLS EVG Audit Period End Date": "2025.03.27",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf"
+    ],
     "CP Last Updated Date": "2025.04.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

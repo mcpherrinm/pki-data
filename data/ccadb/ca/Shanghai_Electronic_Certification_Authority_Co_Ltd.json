@@ -351,10 +351,14 @@
     "TLS BR Audit Period Start Date": "2016.09.26",
     "TLS BR Audit Period End Date": "2016.09.27",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2615,10 +2619,14 @@
     "TLS BR Audit Period Start Date": "2016.09.26",
     "TLS BR Audit Period End Date": "2016.09.27",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2707,10 +2715,18 @@
     "Code Signing Audit Period End Date": "2025.03.31",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.8.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2798,10 +2814,18 @@
     "TLS EVG Audit Period Start Date": "2024.04.01",
     "TLS EVG Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.8.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2886,10 +2910,18 @@
     "TLS EVG Audit Period Start Date": "2024.04.01",
     "TLS EVG Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.8.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2938,10 +2970,14 @@
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3018,10 +3054,14 @@
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3210,10 +3250,16 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3263,10 +3309,14 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3312,10 +3362,16 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3361,10 +3417,16 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certificate%20Policy%20v1.7.4.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf; https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+      "https://assets-cdn.sheca.com/documents/UniTrust%20EV%20Certification%20Practice%20Statement%20v1.5.9.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3410,10 +3472,14 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
+    ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

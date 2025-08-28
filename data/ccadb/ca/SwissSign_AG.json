@@ -27,9 +27,13 @@
     "Standard Audit Period End Date": "2016.06.30",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -72,9 +76,13 @@
     "Policy Documentation": "CPS: http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "CPS: http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "CPS: http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "CPS: http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "CPS: http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "CPS: http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -122,9 +130,13 @@
     "Policy Documentation": "http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -203,9 +215,13 @@
     "Policy Documentation": "http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -252,9 +268,13 @@
     "TLS EVG Audit Period End Date": "2016.06.30",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -301,9 +321,13 @@
     "TLS EVG Audit Period End Date": "2016.06.30",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -346,9 +370,13 @@
     "Policy Documentation": "CPS: http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "CPS: http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "CPS: http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "CPS: http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "CPS: http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "CPS: http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -396,9 +424,13 @@
     "Policy Documentation": "http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -431,9 +463,13 @@
     "Policy Documentation": "CPS: http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "CPS: http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "CPS: http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "CPS: http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "CPS: http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "CPS: http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -481,9 +517,13 @@
     "Policy Documentation": "http://www.affirmtrust.com/resources/cps",
     "CA Document Repository": "http://www.affirmtrust.com/resources/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Policy (CP) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.affirmtrust.com/resources/cps",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.affirmtrust.com/resources/cps"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2281,10 +2321,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.swisssign.com/support/repository.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.swisssign.com/SwissSign_CP_LCP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_LCP.pdf"
+    ],
     "CP Last Updated Date": "2021.06.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf"
+    ],
     "CPS Last Updated Date": "2021.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2529,7 +2573,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://repository.swisssign.com/SwissSign-Platinum-CP-CPS.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://repository.swisssign.com/SwissSign-Platinum-CP-CPS.pdf"
+    ],
     "CP/CPS Last Updated Date": "2022.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2581,10 +2627,21 @@
     "S/MIME BR Audit Period End Date": "2024.06.14",
     "CA Document Repository": "https://www.swisssign.com/support/repository.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.swisssign.com/SwissSign_CP_NCP_extended.pdf; https://repository.swisssign.com/SwissSign_CP_DV.pdf; https://repository.swisssign.com/SwissSign_CP_LCP.pdf; https://repository.swisssign.com/SwissSign_CP_EV.pdf; https://repository.swisssign.com/SwissSign_CP_NCP.pdf; https://repository.swisssign.com/SwissSign_CP_OV.pdf; https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_DV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_EV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_LCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_NCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_NCP_extended.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_OV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf"
+    ],
     "CP Last Updated Date": "2025.08.07",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf; https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
+      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.07",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2675,10 +2732,15 @@
     "S/MIME BR Audit Period End Date": "2024.06.14",
     "CA Document Repository": "https://www.swisssign.com/support/repository.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.swisssign.com/SwissSign_CP_DV.pdf; https://repository.swisssign.com/SwissSign_CP_LCP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_DV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_LCP.pdf"
+    ],
     "CP Last Updated Date": "2025.08.07",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.07",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2923,7 +2985,9 @@
     "S/MIME BR Audit Period End Date": "2024.06.14",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
+    ],
     "CPS Last Updated Date": "2025.08.07",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3012,10 +3076,14 @@
     "S/MIME BR Audit Period Start Date": "2023.06.17",
     "S/MIME BR Audit Period End Date": "2024.06.14",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf"
+    ],
     "CP Last Updated Date": "2025.05.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

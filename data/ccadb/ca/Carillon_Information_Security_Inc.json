@@ -25,10 +25,14 @@
     "Standard Audit Period End Date": "2021.02.09",
     "CA Document Repository": "https://pub.carillon.ca/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://pub.carillon.ca/CertificatePolicy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://pub.carillon.ca/CertificatePolicy.pdf"
+    ],
     "CP Last Updated Date": "2021.02.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pub.carillon.ca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pub.carillon.ca/"
+    ],
     "CPS Last Updated Date": "2021.01.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -64,7 +68,10 @@
     "Standard Audit Period Start Date": "2024.02.10",
     "Standard Audit Period End Date": "2025.02.09",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://pub.cis.carillon.ca/CertificatePolicy.pdf; https://pub.carillon.ca/CertificatePolicy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://pub.carillon.ca/CertificatePolicy.pdf",
+      "https://pub.cis.carillon.ca/CertificatePolicy.pdf"
+    ],
     "CP Last Updated Date": "2024.12.02",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

@@ -55,7 +55,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.si-ca.si/cps/",
+    "Certificate Practice & Policy Statement": [
+      "http://www.si-ca.si/cps/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -120,7 +122,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.si-ca.si/cps/",
+    "Certificate Practice & Policy Statement": [
+      "http://www.si-ca.si/cps/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -267,7 +271,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.si-trust.gov.si/sl/podpora-uporabnikom/politike-delovanja-izdajateljev-drzavnega-centra-za-storitve-zaupanja/; https://www.si-trust.gov.si/assets/Politike/aktualno/SI-TRUSTRoot-politika.pdf; https://www.si-trust.gov.si/sl/podpora-uporabnikom/politike-delovanja-izdajateljev-drzavnega-centra-za-storitve-zaupanja/",
+    "Certificate Practice & Policy Statement": [
+      "https://www.si-trust.gov.si/assets/Politike/aktualno/SI-TRUSTRoot-politika.pdf",
+      "https://www.si-trust.gov.si/sl/podpora-uporabnikom/politike-delovanja-izdajateljev-drzavnega-centra-za-storitve-zaupanja/",
+      "https://www.si-trust.gov.si/sl/podpora-uporabnikom/politike-delovanja-izdajateljev-drzavnega-centra-za-storitve-zaupanja/"
+    ],
     "CP/CPS Last Updated Date": "2025.03.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.si-trust.gov.si:1443",

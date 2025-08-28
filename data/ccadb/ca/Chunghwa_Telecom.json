@@ -193,10 +193,14 @@
     "TLS BR Audit Period End Date": "2024.09.30",
     "Code Signing Audit Type": "WebTrust",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/en/repository.html",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/en/repository.html"
+    ],
     "CP Last Updated Date": "2024.08.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://gtlsca.nat.gov.tw/download/GTLSCA_CPS_v1.0.5_eng.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://gtlsca.nat.gov.tw/download/GTLSCA_CPS_v1.0.5_eng.pdf"
+    ],
     "CPS Last Updated Date": "2024.03.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -332,10 +336,14 @@
     "Policy Documentation": "HIPKI CP, HIPKI CA CPS",
     "CA Document Repository": "https://chtca.hinet.net/en/repository.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/assets/en/file/TLS/HiPKI-CP-v1.3-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKI-CP-v1.3-en.pdf"
+    ],
     "CP Last Updated Date": "2024.08.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf"
+    ],
     "CPS Last Updated Date": "2024.05.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -585,10 +593,16 @@
     "S/MIME BR Audit Period End Date": "2024.05.31",
     "CA Document Repository": "http://eca.hinet.net/en/repository_a.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.2-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.2-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf"
+    ],
     "CP Last Updated Date": "2025.08.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.1-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.1-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -811,10 +825,16 @@
     "S/MIME BR Audit Period End Date": "2024.05.31",
     "CA Document Repository": "http://eca.hinet.net/en/repository_a.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.2-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.2-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf"
+    ],
     "CP Last Updated Date": "2025.08.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.1-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.1-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -854,10 +874,14 @@
     "Policy Documentation": "HiPKI EV TLSCA CPS & HiPKI CP",
     "CA Document Repository": "https://eca.hinet.net/repository-h/en/index.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://eca.hinet.net/download/HiPKI-CP-v1.17-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://eca.hinet.net/download/HiPKI-CP-v1.17-en.pdf"
+    ],
     "CP Last Updated Date": "2022.08.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://eca.hinet.net/download/HiPKI-EV-TLSCA-CPS-v1.18-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://eca.hinet.net/download/HiPKI-EV-TLSCA-CPS-v1.18-en.pdf"
+    ],
     "CPS Last Updated Date": "2022.08.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -926,10 +950,14 @@
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/assets/en/file/TLS/HiPKI-CP-v1.3-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKI-CP-v1.3-en.pdf"
+    ],
     "CP Last Updated Date": "2024.08.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf"
+    ],
     "CPS Last Updated Date": "2024.08.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -981,13 +1009,20 @@
     "S/MIME BR Audit Period End Date": "2024.05.31",
     "CA Document Repository": "http://eca.hinet.net/repository-h/en/index.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/assets/en/file/TLS/HiPKI-CP-v1.3-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKI-CP-v1.3-en.pdf"
+    ],
     "CP Last Updated Date": "2024.08.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.1-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.1-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.0-en.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.0-en.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.08.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.hipkig1ov.hinet.net",
@@ -1110,10 +1145,16 @@
     "S/MIME BR Audit Period Start Date": "2023.06.01",
     "S/MIME BR Audit Period End Date": "2024.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.2-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.2-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf"
+    ],
     "CP Last Updated Date": "2025.08.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf; https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.1-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.1-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

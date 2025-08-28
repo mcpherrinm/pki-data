@@ -125,10 +125,14 @@
     "TLS BR Audit Period End Date": "2022.03.31",
     "CA Document Repository": "http://enroll.visaca.com/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePolicy.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePolicy.pdf"
+    ],
     "CP Last Updated Date": "2023.01.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePracticeStatement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePracticeStatement.pdf"
+    ],
     "CPS Last Updated Date": "2023.01.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -322,10 +326,14 @@
     "TLS BR Audit Period Start Date": "2024.04.01",
     "TLS BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePolicy.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePolicy.pdf"
+    ],
     "CP Last Updated Date": "2024.03.22",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePracticeStatement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePracticeStatement.pdf"
+    ],
     "CPS Last Updated Date": "2024.03.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

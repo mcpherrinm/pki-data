@@ -26,10 +26,14 @@
     "Policy Documentation": "https://www.ncdc.gov.sa/?page_id=3127&lang=en",
     "CA Document Repository": "https://www.ncdc.gov.sa/?page_id=3127&lang=en",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.ncdc.gov.sa/?page_id=3127&lang=en",
+    "Certificate Policy (CP) URL": [
+      "https://www.ncdc.gov.sa/?page_id=3127&lang=en"
+    ],
     "CP Last Updated Date": "2021.06.23",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.ncdc.gov.sa/?page_id=3127&lang=en",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.ncdc.gov.sa/?page_id=3127&lang=en"
+    ],
     "CPS Last Updated Date": "2021.06.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -66,10 +70,14 @@
     "Policy Documentation": "https://ca.nic.gov.sa",
     "CA Document Repository": "https://ca.nic.gov.sa",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NIC%20Government-CA%202%20CP%20v1.5.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NIC%20Government-CA%202%20CP%20v1.5.pdf"
+    ],
     "CP Last Updated Date": "2025.06.27",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NIC%20Government-CA%202%20CPS%20v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NIC%20Government-CA%202%20CPS%20v1.5.pdf"
+    ],
     "CPS Last Updated Date": "2025.06.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -208,10 +216,14 @@
     "Policy Documentation": "https://www.sirar.com.sa/repository/",
     "CA Document Repository": "https://www.sirar.com.sa/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sirar.com.sa/repository/",
+    "Certificate Policy (CP) URL": [
+      "https://www.sirar.com.sa/repository/"
+    ],
     "CP Last Updated Date": "2023.02.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sirar.com.sa/repository/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sirar.com.sa/repository/"
+    ],
     "CPS Last Updated Date": "2023.02.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -248,10 +260,14 @@
     "Policy Documentation": "https://emdha.sa/en/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://emdha.sa/images/Repository/PoliciesandAgreement/L2_-_emdha_DSC_CA_CP-CPS_v11_21OCT22.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://emdha.sa/images/Repository/PoliciesandAgreement/L2_-_emdha_DSC_CA_CP-CPS_v11_21OCT22.pdf"
+    ],
     "CPS Last Updated Date": "2022.10.21",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://emdha.sa/Downloads/L2_-_emdha_DSC_CA_CP-CPS_v11_21OCT22.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://emdha.sa/Downloads/L2_-_emdha_DSC_CA_CP-CPS_v11_21OCT22.pdf"
+    ],
     "CP/CPS Last Updated Date": "2022.10.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -288,10 +304,14 @@
     "Policy Documentation": "https://emdha.sa/en/repository",
     "CA Document Repository": "https://emdha.sa/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://emdha.sa/en/repository",
+    "Certificate Policy (CP) URL": [
+      "https://emdha.sa/en/repository"
+    ],
     "CP Last Updated Date": "2022.02.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://emdha.sa/en/repository",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://emdha.sa/en/repository"
+    ],
     "CPS Last Updated Date": "2022.02.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -327,10 +347,14 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://emdha.sa/en/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://emdha.sa/images/Repository/PoliciesandAgreement/Signed_L2_-_emdha_TSA_CA_CP-CPS_v10_28SEP22.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://emdha.sa/images/Repository/PoliciesandAgreement/Signed_L2_-_emdha_TSA_CA_CP-CPS_v10_28SEP22.pdf"
+    ],
     "CP Last Updated Date": "2022.09.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://emdha.sa/images/Repository/PoliciesandAgreement/Signed_L2_-_emdha_TSA_CA_CP-CPS_v10_28SEP22.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://emdha.sa/images/Repository/PoliciesandAgreement/Signed_L2_-_emdha_TSA_CA_CP-CPS_v10_28SEP22.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -369,10 +393,14 @@
     "Policy Documentation": "https://www.ncdc.gov.sa/SitePages/RootCA.aspx",
     "CA Document Repository": "https://www.ncdc.gov.sa/SitePages/GovernmentCA.aspx",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CP%20v3.6.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CP%20v3.6.pdf"
+    ],
     "CP Last Updated Date": "2025.07.09",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CPS%20v3.6.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CPS%20v3.6.pdf"
+    ],
     "CPS Last Updated Date": "2025.07.09",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -416,10 +444,14 @@
     "Policy Documentation": "https://www.emdha.sa/repository",
     "CA Document Repository": "https://www.emdha.sa/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.emdha.sa/Downloads/Signed_L1-BTC_Licensed_CA_CP-CPS_v12_28SEP22.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.emdha.sa/Downloads/Signed_L1-BTC_Licensed_CA_CP-CPS_v12_28SEP22.pdf"
+    ],
     "CP Last Updated Date": "2022.09.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.emdha.sa/Downloads/Signed_L1-BTC_Licensed_CA_CP-CPS_v12_28SEP22.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.emdha.sa/Downloads/Signed_L1-BTC_Licensed_CA_CP-CPS_v12_28SEP22.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -462,10 +494,14 @@
     "Policy Documentation": "https://www.sirar.com.sa/repository/",
     "CA Document Repository": "https://www.sirar.com.sa/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sirar.com.sa/repository/",
+    "Certificate Policy (CP) URL": [
+      "https://www.sirar.com.sa/repository/"
+    ],
     "CP Last Updated Date": "2024.12.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sirar.com.sa/repository/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sirar.com.sa/repository/"
+    ],
     "CPS Last Updated Date": "2024.12.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

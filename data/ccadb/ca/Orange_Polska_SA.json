@@ -30,7 +30,9 @@
     "TLS BR Audit Period Start Date": "2015.12.01",
     "TLS BR Audit Period End Date": "2016.11.30",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.signet.pl/docs/pc_csiu_1_8.pdf.en",
+    "Certificate Policy (CP) URL": [
+      "http://www.signet.pl/docs/pc_csiu_1_8.pdf.en"
+    ],
     "CP Last Updated Date": "2015.12.06",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

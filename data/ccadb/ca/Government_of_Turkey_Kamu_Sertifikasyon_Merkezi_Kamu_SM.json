@@ -122,9 +122,13 @@
     "TLS BR Audit Period Start Date": "2016.12.19",
     "TLS BR Audit Period End Date": "2017.12.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.kamusm.gov.tr/BilgiDeposu/KSM_NES_SI/KSM_NES_SI.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.kamusm.gov.tr/BilgiDeposu/KSM_NES_SI/KSM_NES_SI.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.kamusm.gov.tr/BilgiDeposu/KSM_NES_SUE/KSM_NES_SUE.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.kamusm.gov.tr/BilgiDeposu/KSM_NES_SUE/KSM_NES_SUE.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://nesbireysel.kamusm.gov.tr/nb.go",
@@ -296,7 +300,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://depo.kamusm.gov.tr/ilke/KamuSM_CPS/KamuSM_CP_CPS_EN_3.10.0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://depo.kamusm.gov.tr/ilke/KamuSM_CPS/KamuSM_CP_CPS_EN_3.10.0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl.kamusm.gov.tr/",

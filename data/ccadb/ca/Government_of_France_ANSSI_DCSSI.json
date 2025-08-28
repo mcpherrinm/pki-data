@@ -29,9 +29,13 @@
     "TLS BR Audit Period Start Date": "2016.12.30",
     "TLS BR Audit Period End Date": "2017.12.30",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.ssi.gouv.fr/IMG/pdf/igca-pc-v2.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.ssi.gouv.fr/IMG/pdf/igca-pc-v2.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.ssi.gouv.fr/site_article15.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.ssi.gouv.fr/site_article15.html"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://e-formation.institut.minefi.gouv.fr/Login.asp",

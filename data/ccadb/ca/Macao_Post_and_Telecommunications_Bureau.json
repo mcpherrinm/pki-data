@@ -54,7 +54,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.esigntrust.com/download/CPS/CTT-SC-CPS-EN-2020-02.v06p.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.esigntrust.com/download/CPS/CTT-SC-CPS-EN-2020-02.v06p.pdf"
+    ],
     "CP/CPS Last Updated Date": "2020.02.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -338,7 +340,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.esigntrust.com/download/CPS/CTT-SC-CPS-EN-2025-01.v11p.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.esigntrust.com/download/CPS/CTT-SC-CPS-EN-2025-01.v11p.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.01.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

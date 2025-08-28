@@ -84,9 +84,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://gca.nat.gov.tw/web2/database04.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://gca.nat.gov.tw/download/Government_Certification_Authority_Certification_Practice_Statement_V1.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://gca.nat.gov.tw/download/Government_Certification_Authority_Certification_Practice_Statement_V1.8.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -161,9 +165,13 @@
     "TLS BR Audit Period End Date": "2019.03.31",
     "CA Document Repository": "http://moica.nat.gov.tw/save_1.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://moica.nat.gov.tw/moica//upload/repository/15307d1e96a000007924.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://moica.nat.gov.tw/moica//upload/repository/15307d1e96a000007924.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -207,9 +215,13 @@
     "TLS BR Audit Period End Date": "2019.03.31",
     "CA Document Repository": "http://moeaca.nat.gov.tw/repository.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://moeaca.nat.gov.tw/content/moeaca_cps_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://moeaca.nat.gov.tw/content/moeaca_cps_v2.0.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -241,9 +253,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://xca.nat.gov.tw/web2/database04.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://xca.nat.gov.tw/data/XCA_CPS_v1.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://xca.nat.gov.tw/data/XCA_CPS_v1.8.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -282,9 +298,13 @@
     "Standard Audit Period End Date": "2019.03.31",
     "CA Document Repository": "http://hca.nat.gov.tw/Release.aspx",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://hca.nat.gov.tw/download/HCACPSv1.5.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://hca.nat.gov.tw/download/HCACPSv1.5.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -323,9 +343,13 @@
     "Standard Audit Period End Date": "2019.03.31",
     "CA Document Repository": "http://hca.nat.gov.tw/Release.aspx",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://hca.nat.gov.tw/download/HCACPSv1.5.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://hca.nat.gov.tw/download/HCACPSv1.5.1.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -396,10 +420,14 @@
     "TLS BR Audit Period End Date": "2020.03.31",
     "CA Document Repository": "https://grca.nat.gov.tw/GRCAeng/3-1.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v2.0.pdf"
+    ],
     "CP Last Updated Date": "2019.06.19",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://grca.nat.gov.tw/download/GRCA_CPS_eng_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://grca.nat.gov.tw/download/GRCA_CPS_eng_v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2019.06.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -540,9 +568,13 @@
     "TLS BR Audit Period End Date": "2019.03.31",
     "CA Document Repository": "http://moeaca.nat.gov.tw/repository.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://moeaca.nat.gov.tw/content/moeaca_cps_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://moeaca.nat.gov.tw/content/moeaca_cps_v2.0.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -574,9 +606,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://gca.nat.gov.tw/web2/database04.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://gca.nat.gov.tw/download/Government_Certification_Authority_Certification_Practice_Statement_V1.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://gca.nat.gov.tw/download/Government_Certification_Authority_Certification_Practice_Statement_V1.8.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -608,9 +644,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://gca.nat.gov.tw/web2/database04.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://gca.nat.gov.tw/download/Government_Certification_Authority_Certification_Practice_Statement_V1.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://gca.nat.gov.tw/download/Government_Certification_Authority_Certification_Practice_Statement_V1.8.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -673,9 +713,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://xca.nat.gov.tw/web2/database04.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://xca.nat.gov.tw/data/XCA_CPS_v1.8.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://xca.nat.gov.tw/data/XCA_CPS_v1.8.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -719,9 +763,13 @@
     "TLS BR Audit Period End Date": "2019.03.31",
     "CA Document Repository": "http://moica.nat.gov.tw/save_1.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v1.7.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://moica.nat.gov.tw/moica//upload/repository/15307d1e96a000007924.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://moica.nat.gov.tw/moica//upload/repository/15307d1e96a000007924.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -761,10 +809,14 @@
     "TLS BR Audit Period End Date": "2020.03.31",
     "CA Document Repository": "https://grca.nat.gov.tw/GRCAeng/3-1.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://grca.nat.gov.tw/download/GPKI_CP_eng_v2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://grca.nat.gov.tw/download/GPKI_CP_eng_v2.0.pdf"
+    ],
     "CP Last Updated Date": "2019.06.19",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://grca.nat.gov.tw/download/GRCA_CPS_eng_v2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://grca.nat.gov.tw/download/GRCA_CPS_eng_v2.0.pdf"
+    ],
     "CPS Last Updated Date": "2019.06.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

@@ -83,9 +83,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -240,9 +244,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -273,9 +281,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -461,9 +473,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -494,9 +510,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -527,9 +547,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -560,9 +584,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -593,9 +621,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -626,9 +658,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -659,9 +695,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -692,9 +732,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -725,9 +769,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV_SSL_CA_Certification_Practice_Statement_v_0.9.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -803,10 +851,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats_SSL_RGS_et_ETSI_V_2.3.docx.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats_SSL_RGS_et_ETSI_V_2.3.docx.pdf"
+    ],
     "CP Last Updated Date": "2018.10.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -839,9 +891,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.dkbsolutions.com/CP/PC_DKB_SOLUTIONS_Certificats_SSL_V1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.dkbsolutions.com/CP/PC_DKB_SOLUTIONS_Certificats_SSL_V1.4.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.dkbsolutions.com/CP/PC_DKB_SOLUTIONS_Certificats_SSL_V1.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.dkbsolutions.com/CP/PC_DKB_SOLUTIONS_Certificats_SSL_V1.4.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -872,9 +928,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.cryptoneo.com/wp-content/docs/PC_CRYPTONEO_Certificats_SSL_V2.0.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.cryptoneo.com/wp-content/docs/PC_CRYPTONEO_Certificats_SSL_V2.0.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.cryptoneo.com/wp-content/docs/PC_CRYPTONEO_Certificats_SSL_V2.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.cryptoneo.com/wp-content/docs/PC_CRYPTONEO_Certificats_SSL_V2.0.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -905,9 +965,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -938,9 +1002,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -971,7 +1039,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.orange.com/cps/",
+    "Certificate Policy (CP) URL": [
+      "http://pki.orange.com/cps/"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1065,9 +1135,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1129,9 +1203,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/EV-SSL-CA-Certification-Practice-Statement-2016-01-13s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/EV-SSL-CA-Certification-Practice-Statement-2016-01-13s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/EV-SSL-CA-Certification-Practice-Statement-2016-01-13s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/EV-SSL-CA-Certification-Practice-Statement-2016-01-13s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1237,9 +1315,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1358,9 +1440,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1391,9 +1477,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Certificats-SSL-RGS-et-ETSI-V1-7s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1501,10 +1591,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
+    ],
     "CP Last Updated Date": "2017.05.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1572,7 +1666,9 @@
     "Standard Audit Period Start Date": "2016.07.24",
     "Standard Audit Period End Date": "2017.07.24",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_Protect_and_Sign_Personal_Signature_PC_Utilisateur_ETSI_V_1_5.docx.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_Protect_and_Sign_Personal_Signature_PC_Utilisateur_ETSI_V_1_5.docx.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1604,9 +1700,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1637,9 +1737,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Cachet-serveur-RGS_V-1-5s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Cachet-serveur-RGS_V-1-5s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC-Cachet-serveur-RGS_V-1-5s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC-Cachet-serveur-RGS_V-1-5s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1670,9 +1774,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats-Nume%CC%81riques-Personnels-RGS-etou-ETSI-V1-8s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1703,9 +1811,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_Protect-and-Sign-Personal-Signature-ETSI-CP-v-1-3.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_Protect-and-Sign-Personal-Signature-ETSI-CP-v-1-3.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_Protect-and-Sign-Personal-Signature-ETSI-CP-v-1-3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_Protect-and-Sign-Personal-Signature-ETSI-CP-v-1-3.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1767,7 +1879,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://pki.orange.com/cps/",
+    "Certificate Policy (CP) URL": [
+      "http://pki.orange.com/cps/"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1814,10 +1928,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
+    ],
     "CP Last Updated Date": "2017.05.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1867,10 +1985,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
+    ],
     "CP Last Updated Date": "2017.05.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1920,10 +2042,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
+    ],
     "CP Last Updated Date": "2017.05.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1973,10 +2099,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
+    ],
     "CP Last Updated Date": "2017.05.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2011,9 +2141,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2059,10 +2193,14 @@
     "TLS EVG Audit Period End Date": "2017.04.07",
     "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
+    ],
     "CP Last Updated Date": "2017.05.26",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
+    ],
     "CPS Last Updated Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2097,9 +2235,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2130,9 +2272,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.docusign.fr/sites/default/files/DBD_RCA-Program_CP-v-1-4s.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

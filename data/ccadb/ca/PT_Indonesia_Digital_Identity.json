@@ -22,7 +22,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://dl.vida.id/VIDA-CPS-TLS.pdf\nThis CP/CPS version (v1.1) is different with the version mentioned in the audit report, which have updated PKI hierarchy information and other as feedback from Webtrust auditor.",
+    "Certificate Practice & Policy Statement": [
+      "This CP/CPS version (v1.1) is different with the version mentioned in the audit report, which have updated PKI hierarchy information and other as feedback from Webtrust auditor.",
+      "https://dl.vida.id/VIDA-CPS-TLS.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.06.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vidatlsov.com",

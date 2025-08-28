@@ -157,7 +157,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.trustis.com/pki/fpsia/policy/Trustis-FPS-CPS-v2.0.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://www.trustis.com/pki/fpsia/policy/Trustis-FPS-CPS-v2.0.pdf"
+    ],
     "CP/CPS Last Updated Date": "2020.01.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://etsi-411-test-active.trustis.com/",

@@ -29,7 +29,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.echoworx.com/ca/root2/cps.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.echoworx.com/ca/root2/cps.pdf"
+    ],
     "CP/CPS Last Updated Date": "2022.09.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

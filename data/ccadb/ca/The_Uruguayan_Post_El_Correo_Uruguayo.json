@@ -45,9 +45,15 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.correo.com.uy/correocert/CPEmpresa.pdf; http://www.correo.com.uy/correocert/CPSitio.pdf; http://www.correo.com.uy/correocert/CPPersona.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.correo.com.uy/correocert/CPEmpresa.pdf",
+      "http://www.correo.com.uy/correocert/CPPersona.pdf",
+      "http://www.correo.com.uy/correocert/CPSitio.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.correo.com.uy/correocert/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.correo.com.uy/correocert/cps.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

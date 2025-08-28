@@ -69,10 +69,14 @@
     "TLS EVG Audit Period End Date": "2019.03.31",
     "CA Document Repository": "https://www.globalsign.com/en/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://downloads.globalsign.com/acton/attachment/2674/f-05c8fa55-d3bb-40ae-833e-81a6dfc7dfea/1/-/-/-/-/GlobalSign_CA_CP_v6.1_RELEASED.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://downloads.globalsign.com/acton/attachment/2674/f-05c8fa55-d3bb-40ae-833e-81a6dfc7dfea/1/-/-/-/-/GlobalSign_CA_CP_v6.1_RELEASED.pdf"
+    ],
     "CP Last Updated Date": "2019.05.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://downloads.globalsign.com/acton/attachment/2674/f-2075e06c-b313-4277-8d17-3ab4b03f70e3/1/-/-/-/-/GlobalSign_CA_CPS_v9.1_RELEASED.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://downloads.globalsign.com/acton/attachment/2674/f-2075e06c-b313-4277-8d17-3ab4b03f70e3/1/-/-/-/-/GlobalSign_CA_CPS_v9.1_RELEASED.pdf"
+    ],
     "CPS Last Updated Date": "2019.05.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -128,7 +132,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -429,7 +435,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3283,7 +3291,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr3.demosite.pki.goog",
@@ -3340,7 +3350,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr1.demosite.pki.goog",
@@ -3396,7 +3408,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr4.demosite.pki.goog",
@@ -3452,7 +3466,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr3.demosite.pki.goog",
@@ -3509,7 +3525,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr4.demosite.pki.goog",
@@ -3565,7 +3583,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-smime/6.1/GTS-CP-CPS-SMIME.html; https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-smime/6.1/GTS-CP-CPS-SMIME.html",
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.08.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr2.demosite.pki.goog",
@@ -3622,7 +3643,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-smime/6.1/GTS-CP-CPS-SMIME.html; https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-smime/6.1/GTS-CP-CPS-SMIME.html",
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.08.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr2.demosite.pki.goog",
@@ -3678,7 +3702,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr1.demosite.pki.goog",
@@ -3734,7 +3760,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gsr4.demosite.pki.goog",
@@ -3791,7 +3819,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+    ],
     "CP/CPS Last Updated Date": "2025.07.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gsr4.demosite.pki.goog",

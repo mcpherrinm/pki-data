@@ -31,7 +31,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Practice & Policy Statement": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.elkk.amsterdam.nl/",
     "TLS Capable": "False",
@@ -308,9 +310,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/Media/Default/documenten/RK1.CPS%20ZOVAR%20v3%201%20definitief.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/Media/Default/documenten/RK1.CPS%20ZOVAR%20v3%201%20definitief.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -478,10 +484,14 @@
     "TLS BR Audit Period Start Date": "2018.06.01",
     "TLS BR Audit Period End Date": "2019.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.07.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Organisatie%203e%20Server%20V1.9.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Organisatie%203e%20Server%20V1.9.ashx"
+    ],
     "CPS Last Updated Date": "2019.07.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -523,9 +533,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -564,10 +578,14 @@
     "Standard Audit Period End Date": "2019.11.15",
     "CA Document Repository": "http://cps.dp.ca.mindef.nl/ips/cps-en.jsp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.10.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cps.dp.ca.mindef.nl/2019-10-17_CPS_G2_Certification_Authority_Ministry_of_Defence_v2.10.3_EN..._DO_AvdS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cps.dp.ca.mindef.nl/2019-10-17_CPS_G2_Certification_Authority_Ministry_of_Defence_v2.10.3_EN..._DO_AvdS.pdf"
+    ],
     "CPS Last Updated Date": "2019.10.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -607,10 +625,14 @@
     "Standard Audit Period End Date": "2019.11.14",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.09.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf"
+    ],
     "CPS Last Updated Date": "2019.09.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -652,9 +674,13 @@
     "TLS BR Audit Period Start Date": "2015.06.03",
     "TLS BR Audit Period End Date": "2015.06.03",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.de-electronische-signatuur.nl/nl/certification-practice-statement",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.de-electronische-signatuur.nl/nl/certification-practice-statement"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -699,10 +725,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/terms/2019v2-CPS-PKIo.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/terms/2019v2-CPS-PKIo.pdf"
+    ],
     "CPS Last Updated Date": "2019.12.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -735,9 +765,13 @@
     "Auditor": "BSI",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -813,10 +847,14 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/Media/Default/documenten/English%20version%20(UZI-register).pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/Media/Default/documenten/English%20version%20(UZI-register).pdf"
+    ],
     "CPS Last Updated Date": "2019.12.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -862,10 +900,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.02.02",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.de-electronische-signatuur.nl/content/bestanden/pdf/cps-7.7-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.de-electronische-signatuur.nl/content/bestanden/pdf/cps-7.7-en.pdf"
+    ],
     "CPS Last Updated Date": "2019.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -911,10 +953,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.04.02",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.de-electronische-signatuur.nl/content/bestanden/pdf/cps-7.7-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.de-electronische-signatuur.nl/content/bestanden/pdf/cps-7.7-en.pdf"
+    ],
     "CPS Last Updated Date": "2019.04.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -960,10 +1006,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.04.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf"
+    ],
     "CPS Last Updated Date": "2019.04.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1025,9 +1075,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.de-electronische-signatuur.nl/nl/certification-practice-statement",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.de-electronische-signatuur.nl/nl/certification-practice-statement"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1068,9 +1122,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1101,7 +1159,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1142,10 +1202,14 @@
     "Policy Documentation": "http://bct.csp.minienm.nl/",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.09.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf"
+    ],
     "CPS Last Updated Date": "2019.09.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1191,10 +1255,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.04.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf"
+    ],
     "CPS Last Updated Date": "2019.04.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1226,9 +1294,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.de-electronische-signatuur.nl/nl/certification-practice-statement",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.de-electronische-signatuur.nl/nl/certification-practice-statement"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1259,9 +1331,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Burger%203c%20V1.3.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Burger%203c%20V1.3.ashx"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1337,10 +1413,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/terms/2019v2-CPS-PKIo.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/terms/2019v2-CPS-PKIo.pdf"
+    ],
     "CPS Last Updated Date": "2019.12.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1524,10 +1604,14 @@
     "Policy Documentation": "https://www.logius.nl/english/pkioverheid",
     "CA Document Repository": "https://certificaat.kpn.com/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/english/pkioverheid",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/english/pkioverheid"
+    ],
     "CP Last Updated Date": "2020.08.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf"
+    ],
     "CPS Last Updated Date": "2020.08.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1574,10 +1658,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2022.02.07",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.ctfassets.net/f8kgzjsvnt2r/2QsrWnpw0hV3Cl1coV359N/45a1a9732b8ef32bfcf039066ba9e010/2022-v1_CPS_PKIoverheid__signed_DDY_.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.ctfassets.net/f8kgzjsvnt2r/2QsrWnpw0hV3Cl1coV359N/45a1a9732b8ef32bfcf039066ba9e010/2022-v1_CPS_PKIoverheid__signed_DDY_.pdf"
+    ],
     "CPS Last Updated Date": "2022.02.07",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1629,10 +1717,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.04.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf"
+    ],
     "CPS Last Updated Date": "2019.04.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1679,10 +1771,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.03.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/terms/2020-v1-CPS-PKIo.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/terms/2020-v1-CPS-PKIo.pdf"
+    ],
     "CPS Last Updated Date": "2020.03.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1729,10 +1825,14 @@
     "Policy Documentation": "https://www.logius.nl/english/pkioverheid",
     "CA Document Repository": "https://certificaat.kpn.com/elektronische-opslagplaats/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/english/pkioverheid",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/english/pkioverheid"
+    ],
     "CP Last Updated Date": "2022.07.13",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.9.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.9.pdf"
+    ],
     "CPS Last Updated Date": "2022.07.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1784,10 +1884,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.08.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf"
+    ],
     "CPS Last Updated Date": "2020.08.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1832,10 +1936,14 @@
     "TLS BR Audit Period Start Date": "2018.06.01",
     "TLS BR Audit Period End Date": "2019.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.07.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Organisatie%203e%20Server%20V1.9.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Organisatie%203e%20Server%20V1.9.ashx"
+    ],
     "CPS Last Updated Date": "2019.07.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1886,10 +1994,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2016.06.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_EVSSL_v1.3.1.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_EVSSL_v1.3.1.pdf"
+    ],
     "CPS Last Updated Date": "2016.06.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1935,10 +2047,14 @@
     "TLS BR Audit Period End Date": "2022.05.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2022.07.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.com/wp-content/uploads/2022/06/QV_PKIo_CPS-v1.13_Approved.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.com/wp-content/uploads/2022/06/QV_PKIo_CPS-v1.13_Approved.pdf"
+    ],
     "CPS Last Updated Date": "2022.07.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1988,10 +2104,14 @@
     "TLS EVG Audit Period Start Date": "2018.06.01",
     "TLS EVG Audit Period End Date": "2019.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.07.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_EV%203F%20V1.7.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_EV%203F%20V1.7.ashx"
+    ],
     "CPS Last Updated Date": "2019.07.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2105,10 +2225,14 @@
     "TLS EVG Audit Period Start Date": "2016.06.01",
     "TLS EVG Audit Period End Date": "2017.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2017.03.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/Repository.aspx?sc_lang=en-GB",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/Repository.aspx?sc_lang=en-GB"
+    ],
     "CPS Last Updated Date": "2017.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2265,10 +2389,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.04.05",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.1_English.pdf"
+    ],
     "CPS Last Updated Date": "2019.04.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2310,9 +2438,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2353,9 +2485,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2396,9 +2532,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2437,10 +2577,14 @@
     "Policy Documentation": "http://bct.csp.minienm.nl/",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2018.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf"
+    ],
     "CPS Last Updated Date": "2018.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2517,10 +2661,14 @@
     "S/MIME BR Audit Period Start Date": "2024.06.01",
     "S/MIME BR Audit Period End Date": "2025.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.03.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+    ],
     "CPS Last Updated Date": "2024.09.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2560,10 +2708,14 @@
     "Policy Documentation": "http://bct.csp.minienm.nl/",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2018.06.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://bct.csp.minienm.nl/minienm-bct-cps/minienm-bct-cps.pdf"
+    ],
     "CPS Last Updated Date": "2018.06.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2604,10 +2756,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.12.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/terms/2019v2-CPS-PKIo.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/terms/2019v2-CPS-PKIo.pdf"
+    ],
     "CPS Last Updated Date": "2019.12.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2688,10 +2844,14 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2784,10 +2944,16 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf; https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2023.03.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf; https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf"
+    ],
     "CPS Last Updated Date": "2023.03.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2897,10 +3063,14 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2948,10 +3118,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ddy-corp-website-strapi-images.s3.eu-west-1.amazonaws.com/2024-v3%20CPS%20PKIoverheid%20%28sealed%29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ddy-corp-website-strapi-images.s3.eu-west-1.amazonaws.com/2024-v3%20CPS%20PKIoverheid%20%28sealed%29.pdf"
+    ],
     "CPS Last Updated Date": "2024.11.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3042,10 +3216,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.08.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf"
+    ],
     "CPS Last Updated Date": "2020.08.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3085,10 +3263,14 @@
     "Standard Audit Period Start Date": "2021.04.15",
     "Standard Audit Period End Date": "2022.04.14",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2022.01.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.cleverbase.com/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.cleverbase.com/cps.pdf"
+    ],
     "CPS Last Updated Date": "2022.01.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3130,10 +3312,14 @@
     "Standard Audit Period End Date": "2024.11.15",
     "CA Document Repository": "http://cps.dp.ca.mindef.nl/ips/cps-en.jsp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cps.ca.pkidefensie.nl/cps-mindef.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cps.ca.pkidefensie.nl/cps-mindef.pdf"
+    ],
     "CPS Last Updated Date": "2024.10.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3180,10 +3366,14 @@
     "S/MIME BR Audit Period End Date": "2024.08.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.11.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3229,10 +3419,14 @@
     "S/MIME BR Audit Period Start Date": "2023.09.01",
     "S/MIME BR Audit Period End Date": "2024.08.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3278,10 +3472,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.11.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/cps_en_pds/2020-v3-CPS-PKIo.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/cps_en_pds/2020-v3-CPS-PKIo.pdf"
+    ],
     "CPS Last Updated Date": "2020.11.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3327,10 +3525,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.08.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.4_English.pdf"
+    ],
     "CPS Last Updated Date": "2020.08.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3411,10 +3613,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ddy-corp-website-strapi-images.s3.eu-west-1.amazonaws.com/2024-v3%20CPS%20PKIoverheid%20%28sealed%29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ddy-corp-website-strapi-images.s3.eu-west-1.amazonaws.com/2024-v3%20CPS%20PKIoverheid%20%28sealed%29.pdf"
+    ],
     "CPS Last Updated Date": "2024.11.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3458,10 +3664,14 @@
     "TLS BR Audit Period Start Date": "2019.06.01",
     "TLS BR Audit Period End Date": "2020.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.09.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_PKIo_CPS%20v1.5_final.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_PKIo_CPS%20v1.5_final.ashx"
+    ],
     "CPS Last Updated Date": "2020.09.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3503,9 +3713,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3552,10 +3766,14 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3603,10 +3821,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ddy-corp-website-strapi-images.s3.eu-west-1.amazonaws.com/2024-v3%20CPS%20PKIoverheid%20%28sealed%29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ddy-corp-website-strapi-images.s3.eu-west-1.amazonaws.com/2024-v3%20CPS%20PKIoverheid%20%28sealed%29.pdf"
+    ],
     "CPS Last Updated Date": "2024.11.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3654,10 +3876,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com/support/downloads/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.html",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.html"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.13.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.13.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3697,10 +3923,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2018.03.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/cps_en_pds/CPS_Digidentity_v1.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/cps_en_pds/CPS_Digidentity_v1.2.pdf"
+    ],
     "CPS Last Updated Date": "2018.03.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3779,10 +4009,14 @@
     "S/MIME BR Audit Period Start Date": "2023.06.01",
     "S/MIME BR Audit Period End Date": "2024.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.03.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+    ],
     "CPS Last Updated Date": "2024.09.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3828,10 +4062,14 @@
     "S/MIME BR Audit Period Start Date": "2023.06.01",
     "S/MIME BR Audit Period End Date": "2024.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.03.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+    ],
     "CPS Last Updated Date": "2024.09.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3869,9 +4107,13 @@
     "Standard Audit Period Start Date": "2015.03.12",
     "Standard Audit Period End Date": "2015.03.12",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Organisatie%203b%20Service%20V1.4.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Organisatie%203b%20Service%20V1.4.ashx"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3916,10 +4158,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.11.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/cps_en_pds/2020-v3-CPS-PKIo.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/cps_en_pds/2020-v3-CPS-PKIo.pdf"
+    ],
     "CPS Last Updated Date": "2020.11.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3965,10 +4211,14 @@
     "S/MIME BR Audit Period Start Date": "2023.09.01",
     "S/MIME BR Audit Period End Date": "2024.08.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4012,10 +4262,14 @@
     "TLS BR Audit Period Start Date": "2019.06.01",
     "TLS BR Audit Period End Date": "2020.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2020.09.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_PKIo_CPS%20v1.5_final.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_PKIo_CPS%20v1.5_final.ashx"
+    ],
     "CPS Last Updated Date": "2020.09.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4063,10 +4317,14 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4105,10 +4363,14 @@
     "Standard Audit Period Start Date": "2018.06.01",
     "Standard Audit Period End Date": "2019.05.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2019.07.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Burger%203c%20V1.7.ashx",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.quovadisglobal.nl/~/media/Files/Repository/QV_CPS_PKI_Overheid_Burger%203c%20V1.7.ashx"
+    ],
     "CPS Last Updated Date": "2019.07.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4187,10 +4449,14 @@
     "Policy Documentation": "www.zorgcsp.nl",
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.zorgcsp.nl/documents/10-01-2025%20RK1%20CPS%20UZI-register%20V11.9%20ENG.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4269,10 +4535,14 @@
     "S/MIME BR Audit Period Start Date": "2023.04.15",
     "S/MIME BR Audit Period End Date": "2024.04.14",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://pki.cleverbase.com/cps.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://pki.cleverbase.com/cps.pdf"
+    ],
     "CPS Last Updated Date": "2025.06.03",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4312,10 +4582,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2018.03.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/cps_en_pds/CPS_Digidentity_v1.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/cps_en_pds/CPS_Digidentity_v1.2.pdf"
+    ],
     "CPS Last Updated Date": "2018.03.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4355,10 +4629,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ https://www.digidentity.eu/en/home/#downloads",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CP Last Updated Date": "2018.03.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digidentity.eu/assets/files/cps_en_pds/CPS_Digidentity_v1.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digidentity.eu/assets/files/cps_en_pds/CPS_Digidentity_v1.2.pdf"
+    ],
     "CPS Last Updated Date": "2018.03.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4390,9 +4668,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4433,9 +4715,13 @@
     "TLS BR Audit Period Start Date": "2016.04.19",
     "TLS BR Audit Period End Date": "2016.04.19",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.logius.nl/languages/english/pkioverheid/",
+    "Certificate Policy (CP) URL": [
+      "https://www.logius.nl/languages/english/pkioverheid/"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v4.24.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4482,10 +4768,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com/support/downloads/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.13.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.13.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4538,10 +4828,14 @@
     "Policy Documentation": "Dutch Government Programme of Requirements:\r\nwww.logius.nl/english/pkioverheid\r\n\r\nEV CPS: \r\nhttps://cps.pkioverheid.nl/CPS_PA_PKIoverheid_EV_Root_v1.8.pdf",
     "CA Document Repository": "https://cps.pkioverheid.nl/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cps.pkioverheid.nl/pkioverheid-cps-unified-v5.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cps.pkioverheid.nl/pkioverheid-cps-unified-v5.4.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4742,10 +5036,14 @@
     "S/MIME BR Audit Period Start Date": "2024.01.01",
     "S/MIME BR Audit Period End Date": "2024.12.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+    ],
     "CP Last Updated Date": "2024.12.11",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cps.pkioverheid.nl/pkioverheid-cps-unified-v5.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cps.pkioverheid.nl/pkioverheid-cps-unified-v5.4.pdf"
+    ],
     "CPS Last Updated Date": "2024.12.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
