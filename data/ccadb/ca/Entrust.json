@@ -37,9 +37,13 @@
     "TLS EVG Audit Period End Date": "2016.04.07",
     "CA Document Repository": "https://www.digicert.com/ssl-cps-repository.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.digicert.com/ssl-cps-repository.htm",
+    "Certificate Policy (CP) URL": [
+      "https://www.digicert.com/ssl-cps-repository.htm"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.digicert.com/ssl-cps-repository.htm",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/ssl-cps-repository.htm"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -101,7 +105,9 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://experian.managed.entrust.com/CP/ExperianCP.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://experian.managed.entrust.com/CP/ExperianCP.pdf"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -144,7 +150,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -187,7 +195,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -230,7 +240,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -304,7 +316,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -347,7 +361,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -390,7 +406,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -433,7 +451,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -533,7 +553,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.entrust.net/CPS",
+    "Certificate Practice & Policy Statement": [
+      "http://www.entrust.net/CPS"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -569,7 +591,9 @@
     "Standard Audit Period End Date": "2020.06.30",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -768,7 +792,9 @@
     "Standard Audit Period End Date": "2020.06.30",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -842,7 +868,9 @@
     "TLS BR Audit Period End Date": "2016.09.20",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -885,7 +913,9 @@
     "TLS BR Audit Period End Date": "2017.06.30",
     "CA Document Repository": "http://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1021,7 +1051,9 @@
     "Policy Documentation": "http://uispki.unisys.com/rep/",
     "CA Document Repository": "http://uispki.unisys.com/rep/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "http://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CP Last Updated Date": "2021.04.21",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1416,7 +1448,9 @@
     "Policy Documentation": "https://uispki.unisys.com/rep/",
     "CA Document Repository": "https://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "https://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CP Last Updated Date": "2021.04.21",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1459,7 +1493,9 @@
     "Policy Documentation": "https://uispki.unisys.com/rep/",
     "CA Document Repository": "https://uispki.unisys.com/rep/certificatepolicy.asp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "https://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CP Last Updated Date": "2021.04.21",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1502,7 +1538,9 @@
     "Policy Documentation": "https://uispki.unisys.com/rep/",
     "CA Document Repository": "https://uispki.unisys.com/rep/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://uispki.unisys.com/rep/certificatepolicy.asp",
+    "Certificate Policy (CP) URL": [
+      "https://uispki.unisys.com/rep/certificatepolicy.asp"
+    ],
     "CP Last Updated Date": "2021.04.21",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1900,7 +1938,9 @@
     "CA Document Repository": "https://www.lawtrust.co.za/pages/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.lawtrust.co.za/uploads/LT_ISP_IS_CPS_LT2048CA2_V008%202022-10-31.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.lawtrust.co.za/uploads/LT_ISP_IS_CPS_LT2048CA2_V008%202022-10-31.pdf"
+    ],
     "CPS Last Updated Date": "2022.10.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1936,10 +1976,14 @@
     "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1975,10 +2019,14 @@
     "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2014,10 +2062,14 @@
     "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2053,10 +2105,14 @@
     "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2325,7 +2381,9 @@
     "CA Document Repository": "https://www.entrustdatacard.com/resource-center/licensing-and-agreements#2",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2406,10 +2464,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2445,10 +2507,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2484,10 +2550,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2523,10 +2593,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2571,10 +2645,14 @@
     "S/MIME BR Audit Period Start Date": "2024.02.27",
     "S/MIME BR Audit Period End Date": "2025.02.17",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
     "CP Last Updated Date": "2025.01.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.28",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2810,7 +2888,9 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://assets.new.siemens.com/siemens/assets/api/uuid:bcb2b9b4-5172-4a3e-8cc5-d9ec710aea48/PPKI-Central-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:bcb2b9b4-5172-4a3e-8cc5-d9ec710aea48/PPKI-Central-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3005,7 +3085,9 @@
     "CA Document Repository": "https://www.entrustdatacard.com/resource-center/licensing-and-agreements#2",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3438,7 +3520,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -4053,7 +4137,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -4213,7 +4299,9 @@
     "CA Document Repository": "https://www.entrustdatacard.com/resource-center/licensing-and-agreements#2",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4411,7 +4499,9 @@
     "CA Document Repository": "https://www.affirmtrust.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4474,7 +4564,9 @@
     "CA Document Repository": "https://www.affirmtrust.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4851,7 +4943,9 @@
     "CA Document Repository": "https://www.entrustdatacard.com/resource-center/licensing-and-agreements#2",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4895,10 +4989,14 @@
     "CA Document Repository": "https://www.entrust.com/legal-compliance/entrust-certificate-services-repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.27",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -5089,7 +5187,9 @@
     "CA Document Repository": "https://www.entrustdatacard.com/resource-center/licensing-and-agreements#2",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5331,7 +5431,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -5435,7 +5537,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -5848,7 +5952,9 @@
     "VMC Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5932,7 +6038,9 @@
     "Code Signing Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5980,7 +6088,9 @@
     "Code Signing Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6132,7 +6242,9 @@
     "CA Document Repository": "https://www.affirmtrust.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6195,7 +6307,9 @@
     "CA Document Repository": "https://www.affirmtrust.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6279,7 +6393,9 @@
     "TLS BR Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6336,7 +6452,9 @@
     "TLS EVG Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6393,7 +6511,9 @@
     "TLS EVG Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6450,7 +6570,9 @@
     "TLS EVG Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/affirmtrust-ssl-cps-3-18.pdf"
+    ],
     "CPS Last Updated Date": "2025.01.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6502,7 +6624,9 @@
     "S/MIME BR Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6551,7 +6675,9 @@
     "TLS BR Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6598,7 +6724,9 @@
     "NetSec Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6641,7 +6769,9 @@
     "NetSec Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

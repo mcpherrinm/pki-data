@@ -32,9 +32,13 @@
     "TLS BR Audit Period End Date": "2015.04.28",
     "CA Document Repository": "http://www.certinomis.fr/documents-et-liens/nos-politiques",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.certinomis.com/publi/rgs/DT-FL-0808-020-PC-SERV-1E-1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.certinomis.com/publi/rgs/DT-FL-0808-020-PC-SERV-1E-1.4.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.certinomis.com/publi/rgs/PR_AE_OpC_110075.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.certinomis.com/publi/rgs/PR_AE_OpC_110075.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -76,9 +80,13 @@
     "TLS BR Audit Period End Date": "2015.04.28",
     "CA Document Repository": "http://www.certinomis.fr/documents-et-liens/nos-politiques",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.certinomis.com/publi/rgs/DT-FL-0808-025-PC-SERV-2E-1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.certinomis.com/publi/rgs/DT-FL-0808-025-PC-SERV-2E-1.4.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.certinomis.com/publi/rgs/PR_AE_OpC_110075.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.certinomis.com/publi/rgs/PR_AE_OpC_110075.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -171,9 +179,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certinomis.com/publi/rgs/DT-FL-0808-020-PC-SERV-1E-1.4.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certinomis.com/publi/rgs/DT-FL-0808-020-PC-SERV-1E-1.4.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certinomis.com/publi/rgs/DT-FL-0808-020-PC-SERV-1E-1.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certinomis.com/publi/rgs/DT-FL-0808-020-PC-SERV-1E-1.4.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -485,9 +497,13 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certinomis.fr/publi/pc/ServConf_AUD_Contralia_PC-v1.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.certinomis.fr/publi/pc/ServConf_AUD_Contralia_PC-v1.2.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certinomis.fr/publi/pc/ServConf_AUD_Contralia_PC-v1.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certinomis.fr/publi/pc/ServConf_AUD_Contralia_PC-v1.2.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -562,10 +578,14 @@
     "Policy Documentation": "https://www.startcomca.com/static/download/StartCom%20Certification%20Policy%20and%20Practice%20Statement%20Change%20Control.pdf",
     "CA Document Repository": "https://www.startcomca.com/index/policy",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.startcomca.com/static/download/CP_for_website_certificates.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.startcomca.com/static/download/CP_for_website_certificates.pdf"
+    ],
     "CP Last Updated Date": "2017.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.startcomca.com/static/download/policy.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.startcomca.com/static/download/policy.pdf"
+    ],
     "CPS Last Updated Date": "2017.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -609,10 +629,14 @@
     "Policy Documentation": "https://www.startcomca.com/static/download/StartCom%20Certification%20Policy%20and%20Practice%20Statement%20Change%20Control.pdf",
     "CA Document Repository": "https://www.startcomca.com/index/policy",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.startcomca.com/static/download/CP_for_website_certificates.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.startcomca.com/static/download/CP_for_website_certificates.pdf"
+    ],
     "CP Last Updated Date": "2017.07.14",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.startcomca.com/static/download/policy.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.startcomca.com/static/download/policy.pdf"
+    ],
     "CPS Last Updated Date": "2017.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -653,9 +677,13 @@
     "TLS BR Audit Period End Date": "2016.05.13",
     "CA Document Repository": "http://www.certinomis.com/documents-et-liens/nos-politiques",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.certinomis.fr/publi/rgs/DT-FL-1310-060-PC-WEBSSL-1.4-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.certinomis.fr/publi/rgs/DT-FL-1310-060-PC-WEBSSL-1.4-EN.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.certinomis.com/documents-et-liens/nos-politiques",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.certinomis.com/documents-et-liens/nos-politiques"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://w3-test.certinomis.com",
@@ -891,7 +919,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certinomis.fr/publi/rgs/DT-FL-1310-001-PC-RACINE-1.2.pdf; https://www.certinomis.fr/publi/rgs/DT-FL-1310-001-PC-RACINE-1.2.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certinomis.fr/publi/rgs/DT-FL-1310-001-PC-RACINE-1.2.pdf",
+      "https://www.certinomis.fr/publi/rgs/DT-FL-1310-001-PC-RACINE-1.2.pdf"
+    ],
     "CP/CPS Last Updated Date": "2019.08.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ccadb-valid.certinomis.com",

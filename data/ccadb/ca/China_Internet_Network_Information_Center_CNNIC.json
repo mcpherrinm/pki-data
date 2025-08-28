@@ -247,7 +247,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.cnnic.cn/cps/",
+    "Certificate Practice & Policy Statement": [
+      "http://www.cnnic.cn/cps/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://mail.cnnic.cn/",
     "TLS Capable": "False",
@@ -294,7 +296,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.cnnic.cn/cps/",
+    "Certificate Practice & Policy Statement": [
+      "http://www.cnnic.cn/cps/"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://evdemo.cnnic.cn/",
     "TLS Capable": "False",

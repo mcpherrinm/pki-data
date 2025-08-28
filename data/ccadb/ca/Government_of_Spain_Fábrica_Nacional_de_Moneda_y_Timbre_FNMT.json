@@ -62,10 +62,15 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement\r\n\r\ndpc_english.pdf = Specific Certification Policies and Practices applicable to electronic certification and signature servicies for public organizations and administrations, their bodies and attached or dependent entities",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion\r\n\r\nAC Administración Pública: https://www.sede.fnmt.gob.es/dpcs/acap",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536344/dpc_english.pdf; https://www.sede.fnmt.gob.es/documents/10445900/10745629/DPC_Sedes_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536344/dpc_english.pdf",
+      "https://www.sede.fnmt.gob.es/documents/10445900/10745629/DPC_Sedes_english.pdf"
+    ],
     "CP Last Updated Date": "2020.02.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
     "CPS Last Updated Date": "2020.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -100,9 +105,14 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement\r\n\r\ndpc_english.pdf = Specific Certification Policies and Practices applicable to electronic certification and signature servicies for public organizations and administrations, their bodies and attached or dependent entities",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion\r\n\r\nAC Administración Pública: https://www.sede.fnmt.gob.es/dpcs/acap",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536344/dpc_english.pdf; https://www.sede.fnmt.gob.es/documents/10445900/10745629/DPC_Sedes_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536344/dpc_english.pdf",
+      "https://www.sede.fnmt.gob.es/documents/10445900/10745629/DPC_Sedes_english.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -166,10 +176,14 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement\r\n\r\ndpc_english.pdf = Specific Certification Practices and Policy for Natural Person Certificates from the “ACFNMTUSUARIOS”",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion\r\n\r\nAC Usuarios: https://www.sede.fnmt.gob.es/dpcs/acusuarios",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_personasfisicas_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_personasfisicas_english.pdf"
+    ],
     "CP Last Updated Date": "2020.02.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
     "CPS Last Updated Date": "2020.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -333,7 +347,9 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement; dpc_componentes_english.pdf = Specific Certification Policy and Practices applicable to AC Software Components",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion; AC Componentes Informaticos:https://www.sede.fnmt.gob.es/dpcs/accomponentes",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
+    ],
     "CP Last Updated Date": "2025.03.26",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -375,7 +391,9 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement; dpc_componentes_english.pdf = Specific Certification Policy and Practices applicable to AC Software Components",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion: AC Componentes Informáticos: https://www.sede.fnmt.gob.es/dpcs/accomponentes",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
+    ],
     "CP Last Updated Date": "2025.03.26",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -821,7 +839,9 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement; dpc_english.pdf = Specific Certification Practices and Policy for Natural Person Certificates from the “ACFNMTUSUARIOS”",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion; AC Usuarios: https://www.sede.fnmt.gob.es/dpcs/acusuarios",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_personasfisicas_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_personasfisicas_english.pdf"
+    ],
     "CP Last Updated Date": "2025.02.03",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -859,7 +879,9 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement; dpc_english.pdf = Certification Policies and Practices for Public Sector Electronic Signature and Electronic Seal Certificates",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion; AC Sector Público: https://www.sede.fnmt.gob.es/dpcs/acsp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_sector_publico_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_sector_publico_english.pdf"
+    ],
     "CP Last Updated Date": "2025.06.23",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -897,7 +919,9 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement; dpc_unidades_sellado_tiempo_english.pdf = Certification Policy and Practice Statement For Electronic Time  Stamp Creation Certificates",
     "CA Document Repository": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_unidades_sellado_tiempo_english.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_unidades_sellado_tiempo_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_unidades_sellado_tiempo_english.pdf"
+    ],
     "CP Last Updated Date": "2025.06.23",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -1365,7 +1389,9 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement\r\n\r\ndpc_english.pdf = Specific certification practices and policy of certificates of representatives of legal entities and of institutions with no legal entity",
     "CA Document Repository": "General: https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion\r\n\r\nAC Representacion: https://www.sede.fnmt.gob.es/dpcs/acrepresentacion",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_representacion_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_representacion_english.pdf"
+    ],
     "CP Last Updated Date": "2024.10.18",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -1443,10 +1469,14 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement",
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
     "CP Last Updated Date": "2025.03.05",
     "CPS Same as Parent": "true",
-    "Certificate Practice Statement (CPS) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1495,7 +1525,9 @@
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1536,7 +1568,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1571,7 +1605,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1620,7 +1656,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testactivetipo1.cert.fnmt.es/",

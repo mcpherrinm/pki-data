@@ -131,7 +131,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repository.tsp.zetes.com/Zetes%20TSP%20-%20Root%20CA%20-%20Certification%20Practice%20Statement%20and%20Certificate%20Policy%20v1.7.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.tsp.zetes.com/Zetes%20TSP%20-%20Root%20CA%20-%20Certification%20Practice%20Statement%20and%20Certificate%20Policy%20v1.7.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.12.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

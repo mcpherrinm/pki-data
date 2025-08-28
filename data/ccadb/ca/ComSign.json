@@ -432,9 +432,13 @@
     "Standard Audit Period End Date": "2017.04.26",
     "CA Document Repository": "https://www.comsign.co.uk/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.comsign.co.uk/?page_id=1282",
+    "Certificate Policy (CP) URL": [
+      "https://www.comsign.co.uk/?page_id=1282"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.comsign.co.uk/wp-content/uploads/Comsign%20CPS-EN-v%20311.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.comsign.co.uk/wp-content/uploads/Comsign%20CPS-EN-v%20311.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://comsign.co.il/main.asp?id=65",
@@ -471,9 +475,13 @@
     "Standard Audit Period End Date": "2017.04.26",
     "CA Document Repository": "https://www.comsign.co.uk/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.comsign.co.uk/?page_id=1282",
+    "Certificate Policy (CP) URL": [
+      "https://www.comsign.co.uk/?page_id=1282"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.comsign.co.uk/wp-content/uploads/Comsign%20CPS-EN-v%20311.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.comsign.co.uk/wp-content/uploads/Comsign%20CPS-EN-v%20311.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -513,9 +521,13 @@
     "TLS BR Audit Period End Date": "2016.04.26",
     "CA Document Repository": "https://www.comsign.co.uk/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.comsign.co.uk/?page_id=1282",
+    "Certificate Policy (CP) URL": [
+      "https://www.comsign.co.uk/?page_id=1282"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.comsign.co.uk/wp-content/uploads/Comsign%20CPS-EN-v%20311.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.comsign.co.uk/wp-content/uploads/Comsign%20CPS-EN-v%20311.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

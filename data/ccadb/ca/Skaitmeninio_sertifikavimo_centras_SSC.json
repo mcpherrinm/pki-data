@@ -149,10 +149,14 @@
     "TLS BR Audit Period Start Date": "2017.06.12",
     "TLS BR Audit Period End Date": "2017.06.12",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=8902029",
+    "Certificate Policy (CP) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8902029"
+    ],
     "CP Last Updated Date": "2017.04.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=8902030",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8902030"
+    ],
     "CPS Last Updated Date": "2017.04.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -191,10 +195,14 @@
     "TLS BR Audit Period Start Date": "2017.06.12",
     "TLS BR Audit Period End Date": "2017.06.12",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=8902029",
+    "Certificate Policy (CP) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8902029"
+    ],
     "CP Last Updated Date": "2017.04.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://bugzilla.mozilla.org/attachment.cgi?id=8902030",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=8902030"
+    ],
     "CPS Last Updated Date": "2017.04.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

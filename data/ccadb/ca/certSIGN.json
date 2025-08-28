@@ -485,10 +485,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/"
+    ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Public-CA-Certification-Practice-Statement-v2.29.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Public-CA-Certification-Practice-Statement-v2.29.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.30",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -521,16 +525,24 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/",
+    "Certificate Policy (CP) URL": [
+      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
+    ],
     "CP Last Updated Date": "2025.01.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
+    ],
     "CPS Last Updated Date": "2024.08.15",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
+    ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Qualified-CA-Certification-Practice-Statement-v2.44.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Qualified-CA-Certification-Practice-Statement-v2.44.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.30",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -566,10 +578,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/"
+    ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Web-CA-QWAC-Certification-Practice-Statement-v1.32.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Web-CA-QWAC-Certification-Practice-Statement-v1.32.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.30",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -602,10 +618,14 @@
     "Policy Documentation": "certSIGN ROOT CA - Certification Policy",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certsign.ro/en/document/certsign-certification-policy/",
+    "Certificate Policy (CP) URL": [
+      "https://www.certsign.ro/en/document/certsign-certification-policy/"
+    ],
     "CP Last Updated Date": "2023.07.31",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certsign.ro/en/document/certsign-ssl-ev-ca-class-3-g2-certification-practice-statement/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certsign.ro/en/document/certsign-ssl-ev-ca-class-3-g2-certification-practice-statement/"
+    ],
     "CPS Last Updated Date": "2023.07.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -642,14 +662,20 @@
     "Policy Documentation": "certSIGN ROOT CA - Certification Policy",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.certsign.ro/en/document/certsign-certification-policy/",
+    "Certificate Policy (CP) URL": [
+      "https://www.certsign.ro/en/document/certsign-certification-policy/"
+    ],
     "CP Last Updated Date": "2025.04.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certsign.ro/en/document/certsign-ssl-dv-ca-class-3-g2-certification-practice-statement/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certsign.ro/en/document/certsign-ssl-dv-ca-class-3-g2-certification-practice-statement/"
+    ],
     "CPS Last Updated Date": "2025.04.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-SSL-DV-CA-Class-3-G2-Certification-Practice-Statement-v1.21.md",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-SSL-DV-CA-Class-3-G2-Certification-Practice-Statement-v1.21.md"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.15",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -742,7 +768,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/; https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/",
+      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/",
+      "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/",
+      "https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
+      "https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/",
+      "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/"
+    ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl-valid-evcp.certsign.ro/",

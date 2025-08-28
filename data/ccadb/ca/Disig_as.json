@@ -93,7 +93,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.disig.eu/index.php?id=docs&L=1",
+    "Certificate Practice & Policy Statement": [
+      "http://www.disig.eu/index.php?id=docs&L=1"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl-valid.disig.sk/index.en.html",
     "TLS Capable": "False",
@@ -300,10 +302,16 @@
     "S/MIME BR Audit Period End Date": "2025.04.18",
     "CA Document Repository": "https://eidas.disig.sk/en/provider/policies-and-documents/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://eidas.disig.sk/pdf/cp-smime-disig-en.pdf; https://eidas.disig.sk/pdf/cp-disig-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://eidas.disig.sk/pdf/cp-disig-en.pdf",
+      "https://eidas.disig.sk/pdf/cp-smime-disig-en.pdf"
+    ],
     "CP Last Updated Date": "2025.03.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://eidas.disig.sk/pdf/cps_smime_ra_cadisig_en.pdf; https://eidas.disig.sk/pdf/cps_ra_cadisig_en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://eidas.disig.sk/pdf/cps_ra_cadisig_en.pdf",
+      "https://eidas.disig.sk/pdf/cps_smime_ra_cadisig_en.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -348,10 +356,14 @@
     "TLS BR Audit Period End Date": "2017.10.10",
     "CA Document Repository": "https://eidas.disig.sk/en/documents/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://eidas.disig.sk/pdf/cp-disig.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://eidas.disig.sk/pdf/cp-disig.pdf"
+    ],
     "CP Last Updated Date": "2017.09.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://eidas.disig.sk/pdf/cps_ra_cadisig.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://eidas.disig.sk/pdf/cps_ra_cadisig.pdf"
+    ],
     "CPS Last Updated Date": "2017.09.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

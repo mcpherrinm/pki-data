@@ -148,10 +148,14 @@
     "Policy Documentation": "This CA has its own dedicated CPS document available in the CA document repository. The CPS document is produced in English language.",
     "CA Document Repository": "https://ecac.pki.gov.pk/repository/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ecac.pki.gov.pk/repository/cps/Trust_Services_Providers_(TSP)_CP_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ecac.pki.gov.pk/repository/cps/Trust_Services_Providers_(TSP)_CP_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.21",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ecac.pki.gov.pk/repository/cps/ECAC_CPS_TLS_CA_v2.3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ecac.pki.gov.pk/repository/cps/ECAC_CPS_TLS_CA_v2.3.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

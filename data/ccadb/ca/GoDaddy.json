@@ -143,7 +143,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
@@ -394,7 +397,9 @@
     "CA Document Repository": "https://www.certainly.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certainly.com/repository/CertainlyCP-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certainly.com/repository/CertainlyCP-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2022.05.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -441,7 +446,9 @@
     "CA Document Repository": "https://www.certainly.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.certainly.com/repository/CertainlyCP-CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.certainly.com/repository/CertainlyCP-CPS.pdf"
+    ],
     "CPS Last Updated Date": "2022.05.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -506,7 +513,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -570,7 +579,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.03.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -769,7 +780,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
@@ -833,7 +847,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.gdi.catest.godaddy.com/",
@@ -966,7 +983,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.sfig2.catest.starfieldtech.com/",
@@ -1029,7 +1049,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.gdig2.catest.godaddy.com/",
@@ -1117,7 +1140,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1200,7 +1226,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1251,7 +1280,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1302,7 +1334,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf; https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
+      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

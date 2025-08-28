@@ -243,7 +243,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.wellsfargo.com/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.wellsfargo.com/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://nerys-m1.wellsfargo.com/test.html",
     "TLS Capable": "False",
@@ -284,7 +286,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.wellsfargo.com/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.wellsfargo.com/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

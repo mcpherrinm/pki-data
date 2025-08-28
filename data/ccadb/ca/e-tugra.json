@@ -30,9 +30,13 @@
     "TLS BR Audit Period Start Date": "2016.09.09",
     "TLS BR Audit Period End Date": "2016.09.09",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.e-tugra.com.tr/CPS",
+    "Certificate Policy (CP) URL": [
+      "http://www.e-tugra.com.tr/CPS"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.e-tugra.com.tr/portals/6/Documents/E-Tugra_SUE_v4.0_0_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.e-tugra.com.tr/portals/6/Documents/E-Tugra_SUE_v4.0_0_EN.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ediskim.e-tugra.com.tr/",
@@ -182,10 +186,20 @@
     "Policy Documentation": "https://www.e-tugra.com.tr/Portals/6/Documents/E-Tugra_PDS_1_0_en.pdf",
     "CA Document Repository": "https://www.e-tugra.com.tr/cps",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CP_v6_3.pdf; https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CP_v6_2.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SI_v5.0_EN.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SI_v4.9_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SI_v4.9_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SI_v5.0_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CP_v6_2.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CP_v6_3.pdf"
+    ],
     "CP Last Updated Date": "2023.02.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CPS_v6_3.pdf; https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CPS_v6_2.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SUE_v5.0_EN.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SUE_v4.9_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SUE_v4.9_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SUE_v5.0_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CPS_v6_2.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CPS_v6_3.pdf"
+    ],
     "CPS Last Updated Date": "2023.02.03",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -626,10 +640,20 @@
     "Code Signing Audit Period Start Date": "2021.08.07",
     "Code Signing Audit Period End Date": "2022.08.06",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CP_v6_3.pdf; https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CP_v6_2.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SI_v5.0_EN.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SI_v4.9_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SI_v4.9_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SI_v5.0_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CP_v6_2.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CP_v6_3.pdf"
+    ],
     "CP Last Updated Date": "2023.02.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CPS_v6_3.pdf; https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CPS_v6_2.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SUE_v5.0_EN.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SUE_v4.9_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SUE_v4.9_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SUE_v5.0_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CPS_v6_2.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CPS_v6_3.pdf"
+    ],
     "CPS Last Updated Date": "2023.02.03",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -686,10 +710,20 @@
     "Code Signing Audit Period Start Date": "2021.08.07",
     "Code Signing Audit Period End Date": "2022.08.06",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CP_v6_3.pdf; https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CP_v6_2.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SI_v5.0_EN.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SI_v4.9_EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SI_v4.9_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SI_v5.0_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CP_v6_2.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CP_v6_3.pdf"
+    ],
     "CP Last Updated Date": "2023.02.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CPS_v6_3.pdf; https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CPS_v6_2.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SUE_v5.0_EN.pdf; https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SUE_v4.9_EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://e-tugra.com.tr/wp-content/uploads/2021/08/E-Tugra_SUE_v4.9_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2021/10/E-Tugra_SUE_v5.0_EN.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2022/03/E-Tugra_CPS_v6_2.pdf",
+      "https://e-tugra.com.tr/wp-content/uploads/2023/02/E-Tugra_CPS_v6_3.pdf"
+    ],
     "CPS Last Updated Date": "2023.02.03",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

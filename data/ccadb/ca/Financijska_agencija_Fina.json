@@ -33,13 +33,23 @@
     "Policy Documentation": "http://rdc.fina.hr/dokumentacija/eIDAS_certificate_profile.pdf",
     "CA Document Repository": "https://www.fina.hr/finadigicert",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://rdc.fina.hr/RDC2015/CPNQC1-9-en.pdf; https://rdc.fina.hr/RDC2015/CPWSA1-12-en.pdf; https://rdc.fina.hr/RDC2015/FinaRDC2015-CPQC2-3-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://rdc.fina.hr/RDC2015/CPNQC1-9-en.pdf",
+      "https://rdc.fina.hr/RDC2015/CPWSA1-12-en.pdf",
+      "https://rdc.fina.hr/RDC2015/FinaRDC2015-CPQC2-3-en.pdf"
+    ],
     "CP Last Updated Date": "2025.03.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://rdc.fina.hr/RDC2015/CPSNQC1-9-en.pdf; https://rdc.fina.hr/RDC2015/CPSWSA1-12-en.pdf; https://rdc.fina.hr/RDC2015/FinaRDC2015-CPSQC2-3-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://rdc.fina.hr/RDC2015/CPSNQC1-9-en.pdf",
+      "https://rdc.fina.hr/RDC2015/CPSWSA1-12-en.pdf",
+      "https://rdc.fina.hr/RDC2015/FinaRDC2015-CPSQC2-3-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.03",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://rdc.fina.hr/Root/FinaRootCA-CPCPS2-9-en.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://rdc.fina.hr/Root/FinaRootCA-CPCPS2-9-en.pdf"
+    ],
     "CP/CPS Last Updated Date": "2024.10.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsslvalid20.fina.hr",

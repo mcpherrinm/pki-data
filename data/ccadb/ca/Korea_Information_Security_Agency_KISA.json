@@ -88,10 +88,14 @@
     "TLS BR Audit Period End Date": "2016.12.31",
     "CA Document Repository": "http://www.rootca.or.kr/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.rootca.or.kr/",
+    "Certificate Policy (CP) URL": [
+      "http://www.rootca.or.kr/"
+    ],
     "CP Last Updated Date": "2018.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.rootca.or.kr/kor/down/cps16.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.rootca.or.kr/kor/down/cps16.pdf"
+    ],
     "CPS Last Updated Date": "2018.12.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -132,7 +136,9 @@
     "TLS BR Audit Period End Date": "2016.12.31",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://rootca.or.kr/kor/down/cps16.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://rootca.or.kr/kor/down/cps16.pdf"
+    ],
     "CPS Last Updated Date": "2016.05.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

@@ -131,7 +131,9 @@
     "Policy Documentation": "http://ctn.certisign.com.br/ssl/dpc/dpc-certisign-ssl-certification-authority_v1.5.pdf",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ctn.certisign.com.br/ssl/dpc/dpc-certisign-ssl-certification-authority_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ctn.certisign.com.br/ssl/dpc/dpc-certisign-ssl-certification-authority_v1.5.pdf"
+    ],
     "CPS Last Updated Date": "2019.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -166,7 +168,9 @@
     "CA Document Repository": "http://ctn.certisign.com.br/ssl-ev/certisign-ssl-ev-certification-authority.htm",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ctn.certisign.com.br/ssl-ev/dpc/dpc-certisign-ssl-ev-certification-authority_v1.5.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ctn.certisign.com.br/ssl-ev/dpc/dpc-certisign-ssl-ev-certification-authority_v1.5.pdf"
+    ],
     "CPS Last Updated Date": "2019.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -201,7 +205,9 @@
     "CA Document Repository": "http://ctn.certisign.com.br/certisign-ca/certisign-ca-certification-authority.htm",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://ctn.certisign.com.br/certisign-ca/dpc/dpc-certisign-ca-certification-authority_v1.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://ctn.certisign.com.br/certisign-ca/dpc/dpc-certisign-ca-certification-authority_v1.2.pdf"
+    ],
     "CPS Last Updated Date": "2019.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

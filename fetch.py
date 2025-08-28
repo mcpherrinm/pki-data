@@ -7,6 +7,7 @@ This script downloads the latest CT log data from Google and Apple
 
 import json
 import os
+import re
 import urllib.request
 import urllib.error
 import sys
@@ -78,10 +79,8 @@ def convert_ccadb_csv_to_json(csv_data):
                     key = k.strip()
                     value = v.strip()
                     
-                    # Special handling for JSON array fields
-                    if "JSON Array" in key and value:
+                    if "JSON Array" in key:
                         try:
-                            # Try to parse as JSON array
                             parsed_value = json.loads(value)
                             if isinstance(parsed_value, list):
                                 clean_row[key] = parsed_value
@@ -90,6 +89,8 @@ def convert_ccadb_csv_to_json(csv_data):
                         except (json.JSONDecodeError, ValueError):
                             # If parsing fails, keep as string
                             clean_row[key] = value
+                    elif "CP/CPS URL" in key or "(CP) URL" in key or "(CPS) URL" in key or "Certificate Practice & Policy Statement" in key:
+                        clean_row[key] = sorted([url.strip() for url in re.split('[;\n]', value)])
                     else:
                         clean_row[key] = value
             

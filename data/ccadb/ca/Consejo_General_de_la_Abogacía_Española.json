@@ -63,10 +63,14 @@
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.abogacia.es/site/aca/politicas-y-practicas-de-certificacion/",
+    "Certificate Policy (CP) URL": [
+      "https://www.abogacia.es/site/aca/politicas-y-practicas-de-certificacion/"
+    ],
     "CP Last Updated Date": "2022.05.31",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.abogacia.es/wp-content/uploads/2014/12/CPS_ACA_019.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.abogacia.es/wp-content/uploads/2014/12/CPS_ACA_019.pdf"
+    ],
     "CPS Last Updated Date": "2022.05.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -101,10 +105,14 @@
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://www.abogacia.es/site/aca/politicas-y-practicas-de-certificacion/",
+    "Certificate Policy (CP) URL": [
+      "https://www.abogacia.es/site/aca/politicas-y-practicas-de-certificacion/"
+    ],
     "CP Last Updated Date": "2022.05.31",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.abogacia.es/wp-content/uploads/2014/12/CPS_ACA_019.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.abogacia.es/wp-content/uploads/2014/12/CPS_ACA_019.pdf"
+    ],
     "CPS Last Updated Date": "2022.05.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -174,7 +182,9 @@
     "CA Document Repository": "https://www.abogacia.es/site/aca/politicas-y-practicas-de-certificacion/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.abogacia.es/wp-content/uploads/2024/04/CPS_ACA_022.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.abogacia.es/wp-content/uploads/2024/04/CPS_ACA_022.pdf"
+    ],
     "CPS Last Updated Date": "2024.03.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

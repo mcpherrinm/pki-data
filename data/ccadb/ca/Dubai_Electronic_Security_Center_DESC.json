@@ -25,10 +25,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.4.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -63,10 +67,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.3.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -104,10 +112,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.4.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.4.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -141,10 +153,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.3.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.3.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -178,10 +194,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.6.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.6.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.6.pdf"
+    ],
     "CP Last Updated Date": "2022.04.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -215,10 +235,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.6.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.6.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.6.pdf"
+    ],
     "CP Last Updated Date": "2022.04.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.0.pdf"
+    ],
     "CPS Last Updated Date": "2022.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -254,10 +278,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.6.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.6.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -293,10 +321,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.6.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.6.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -331,10 +363,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.6.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.6.pdf"
+    ],
     "CPS Last Updated Date": "2025.02.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -370,10 +406,14 @@
     "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+    ],
     "CP Last Updated Date": "2025.04.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-EthaqPlusCA-CertificationPracticeStatement_v1.0.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-EthaqPlusCA-CertificationPracticeStatement_v1.0.pdf"
+    ],
     "CPS Last Updated Date": "2025.04.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -426,13 +466,27 @@
     "Policy Documentation": "CP/CPS documents provided in English\r\n\r\nAudit History: https://ca-repository.desc.gov.ae/",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.7.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v1.7.pdf"
+    ],
     "CP Last Updated Date": "2022.09.07",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.2.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v1.8.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v1.9.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.2.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.2.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v1.8.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v1.9.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.2.pdf"
+    ],
     "CPS Last Updated Date": "2022.09.07",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v2.2.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v2.1.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v2.0.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v1.9.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v1.8.pdf; https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v1.7.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v1.7.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v1.8.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v1.9.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v2.0.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v2.1.pdf",
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DubaiRootCA-CertificationPracticeStatement_v2.2.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.04.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

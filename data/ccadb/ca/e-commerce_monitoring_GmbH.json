@@ -226,10 +226,16 @@
     "Code Signing Audit Period End Date": "2024.03.31",
     "CA Document Repository": "http://www.globaltrust.eu/certificate-policy.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf"
+    ],
     "CP Last Updated Date": "2024.02.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf; http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf; http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+      "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+      "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -918,10 +924,16 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CA Document Repository": "http://www.globaltrust.eu/certificate-policy.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf"
+    ],
     "CP Last Updated Date": "2024.02.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf; http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf; http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+      "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+      "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1512,10 +1524,16 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CA Document Repository": "http://www.globaltrust.eu/certificate-policy.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf"
+    ],
     "CP Last Updated Date": "2024.02.16",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf; http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf; http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+      "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
+      "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf"
+    ],
     "CPS Last Updated Date": "2025.03.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1689,9 +1707,13 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://cert-services.e-control.at/certsrv/CA-Policy-ecg.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://cert-services.e-control.at/certsrv/CA-Policy-ecg.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://cert-services.e-control.at/certsrv/CA-Policy-ecg.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://cert-services.e-control.at/certsrv/CA-Policy-ecg.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://cert-services.e-control.at/certsrv/CA-Policy-ecg.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",

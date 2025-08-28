@@ -50,9 +50,13 @@
     "Standard Audit Period Start Date": "2011.10.31",
     "Standard Audit Period End Date": "2011.10.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.rsa.com/node.aspx?id=2420",
+    "Certificate Policy (CP) URL": [
+      "http://www.rsa.com/node.aspx?id=2420"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.rsasecurity.com/products/keon/repository/practices/RSA_KEON_ROOT_SIGNING_CA_CPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.rsasecurity.com/products/keon/repository/practices/RSA_KEON_ROOT_SIGNING_CA_CPS.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -86,9 +90,13 @@
     "Standard Audit Period Start Date": "2015.02.11",
     "Standard Audit Period End Date": "2015.02.11",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://www.emc.com/collateral/technical-documentation/rsa-root-signing-service-certificate-policy.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://www.emc.com/collateral/technical-documentation/rsa-root-signing-service-certificate-policy.pdf"
+    ],
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://www.emc.com/collateral/technical-documentation/rsa-root-signing-service-certification-practice-statement.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://www.emc.com/collateral/technical-documentation/rsa-root-signing-service-certification-practice-statement.pdf"
+    ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://knowledge.rsasecurity.com",

@@ -118,7 +118,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://web.certicamara.com/media/215037/dpc-certificados-de-firma-digital.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://web.certicamara.com/media/215037/dpc-certificados-de-firma-digital.pdf"
+    ],
     "CP/CPS Last Updated Date": "2017.10.02",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -156,7 +158,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://web.certicamara.com/files/uploads/archivosmarcolegal/DPC_-_Certificados_de_firma_digital._Versi%C3%B3n_junio_2020._200701132226.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://web.certicamara.com/files/uploads/archivosmarcolegal/DPC_-_Certificados_de_firma_digital._Versi%C3%B3n_junio_2020._200701132226.pdf"
+    ],
     "CP/CPS Last Updated Date": "2020.06.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

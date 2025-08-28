@@ -98,10 +98,14 @@
     "TLS EVG Audit Period Start Date": "2015.06.09",
     "TLS EVG Audit Period End Date": "2016.06.08",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/"
+    ],
     "CP Last Updated Date": "2015.12.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/"
+    ],
     "CPS Last Updated Date": "2015.12.25",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -148,10 +152,14 @@
     "TLS EVG Audit Period Start Date": "2015.06.09",
     "TLS EVG Audit Period End Date": "2016.06.08",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwsr2ca/",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwsr2ca/"
+    ],
     "CP Last Updated Date": "2015.12.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwsr2ca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwsr2ca/"
+    ],
     "CPS Last Updated Date": "2015.12.25",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -183,10 +191,14 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2021.08.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.08.03",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -230,10 +242,14 @@
     "TLS BR Audit Period Start Date": "2020.06.07",
     "TLS BR Audit Period End Date": "2021.06.06",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2021.08.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.08.03",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -339,10 +355,14 @@
     "TLS BR Audit Period Start Date": "2020.06.07",
     "TLS BR Audit Period End Date": "2021.06.06",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2021.08.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.08.03",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -470,7 +490,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repository.secomtrust.net/rootrepository/CPSen.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.secomtrust.net/rootrepository/CPSen.pdf"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1093,10 +1115,14 @@
     "TLS EVG Audit Period Start Date": "2015.06.09",
     "TLS EVG Audit Period End Date": "2016.06.08",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/"
+    ],
     "CP Last Updated Date": "2015.12.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwevca/"
+    ],
     "CPS Last Updated Date": "2015.12.25",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -1445,10 +1471,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/ts/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/ts/TSCA-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/ts/TSCA-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2023.02.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2023.02.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1484,10 +1514,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfm20pub/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2022.06.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1523,10 +1557,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfm20pub/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2023.05.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2023.05.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1618,10 +1656,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfm20pub/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2022.06.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1656,10 +1698,14 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2023.05.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2023.05.17",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -1692,10 +1738,14 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/"
+    ],
     "CP Last Updated Date": "2018.08.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/"
+    ],
     "CPS Last Updated Date": "2018.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1790,10 +1840,14 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwev2ca/",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwev2ca/"
+    ],
     "CP Last Updated Date": "2018.08.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwev2ca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwev2ca/"
+    ],
     "CPS Last Updated Date": "2018.08.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1827,10 +1881,14 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/PfWSRCA-CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/PfWSRCA-CP.pdf"
+    ],
     "CP Last Updated Date": "2020.09.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwsr3ca/"
+    ],
     "CPS Last Updated Date": "2020.09.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2347,10 +2405,14 @@
     "TLS BR Audit Period End Date": "2020.06.06",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfm20pub/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2603,10 +2665,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/nii/odca3/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/nii/odca3/index.html",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/nii/odca3/index.html"
+    ],
     "CP Last Updated Date": "2021.04.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/index.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/index.html"
+    ],
     "CPS Last Updated Date": "2021.04.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3215,10 +3281,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfw/pfwmhca/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfw/pfwmhca/PfWMHCA-CP2.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfw/pfwmhca/PfWMHCA-CP2.pdf"
+    ],
     "CP Last Updated Date": "2022.06.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3559,7 +3629,9 @@
     "Policy Documentation": "Available in Japanese and English.",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/xtov5/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/cp/ovcp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/cp/ovcp.pdf"
+    ],
     "CP Last Updated Date": "2024.10.23",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
@@ -3682,10 +3754,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository/OVCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository/OVCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -3728,10 +3804,14 @@
     "TLS BR Audit Period End Date": "2022.01.27",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2020.10.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2020.10.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3799,10 +3879,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/nii/odca3/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/nii/odca3/NIIODCA3.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/nii/odca3/NIIODCA3.pdf"
+    ],
     "CP Last Updated Date": "2021.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/index.html",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/index.html"
+    ],
     "CPS Last Updated Date": "2021.11.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3879,10 +3963,14 @@
     "TLS BR Audit Period End Date": "2022.01.27",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2020.10.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2020.10.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4029,10 +4117,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfm20pub/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2021.08.03",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.08.03",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4102,10 +4194,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/xerox/fxprdcapb/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/xerox/fxprdcapb/CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/xerox/fxprdcapb/CP.pdf"
+    ],
     "CP Last Updated Date": "2022.06.10",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2022.06.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4169,7 +4265,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ev2v.secomtrust.net/",
@@ -4209,7 +4307,9 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/cp/ovcp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/cp/ovcp.pdf"
+    ],
     "CP Last Updated Date": "2024.10.23",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
@@ -4341,13 +4441,19 @@
     "Full CRL Issued By This CA": "http://repo1.secomtrust.net/sppca/SMBC2/fullCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://repo1.secomtrust.net/sppca/SMBC2/fullCRL.crl",
+    "Certificate Policy (CP) URL": [
+      "http://repo1.secomtrust.net/sppca/SMBC2/fullCRL.crl"
+    ],
     "CP Last Updated Date": "2021.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://repo1.secomtrust.net/sppca/SMBC2/fullCRL.crl",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://repo1.secomtrust.net/sppca/SMBC2/fullCRL.crl"
+    ],
     "CPS Last Updated Date": "2021.11.30",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/sppca/SMBC2/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/sppca/SMBC2/"
+    ],
     "CP/CPS Last Updated Date": "2023.05.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4399,14 +4505,20 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://jprs.jp/pubcert/info/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://jprs.jp/pubcert/info/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -4459,10 +4571,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository/OVCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository/OVCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -4494,10 +4610,14 @@
     "Audits Same as Parent": "false",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/nii/odca3/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/nii/odca3/NIIODCA3.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/nii/odca3/NIIODCA3.pdf"
+    ],
     "CP Last Updated Date": "2021.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.11.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4535,10 +4655,14 @@
     "Policy Documentation": "https://repo1.secomtrust.net/sppca/ff/fnetcac/",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/ff/fnetcac/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/ff/fnetcac/",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/ff/fnetcac/"
+    ],
     "CP Last Updated Date": "2021.08.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/sppca/ff/fnetcac/",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/sppca/ff/fnetcac/"
+    ],
     "CPS Last Updated Date": "2025.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4619,10 +4743,14 @@
     "TLS BR Audit Period End Date": "2022.01.27",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2020.10.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2020.10.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4667,10 +4795,14 @@
     "TLS BR Audit Period End Date": "2022.01.27",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2020.10.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2020.10.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4710,7 +4842,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.08.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4769,10 +4903,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository/EVCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository/EVCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4835,10 +4973,14 @@
     "Audits Same as Parent": "false",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/xerox/xnetcac/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/xerox/xnetcac/CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/xerox/xnetcac/CP.pdf"
+    ],
     "CP Last Updated Date": "2021.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.11.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -4928,7 +5070,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.08.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4995,10 +5139,14 @@
     "Full CRL Issued By This CA": "http://repo1.secomtrust.net/spcpp/plus/ca1g1/fullCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/plus/plus-cp-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/plus/plus-cp-EN.pdf"
+    ],
     "CP Last Updated Date": "2023.05.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2023.05.17",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
@@ -5078,10 +5226,14 @@
     "TLS BR Audit Period End Date": "2020.06.06",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/pfm20pub/index.html",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/pfm20pub/PfM20PUB-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2020.07.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2020.07.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5213,10 +5365,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "http://repo1.secomtrust.net/sppca/xerox/fnetcas2/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://repo1.secomtrust.net/sppca/xerox/fnetcas2/CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "http://repo1.secomtrust.net/sppca/xerox/fnetcas2/CP.pdf"
+    ],
     "CP Last Updated Date": "2022.08.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2022.08.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5269,14 +5425,20 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/\r\nAvailable in Japanese and English.",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://jprs.jp/pubcert/info/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://jprs.jp/pubcert/info/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -5369,10 +5531,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.cybertrust.ne.jp/ssl/repository/EVCPCPS_English.pdf",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/ssl/repository/EVCPCPS_English.pdf"
+    ],
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://www.cybertrust.ne.jp/ssl/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -5405,10 +5571,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/xerox/xnetcas2/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/xerox/xnetcas2/CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/xerox/xnetcas2/CP.pdf"
+    ],
     "CP Last Updated Date": "2022.08.18",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2022.08.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5444,10 +5614,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/sppca/xerox/fxprdcapb/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/xerox/fxprdcapb/CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/xerox/fxprdcapb/CP.pdf"
+    ],
     "CP Last Updated Date": "2021.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2021.11.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -5545,7 +5719,9 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/subadvcag2/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/subadvcag2/SubordinateAdvancedCA_CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/subadvcag2/SubordinateAdvancedCA_CP.pdf"
+    ],
     "CP Last Updated Date": "2024.10.23",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -5582,7 +5758,9 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/subadvcag2/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/subadvcag2/SubordinateAdvancedCA_CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/subadvcag2/SubordinateAdvancedCA_CP.pdf"
+    ],
     "CP Last Updated Date": "2024.10.23",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -5619,7 +5797,9 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/cp/ovcp.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/cp/ovcp.pdf"
+    ],
     "CP Last Updated Date": "2024.10.23",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
@@ -5655,13 +5835,19 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/sppca/SMBC2/CPCPS.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/sppca/SMBC2/CPCPS.pdf"
+    ],
     "CP Last Updated Date": "2020.11.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/sppca/SMBC2/CPCPS.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/sppca/SMBC2/CPCPS.pdf"
+    ],
     "CPS Last Updated Date": "2020.11.15",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/sppca/SMBC2/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/sppca/SMBC2/"
+    ],
     "CP/CPS Last Updated Date": "2023.05.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -5748,14 +5934,20 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://jprs.jp/pubcert/info/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://jprs.jp/pubcert/info/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -5806,14 +5998,20 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://jprs.jp/pubcert/info/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://jprs.jp/pubcert/info/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -5858,7 +6056,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repository.secomtrust.net/EV-Root1/index.html",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.secomtrust.net/EV-Root1/index.html"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://repo2.secomtrust.net/ev.gif",
     "TLS Capable": "False",
@@ -6016,7 +6216,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://sr4v.secom-cert.jp/",
@@ -6055,7 +6257,9 @@
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/subadvcag2/SubordinateAdvancedCA_CP.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/subadvcag2/SubordinateAdvancedCA_CP.pdf"
+    ],
     "CP Last Updated Date": "2024.10.23",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
@@ -6140,7 +6344,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://sr5v.secom-cert.jp/",
@@ -6336,14 +6542,20 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://jprs.jp/pubcert/info/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://jprs.jp/pubcert/info/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -6394,14 +6606,20 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
+    ],
     "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
+    ],
     "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": "https://jprs.jp/pubcert/info/repository/",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://jprs.jp/pubcert/info/repository/"
+    ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -6542,10 +6760,14 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://repo1.secomtrust.net/spcpp/ts/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "https://repo1.secomtrust.net/spcpp/ts/TSCA-CP-EN.pdf",
+    "Certificate Policy (CP) URL": [
+      "https://repo1.secomtrust.net/spcpp/ts/TSCA-CP-EN.pdf"
+    ],
     "CP Last Updated Date": "2023.05.17",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
+    ],
     "CPS Last Updated Date": "2023.05.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -6692,7 +6914,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6730,7 +6954,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6813,7 +7039,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ovrsa2024v.secomtrust-verification.com",
@@ -6865,7 +7093,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6919,7 +7149,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/",
+    "Certificate Practice & Policy Statement": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
+    ],
     "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ovecc2024v.secomtrust-verification.com",

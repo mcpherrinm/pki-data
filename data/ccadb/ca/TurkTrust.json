@@ -29,7 +29,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.turktrust.com.tr/en/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.turktrust.com.tr/en/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -122,7 +124,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.turktrust.com.tr/en/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.turktrust.com.tr/en/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -247,10 +251,14 @@
     "Policy Documentation": "http://www.turktrust.com.tr/en/repository/turktrust-documents/",
     "CA Document Repository": "http://www.turktrust.com.tr/en/repository/turktrust-documents/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://dl.turktrust.com.tr/pdf/TURKTRUST_CP_V-11_[EN]_(NES).pdf",
+    "Certificate Policy (CP) URL": [
+      "http://dl.turktrust.com.tr/pdf/TURKTRUST_CP_V-11_[EN]_(NES).pdf"
+    ],
     "CP Last Updated Date": "2017.03.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://dl.turktrust.com.tr/pdf/TURKTRUST_CPS_V-11_[EN]_(NES).pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://dl.turktrust.com.tr/pdf/TURKTRUST_CPS_V-11_[EN]_(NES).pdf"
+    ],
     "CPS Last Updated Date": "2017.03.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -284,10 +292,14 @@
     "Policy Documentation": "http://www.turktrust.com.tr/en/repository/turktrust-documents/",
     "CA Document Repository": "http://www.turktrust.com.tr/en/repository/turktrust-documents/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": "http://dl.turktrust.com.tr/pdf/TURKTRUST_CP_V-11_[EN]_(NES).pdf",
+    "Certificate Policy (CP) URL": [
+      "http://dl.turktrust.com.tr/pdf/TURKTRUST_CP_V-11_[EN]_(NES).pdf"
+    ],
     "CP Last Updated Date": "2017.03.29",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": "http://dl.turktrust.com.tr/pdf/TURKTRUST_CPS_V-11_[EN]_(NES).pdf",
+    "Certificate Practice Statement (CPS) URL": [
+      "http://dl.turktrust.com.tr/pdf/TURKTRUST_CPS_V-11_[EN]_(NES).pdf"
+    ],
     "CPS Last Updated Date": "2017.03.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -485,7 +497,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.turktrust.com.tr/en/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.turktrust.com.tr/en/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://evssl.turktrust.com.tr/",
     "TLS Capable": "False",
@@ -651,7 +665,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.turktrust.com.tr/en/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.turktrust.com.tr/en/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsuite12001.turktrust.com.tr",
     "TLS Capable": "False",
@@ -729,7 +745,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.turktrust.com.tr/en/repository",
+    "Certificate Practice & Policy Statement": [
+      "http://www.turktrust.com.tr/en/repository"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsuite12002.turktrust.com.tr",
     "TLS Capable": "False",

@@ -28,7 +28,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "https://www.s-trust.de/stn-cps",
+    "Certificate Practice & Policy Statement": [
+      "https://www.s-trust.de/stn-cps"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -69,7 +71,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.s-trust.de/stn-cps/stn_cps.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://www.s-trust.de/stn-cps/stn_cps.pdf"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -109,7 +113,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": "http://www.s-trust.de/stn-cps/stn_cps.pdf",
+    "Certificate Practice & Policy Statement": [
+      "http://www.s-trust.de/stn-cps/stn_cps.pdf"
+    ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
