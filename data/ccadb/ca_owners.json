@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9576,
+  "total_records": 9578,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -466,15 +466,15 @@
     },
     {
       "ca_owner": "Chunghwa Telecom",
-      "record_count": 30,
+      "record_count": 32,
       "countries": [
         "Taiwan, Republic of China"
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
         "partially_trusted_roots": 2,
-        "untrusted_roots": 1,
-        "intermediates": 25
+        "untrusted_roots": 2,
+        "intermediates": 26
       },
       "output_filename": "Chunghwa_Telecom.json"
     },
