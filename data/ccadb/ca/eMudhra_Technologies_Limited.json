@@ -2005,7 +2005,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2037,7 +2041,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2069,7 +2077,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2101,7 +2113,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2229,7 +2245,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2293,7 +2313,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2389,7 +2413,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2453,7 +2481,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2517,7 +2549,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2613,7 +2649,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2645,7 +2685,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2677,7 +2721,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2773,7 +2821,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2805,7 +2857,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2837,7 +2893,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2869,7 +2929,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2901,7 +2965,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2965,7 +3033,11 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.00.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
