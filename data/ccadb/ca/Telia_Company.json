@@ -1266,9 +1266,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html",
       "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10443/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10445/",
@@ -2049,9 +2050,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html",
       "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10600/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10602/",
@@ -2326,9 +2328,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html"
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html"
     ],
-    "CP/CPS Last Updated Date": "2025.05.15",
+    "CP/CPS Last Updated Date": "2025.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md"
@@ -2987,9 +2990,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html"
+      "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html"
     ],
-    "CP/CPS Last Updated Date": "2025.05.15",
+    "CP/CPS Last Updated Date": "2025.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md"
