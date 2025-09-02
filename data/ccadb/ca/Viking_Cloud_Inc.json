@@ -1814,9 +1814,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://sgcatest.vikingcloud.com",
     "Test Website URL - Expired": "https://sgcatest-expired.vikingcloud.com",
@@ -1946,9 +1946,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://stcatest.vikingcloud.com",
     "Test Website URL - Expired": "https://stcatest-expired.vikingcloud.com",
@@ -2698,9 +2698,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://xgcatest.vikingcloud.com",
     "Test Website URL - Expired": "https://xgcatest-expired.vikingcloud.com",
@@ -3395,9 +3395,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://twgp384catest.vikingcloud.com",
     "Test Website URL - Expired": "https://twgp384catest-expired.vikingcloud.com",
@@ -3465,9 +3465,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://twgp256catest.vikingcloud.com",
     "Test Website URL - Expired": "https://twgp256catest-expired.vikingcloud.com",
@@ -3535,9 +3535,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://twgcatest.vikingcloud.com",
     "Test Website URL - Expired": "https://twgcatest-expired.vikingcloud.com",
@@ -3594,9 +3594,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vct1catest.vikingcloud.com",
     "Test Website URL - Expired": "https://vct1catest-expired.vikingcloud.com",
@@ -3651,9 +3651,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_82.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_83.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.12",
+    "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vct1p3catest.vikingcloud.com",
     "Test Website URL - Expired": "https://vct1p3catest-expired.vikingcloud.com",
