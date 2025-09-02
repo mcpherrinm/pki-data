@@ -306,13 +306,13 @@
       "https://eidas.disig.sk/pdf/cp-disig-en.pdf",
       "https://eidas.disig.sk/pdf/cp-smime-disig-en.pdf"
     ],
-    "CP Last Updated Date": "2025.03.15",
+    "CP Last Updated Date": "2025.09.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://eidas.disig.sk/pdf/cps_ra_cadisig_en.pdf",
       "https://eidas.disig.sk/pdf/cps_smime_ra_cadisig_en.pdf"
     ],
-    "CPS Last Updated Date": "2025.03.15",
+    "CPS Last Updated Date": "2025.09.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl-valid-r2i2.disig.sk/",
