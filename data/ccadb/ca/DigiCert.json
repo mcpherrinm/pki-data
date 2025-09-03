@@ -47096,7 +47096,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -47106,7 +47106,6 @@
     "Valid To (GMT)": "2025.09.02",
     "Subject Key Identifier": "QCW5uF6/EDoPYy//COzv1dsDmJ0=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_98d4d8814a29e0608eca8e7b5a695afa/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -47116,7 +47115,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -47128,7 +47127,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -47138,7 +47137,6 @@
     "Valid To (GMT)": "2025.09.02",
     "Subject Key Identifier": "onrRpDBZdzO3apoOFfIeqdO8xPU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_249a89080826f2e2cf126cb10bff6392/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -47148,7 +47146,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -47160,7 +47158,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -47170,7 +47168,6 @@
     "Valid To (GMT)": "2025.09.02",
     "Subject Key Identifier": "LFyucL1GGHY7K4MLlR/ljvRqehM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_c7040d5be737701df617f3d0f95d898e/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -47180,7 +47177,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -47192,7 +47189,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -47202,7 +47199,6 @@
     "Valid To (GMT)": "2025.09.02",
     "Subject Key Identifier": "u3bcwtZZay8YDnAfTIjWly+IHIw=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_426f6e04ab9b5f917d47f2636f6a89ed/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -47212,7 +47208,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -78008,9 +78004,7 @@
     "Authority Key Identifier": "y9C9qeGYBVGhTTeig3nOjR0q5IQ=",
     "Subject Key Identifier": "oJklrzUgSZKUM0IAG+YVVy9aMfQ=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDG3CSECC384SHA3842025CA1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -78043,9 +78037,7 @@
     "Subject Key Identifier": "JzuzTR1UVrH6BlVPG4QQi8SGJVY=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl.digicert.eu/TelenorNorgeASPG2CA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -78078,9 +78070,7 @@
     "Subject Key Identifier": "yf6EdmATIHmyXMIsgYGfplRmeQM=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl.digicert.eu/TelenorNorgeASTG2CA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
