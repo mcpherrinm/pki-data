@@ -4060,7 +4060,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.4.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.5.pdf"
     ],
     "CPS Last Updated Date": "2025.07.21",
