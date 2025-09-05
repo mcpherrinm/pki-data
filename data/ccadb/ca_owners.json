@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9593,
+  "total_records": 9605,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -662,7 +662,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2349,
+      "record_count": 2350,
       "countries": [
         "United States of America"
       ],
@@ -670,7 +670,7 @@
         "trusted_roots": 8,
         "partially_trusted_roots": 19,
         "untrusted_roots": 69,
-        "intermediates": 2253
+        "intermediates": 2254
       },
       "output_filename": "DigiCert.json"
     },
@@ -1474,15 +1474,15 @@
     },
     {
       "ca_owner": "Internet Security Research Group",
-      "record_count": 26,
+      "record_count": 37,
       "countries": [
         "United States of America"
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 0,
-        "intermediates": 24
+        "untrusted_roots": 2,
+        "intermediates": 33
       },
       "output_filename": "Internet_Security_Research_Group.json"
     },
