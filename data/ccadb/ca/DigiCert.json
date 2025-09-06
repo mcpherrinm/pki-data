@@ -78103,9 +78103,7 @@
     "Subject Key Identifier": "/SjOUtcca4mzU2CAx2aaypFu8k4=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl3.digicert.com/SGNFISGLOBALPUBLICCA3.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
