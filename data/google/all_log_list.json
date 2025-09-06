@@ -784,8 +784,8 @@
           "url": "https://ct.cloudflare.com/logs/nimbus2027/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-07-30T21:30:00Z"
+            "qualified": {
+              "timestamp": "2025-09-05T00:00:00Z"
             }
           },
           "temporal_interval": {
