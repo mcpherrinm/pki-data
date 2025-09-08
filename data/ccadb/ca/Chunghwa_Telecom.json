@@ -368,8 +368,8 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "HIPKI CP, HIPKI CA CPS",
     "CA Document Repository": "https://chtca.hinet.net/en/repository.html",
-    "CP Same as Parent": "false",
-    "CPS Same as Parent": "false",
+    "CP Same as Parent": "true",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CPS-v1.0-en.pdf"
     ],
