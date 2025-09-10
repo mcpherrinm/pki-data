@@ -82,6 +82,7 @@
     "Subject Key Identifier": "CwOr1KI4NqbtuAPS9IieDProTmk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
+    "Full CRL Issued By This CA": "https://www.oaticerts.com/repository/OATIIA2021.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "true",
@@ -168,7 +169,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "http://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf",
       "http://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.01.21",

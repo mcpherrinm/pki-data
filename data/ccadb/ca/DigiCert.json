@@ -47220,7 +47220,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -47231,7 +47231,6 @@
     "Authority Key Identifier": "h4wglciYStHWgAZKkDRE3xxNv7A=",
     "Subject Key Identifier": "P2YVuFuYe3Ha8GsbovQa9HeYZH8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_67bcd8e111ceeb53455669339a7c4b07/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -47241,7 +47240,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -47253,7 +47252,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -47264,7 +47263,6 @@
     "Authority Key Identifier": "h4wglciYStHWgAZKkDRE3xxNv7A=",
     "Subject Key Identifier": "UI9jd7t2QqCznLks62bkEJBBsrI=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_f769f413da0e2d64723aa8e060508c96/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -47274,7 +47272,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
