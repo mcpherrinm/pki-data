@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9605,
+  "total_records": 9606,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -424,14 +424,14 @@
     },
     {
       "ca_owner": "certSIGN",
-      "record_count": 21,
+      "record_count": 22,
       "countries": [
         "Romania"
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 0,
+        "untrusted_roots": 1,
         "intermediates": 19
       },
       "output_filename": "certSIGN.json"
