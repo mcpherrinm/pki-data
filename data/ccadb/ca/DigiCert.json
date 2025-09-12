@@ -78133,9 +78133,7 @@
     "Authority Key Identifier": "y9C9qeGYBVGhTTeig3nOjR0q5IQ=",
     "Subject Key Identifier": "vkUDuw1Yn6z+ka5gQabEMXCYkyo=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertAssuredIDG3EURCSECC384SHA3842025CA1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
