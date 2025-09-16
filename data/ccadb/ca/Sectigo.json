@@ -162,7 +162,7 @@
     "Parent Salesforce Record ID": "001o000000HshEmAAJ",
     "Parent Certificate Name": "Entrust.net Certification Authority (2048)",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -197,7 +197,7 @@
     "Parent Salesforce Record ID": "001o000000HshEmAAJ",
     "Parent Certificate Name": "Entrust.net Certification Authority (2048)",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -232,7 +232,7 @@
     "Parent Salesforce Record ID": "001o000000HshEmAAJ",
     "Parent Certificate Name": "Entrust.net Certification Authority (2048)",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -391,7 +391,7 @@
     "Parent Salesforce Record ID": "001o000000HshEmAAJ",
     "Parent Certificate Name": "Entrust.net Certification Authority (2048)",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -426,7 +426,7 @@
     "Parent Salesforce Record ID": "001o000000HshEmAAJ",
     "Parent Certificate Name": "Entrust.net Certification Authority (2048)",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -461,7 +461,7 @@
     "Parent Salesforce Record ID": "001o000000TNaDUAA1",
     "Parent Certificate Name": "Entrust Root Certification Authority - G2",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -496,7 +496,7 @@
     "Parent Salesforce Record ID": "001o000000HshElAAJ",
     "Parent Certificate Name": "Entrust Root Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -2582,7 +2582,7 @@
     "Parent Salesforce Record ID": "001o000000HshElAAJ",
     "Parent Certificate Name": "Entrust Root Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -11131,7 +11131,7 @@
     "Parent Salesforce Record ID": "001o000000HshElAAJ",
     "Parent Certificate Name": "Entrust Root Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Unisys Corporation",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -11636,7 +11636,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.entrust.net/class2ca.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
+    "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -15698,7 +15698,7 @@
     "Parent Salesforce Record ID": "0014o00001mryzxAAA",
     "Parent Certificate Name": "Entrust Enterprise Intermediate CA - ICA1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Entrust",
+    "Subordinate CA Owner": "Siemens AG",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -17848,7 +17848,6 @@
     "Authority Key Identifier": "jkcFnFd9YGDLSMz3omBO0usAumI=",
     "Subject Key Identifier": "OIe12J3CetKwlsGOpf8T21xEZfU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Secure Email",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZE3.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.siemens.com/pki",
@@ -17867,7 +17866,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United Kingdom"
   },
   {
@@ -17891,7 +17890,6 @@
     "Authority Key Identifier": "jkcFnFd9YGDLSMz3omBO0usAumI=",
     "Subject Key Identifier": "dWGtHrJQpYcgLMAbU/8CJjZMLEs=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZED.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://siemens.com/pki",
@@ -17910,7 +17908,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United Kingdom"
   },
   {
@@ -17934,7 +17932,6 @@
     "Authority Key Identifier": "jkcFnFd9YGDLSMz3omBO0usAumI=",
     "Subject Key Identifier": "m1nuZXWD6rGhROva/3x7c2/s8no=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZE6.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://siemens.com/pki",
@@ -17953,7 +17950,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United Kingdom"
   },
   {
@@ -17977,7 +17974,6 @@
     "Authority Key Identifier": "jkcFnFd9YGDLSMz3omBO0usAumI=",
     "Subject Key Identifier": "WRZuLTohjxX3lNmsoTZuBUN9/tM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZE2.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.siemens.com/pki",
@@ -17996,7 +17992,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United Kingdom"
   },
   {
@@ -20004,7 +20000,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -20066,6 +20061,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.01.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -20869,8 +20868,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.03.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -21234,7 +21232,6 @@
     "Parent Salesforce Record ID": "001o000000HshDkAAJ",
     "Parent Certificate Name": "AAA Certificate Services",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Sectigo",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -21250,20 +21247,15 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootE46.crl",
     "Auditor": "BDO International Limited",
-    "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=79312b56-c1a0-433c-b060-b20d22e8d395",
-    "Standard Audit Type": "WebTrust",
-    "Standard Audit Statement Date": "2024.06.24",
-    "Standard Audit Period Start Date": "2023.04.01",
-    "Standard Audit Period End Date": "2024.03.31",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.02.27",
+    "CP/CPS Last Updated Date": "2025.09.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21522,8 +21514,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.03.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -21872,7 +21863,6 @@
     "Parent Salesforce Record ID": "001o000000HshDkAAJ",
     "Parent Certificate Name": "AAA Certificate Services",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Sectigo",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -21888,20 +21878,15 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootR46.crl",
     "Auditor": "BDO International Limited",
-    "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=79312b56-c1a0-433c-b060-b20d22e8d395",
-    "Standard Audit Type": "WebTrust",
-    "Standard Audit Statement Date": "2024.06.24",
-    "Standard Audit Period Start Date": "2023.04.01",
-    "Standard Audit Period End Date": "2024.03.31",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.02.27",
+    "CP/CPS Last Updated Date": "2025.09.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -22174,7 +22159,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -22676,7 +22660,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -27190,7 +27173,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -30045,7 +30027,7 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.entrust.net/level1m.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
+    "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -30359,6 +30341,7 @@
     "Parent Salesforce Record ID": "001o000000TNaDUAA1",
     "Parent Certificate Name": "Entrust Root Certification Authority - G2",
     "Certificate Record Type": "Intermediate Certificate",
+    "Subordinate CA Owner": "Entrust",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -30373,10 +30356,10 @@
     "Subject Key Identifier": "/L1+mgjCVJ2YGF26LRFuCGF+p18=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.entrust.net/cryptasevca.crl",
-    "Audits Same as Parent": "true",
+    "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -31172,7 +31155,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -47459,8 +47441,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.03.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -47558,7 +47539,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -47702,7 +47682,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -47775,7 +47754,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -47831,7 +47809,6 @@
     "Parent Salesforce Record ID": "001o000000OrM9AAAV",
     "Parent Certificate Name": "USERTrust ECC Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Sectigo",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -47847,20 +47824,15 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootE46.crl",
     "Auditor": "BDO International Limited",
-    "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=79312b56-c1a0-433c-b060-b20d22e8d395",
-    "Standard Audit Type": "WebTrust",
-    "Standard Audit Statement Date": "2024.06.24",
-    "Standard Audit Period Start Date": "2023.04.01",
-    "Standard Audit Period End Date": "2024.03.31",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.02.27",
+    "CP/CPS Last Updated Date": "2025.09.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -47875,7 +47847,6 @@
     "Parent Salesforce Record ID": "001o000000OrM8vAAF",
     "Parent Certificate Name": "USERTrust RSA Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Sectigo",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -47891,20 +47862,15 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootR46.crl",
     "Auditor": "BDO International Limited",
-    "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=79312b56-c1a0-433c-b060-b20d22e8d395",
-    "Standard Audit Type": "WebTrust",
-    "Standard Audit Statement Date": "2024.06.24",
-    "Standard Audit Period Start Date": "2023.04.01",
-    "Standard Audit Period End Date": "2024.03.31",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.02.27",
+    "CP/CPS Last Updated Date": "2025.09.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48044,8 +48010,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.03.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -48226,7 +48191,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
       "https://www.sectigo.com/uploads/files/SMIME-CP-CPS-1.0.4.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf",
       "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_1_1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.01",
@@ -49456,10 +49420,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -49551,10 +49511,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -49602,8 +49558,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.03.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -49921,8 +49876,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf",
-      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_4.pdf"
+      "https://www.sectigo.com/uploads/files/Code-Signing-CP-CPS-1.0.3.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.03.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
