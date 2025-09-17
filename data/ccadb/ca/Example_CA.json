@@ -455,6 +455,10 @@
     ],
     "CP/CPS Last Updated Date": "2024.09.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.sectigo.com/uploads/files/Sectigo_TLS_CPS_v6_0_0.pdf"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "False",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
