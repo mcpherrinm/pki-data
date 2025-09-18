@@ -2967,11 +2967,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
-      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://identrust-commercial-rsa-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-commercial-rsa-ov-expired.identrustssl.com/",
@@ -3116,11 +3111,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
-      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3262,11 +3252,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
-      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3296,11 +3281,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
-      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3330,11 +3310,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_cps_v4.9.2_20241204.pdf",
-      "https://www.identrust.com/sites/default/files/resources/identrust_trustid_cp_v4.9.2_20241204.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2024.12.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
