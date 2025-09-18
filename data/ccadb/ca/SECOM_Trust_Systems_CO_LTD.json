@@ -3760,9 +3760,9 @@
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cybertrust.ne.jp/ssl/repository/"
+      "https://www.cybertrust.ne.jp/ssl/repository/OVCPCPS_English.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -4577,9 +4577,9 @@
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cybertrust.ne.jp/ssl/repository/"
+      "https://www.cybertrust.ne.jp/ssl/repository/OVCPCPS_English.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -4845,8 +4845,12 @@
     "Certificate Practice & Policy Statement": [
       "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.21",
+    "CP/CPS Last Updated Date": "2025.09.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -4909,9 +4913,9 @@
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cybertrust.ne.jp/ssl/repository/"
+      "https://www.cybertrust.ne.jp/ssl/repository/EVCPCPS_English.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -5073,8 +5077,12 @@
     "Certificate Practice & Policy Statement": [
       "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.21",
+    "CP/CPS Last Updated Date": "2025.09.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository/SMCPCPS_English.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5537,9 +5545,9 @@
     "CP/CPS Last Updated Date": "2025.07.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cybertrust.ne.jp/ssl/repository/"
+      "https://www.cybertrust.ne.jp/ssl/repository/EVCPCPS_English.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.17",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
