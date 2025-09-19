@@ -16324,10 +16324,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://pki.goog/repo/cp-cps-smime/6.1/GTS-CP-CPS-SMIME.html",
+      "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.08.04",
+    "CP/CPS Last Updated Date": "2025.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
