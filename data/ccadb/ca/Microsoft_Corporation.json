@@ -3550,9 +3550,10 @@
     "CP Last Updated Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.2.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.2.pdf",
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.3.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.03",
+    "CPS Last Updated Date": "2025.09.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://acteccroot2017.pki.microsoft.com/",
@@ -3664,9 +3665,10 @@
     "CP Last Updated Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.2.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.2.pdf",
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.3.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.03",
+    "CPS Last Updated Date": "2025.09.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://actrsaroot2017.pki.microsoft.com/",

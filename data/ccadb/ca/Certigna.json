@@ -1070,7 +1070,16 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf",
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://cps.certigna.com/PCCertignaTLSCA.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.18",
     "Test Website URL - Valid": "https://valid.servicesca-racine.dhimyotis.com",
     "Test Website URL - Expired": "https://expired.servicesca-racine.dhimyotis.com",
     "Test Website URL - Revoked": "https://revoked.servicesca-racine.dhimyotis.com",
@@ -1467,7 +1476,16 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf",
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://cps.certigna.com/PCCertignaTLSCA.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.18",
     "Test Website URL - Valid": "https://valid.servicesca.dhimyotis.com",
     "Test Website URL - Expired": "https://expired.servicesca.dhimyotis.com",
     "Test Website URL - Revoked": "https://revoked.servicesca.dhimyotis.com",
@@ -1942,7 +1960,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://cps.certigna.com/PCCertignaTLSCA.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.18",
     "Test Website URL - Valid": "https://valid.certignaserverauthenticationovcpca.certigna.com",
     "Test Website URL - Expired": "https://expired.certignaserverauthenticationovcpca.certigna.com",
     "Test Website URL - Revoked": "https://revoked.certignaserverauthenticationovcpca.certigna.com",
@@ -1986,6 +2012,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2175,6 +2205,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2216,7 +2250,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://cps.certigna.com/PCCertignaTLSCA.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.18",
     "Test Website URL - Valid": "https://valid.certignaserverauthenticationovcpeuca.certigna.com",
     "Test Website URL - Expired": "https://expired.certignaserverauthenticationovcpeuca.certigna.com",
     "Test Website URL - Revoked": "https://revoked.certignaserverauthenticationovcpeuca.certigna.com",

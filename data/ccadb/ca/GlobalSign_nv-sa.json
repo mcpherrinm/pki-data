@@ -16323,7 +16323,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.goog/repo/cp-cps-smime/6.1/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
