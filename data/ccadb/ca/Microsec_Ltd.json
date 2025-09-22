@@ -2528,14 +2528,16 @@
     "CA Document Repository": "https://e-szigno.hu/en/pki-services/certificate-policies-general-terms-and-conditions/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng"
     ],
-    "CP Last Updated Date": "2025.05.20",
+    "CP Last Updated Date": "2025.09.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng"
     ],
-    "CPS Last Updated Date": "2025.03.20",
+    "CPS Last Updated Date": "2025.09.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://qtlsca2018-valid.e-szigno.hu/",
@@ -2909,20 +2911,23 @@
     "TLS EVG Audit Period End Date": "2024.09.09",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng"
     ],
-    "CP Last Updated Date": "2025.05.20",
+    "CP Last Updated Date": "2025.09.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng"
     ],
-    "CPS Last Updated Date": "2025.03.20",
+    "CPS Last Updated Date": "2025.09.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/microsec/regulations",
       "https://github.com/microsec/regulations"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.05.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.15",
     "Test Website URL - Valid": "https://eqtlsca2023-valid.e-szigno.hu",
     "Test Website URL - Expired": "https://eqtlsca2023-expired.e-szigno.hu",
     "Test Website URL - Revoked": "https://eqtlsca2023-revoked.e-szigno.hu",
@@ -3070,16 +3075,18 @@
     "TLS EVG Audit Period End Date": "2024.09.09",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng"
     ],
-    "CP Last Updated Date": "2025.05.20",
+    "CP Last Updated Date": "2025.09.15",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/microsec/regulations",
       "https://github.com/microsec/regulations"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.05.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.15",
     "Test Website URL - Valid": "https://eqtlsca2025-valid.e-szigno.hu",
     "Test Website URL - Expired": "https://eqtlsca2025-expired.e-szigno.hu",
     "Test Website URL - Revoked": "https://eqtlsca2025-revoked.e-szigno.hu",
@@ -3226,9 +3233,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/microsec/regulations",
       "https://github.com/microsec/regulations"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.05.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.15",
     "Test Website URL - Valid": "https://ovtlsca2025-valid.e-szigno.hu",
     "Test Website URL - Expired": "https://ovtlsca2025-expired.e-szigno.hu",
     "Test Website URL - Revoked": "https://ovtlsca2025-revoked.e-szigno.hu",
@@ -4138,14 +4146,16 @@
     "CA Document Repository": "https://e-szigno.hu/en/pki-services/certificate-policies-general-terms-and-conditions/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng"
     ],
-    "CP Last Updated Date": "2025.05.20",
+    "CP Last Updated Date": "2025.09.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng",
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng"
     ],
-    "CPS Last Updated Date": "2025.03.20",
+    "CPS Last Updated Date": "2025.09.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://eqtlsca2018-valid.e-szigno.hu",

@@ -85,6 +85,10 @@
     ],
     "CPS Last Updated Date": "2025.01.29",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.ssl.gov.sa",
     "Test Website URL - Expired": "https://expired.ssl.gov.sa",
