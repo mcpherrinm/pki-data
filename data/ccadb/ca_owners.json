@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9638,
+  "total_records": 9654,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -88,7 +88,7 @@
     },
     {
       "ca_owner": "Amazon Trust Services",
-      "record_count": 67,
+      "record_count": 70,
       "countries": [
         "United States of America"
       ],
@@ -96,7 +96,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 1,
         "untrusted_roots": 3,
-        "intermediates": 59
+        "intermediates": 62
       },
       "output_filename": "Amazon_Trust_Services.json"
     },
@@ -2118,7 +2118,7 @@
     },
     {
       "ca_owner": "Shanghai Electronic Certification Authority Co., Ltd.",
-      "record_count": 98,
+      "record_count": 100,
       "countries": [
         "China"
       ],
@@ -2126,7 +2126,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 10,
-        "intermediates": 86
+        "intermediates": 88
       },
       "output_filename": "Shanghai_Electronic_Certification_Authority_Co_Ltd.json"
     },
@@ -2202,7 +2202,7 @@
     },
     {
       "ca_owner": "SSL.com",
-      "record_count": 226,
+      "record_count": 237,
       "countries": [
         "United States of America"
       ],
@@ -2210,7 +2210,7 @@
         "trusted_roots": 6,
         "partially_trusted_roots": 6,
         "untrusted_roots": 3,
-        "intermediates": 211
+        "intermediates": 222
       },
       "output_filename": "SSLcom.json"
     },
