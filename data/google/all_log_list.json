@@ -3702,8 +3702,8 @@
             }
           },
           "temporal_interval": {
-            "start_inclusive": "2026-07-01T07:00:00Z",
-            "end_exclusive": "2027-01-01T08:00:00Z"
+            "start_inclusive": "2026-07-01T00:00:00Z",
+            "end_exclusive": "2027-01-01T00:00:00Z"
           }
         },
         {
