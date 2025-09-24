@@ -59656,9 +59656,7 @@
     "Subject Key Identifier": "fKrJqd3Rr9j00kFhVy9L+NNuXQ4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20TLS%20G1%20ECC%20CA%2001.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
@@ -59718,9 +59716,7 @@
     "Subject Key Identifier": "WzgbfqwcxbM13E0aZhKzIV+lTMc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20TLS%20G1%20ECC%20CA%2002.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
@@ -59780,9 +59776,7 @@
     "Subject Key Identifier": "ILvyGY6kxnK0qskEQW9VmqafPQ8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20TLS%20G1%20RSA%20CA%2001.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
@@ -59842,9 +59836,7 @@
     "Subject Key Identifier": "w9QGPNMaSBCQMjWGKNOUjHEq168=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20TLS%20G1%20RSA%20CA%2002.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
@@ -59904,9 +59896,7 @@
     "Subject Key Identifier": "tcJtcuOBR97A3aZx5FV3iKU13J8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20TLS%20G1%20RSA%20CA%2004.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
@@ -59966,9 +59956,7 @@
     "Subject Key Identifier": "vMvIvA1WI8Hmr8qH1Wt6zsZizOs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20TLS%20G1%20RSA%20CA%2003.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
