@@ -1384,10 +1384,6 @@
     "TLS BR Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://validp384tlsr2022.entrust.net/",
@@ -1443,10 +1439,6 @@
     "TLS EVG Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid4kevtlsr2022.entrust.net/",
@@ -1502,10 +1494,6 @@
     "TLS EVG Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://validp384evtlsr2022.entrust.net/",
@@ -1615,10 +1603,6 @@
     "TLS BR Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid4ktlsr2022.entrust.net/",
@@ -1664,10 +1648,6 @@
     "NetSec Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1709,10 +1689,6 @@
     "NetSec Audit Period End Date": "2025.02.28",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/entrust-certificate-services-cps-3-29.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

@@ -2684,7 +2684,7 @@
     "Authority Key Identifier": "7UQZwNPwBovupHu+QucmVMiONnY=",
     "Subject Key Identifier": "TstQbTnFcXj5IJkjOZieUkYMp1w=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://validation.identrust.com/crl/crowdstriketlsca1.cr",
+    "Full CRL Issued By This CA": "http://validation.identrust.com/crl/crowdstriketlsca1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
