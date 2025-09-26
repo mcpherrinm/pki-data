@@ -225,16 +225,16 @@
     "TLS BR Audit Period Start Date": "2023.10.01",
     "TLS BR Audit Period End Date": "2024.09.30",
     "Code Signing Audit Type": "WebTrust",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://chtca.hinet.net/en/repository.html"
     ],
     "CP Last Updated Date": "2024.08.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://gtlsca.nat.gov.tw/download/GTLSCA_CPS_v1.0.5_eng.pdf"
+      "https://gtlsca.nat.gov.tw/download/GTLSCA_CPS_v1.0.6_eng.pdf"
     ],
-    "CPS Last Updated Date": "2024.03.06",
+    "CPS Last Updated Date": "2025.09.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
