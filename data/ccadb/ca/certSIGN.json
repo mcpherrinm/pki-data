@@ -743,7 +743,7 @@
     "Valid To (GMT)": "2040.07.16",
     "Subject Key Identifier": "SaqyYFWnARtaN/c/3feUSu57Ma4=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://pkipro.certsign.ro/certsign-rootg4.crl",
+    "Full CRL Issued By This CA": "https://pkipro.certsign.ro/certSIGNRootCAG4.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
