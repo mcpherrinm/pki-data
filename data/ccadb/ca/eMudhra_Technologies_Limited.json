@@ -1697,7 +1697,6 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "https://crl.emsign.com/?roottlscag3.crl",
-    "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

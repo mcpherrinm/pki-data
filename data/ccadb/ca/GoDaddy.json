@@ -149,6 +149,10 @@
     ],
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfi.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
@@ -787,9 +791,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfi.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
@@ -858,9 +863,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "Test Website URL - Valid": "https://valid.gdi.catest.godaddy.com/",
     "Test Website URL - Expired": "https://expired.gdi.catest.godaddy.com/",
     "Test Website URL - Revoked": "https://revoked.gdi.catest.godaddy.com/",
@@ -1030,9 +1036,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "Test Website URL - Valid": "https://valid.sfig2.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfig2.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfig2.catest.starfieldtech.com/",
@@ -1100,9 +1107,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "Test Website URL - Valid": "https://valid.gdig2.catest.godaddy.com/",
     "Test Website URL - Expired": "https://expired.gdig2.catest.godaddy.com/",
     "Test Website URL - Revoked": "https://revoked.gdig2.catest.godaddy.com/",
@@ -1196,15 +1204,17 @@
     "Valid To (GMT)": "2040.08.23",
     "Subject Key Identifier": "ZXmmW82bBxalQIa3SY4iR8YL3ks=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl.starfieldtech.com/sf_tls_root-r1.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1321,15 +1331,17 @@
     "Valid To (GMT)": "2040.08.24",
     "Subject Key Identifier": "7FIRlXBzGcjeykhDl0scNSQiQ1A=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl.godaddy.com/gd_tls_root-r1.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1359,9 +1371,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1511,9 +1524,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1601,9 +1615,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1659,9 +1674,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1717,9 +1733,10 @@
     "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
