@@ -81830,9 +81830,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-private-pki-cp-cps-v3-16.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/private-cpcps-v3-17.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.03.31",
+    "CP/CPS Last Updated Date": "2025.09.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
