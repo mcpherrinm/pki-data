@@ -23,8 +23,8 @@
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ssl.gov.sa/repository",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CA%20CPS%20v1.5.pdf"
     ],
