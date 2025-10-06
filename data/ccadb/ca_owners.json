@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9687,
+  "total_records": 9689,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -578,7 +578,7 @@
     },
     {
       "ca_owner": "D-TRUST",
-      "record_count": 62,
+      "record_count": 64,
       "countries": [
         "Germany"
       ],
@@ -586,7 +586,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 7,
         "untrusted_roots": 3,
-        "intermediates": 50
+        "intermediates": 52
       },
       "output_filename": "D-TRUST.json"
     },
@@ -1858,8 +1858,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 4,
+        "partially_trusted_roots": 5,
+        "untrusted_roots": 0,
         "intermediates": 31
       },
       "output_filename": "OISTE.json"

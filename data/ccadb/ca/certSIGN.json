@@ -746,11 +746,21 @@
     "Authority Key Identifier": "SaqyYFWnARtaN/c/3feUSu57Ma4=",
     "Subject Key Identifier": "YR8M9odr17/b7idupf3i8kT9TnQ=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://pkipro.certsign.ro/certsign-webcag4ev.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-web-ca-g4-certification-practice-statement/"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/09/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.2.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -777,11 +787,21 @@
     "Authority Key Identifier": "SaqyYFWnARtaN/c/3feUSu57Ma4=",
     "Subject Key Identifier": "lejCg/XLhbsQelmIwPmS8vnVS3g=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://pkipro.certsign.ro/certsign-webcag4ov.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-web-ca-g4-certification-practice-statement/"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/09/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.2.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -810,10 +830,19 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://pkipro.certsign.ro/certsign-webcag4dv.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.certsign.ro/en/document/certsign-web-ca-g4-certification-practice-statement/"
+    ],
+    "CP/CPS Last Updated Date": "2025.09.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certsign.ro/wp-content/uploads/2025/09/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.2.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
