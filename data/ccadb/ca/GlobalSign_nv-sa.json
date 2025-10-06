@@ -16323,10 +16323,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.goog/repo/cp-cps-smime/6.3/GTS-CP-CPS-SMIME.html",
-      "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-smime/6.4/GTS-CP-CPS-SMIME.html",
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.01",
+    "CP/CPS Last Updated Date": "2025.10.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -16476,9 +16476,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.01",
+    "CP/CPS Last Updated Date": "2025.10.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
