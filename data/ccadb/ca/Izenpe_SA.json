@@ -705,5 +705,33 @@
     "Country": "Spain",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email",
     "EV OIDs for Root Cert": "1.3.6.1.4.1.14777.6.1.1; 1.3.6.1.4.1.14777.6.1.2; 2.23.140.1.1"
+  },
+  {
+    "CA Owner": "Izenpe S.A.",
+    "Salesforce Record ID": "001TO00000YWp3uYAD",
+    "Certificate Name": "ROOT CA QC IZENPE",
+    "Parent Salesforce Record ID": "001o000000HsfpCAAR",
+    "Parent Certificate Name": "Izenpe S.A.",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "8E5B8BAEDC4D58BE0E301CCCB6ED173C08D7C77CE4350973389FF1AFA11D7A65",
+    "Valid From (GMT)": "2020.09.23",
+    "Valid To (GMT)": "2045.09.23",
+    "Subject Key Identifier": "qWg1woCxpdS6UiEVFxvYm+OGhpc=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Spain"
   }
 ]
