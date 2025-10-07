@@ -13508,9 +13508,7 @@
     "Subject Key Identifier": "gPf1uN6e044ovsDy9amOUxmRpHc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/gsgccr6ovtlsca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
