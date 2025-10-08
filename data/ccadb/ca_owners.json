@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9699,
+  "total_records": 9701,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -172,7 +172,7 @@
     },
     {
       "ca_owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
-      "record_count": 194,
+      "record_count": 196,
       "countries": [
         "Polska"
       ],
@@ -180,7 +180,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 1,
         "untrusted_roots": 9,
-        "intermediates": 180
+        "intermediates": 182
       },
       "output_filename": "Asseco_Data_Systems_SA_previously_Unizeto_Certum.json"
     },

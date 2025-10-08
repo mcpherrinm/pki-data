@@ -3648,8 +3648,8 @@
           "monitoring_url": "https://halloumi2025h2.mon.ct.ipng.ch/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-03T15:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-07T18:30:00Z"
             }
           },
           "temporal_interval": {
@@ -3665,8 +3665,8 @@
           "monitoring_url": "https://halloumi2026h1.mon.ct.ipng.ch/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-03T15:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-07T18:30:00Z"
             }
           },
           "temporal_interval": {
@@ -3716,8 +3716,8 @@
           "monitoring_url": "https://halloumi2027h1.mon.ct.ipng.ch/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-03T15:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-07T18:30:00Z"
             }
           },
           "temporal_interval": {
@@ -3733,8 +3733,8 @@
           "monitoring_url": "https://halloumi2027h2.mon.ct.ipng.ch/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-03T15:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-07T18:30:00Z"
             }
           },
           "temporal_interval": {
