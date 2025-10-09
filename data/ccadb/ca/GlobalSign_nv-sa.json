@@ -23780,9 +23780,7 @@
     "Subject Key Identifier": "pElZa1iseYCifIbwWabIjl1Sr5A=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/itsmesignbiometricca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23850,9 +23848,7 @@
     "Subject Key Identifier": "m4MIcnleQpgrsh3aOf3j+DqKz3E=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/itsmesignnonbiometricca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
