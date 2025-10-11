@@ -1255,8 +1255,8 @@
           "url": "https://wyvern.ct.digicert.com/2027h1/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-04T12:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-10T18:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1271,8 +1271,8 @@
           "url": "https://wyvern.ct.digicert.com/2027h2/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-04T12:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-10T18:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1383,8 +1383,8 @@
           "url": "https://sphinx.ct.digicert.com/2027h1/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-04T12:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-10T18:00:00Z"
             }
           },
           "temporal_interval": {
@@ -1399,8 +1399,8 @@
           "url": "https://sphinx.ct.digicert.com/2027h2/",
           "mmd": 86400,
           "state": {
-            "pending": {
-              "timestamp": "2025-09-04T12:00:00Z"
+            "qualified": {
+              "timestamp": "2025-10-10T18:00:00Z"
             }
           },
           "temporal_interval": {
@@ -3372,8 +3372,8 @@
           "monitoring_url": "https://tuscolo2027h1.skylight.geomys.org/",
           "mmd": 60,
           "state": {
-            "qualified": {
-              "timestamp": "2025-07-29T21:00:00Z"
+            "usable": {
+              "timestamp": "2025-10-08T21:00:00Z"
             }
           },
           "temporal_interval": {
@@ -3389,8 +3389,8 @@
           "monitoring_url": "https://tuscolo2027h2.skylight.geomys.org/",
           "mmd": 60,
           "state": {
-            "qualified": {
-              "timestamp": "2025-07-29T21:00:00Z"
+            "usable": {
+              "timestamp": "2025-10-08T21:00:00Z"
             }
           },
           "temporal_interval": {
