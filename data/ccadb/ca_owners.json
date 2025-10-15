@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9701,
+  "total_records": 9702,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2006,7 +2006,7 @@
     },
     {
       "ca_owner": "QuoVadis",
-      "record_count": 268,
+      "record_count": 269,
       "countries": [
         "Bermuda"
       ],
@@ -2014,7 +2014,7 @@
         "trusted_roots": 3,
         "partially_trusted_roots": 10,
         "untrusted_roots": 1,
-        "intermediates": 254
+        "intermediates": 255
       },
       "output_filename": "QuoVadis.json"
     },
