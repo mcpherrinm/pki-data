@@ -659,16 +659,18 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www1.d-trust.net/internet/files/D-TRUST_Cloud_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1096,14 +1098,16 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.ssl.d-trust.net/",
@@ -1346,14 +1350,16 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.ssl.d-trust.net/",
@@ -1404,14 +1410,16 @@
     "TLS EVG Audit Period End Date": "2024.10.07",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.tls.d-trust.net/",
@@ -1631,14 +1639,16 @@
     "TLS BR Audit Period End Date": "2024.10.07",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.tls.d-trust.net/",
@@ -1899,14 +1909,16 @@
     "S/MIME BR Audit Period End Date": "2024.10.07",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2118,15 +2130,17 @@
     "S/MIME BR Audit Period End Date": "2024.10.07",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2202,14 +2216,16 @@
     "TLS BR Audit Period End Date": "2024.10.07",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-dv-valid-rsa.tls.d-trust.net/",
@@ -2361,14 +2377,16 @@
     "TLS EVG Audit Period End Date": "2024.10.07",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.06.30",
+    "CP Last Updated Date": "2025.10.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Last Updated Date": "2025.10.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid-rsa.tls.d-trust.net/",
