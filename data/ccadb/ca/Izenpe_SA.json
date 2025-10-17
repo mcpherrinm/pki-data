@@ -723,6 +723,7 @@
     "Valid To (GMT)": "2045.09.23",
     "Subject Key Identifier": "qWg1woCxpdS6UiEVFxvYm+OGhpc=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl.izenpe.eus/cgi-bin/izrootqc",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

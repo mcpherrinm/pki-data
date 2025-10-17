@@ -164,16 +164,14 @@
     "S/MIME BR Audit Period End Date": "2025.06.26",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.7.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.8.pdf"
     ],
-    "CP Last Updated Date": "2023.10.30",
+    "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.1.pdf",
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.4.pdf",
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.8.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
     ],
-    "CPS Last Updated Date": "2024.01.30",
+    "CPS Last Updated Date": "2025.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -280,16 +278,14 @@
     "S/MIME BR Audit Period End Date": "2025.06.26",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.7.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.8.pdf"
     ],
-    "CP Last Updated Date": "2023.10.30",
+    "CP Last Updated Date": "2024.12.06",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.1.pdf",
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.4.pdf",
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.8.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
     ],
-    "CPS Last Updated Date": "2024.01.30",
+    "CPS Last Updated Date": "2025.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

@@ -2950,13 +2950,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v5.8/",
       "https://letsencrypt.org/documents/isrg-cp-cps-v5.9/"
     ],
     "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v5.8/CP-CPS.md",
       "https://github.com/letsencrypt/cp-cps/blob/v5.9/CP-CPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.29",
@@ -3010,13 +3008,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v5.8/",
       "https://letsencrypt.org/documents/isrg-cp-cps-v5.9/"
     ],
     "CP/CPS Last Updated Date": "2025.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v5.8/CP-CPS.md",
       "https://github.com/letsencrypt/cp-cps/blob/v5.9/CP-CPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.29",
@@ -3047,6 +3043,7 @@
     "Valid To (GMT)": "2045.09.02",
     "Subject Key Identifier": "o8gmWo6hTNA1Y/ybI8g6rlbzT1Y=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://ye.c.lencr.org",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -3075,6 +3072,7 @@
     "Valid To (GMT)": "2045.09.02",
     "Subject Key Identifier": "3udbYNAibUAofT8NAf6ktVK0UZQ=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://yr.c.lencr.org",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

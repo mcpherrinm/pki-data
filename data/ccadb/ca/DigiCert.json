@@ -78439,9 +78439,7 @@
     "Subject Key Identifier": "ra4ViiKS549swMhvaobrF1L+Wh8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl3.digicert.com/NoblisCo-brandedIssuingCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -78474,9 +78472,7 @@
     "Subject Key Identifier": "8YZuP0cJJXFOTiAH640wkqdgYrc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
+    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4TLSRSA4096SHA3842025CA1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
