@@ -759,15 +759,7 @@
     "Standard Audit Period Start Date": "2023.05.10",
     "Standard Audit Period End Date": "2024.05.09",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/CP_Root_ECC_1v052_EN.pdf"
-    ],
-    "CP Last Updated Date": "2024.04.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/ACPS/HCA/CPS_ECC_1v06_EN.pdf"
-    ],
-    "CPS Last Updated Date": "2024.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
