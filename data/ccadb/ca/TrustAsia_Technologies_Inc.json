@@ -1324,14 +1324,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-rsatls-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-rsatls-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-rsatls-revoked.trustasia.com",
@@ -1415,14 +1415,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1540,14 +1540,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-ecctls-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-ecctls-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-ecctls-revoked.trustasia.com",
@@ -1598,14 +1598,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1667,15 +1667,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
     "Test Website URL - Valid": "https://ev-rsa-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-rsa-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-rsa-revoked.trustasia.com",
@@ -1729,15 +1721,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
     "Test Website URL - Valid": "https://ev-ecc-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-ecc-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-ecc-revoked.trustasia.com",
@@ -1802,14 +1786,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-eccg4-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-eccg4-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-eccg4-revoked.trustasia.com",
@@ -1876,14 +1860,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-rsag3-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-rsag3-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-rsag3-revoked.trustasia.com",
@@ -1934,14 +1918,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1987,14 +1971,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2040,14 +2024,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2093,14 +2077,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.0.3.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.28",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.0.3.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.28",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
