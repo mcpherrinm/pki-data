@@ -141,9 +141,10 @@
     "Certificate Practice & Policy Statement": [
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.4.pdf",
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.5.pdf",
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.6.pdf"
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.6.pdf",
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.7.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.19",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-certificate.naver.com/",
     "Test Website URL - Expired": "https://test2-certificate.naver.com/",
@@ -262,9 +263,10 @@
     "Certificate Practice & Policy Statement": [
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.4.pdf",
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.5.pdf",
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.6.pdf"
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.6.pdf",
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.7.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.19",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.rrg1.demo.navercloudtrust.com/",
     "Test Website URL - Expired": "https://expired.rrg1.demo.navercloudtrust.com/",
@@ -317,9 +319,10 @@
     "Certificate Practice & Policy Statement": [
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.4.pdf",
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.5.pdf",
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.6.pdf"
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.6.pdf",
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.7.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.19",
+    "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.erg1.demo.navercloudtrust.com",
     "Test Website URL - Expired": "https://expired.erg1.demo.navercloudtrust.com/",
