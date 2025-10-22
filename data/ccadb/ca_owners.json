@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9720,
+  "total_records": 9734,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2384,7 +2384,7 @@
     },
     {
       "ca_owner": "TrustAsia Technologies, Inc.",
-      "record_count": 53,
+      "record_count": 67,
       "countries": [
         "China"
       ],
@@ -2392,7 +2392,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 6,
         "untrusted_roots": 6,
-        "intermediates": 41
+        "intermediates": 55
       },
       "output_filename": "TrustAsia_Technologies_Inc.json"
     },

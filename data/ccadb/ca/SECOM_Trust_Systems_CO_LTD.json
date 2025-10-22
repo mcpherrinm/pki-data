@@ -4265,11 +4265,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "Test Website URL - Valid": "https://ev2v.secomtrust.net/",
     "Test Website URL - Expired": "https://ev2e.secomtrust.net/",
     "Test Website URL - Revoked": "https://ev2r.secomtrust.net/",
@@ -6224,11 +6225,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "Test Website URL - Valid": "https://sr4v.secom-cert.jp/",
     "Test Website URL - Expired": "https://sr4e.secom-cert.jp/",
     "Test Website URL - Revoked": "https://sr4r.secom-cert.jp/",
@@ -6352,11 +6354,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "Test Website URL - Valid": "https://sr5v.secom-cert.jp/",
     "Test Website URL - Expired": "https://sr5e.secom-cert.jp/",
     "Test Website URL - Revoked": "https://sr5r.secom-cert.jp/",
@@ -6922,11 +6924,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -6962,11 +6964,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -7047,11 +7049,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "Test Website URL - Valid": "https://ovrsa2024v.secomtrust-verification.com",
     "Test Website URL - Expired": "https://ovrsa2024e.secomtrust-verification.com",
     "Test Website URL - Revoked": "https://ovrsa2024r.secomtrust-verification.com",
@@ -7101,11 +7103,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -7157,11 +7159,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
     "Test Website URL - Valid": "https://ovecc2024v.secomtrust-verification.com",
     "Test Website URL - Expired": "https://ovecc2024e.secomtrust-verification.com",
     "Test Website URL - Revoked": "https://ovecc2024r.secomtrust-verification.com",
