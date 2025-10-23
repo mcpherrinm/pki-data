@@ -6,10 +6,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "02918B3CF1C362A12B07DE08E61C886693B4CE5C83FFA46936CB50FB9057B3FF",
@@ -41,10 +41,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "444B2CBD5E5C0FB1910525B5C99363B03B6496EA4A0ACD03A081DA9821FDFCB7",
@@ -111,10 +111,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj2cYAB",
     "Parent Certificate Name": "TrustAsia TLS RSA Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "5F8E084A637F101975F29272DC35EEB0AFDE0F857B519FB558319DE700CA5EC2",
@@ -146,10 +146,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "62B54213496E9101FFAFC8FAB3E68357F79A259F67F3D7860FA76754AF5BF0DB",
@@ -181,10 +181,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj2cYAB",
     "Parent Certificate Name": "TrustAsia TLS RSA Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "6B44BD0934E37E144307D5DE3591344C81482DCA70D7D8D6ECB4F59802FC0F85",
@@ -216,10 +216,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "86C2A5EFB7A5C8D2C7654160F0C19EEAAA0E6AE43B249F0C4D17024CDC7D2939",
@@ -251,10 +251,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj2cYAB",
     "Parent Certificate Name": "TrustAsia TLS RSA Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "8F2EE5A96CCD83A2B7FA82582A52B49AEFB1164B928F5E39A041288A6103DFD4",
@@ -274,7 +274,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "China"
@@ -286,10 +286,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "93582DD97B62EFBE54F6F435EE88C7129D01A7054FB3FBB818934FF674028959",
@@ -309,7 +309,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "China"
@@ -391,10 +391,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "CA87FC9758893E2F608966DE66EA5E6E8547046071A491807484E3BD0D9B8FD4",
@@ -414,7 +414,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "China"
@@ -461,10 +461,10 @@
     "Parent Salesforce Record ID": "001TO00000Hfj5pYAB",
     "Parent Certificate Name": "TrustAsia TLS ECC Root CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "EF727545CA777621BA1707BA3BF15890ED123B088DC3384C2097871BF85FAE00",
@@ -484,7 +484,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "China"
@@ -1819,7 +1819,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-rsatls-valid.trustasia.com",
@@ -1859,7 +1859,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1910,7 +1910,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
@@ -1946,7 +1946,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2035,7 +2035,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-ecctls-valid.trustasia.com",
@@ -2093,7 +2093,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
@@ -2281,7 +2281,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-eccg4-valid.trustasia.com",
@@ -2355,7 +2355,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "Test Website URL - Valid": "https://ev-rsag3-valid.trustasia.com",
@@ -2413,7 +2413,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
@@ -2466,7 +2466,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
@@ -2519,7 +2519,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
@@ -2572,7 +2572,7 @@
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_ZH_V2.1.0.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "False",
