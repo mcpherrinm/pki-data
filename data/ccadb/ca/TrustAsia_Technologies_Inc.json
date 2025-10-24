@@ -91,7 +91,17 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part1.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part2.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part3.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part4.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part5.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part6.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part7.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part8.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part9.crl",
+      "http://crl-pro.litessl.com/LiteSSLProRSACA2025-Part10.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -231,7 +241,17 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part1.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part2.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part3.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part4.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part5.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part6.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part7.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part8.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part9.crl",
+      "http://crl.litessl.com/LiteSSLECCCA2025-Part10.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -371,7 +391,17 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part1.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part2.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part3.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part4.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part5.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part6.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part7.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part8.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part9.crl",
+      "http://crl.litessl.com/LiteSSLRSACA2025-Part10.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -476,7 +506,17 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part1.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part2.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part3.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part4.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part5.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part6.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part7.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part8.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part9.crl",
+      "http://crl-pro.litessl.com/LiteSSLProECCCA2025-Part10.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
