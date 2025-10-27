@@ -4423,6 +4423,10 @@
     ],
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -4482,6 +4486,10 @@
     ],
     "CP/CPS Last Updated Date": "2025.10.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.0.adoc"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.20",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",

@@ -20,9 +20,7 @@
     "Subject Key Identifier": "1/pOVkY1qoJckXd6cBui1ECX/hk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/BaoTaDVTLSECCCA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -55,9 +53,7 @@
     "Subject Key Identifier": "s24Mak5ijadaNv1r6j+bz3ELc3I=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/XinNetDVTLSECCCA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -135,9 +131,7 @@
     "Subject Key Identifier": "TLPRiv/Bw+yV/awzx6R9RiQ6EtU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/XinNetOVTLSRSACA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -170,9 +164,7 @@
     "Subject Key Identifier": "a1zJ/7Y1XAiEgDU81P6vFrXpk74=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/XinNetOVTLSECCCA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -205,9 +197,7 @@
     "Subject Key Identifier": "kO16LW8k5N0Z8Y6v4SNftaUk6fk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/XinNetDVTLSRSACA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -285,9 +275,7 @@
     "Subject Key Identifier": "isl7e8aCUkpFty5LpkrJUy3gycE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/XinNetEVTLSRSACA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -320,9 +308,7 @@
     "Subject Key Identifier": "pggHg09+Cw/Qfk3v0xJ82H2FSQM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/BaoTaTLSECCCA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -355,9 +341,7 @@
     "Subject Key Identifier": "Isbrq6o5/qhbjKEDV4mo5GX/rk0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/BaoTaTLSRSACA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -435,9 +419,7 @@
     "Subject Key Identifier": "Ou7NuOO+xkG5EIvP1PsmPNKkuzo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/XinNetEVTLSECCCA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -470,9 +452,7 @@
     "Subject Key Identifier": "MN6H0G9Mh53qD5UvmuTpPd7Ajxc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/BaoTaDVTLSRSACA2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -651,6 +631,7 @@
     "Authority Key Identifier": "uAeReVwG9Eb9e1nKWiaRp0Ur+FM=",
     "Subject Key Identifier": "903KL0aqPN1OPXV5OlyibrM4gds=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "revoked",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -682,6 +663,7 @@
     "Authority Key Identifier": "LIVTu7FDzTLqnqOH/qKYqKaT6RA=",
     "Subject Key Identifier": "z0ZOgxFG15WGa2pfvP6qPb0TEbQ=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "revoked",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

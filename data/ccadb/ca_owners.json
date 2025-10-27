@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9734,
+  "total_records": 9740,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -634,7 +634,7 @@
     },
     {
       "ca_owner": "Deutsche Telekom Security GmbH",
-      "record_count": 827,
+      "record_count": 833,
       "countries": [
         "Germany"
       ],
@@ -642,7 +642,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 4,
         "untrusted_roots": 1,
-        "intermediates": 820
+        "intermediates": 826
       },
       "output_filename": "Deutsche_Telekom_Security_GmbH.json"
     },
