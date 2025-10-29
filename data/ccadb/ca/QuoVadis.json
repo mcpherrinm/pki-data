@@ -7564,9 +7564,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-3.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-root-ca-3-expired.chain-demos.digicert.com",
@@ -7667,9 +7668,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-2.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-root-ca-2-expired.chain-demos.digicert.com",
@@ -8967,9 +8969,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-3-g3.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-root-ca-3-g3-expired.chain-demos.digicert.com",
@@ -9036,9 +9039,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-1-g3.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-root-ca-1-g3-expired.chain-demos.digicert.com",
@@ -9105,9 +9109,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-root-ca-2-g3.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-root-ca-2-g3-expired.chain-demos.digicert.com",
@@ -9174,9 +9179,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -9239,9 +9245,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-tls-ecc-p384-root-g4.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-tls-ecc-p384-root-g4-expired.chain-demos.digicert.com",
@@ -9308,9 +9315,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -9373,9 +9381,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -9438,9 +9447,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -9503,9 +9513,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -9568,9 +9579,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://quovadis-tls-rsa4096-root-g4.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://quovadis-tls-rsa4096-root-g4-expired.chain-demos.digicert.com",
@@ -9637,9 +9649,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cp-cps-v6-08.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-europe-cpcps-v6.07.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.10.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

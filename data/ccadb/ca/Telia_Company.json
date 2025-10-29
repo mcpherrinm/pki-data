@@ -1317,7 +1317,6 @@
     "Parent Salesforce Record ID": "001o000000HshG3AAJ",
     "Parent Certificate Name": "TeliaSonera Root CA v1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Telia Company",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
