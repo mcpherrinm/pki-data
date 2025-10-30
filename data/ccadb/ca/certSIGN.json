@@ -456,7 +456,6 @@
     "Parent Salesforce Record ID": "0011J00001DYViqQAH",
     "Parent Certificate Name": "certSIGN ROOT CA G2",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CERTSIGN SA",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
