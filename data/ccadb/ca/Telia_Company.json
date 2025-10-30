@@ -403,12 +403,12 @@
     "Parent Salesforce Record ID": "001o000000HshG3AAJ",
     "Parent Certificate Name": "TeliaSonera Root CA v1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
+    "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "10D081A9541BF0B388818447A2A75465809AA5FB9A3DF375602472E873432AC1",
     "Parent SHA-256 Fingerprint": "DD6936FE21F8F077C123A1A521C12224F72255B73E03A7260693E8A24B0FA389",
     "Valid From (GMT)": "2023.08.16",
@@ -416,7 +416,6 @@
     "Authority Key Identifier": "8I9ZOACz9Y+algzV6/p7qhfoExI=",
     "Subject Key Identifier": "nhn/5Q06/gCXFT9p8dxaPKoMlIM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://httpcrl.trust.telia.com/teliasoneraclass2cav2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -426,7 +425,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Sweden"
   },
   {
@@ -667,12 +666,12 @@
     "Parent Salesforce Record ID": "001o000000HshG3AAJ",
     "Parent Certificate Name": "TeliaSonera Root CA v1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
-    "Chrome Status": "Trusted",
-    "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Apple Status": "Not Trusted",
+    "Chrome Status": "Not Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "D721110388CA6F20BBA9FD1A8DBA4EFB8C16392A3DEBAD97C553EEAF0ACACAAC",
     "Parent SHA-256 Fingerprint": "DD6936FE21F8F077C123A1A521C12224F72255B73E03A7260693E8A24B0FA389",
     "Valid From (GMT)": "2014.10.16",
@@ -680,17 +679,16 @@
     "Authority Key Identifier": "8I9ZOACz9Y+algzV6/p7qhfoExI=",
     "Subject Key Identifier": "L0k8KU/XByX5xozVZPVmPRKDIpU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://httpcrl.trust.telia.com/teliasoneraservercav2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Sweden"
   },
   {
@@ -1264,10 +1262,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html",
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/TLSv63/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.01",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10443/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10445/",
@@ -1353,10 +1352,10 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "E7340DC9475E87C4E5A4572C82604C5EFF9BF60B231C5486943173B26A4CAFCC",
     "Parent SHA-256 Fingerprint": "242B69742FCB1E5B2ABF98898B94572187544E5B4D9911786573621F6A74B82C",
     "Valid From (GMT)": "2020.11.12",
@@ -1364,7 +1363,6 @@
     "Authority Key Identifier": "cqzkM3mqRYf2/awdntbHL4bYJDk=",
     "Subject Key Identifier": "Gb5hil80v/+Rh7df3tUlYwkLUMQ=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Document Signing",
     "Full CRL Issued By This CA": "http://httpcrl.trust.telia.com/teliaclass3cav1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -2046,10 +2044,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html",
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/TLSv63/teliacatlscpcps.html",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.01",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10600/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10602/",
@@ -2134,12 +2133,12 @@
     "Parent Salesforce Record ID": "0011J00001kV8ZmQAK",
     "Parent Certificate Name": "Telia Root CA v2",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
+    "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "800707B1F57FCDF95CFB047B387C6F48142DA885B7DC1FED28C5F87F0C712AD4",
     "Parent SHA-256 Fingerprint": "242B69742FCB1E5B2ABF98898B94572187544E5B4D9911786573621F6A74B82C",
     "Valid From (GMT)": "2022.05.17",
@@ -2147,7 +2146,6 @@
     "Authority Key Identifier": "cqzkM3mqRYf2/awdntbHL4bYJDk=",
     "Subject Key Identifier": "GcH/EAn8/UDdNrBu2Y1vP7ftnCs=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://httpcrl.trust.telia.com/ericssonnlindividualcav4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -2157,7 +2155,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Sweden"
   },
   {
@@ -2324,9 +2322,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html"
+      "https://cps.trust.telia.com/TLSv63/teliacatlscpcps.html"
     ],
-    "CP/CPS Last Updated Date": "2025.09.01",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md"
@@ -2437,9 +2435,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2482,9 +2481,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2527,9 +2527,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2567,9 +2568,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2781,12 +2783,12 @@
     "Parent Salesforce Record ID": "001TO00000MLGQ8YAP",
     "Parent Certificate Name": "Telia RSA Email Root CA v3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
+    "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "B974D221C073DF439FE2918845D9783D7E4762C5A9D777DF2DECCBDBDCC1C1CC",
     "Parent SHA-256 Fingerprint": "5B0C502A7D963BA55217396FDA9B3DC78171000AEEFF42CECC3A20A7938163E8",
     "Valid From (GMT)": "2024.03.25",
@@ -2900,9 +2902,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2940,9 +2943,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.8.pdf",
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v4.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2985,9 +2989,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/TLSv62/teliacatlscpcps.html"
+      "https://cps.trust.telia.com/TLSv63/teliacatlscpcps.html"
     ],
-    "CP/CPS Last Updated Date": "2025.09.01",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.trust.telia.com/TLSv61/teliacatlscpcps.md"
