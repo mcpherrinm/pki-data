@@ -514,8 +514,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 4,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
         "intermediates": 6
       },
       "output_filename": "CommScope.json"

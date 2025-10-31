@@ -485,12 +485,12 @@
     "Certificate Practice & Policy Statement": [
       "https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/"
     ],
-    "CP/CPS Last Updated Date": "2025.04.30",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Public-CA-Certification-Practice-Statement-v2.29.md"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Public-CA-Certification-Practice-Statement-v2.30.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.30",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -535,12 +535,12 @@
     "Certificate Practice & Policy Statement": [
       "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
     ],
-    "CP/CPS Last Updated Date": "2025.04.30",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Qualified-CA-Certification-Practice-Statement-v2.44.md"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Qualified-CA-Certification-Practice-Statement-v2.45.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.30",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -752,14 +752,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/en/document/certsign-web-ca-g4-certification-practice-statement/"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.3.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.30",
+    "CP/CPS Last Updated Date": "2025.10.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2025/09/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.2.md"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.15",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -793,14 +793,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/en/document/certsign-web-ca-g4-certification-practice-statement/"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.3.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.30",
+    "CP/CPS Last Updated Date": "2025.10.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2025/09/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.2.md"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.15",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -834,14 +834,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/en/document/certsign-web-ca-g4-certification-practice-statement/"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.3.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.30",
+    "CP/CPS Last Updated Date": "2025.10.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2025/09/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.2.md"
+      "https://www.certsign.ro/wp-content/uploads/2025/10/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.15",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -921,8 +921,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/en/document/certsign-public-ca-certification-practice-statement/",
-      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/",
       "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/",
       "https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
       "https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/",
