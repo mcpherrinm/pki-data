@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9740,
+  "total_records": 9742,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -438,14 +438,14 @@
     },
     {
       "ca_owner": "China Financial Certification Authority (CFCA)",
-      "record_count": 13,
+      "record_count": 15,
       "countries": [
         "China"
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
         "partially_trusted_roots": 1,
-        "untrusted_roots": 5,
+        "untrusted_roots": 7,
         "intermediates": 6
       },
       "output_filename": "China_Financial_Certification_Authority_CFCA.json"
