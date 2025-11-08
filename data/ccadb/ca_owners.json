@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9745,
+  "total_records": 9755,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2062,7 +2062,7 @@
     },
     {
       "ca_owner": "Sectigo",
-      "record_count": 1455,
+      "record_count": 1465,
       "countries": [
         "United Kingdom"
       ],
@@ -2070,7 +2070,7 @@
         "trusted_roots": 10,
         "partially_trusted_roots": 16,
         "untrusted_roots": 11,
-        "intermediates": 1418
+        "intermediates": 1428
       },
       "output_filename": "Sectigo.json"
     },

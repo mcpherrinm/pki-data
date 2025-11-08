@@ -24338,7 +24338,7 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Belgium"
