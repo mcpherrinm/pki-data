@@ -1562,7 +1562,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "Polska"
@@ -3799,7 +3799,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "Polska"

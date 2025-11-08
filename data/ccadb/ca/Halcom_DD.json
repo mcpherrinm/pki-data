@@ -95,7 +95,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -129,7 +129,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -163,7 +163,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -197,7 +197,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -231,7 +231,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -307,7 +307,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -341,7 +341,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -375,7 +375,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"
@@ -409,7 +409,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Slovenia"

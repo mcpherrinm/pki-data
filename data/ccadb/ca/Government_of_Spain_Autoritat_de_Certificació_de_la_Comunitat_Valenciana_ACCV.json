@@ -106,7 +106,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Spain"
@@ -139,7 +139,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Spain"
@@ -172,7 +172,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Spain"
@@ -205,7 +205,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Spain"
@@ -238,7 +238,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Spain"
@@ -271,7 +271,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Spain"
@@ -304,7 +304,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Spain"
