@@ -15762,10 +15762,10 @@
     "Parent Salesforce Record ID": "001o000000OrM8vAAF",
     "Parent Certificate Name": "USERTrust RSA Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
-    "Chrome Status": "Trusted",
-    "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Apple Status": "Not Trusted",
+    "Chrome Status": "Not Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "4B2B72BA0BE27A63478C273A0C5B52F69B89E3699AAD4F3A1A0EAFE66B995265",
@@ -15775,14 +15775,13 @@
     "Authority Key Identifier": "U3m/WqorSs9UgOHYm8Cd8rIDZss=",
     "Subject Key Identifier": "YYULXmxbTKc2AfcZ/kINYjIFRjo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.usertrust.com/MarketWareSolucoesparaMercadosDigitaisLdaRSAEVCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -15795,10 +15794,10 @@
     "Parent Salesforce Record ID": "001o000000OrM8vAAF",
     "Parent Certificate Name": "USERTrust RSA Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
-    "Chrome Status": "Trusted",
-    "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Apple Status": "Not Trusted",
+    "Chrome Status": "Not Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "722D50874DA45496D0299627409777603A87341A5F943B889C32E7B9280A8F71",
@@ -15808,14 +15807,13 @@
     "Authority Key Identifier": "U3m/WqorSs9UgOHYm8Cd8rIDZss=",
     "Subject Key Identifier": "fYnoIFEgEUZKBNS2eDKyxEP7D9Q=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.usertrust.com/MarketWareSolucoesparaMercadosDigitaisLdaRSADVCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -19473,7 +19471,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19619,7 +19617,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -19711,7 +19709,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19771,7 +19769,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19831,7 +19829,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19957,7 +19955,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -20494,7 +20492,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21167,7 +21165,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21576,7 +21574,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21815,7 +21813,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21999,7 +21997,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22059,7 +22057,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22258,7 +22256,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22481,7 +22479,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22600,7 +22598,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22908,7 +22906,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -23054,7 +23052,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -23528,7 +23526,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30753,7 +30751,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.31",
+    "CP/CPS Last Updated Date": "2025.11.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
