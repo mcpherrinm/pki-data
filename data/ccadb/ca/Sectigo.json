@@ -31012,7 +31012,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "B14D5089079C1D8F7649DB9A5D3CEFB1AAC06F66AFC49225C5BE2AA19FD41A35",
     "Parent SHA-256 Fingerprint": "DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88",
@@ -31044,7 +31044,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "20FC75ACB2CAD7978C7B006A9B1523BFDAF5490AFCF49652C585E4A12F601C85",
     "Parent SHA-256 Fingerprint": "DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88",
@@ -46736,9 +46736,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
+      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.01",
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -46790,10 +46790,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -47274,10 +47270,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -47329,10 +47321,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -48051,7 +48039,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "1701DE38124C4458F32B88AE7E62AC15876C427A3AD3BBAE8FD1479FF00030F3",
     "Parent SHA-256 Fingerprint": "839F9B91C2E49218A66416DF181B984E9BE634D12A95483D98A6199FC0788D74",
@@ -48092,7 +48080,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "84C35FEE7A06D0BC61294D411FB4BBEF50104596F49688CCAAD32CB3B99916D6",
     "Parent SHA-256 Fingerprint": "839F9B91C2E49218A66416DF181B984E9BE634D12A95483D98A6199FC0788D74",
@@ -48125,7 +48113,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "A0DA9D5628EBCF3D13DD07C92BEE9AA2041B4622BE29810D517D9EF3EBF9A861",
     "Parent SHA-256 Fingerprint": "839F9B91C2E49218A66416DF181B984E9BE634D12A95483D98A6199FC0788D74",
@@ -48158,7 +48146,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "B2874B588A94034798319D5D329DB265F83A47F315BA5831A4970CB57166D594",
     "Parent SHA-256 Fingerprint": "839F9B91C2E49218A66416DF181B984E9BE634D12A95483D98A6199FC0788D74",
@@ -48192,7 +48180,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "839F9B91C2E49218A66416DF181B984E9BE634D12A95483D98A6199FC0788D74",
     "Parent SHA-256 Fingerprint": "DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88",
@@ -48221,10 +48209,10 @@
     "Parent Certificate Name": "Sectigo",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Included",
-    "Chrome Status": "Included",
+    "Chrome Status": "Removed",
     "Microsoft Status": "Included",
     "Mozilla Status": "Included",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "SHA-256 Fingerprint": "DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88",
     "Valid From (GMT)": "2015.05.27",
     "Valid To (GMT)": "2037.12.27",
@@ -49270,10 +49258,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49325,10 +49309,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49380,10 +49360,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49435,10 +49411,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.0.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.08.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
