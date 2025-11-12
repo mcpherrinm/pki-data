@@ -2067,8 +2067,8 @@
         "United Kingdom"
       ],
       "aggregated_counts": {
-        "trusted_roots": 10,
-        "partially_trusted_roots": 16,
+        "trusted_roots": 9,
+        "partially_trusted_roots": 17,
         "untrusted_roots": 11,
         "intermediates": 1428
       },

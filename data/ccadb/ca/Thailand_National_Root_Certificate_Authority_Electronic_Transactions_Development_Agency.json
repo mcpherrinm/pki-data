@@ -80,15 +80,7 @@
     "TLS BR Audit Period Start Date": "2023.09.01",
     "TLS BR Audit Period End Date": "2024.02.29",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.thaidigitalid.com/wp-content/uploads/2023/04/en/TDID%20G3%20CP_CPSv1.7_2023-04-03_EN.pdf"
-    ],
-    "CP Last Updated Date": "2023.04.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.thaidigitalid.com/wp-content/uploads/2023/04/en/TDID%20G3%20CP_CPSv1.7_2023-04-03_EN.pdf"
-    ],
-    "CPS Last Updated Date": "2023.04.20",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.thaidigitalid.com/wp-content/uploads//2025/06/TDID-G3-CP_CPS_V2.4.pdf"
