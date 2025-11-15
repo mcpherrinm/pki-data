@@ -2950,14 +2950,16 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v5.9/"
+      "https://letsencrypt.org/documents/isrg-cp-cps-v5.9/",
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/"
     ],
-    "CP/CPS Last Updated Date": "2025.08.29",
+    "CP/CPS Last Updated Date": "2025.11.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v5.9/CP-CPS.md"
+      "https://github.com/letsencrypt/cp-cps/blob/v5.9/CP-CPS.md",
+      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.29",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.05",
     "Test Website URL - Valid": "https://valid-isrgrootx1.letsencrypt.org/",
     "Test Website URL - Expired": "https://expired-isrgrootx1.letsencrypt.org/",
     "Test Website URL - Revoked": "https://revoked-isrgrootx1.letsencrypt.org/",
@@ -3008,14 +3010,16 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v5.9/"
+      "https://letsencrypt.org/documents/isrg-cp-cps-v5.9/",
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/"
     ],
-    "CP/CPS Last Updated Date": "2025.08.29",
+    "CP/CPS Last Updated Date": "2025.11.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v5.9/CP-CPS.md"
+      "https://github.com/letsencrypt/cp-cps/blob/v5.9/CP-CPS.md",
+      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.29",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.05",
     "Test Website URL - Valid": "https://valid-isrgrootx2.letsencrypt.org",
     "Test Website URL - Expired": "https://expired-isrgrootx2.letsencrypt.org",
     "Test Website URL - Revoked": "https://revoked-isrgrootx2.letsencrypt.org",
@@ -3048,7 +3052,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.05",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3077,7 +3089,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.05",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

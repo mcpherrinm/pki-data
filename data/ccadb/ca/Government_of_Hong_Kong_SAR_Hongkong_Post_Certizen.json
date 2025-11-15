@@ -588,11 +588,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/cps_en61.pdf",
-      "https://www.ecert.gov.hk/product/cps/ecert/img/orgrole_cps_en17.pdf",
-      "https://www.ecert.gov.hk/product/cps/gcert/img/gcert_cps_en11.pdf"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/cps_en62.pdf",
+      "https://www.ecert.gov.hk/product/cps/ecert/img/orgrole_cps_en18.pdf",
+      "https://www.ecert.gov.hk/product/cps/gcert/img/gcert_cps_en12.pdf"
     ],
-    "CP/CPS Last Updated Date": "2024.08.28",
+    "CP/CPS Last Updated Date": "2025.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -647,10 +647,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en24.pdf"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en25.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.15",
+    "CP/CPS Last Updated Date": "2025.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en25.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.01",
     "Test Website URL - Valid": "https://valid-ev.ecert.gov.hk/",
     "Test Website URL - Expired": "https://expired-ev.ecert.gov.hk/",
     "Test Website URL - Revoked": "https://revoked-ev.ecert.gov.hk/",
