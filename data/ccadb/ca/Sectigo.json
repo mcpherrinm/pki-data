@@ -46736,7 +46736,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/files/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -46790,6 +46790,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -47270,6 +47274,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -47321,6 +47329,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49258,6 +49270,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49309,6 +49325,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49360,6 +49380,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49411,6 +49435,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/eIDAS/Sectigo_eIDAS_CP_CPS_v1.0.1.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
