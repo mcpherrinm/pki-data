@@ -2820,14 +2820,16 @@
     "CPS Last Updated Date": "2024.12.04",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf",
       "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_tls-cp-cps_v5.0.0_20250926.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.26",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md",
       "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "Test Website URL - Valid": "https://identrust-public-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-public-ov-expired.identrustssl.com/",
     "Test Website URL - Revoked": "https://identrust-public-ov-revoked.identrustssl.com/",
@@ -2901,14 +2903,16 @@
     "CPS Last Updated Date": "2024.12.04",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf",
       "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_tls-cp-cps_v5.0.0_20250926.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.26",
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md",
       "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.26",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "Test Website URL - Valid": "https://identrust-commercial-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-commercial-ov-expired.identrustssl.com/",
     "Test Website URL - Revoked": "https://identrust-commercial-ov-revoked.identrustssl.com/",
@@ -3204,7 +3208,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3249,7 +3261,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3344,7 +3364,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3388,7 +3416,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3428,7 +3464,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3473,7 +3517,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3518,7 +3570,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.identrust.com/sites/default/files/resources/identrust_TrustID_non-tls-cp-cps_v5.0.0_20251030.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
