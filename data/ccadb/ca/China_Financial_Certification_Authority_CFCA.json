@@ -273,10 +273,15 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2024/10/31/2050.pdf",
-      "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf"
+      "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf",
+      "https://www.cfca.com.cn/upload/resources/file/2025/11/03/2613.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Last Updated Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.03",
     "Test Website URL - Valid": "https://www.anxinsign.com/Web/login",
     "Test Website URL - Expired": "https://exp.cebnet.com.cn/",
     "Test Website URL - Revoked": "https://rev.cebnet.com.cn/",
@@ -485,7 +490,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cfca.com.cn/upload/resources/file/2025/11/03/2613.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.03",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -514,7 +527,15 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cfca.com.cn/upload/resources/file/2025/11/03/2613.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.03",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

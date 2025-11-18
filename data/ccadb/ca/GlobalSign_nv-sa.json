@@ -17347,14 +17347,14 @@
     "CA Document Repository": "https://www.globalsign.com/en/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r1.roots.globalsign.com",
@@ -19956,14 +19956,14 @@
     "CA Document Repository": "https://www.globalsign.com/en/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r3.roots.globalsign.com",
@@ -23693,14 +23693,14 @@
     "CA Document Repository": "https://www.globalsign.com/en/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r6.roots.globalsign.com/",
@@ -24628,14 +24628,14 @@
     "CA Document Repository": "https://www.globalsign.com/en/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r5.roots.globalsign.com",
@@ -24951,16 +24951,14 @@
     "VMC Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign_CP_v7.3_final.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign_CPS_v10.3_final.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25021,14 +25019,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25090,14 +25088,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25159,14 +25157,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25228,14 +25226,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25297,14 +25295,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25366,14 +25364,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25435,14 +25433,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25504,14 +25502,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25573,14 +25571,14 @@
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25644,14 +25642,14 @@
     "CA Document Repository": "https://www.globalsign.com/en/repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r46.roots.globalsign.com",
@@ -25719,14 +25717,14 @@
     "CA Document Repository": "https://www.globalsign.com/en/repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CP-v7.7.pdf"
     ],
-    "CP Last Updated Date": "2025.07.15",
+    "CP Last Updated Date": "2025.11.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.6.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-CPS-v10.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.15",
+    "CPS Last Updated Date": "2025.11.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.e46.roots.globalsign.com",
