@@ -628,9 +628,10 @@
     "CP Last Updated Date": "2025.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.3-en.pdf"
     ],
-    "CPS Last Updated Date": "2025.05.19",
+    "CPS Last Updated Date": "2025.10.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.epkiov.hinet.net",
@@ -858,9 +859,10 @@
     "CP Last Updated Date": "2025.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.3-en.pdf"
     ],
-    "CPS Last Updated Date": "2025.05.19",
+    "CPS Last Updated Date": "2025.10.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.epkig2ov.hinet.net",
@@ -1103,6 +1105,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "Test Website URL - Valid": "https://good.trustg1ov.hinet.net",
+    "Test Website URL - Expired": "https://expired.trustg1ov.hinet.net",
+    "Test Website URL - Revoked": "https://revoked.trustg1ov.hinet.net",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1190,9 +1195,10 @@
     "CP Last Updated Date": "2025.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.2-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.3-en.pdf"
     ],
-    "CPS Last Updated Date": "2025.05.19",
+    "CPS Last Updated Date": "2025.10.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

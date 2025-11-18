@@ -711,10 +711,6 @@
     "TLS EVG Audit Period End Date": "2024.05.09",
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/HCA/Kvalifikovane/EN/CP_Root_RSA_1v173_EN.pdf"
-    ],
-    "CP Last Updated Date": "2025.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.ica.cz/Userfiles/files/politika/ACPS/HCA/CPS_RSA_1v74_EN.pdf"
@@ -853,11 +849,11 @@
     "NetSec Audit Statement Date": "2025.10.16",
     "NetSec Audit Period Start Date": "2024.09.01",
     "NetSec Audit Period End Date": "2025.08.31",
-    "S/MIME BR Audit URL": "https://pceb.tayllorcox.cz/files/ICA_QualifyingAttestationLetter_RSA_2024-09-02_SMIMEv11.pdf",
+    "S/MIME BR Audit URL": "https://pceb.tayllorcox.cz/files/ICA_QualifyingAttestationLetter_2025-10-01_SMIME_NETSEC_signed.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2024.09.17",
-    "S/MIME BR Audit Period Start Date": "2023.09.01",
-    "S/MIME BR Audit Period End Date": "2024.08.31",
+    "S/MIME BR Audit Statement Date": "2025.10.16",
+    "S/MIME BR Audit Period Start Date": "2024.09.01",
+    "S/MIME BR Audit Period End Date": "2025.08.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.ica.cz/Userfiles/files/politika/HCA/Kvalifikovane/EN/CP_Root_RSA_1v173_EN.pdf"
