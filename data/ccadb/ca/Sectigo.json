@@ -16141,6 +16141,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.5.pdf",
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_3.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21519,6 +21525,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_5.pdf",
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.5.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.11",
@@ -30967,6 +30974,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.6.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -47934,6 +47945,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.5.pdf",
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_3.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -48912,6 +48929,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/files/Sectigo_CP-CPS_Document_Signing_v1_0_5.pdf",
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.5.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.11",
