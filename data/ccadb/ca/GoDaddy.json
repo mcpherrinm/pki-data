@@ -518,9 +518,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.03.01",
+    "CP/CPS Last Updated Date": "2025.11.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -584,9 +584,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.03.01",
+    "CP/CPS Last Updated Date": "2025.11.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
