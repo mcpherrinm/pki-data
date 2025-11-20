@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 183,
-  "total_records": 9760,
+  "total_records": 9761,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2202,7 +2202,7 @@
     },
     {
       "ca_owner": "SSL.com",
-      "record_count": 238,
+      "record_count": 239,
       "countries": [
         "United States of America"
       ],
@@ -2210,7 +2210,7 @@
         "trusted_roots": 6,
         "partially_trusted_roots": 6,
         "untrusted_roots": 3,
-        "intermediates": 223
+        "intermediates": 224
       },
       "output_filename": "SSLcom.json"
     },

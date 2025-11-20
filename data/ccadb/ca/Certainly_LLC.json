@@ -128,10 +128,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf",
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.03.01",
+    "CP/CPS Last Updated Date": "2025.11.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.21",
     "Test Website URL - Valid": "https://valid.root-r1.certainly.com",
     "Test Website URL - Expired": "https://expired.root-r1.certainly.com",
     "Test Website URL - Revoked": "https://revoked.root-r1.certainly.com",
@@ -181,10 +186,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf"
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v1.9.pdf",
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.03.01",
+    "CP/CPS Last Updated Date": "2025.11.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.21",
     "Test Website URL - Valid": "https://valid.root-e1.certainly.com",
     "Test Website URL - Expired": "https://expired.root-e1.certainly.com",
     "Test Website URL - Revoked": "https://revoked.root-e1.certainly.com",

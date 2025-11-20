@@ -2640,9 +2640,10 @@
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
+      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
     ],
-    "CPS Last Updated Date": "2025.08.07",
+    "CPS Last Updated Date": "2025.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ev-rsa-tls-2022-valid-cert-demo.swisssign.com",
@@ -2739,9 +2740,10 @@
     "CP Last Updated Date": "2025.08.07",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
     ],
-    "CPS Last Updated Date": "2025.08.07",
+    "CPS Last Updated Date": "2025.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -2986,9 +2988,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
     ],
-    "CPS Last Updated Date": "2025.08.07",
+    "CPS Last Updated Date": "2025.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ev-rsa-tls-2022-1-valid-cert-demo.swisssign.com/",
