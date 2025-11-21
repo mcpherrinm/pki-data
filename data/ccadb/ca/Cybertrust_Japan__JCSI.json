@@ -190,11 +190,13 @@
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
@@ -1495,11 +1497,13 @@
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
@@ -1538,11 +1542,11 @@
     "Full CRL Issued By This CA": "http://crl.itrust.ne.jp/CybertrustiTrustRootCA/cdp.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=63521a4e-c2d4-4e41-9c52-0284a55bea17",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=45805deb-c063-4018-97d3-0deb8bcd30e9.pdf",
     "Standard Audit Type": "WebTrust",
-    "Standard Audit Statement Date": "2025.02.20",
-    "Standard Audit Period Start Date": "2023.12.11",
-    "Standard Audit Period End Date": "2024.12.10",
+    "Standard Audit Statement Date": "2025.10.30",
+    "Standard Audit Period Start Date": "2024.12.11",
+    "Standard Audit Period End Date": "2025.08.23",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
@@ -1671,11 +1675,13 @@
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
@@ -1751,11 +1757,13 @@
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
@@ -1792,7 +1800,13 @@
     "Subject Key Identifier": "bZHji3PjsyrWX06zx2in+7TlUTc=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.itrust.ne.jp/CybertrustiTrustSignatureECCP384RootCA2025/cdp.crl",
+    "Auditor": "KPMG",
     "Audits Same as Parent": "false",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=45805deb-c063-4018-97d3-0deb8bcd30e9.pdf",
+    "Standard Audit Type": "WebTrust",
+    "Standard Audit Statement Date": "2025.10.30",
+    "Standard Audit Period Start Date": "2024.12.11",
+    "Standard Audit Period End Date": "2025.08.23",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
@@ -1854,11 +1868,13 @@
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
@@ -1920,11 +1936,14 @@
     "Certificate Practice & Policy Statement": [
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
+      "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md",
       "https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS_English.md"
