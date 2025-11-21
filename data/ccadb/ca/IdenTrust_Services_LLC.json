@@ -2818,9 +2818,10 @@
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md",
+      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "Test Website URL - Valid": "https://identrust-public-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-public-ov-expired.identrustssl.com/",
     "Test Website URL - Revoked": "https://identrust-public-ov-revoked.identrustssl.com/",
@@ -2892,9 +2893,10 @@
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
+      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md",
+      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "Test Website URL - Valid": "https://identrust-commercial-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-commercial-ov-expired.identrustssl.com/",
     "Test Website URL - Revoked": "https://identrust-commercial-ov-revoked.identrustssl.com/",
@@ -3011,6 +3013,10 @@
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "Test Website URL - Valid": "https://identrust-commercial-ecc-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-commercial-ecc-ov-expired.identrustssl.com/",
     "Test Website URL - Revoked": "https://identrust-commercial-ecc-ov-revoked.identrustssl.com/",
@@ -3068,6 +3074,10 @@
     ],
     "CP/CPS Last Updated Date": "2025.11.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "Test Website URL - Valid": "https://identrust-commercial-rsa-ov-valid.identrustssl.com/",
     "Test Website URL - Expired": "https://identrust-commercial-rsa-ov-expired.identrustssl.com/",
     "Test Website URL - Revoked": "https://identrust-commercial-rsa-ov-revoked.identrustssl.com/",
@@ -3206,7 +3216,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3259,7 +3269,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3362,7 +3372,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3414,7 +3424,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3462,7 +3472,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3515,7 +3525,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3568,7 +3578,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
