@@ -51391,7 +51391,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -51401,7 +51401,6 @@
     "Valid To (GMT)": "2025.11.23",
     "Subject Key Identifier": "kNBsmDBqrn2tey17bke0IAUmcX0=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_27acbeefda6aef5cbfad1b12ead423fa/LatestCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -51411,7 +51410,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
