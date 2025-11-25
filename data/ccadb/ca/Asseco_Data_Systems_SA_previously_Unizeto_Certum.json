@@ -4290,9 +4290,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.0.pdf"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.12",
+    "CP/CPS Last Updated Date": "2025.11.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -4360,9 +4360,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.0.pdf"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.12",
+    "CP/CPS Last Updated Date": "2025.11.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",

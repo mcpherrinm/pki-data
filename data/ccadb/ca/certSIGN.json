@@ -576,14 +576,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/"
+      "https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/"
     ],
-    "CP/CPS Last Updated Date": "2025.04.30",
+    "CP/CPS Last Updated Date": "2025.11.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2025/08/certSIGN-Web-CA-QWAC-Certification-Practice-Statement-v1.32.md"
+      "https://www.certsign.ro/wp-content/uploads/2025/11/certSIGN-Web-CA-OV-Certification-Practice-Statement.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.04.30",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -931,8 +931,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/",
       "https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
-      "https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/",
-      "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/"
+      "https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/"
     ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
