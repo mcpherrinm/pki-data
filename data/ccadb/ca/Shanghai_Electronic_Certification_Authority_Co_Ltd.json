@@ -2835,7 +2835,7 @@
     "Certificate Practice & Policy Statement": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Last Updated Date": "2025.11.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://rsaevg3.good.sheca.com/",
     "Test Website URL - Expired": "https://rsaevg3.expired.sheca.com/",
@@ -2926,7 +2926,7 @@
     "Certificate Practice & Policy Statement": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Last Updated Date": "2025.11.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://rsaev1a.good.sheca.com",
     "Test Website URL - Expired": "https://rsaev1a.expired.sheca.com",
@@ -3014,7 +3014,7 @@
     "Certificate Practice & Policy Statement": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Last Updated Date": "2025.11.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://eccev2a.good.sheca.com",
     "Test Website URL - Expired": "https://eccev2a.expired.sheca.com",
@@ -3345,7 +3345,7 @@
     "Certificate Practice & Policy Statement": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS%20v1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Last Updated Date": "2025.11.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://rsaovg5.good.sheca.com/",
     "Test Website URL - Expired": "https://rsaovg5.expired.sheca.com/",
