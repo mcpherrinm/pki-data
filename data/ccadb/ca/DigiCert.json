@@ -68100,7 +68100,7 @@
     "Parent Salesforce Record ID": "0011J00001QSxkuQAD",
     "Parent Certificate Name": "BT Class 2 DigiCert PKI Platform CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "DigitalSign – Certificadora Digital, SA",
+    "Subordinate CA Owner": "DigiCert",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
