@@ -3225,9 +3225,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca0a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca0a.amazontrust.com/",
@@ -3362,9 +3363,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca1a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca1a.amazontrust.com/",
@@ -3433,9 +3435,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca3a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca3a.amazontrust.com/",
@@ -3504,9 +3507,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.rootca2.demo.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca2a.amazontrust.com/",
@@ -3575,9 +3579,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca4a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca4a.amazontrust.com/",
@@ -3774,9 +3779,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3839,9 +3845,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3904,9 +3911,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
       "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.20",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
