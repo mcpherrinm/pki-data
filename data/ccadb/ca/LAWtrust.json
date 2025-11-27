@@ -188,10 +188,6 @@
     "Standard Audit Period End Date": "2024.12.31",
     "CA Document Repository": "https://www.lawtrust.co.za/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.lawtrust.co.za/wp-content/uploads/2024/10/LT_ISP_IS_CP_V021%202024-09-02.pdf"
-    ],
-    "CP Last Updated Date": "2024.10.31",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -477,10 +473,6 @@
     "S/MIME BR Audit Period Start Date": "2024.01.01",
     "S/MIME BR Audit Period End Date": "2024.12.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.lawtrust.co.za/wp-content/uploads/2024/10/LT_ISP_IS_CP_V021%202024-09-02.pdf"
-    ],
-    "CP Last Updated Date": "2024.10.31",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

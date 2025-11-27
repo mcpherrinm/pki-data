@@ -16745,6 +16745,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://pki.goog/repo/cp-cps-smime/6.4/GTS-CP-CPS-SMIME.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
+    ],
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
