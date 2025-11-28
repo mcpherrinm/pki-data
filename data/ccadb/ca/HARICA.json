@@ -6916,10 +6916,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://haricaeccrootca2015-valid-ev.harica.gr",
     "Test Website URL - Expired": "https://haricaeccrootca2015-expired-ev.harica.gr",
@@ -6986,10 +6982,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://haricarootca2015-valid-ev.harica.gr",
     "Test Website URL - Expired": "https://haricarootca2015-expired-ev.harica.gr",
@@ -7040,10 +7032,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7095,10 +7083,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-ecc-valid-ev.root2021.harica.gr",
     "Test Website URL - Expired": "https://tls-ecc-expired-ev.root2021.harica.gr",
@@ -7149,10 +7133,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7199,10 +7179,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7249,10 +7225,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7304,10 +7276,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repo.harica.gr/documents/CPS-EN-4.10.1.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.06.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-rsa-valid-ev.root2021.harica.gr",
     "Test Website URL - Expired": "https://tls-rsa-expired-ev.root2021.harica.gr",
