@@ -4481,21 +4481,13 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5392,21 +5384,13 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/\r\nAvailable in Japanese and English.",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5886,21 +5870,13 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5950,21 +5926,13 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -6490,21 +6458,13 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -6554,21 +6514,13 @@
     "Policy Documentation": "https://jprs.jp/pubcert/info/repository/",
     "CA Document Repository": "https://jprs.jp/pubcert/info/repository/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CP-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.05.20",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://jprs.jp/pubcert/info/repository/JPRS-CPS-en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.08.22",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
