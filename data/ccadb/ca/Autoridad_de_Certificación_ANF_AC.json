@@ -186,10 +186,9 @@
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://anf.es/pdf/Certification_PracticesStatement_ANFAC_v2_5.pdf",
-      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
+      "https://anf.es/pdf/Certification_PracticesStatement_ANFAC_v2_5.pdf"
     ],
-    "CPS Last Updated Date": "2025.02.20",
+    "CPS Last Updated Date": "2019.07.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.frater.es",
@@ -243,10 +242,6 @@
     ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -297,10 +292,6 @@
     ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -351,10 +342,6 @@
     ],
     "CP Last Updated Date": "2025.07.25",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://anf.es/wp-content/uploads/2025/04/Certification-Practices-Statement-ANF-AC-v.3.10.pdf"
-    ],
-    "CPS Last Updated Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testvalidsslev.anf.es",
