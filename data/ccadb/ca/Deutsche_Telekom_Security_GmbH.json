@@ -24711,14 +24711,14 @@
     "CA Document Repository": "https://www.pki.dfn.de/policies/informationen/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v15-en.pdf"
+      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v16-en.pdf"
     ],
-    "CP Last Updated Date": "2025.07.29",
+    "CP Last Updated Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v15-en.pdf"
+      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v16-en.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.29",
+    "CPS Last Updated Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
