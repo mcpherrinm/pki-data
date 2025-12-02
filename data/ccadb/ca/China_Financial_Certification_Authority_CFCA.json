@@ -284,9 +284,11 @@
     "CP/CPS Last Updated Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md"
+      "https://www.cfca.com.cn/upload/CFCA%20Global-Trust%20CPCPS-en-v4.11%20release.md",
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md",
+      "https://www.cfca.com.cn/upload/resources/file/2025/11/28/2653.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.03",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
     "Test Website URL - Valid": "https://www.anxinsign.com/Web/login",
     "Test Website URL - Expired": "https://exp.cebnet.com.cn/",
     "Test Website URL - Revoked": "https://rev.cebnet.com.cn/",
@@ -527,9 +529,11 @@
     "CP/CPS Last Updated Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md"
+      "https://www.cfca.com.cn/upload/CFCA%20Global-Trust%20CPCPS-en-v4.11%20release.md",
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md",
+      "https://www.cfca.com.cn/upload/resources/file/2025/11/28/2653.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.03",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -585,9 +589,11 @@
     "CP/CPS Last Updated Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md"
+      "https://www.cfca.com.cn/upload/CFCA%20Global-Trust%20CPCPS-en-v4.11%20release.md",
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md",
+      "https://www.cfca.com.cn/upload/resources/file/2025/11/28/2653.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.03",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

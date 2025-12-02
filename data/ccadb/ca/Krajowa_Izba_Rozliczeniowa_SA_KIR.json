@@ -297,9 +297,10 @@
     "CP Last Updated Date": "2025.03.28",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2025/11/28/5efd251ea580c82ce3dd3a390b72e0d2/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_24_sig.pdf",
       "https://www.elektronicznypodpis.pl/storage/file/core_files/2025/3/28/03e80345b8d5b55498d1a378dd627d41/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_23_20250328.pdf"
     ],
-    "CPS Last Updated Date": "2025.03.28",
+    "CPS Last Updated Date": "2025.12.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl.elektronicznypodpis.pl/",
