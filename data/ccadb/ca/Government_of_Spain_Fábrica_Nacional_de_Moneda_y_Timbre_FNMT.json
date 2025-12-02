@@ -350,7 +350,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
     ],
-    "CP Last Updated Date": "2025.03.26",
+    "CP Last Updated Date": "2025.11.28",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -394,7 +394,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
     ],
-    "CP Last Updated Date": "2025.03.26",
+    "CP Last Updated Date": "2025.11.28",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -1568,10 +1568,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -1605,10 +1601,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -1656,10 +1648,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testactivetipo1.cert.fnmt.es/",
     "Test Website URL - Expired": "https://testexpiredtipo1.cert.fnmt.es/",
