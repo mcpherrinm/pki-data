@@ -351,14 +351,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.18-EN-2025.pdf"
+      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.19-EN-2025.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.10",
+    "CP/CPS Last Updated Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.18-EN-2025.md"
+      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.19-EN-2025.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.10",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.25",
     "Test Website URL - Valid": "https://activo.accv.es/test/hola.html",
     "Test Website URL - Expired": "https://caducado.accv.es:444/test/hola.html",
     "Test Website URL - Revoked": "https://revocado.accv.es:442/test/hola.html",
@@ -767,14 +767,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.18-EN-2025.pdf"
+      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.19-EN-2025.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.10",
+    "CP/CPS Last Updated Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.18-EN-2025.md"
+      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.19-EN-2025.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.10",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.25",
     "Test Website URL - Valid": "https://activonjecc.accv.es/test/hola.html",
     "Test Website URL - Expired": "https://caducadonjecc.accv.es:444/test/hola.html",
     "Test Website URL - Revoked": "https://revocadonjecc.accv.es:442/test/hola.html",
@@ -824,14 +824,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.18-EN-2025.pdf"
+      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.19-EN-2025.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.10",
+    "CP/CPS Last Updated Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.18-EN-2025.md"
+      "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.19-EN-2025.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.07.10",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.25",
     "Test Website URL - Valid": "https://activonjrsa.accv.es/test/hola.html",
     "Test Website URL - Expired": "https://caducadonjrsa.accv.es:444/test/hola.html",
     "Test Website URL - Revoked": "https://revocadonjrsa.accv.es:442/test/hola.html",

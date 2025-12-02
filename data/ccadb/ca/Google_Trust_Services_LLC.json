@@ -133,9 +133,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.07.22",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -436,9 +437,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.07.22",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3295,9 +3297,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr3.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr3.demosite.pki.goog",
@@ -3357,9 +3360,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr1.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr1.demosite.pki.goog",
@@ -3418,9 +3422,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr4.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr4.demosite.pki.goog",
@@ -3479,9 +3484,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr3.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr3.demosite.pki.goog",
@@ -3541,9 +3547,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr4.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr4.demosite.pki.goog",
@@ -3605,9 +3612,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.4/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr2.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr2.demosite.pki.goog",
@@ -3670,9 +3678,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.4/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr2.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr2.demosite.pki.goog",
@@ -3731,9 +3740,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gtsr1.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gtsr1.demosite.pki.goog",
@@ -3792,9 +3802,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gsr4.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gsr4.demosite.pki.goog",
@@ -3854,9 +3865,10 @@
       "https://pki.goog/repo/cp-cps-smime/6.2/GTS-CP-CPS-SMIME.html",
       "https://pki.goog/repo/cp-cps-tls/6.0/GTS-CP-CPS-TLS.html",
       "https://pki.goog/repo/cp-cps-tls/6.1/GTS-CP-CPS-TLS.html",
-      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html"
+      "https://pki.goog/repo/cp-cps-tls/6.2/GTS-CP-CPS-TLS.html",
+      "https://pki.goog/repo/cp-cps-tls/6.3/GTS-CP-CPS-TLS.html"
     ],
-    "CP/CPS Last Updated Date": "2025.10.03",
+    "CP/CPS Last Updated Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.gsr4.demosite.pki.goog",
     "Test Website URL - Expired": "https://expired.gsr4.demosite.pki.goog",
