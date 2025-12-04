@@ -157,7 +157,6 @@
     "Authority Key Identifier": "UtiIOsifeGbtifN7OHCUyQICNtA=",
     "Subject Key Identifier": "pf2FBQ7D8dZlSiBs4ttNYJMriqA=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://ca1.agid.gov.it/CRL",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
@@ -172,10 +171,10 @@
     ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Italy"
   },
   {
@@ -198,7 +197,6 @@
     "Authority Key Identifier": "UtiIOsifeGbtifN7OHCUyQICNtA=",
     "Subject Key Identifier": "pf2FBQ7D8dZlSiBs4ttNYJMriqA=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://ca1.agid.gov.it/CRL",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
@@ -213,10 +211,10 @@
     ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Italy"
   },
   {
@@ -239,7 +237,6 @@
     "Authority Key Identifier": "UtiIOsifeGbtifN7OHCUyQICNtA=",
     "Subject Key Identifier": "pf2FBQ7D8dZlSiBs4ttNYJMriqA=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://ca1.agid.gov.it/CRL",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
@@ -254,10 +251,10 @@
     ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Italy"
   },
   {
@@ -280,7 +277,6 @@
     "Authority Key Identifier": "UtiIOsifeGbtifN7OHCUyQICNtA=",
     "Subject Key Identifier": "pf2FBQ7D8dZlSiBs4ttNYJMriqA=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://ca1.agid.gov.it/CRL",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
@@ -295,10 +291,10 @@
     ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Italy"
   },
   {
@@ -321,7 +317,6 @@
     "Authority Key Identifier": "UtiIOsifeGbtifN7OHCUyQICNtA=",
     "Subject Key Identifier": "pf2FBQ7D8dZlSiBs4ttNYJMriqA=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://ca1.agid.gov.it/CRL",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.agid.gov.it/it/piattaforme/posta-elettronica-certificata/certificati-gestori-pec-siti-web",
@@ -336,10 +331,10 @@
     ],
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Italy"
   },
   {
@@ -934,9 +929,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.06.18",
+    "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssltest-active.actalis.it/",
     "Test Website URL - Expired": "https://ssltest-expired.actalis.it/",

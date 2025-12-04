@@ -2982,6 +2982,12 @@
     "S/MIME BR Audit Period Start Date": "2024.06.15",
     "S/MIME BR Audit Period End Date": "2025.06.13",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_DV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_EV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_OV.pdf"
+    ],
+    "CP Last Updated Date": "2025.08.07",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
