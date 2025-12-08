@@ -522,15 +522,7 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
-    ],
-    "CP Last Updated Date": "2025.01.15",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
-    ],
-    "CPS Last Updated Date": "2024.08.15",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.certsign.ro/en/document/certsign-qualified-ca-certification-practice-statement/"
@@ -929,9 +921,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/",
-      "https://www.certsign.ro/en/document/certsign-web-ca-dv-certification-practice-statement/",
-      "https://www.certsign.ro/en/document/certsign-web-ca-ov-certification-practice-statement/"
+      "https://www.certsign.ro/en/document/certsign-root-ca-g2-certification-practice-statement/"
     ],
     "CP/CPS Last Updated Date": "2025.04.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
