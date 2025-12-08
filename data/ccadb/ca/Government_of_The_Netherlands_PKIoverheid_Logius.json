@@ -3300,10 +3300,6 @@
     "Standard Audit Period End Date": "2024.11.15",
     "CA Document Repository": "http://cps.dp.ca.mindef.nl/ips/cps-en.jsp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
-    ],
-    "CP Last Updated Date": "2025.07.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cps.ca.pkidefensie.nl/cps-mindef.pdf",
@@ -3356,9 +3352,10 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
     ],
-    "CP Last Updated Date": "2024.11.12",
+    "CP Last Updated Date": "2025.07.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.03.pdf"
