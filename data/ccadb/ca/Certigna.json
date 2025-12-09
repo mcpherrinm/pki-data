@@ -972,7 +972,9 @@
     "Subject Key Identifier": "GIdW4G537iQ1PE5zmh/W4eJ5fis=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
-    "Audits Same as Parent": "false",
+    "Full CRL Issued By This CA": "https://crl.certigna.fr/certignarootca.crl",
+    "Auditor": "LSTI",
+    "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
@@ -1099,10 +1101,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.19",
+    "CP/CPS Last Updated Date": "2025.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md"
@@ -1505,10 +1506,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.19",
+    "CP/CPS Last Updated Date": "2025.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md"
@@ -2040,10 +2040,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.09.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2233,10 +2229,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://cps.certigna.com/DPCCertignaSMIMECA.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.09.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
