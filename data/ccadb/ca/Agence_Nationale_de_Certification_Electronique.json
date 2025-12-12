@@ -188,9 +188,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.tuntrust.tn/sites/default/files/Ressources/CPCPS-TunTrustPKI-06.1.pdf"
+      "https://www.tuntrust.tn/sites/default/files/Ressources/CPCPS-TunTrustPKI-06.1.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.08",
+    "CP/CPS Last Updated Date": "2025.12.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.tuntrust.tn/sites/default/files/Ressources/TunTrust_CP_CPS_06.1.html"
