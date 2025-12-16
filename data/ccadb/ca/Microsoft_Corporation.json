@@ -3482,10 +3482,6 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.3.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3515,10 +3511,6 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.3.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3569,10 +3561,6 @@
     ],
     "CP Last Updated Date": "2025.04.21",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.3.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://acteccroot2017.pki.microsoft.com/",
@@ -3621,15 +3609,7 @@
     "TLS EVG Audit Period End Date": "2020.04.30",
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.1.3.pdf"
-    ],
-    "CP Last Updated Date": "2020.07.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CPS_v3.1.5.pdf"
-    ],
-    "CPS Last Updated Date": "2020.07.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://actrsaroot2017.pki.microsoft.com/",
@@ -3683,10 +3663,6 @@
     ],
     "CP Last Updated Date": "2025.04.21",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.3.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://actrsaroot2017.pki.microsoft.com/",
@@ -3735,15 +3711,7 @@
     "TLS EVG Audit Period End Date": "2020.04.30",
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.1.3.pdf"
-    ],
-    "CP Last Updated Date": "2020.07.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CPS_v3.1.5.pdf"
-    ],
-    "CPS Last Updated Date": "2020.07.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://acteccroot2017.pki.microsoft.com/",
