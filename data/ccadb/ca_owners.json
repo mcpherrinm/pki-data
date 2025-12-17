@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9777,
+  "total_records": 9784,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -46,7 +46,7 @@
     },
     {
       "ca_owner": "Actalis",
-      "record_count": 56,
+      "record_count": 61,
       "countries": [
         "Italy"
       ],
@@ -54,7 +54,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
         "untrusted_roots": 9,
-        "intermediates": 46
+        "intermediates": 51
       },
       "output_filename": "Actalis.json"
     },
@@ -1278,7 +1278,7 @@
     },
     {
       "ca_owner": "Government of Spain, Fábrica Nacional de Moneda y Timbre (FNMT)",
-      "record_count": 22,
+      "record_count": 24,
       "countries": [
         "Spain"
       ],
@@ -1286,7 +1286,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 3,
         "untrusted_roots": 1,
-        "intermediates": 17
+        "intermediates": 19
       },
       "output_filename": "Government_of_Spain_Fábrica_Nacional_de_Moneda_y_Timbre_FNMT.json"
     },

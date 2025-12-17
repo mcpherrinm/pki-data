@@ -3224,9 +3224,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3362,9 +3360,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3434,9 +3430,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3506,9 +3500,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3578,9 +3570,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3742,7 +3732,7 @@
     "Authority Key Identifier": "sbtHIDmafYAXHaYFXBhnDBtUoqg=",
     "Subject Key Identifier": "sbtHIDmafYAXHaYFXBhnDBtUoqg=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.e3m01.eu.amazontrust.com/e3m01eu.crl",
+    "Full CRL Issued By This CA": "http://eue3m1.crl.root.amznts.eu/eue3m1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=025cc3d5-9616-4379-8ba8-86ba5f1c338f",
@@ -3779,9 +3769,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3812,7 +3800,7 @@
     "Authority Key Identifier": "cdF/ctm4GS3wEaXNtYZPbh/d5aI=",
     "Subject Key Identifier": "cdF/ctm4GS3wEaXNtYZPbh/d5aI=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.e2m01.eu.amazontrust.com/e2m01eu.crl",
+    "Full CRL Issued By This CA": "http://eue2m1.crl.root.amznts.eu/eue2m1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=025cc3d5-9616-4379-8ba8-86ba5f1c338f",
@@ -3849,9 +3837,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -3882,7 +3868,7 @@
     "Authority Key Identifier": "KDEErEh8SehQI0Q9f8zVNQJzCok=",
     "Subject Key Identifier": "KDEErEh8SehQI0Q9f8zVNQJzCok=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.r2m01.eu.amazontrust.com/r2m01eu.crl",
+    "Full CRL Issued By This CA": "http://eur2m1.crl.root.amznts.eu/eur2m1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=025cc3d5-9616-4379-8ba8-86ba5f1c338f",
@@ -3919,9 +3905,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-1.pdf",
-      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf",
-      "https://www.amazontrust.com/repository/cp-cps__2-0.pdf"
+      "https://www.amazontrust.com/repository/ats-cp-cps__2-2.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
