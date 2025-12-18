@@ -299,7 +299,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.7.pdf",
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.8.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
@@ -419,7 +418,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.7.pdf",
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.8.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
@@ -473,7 +471,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.7.pdf",
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.8.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.27",
