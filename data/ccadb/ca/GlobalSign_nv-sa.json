@@ -13462,7 +13462,7 @@
     "Subject Key Identifier": "3bPnbagu6MVObs905nU8lBXO6B0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
-    "Full CRL Issued By This CA": "http://crl.globalsign.com/gsextendvalsha2g3r3.crl",
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/gs/gsextendvalsha2g3r3.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
