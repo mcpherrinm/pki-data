@@ -214,6 +214,9 @@
     "Subject Key Identifier": "2NXYWhglNmoWwvcvpA+qJaRfEpY=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/govtlsca1a.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.global.sheca.com/govtlsca1a.crl/49d349ff/c73c/ae3a/d83341b2/90bb55c9509ed330.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -310,6 +313,9 @@
     "Subject Key Identifier": "kpF+C88MXBCKtZROQgxWEEKkSes=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/gdvtlsca1a.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.global.sheca.com/gdvtlsca1a.crl/7fbf4f73/550b/3c29/81094ffc/84bf0f99e3a9d363.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -1123,6 +1129,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/keeptrustdvtlscag1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.global.sheca.com/keeptrustdvtlscag1.crl/89ec4353/d274/1285/9b9d4262/9fefa1fbbd5763cf.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2080,6 +2089,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/ct2ovtlsrsacag2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.global.sheca.com/ct2ovtlsrsacag2.crl/a19646b8/5e83/ad50/ed114c0e/aa9a317cf6c2d657.crl",
+      "http://crl.global.sheca.com/ct2ovtlsrsacag2.crl/a19646b8/b01a/08c0/e4c04469/937090a5476449d2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
