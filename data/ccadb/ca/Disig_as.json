@@ -282,7 +282,7 @@
     "Valid To (GMT)": "2042.07.19",
     "Subject Key Identifier": "tZn4r7CU9eMg1gqtzk5WpC5uQu0=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://cdn.disig.sk/rootcar2/crl/rootcar2.crl",
+    "Full CRL Issued By This CA": "http://cdp1.disig.sk/rootcar2/crl/rootcar2.crl",
     "Auditor": "QSCert",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.qscert.com/app/cmsSiteBoxAttachment.php?ID=769&cmsDataID=0",
