@@ -2175,7 +2175,7 @@
     "Authority Key Identifier": "zo3gscOkZ4W8m3gslL8bZtDH+wI=",
     "Subject Key Identifier": "wkhnvoniWtYfolRYaz0LGIj3olQ=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.certigna.com/CertignaEmailProtectionNaturalPersonCA.crl",
+    "Full CRL Issued By This CA": "http://crl.certigna.com/CertignaEmailProtectionNaturalPersonEUCA.crl",
     "Auditor": "LSTI",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
