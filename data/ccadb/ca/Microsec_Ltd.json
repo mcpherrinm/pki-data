@@ -445,12 +445,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/esmimeca2023.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_uni/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_uni/eng"
     ],
@@ -488,12 +488,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ssl/eng"
     ],
@@ -691,7 +691,6 @@
     "Full CRL Issued By This CA": "http://edvtlsca2023-crl.e-szigno.hu/edvtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
@@ -702,8 +701,8 @@
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],
     "CPS Last Updated Date": "2025.09.15",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -733,10 +732,10 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/edvtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -767,7 +766,6 @@
     "Full CRL Issued By This CA": "http://eovtlsca2023-crl.e-szigno.hu/eovtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
@@ -778,8 +776,8 @@
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],
     "CPS Last Updated Date": "2025.09.15",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -842,10 +840,10 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/eqtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -876,7 +874,6 @@
     "Full CRL Issued By This CA": "http://eqtlsca2023-crl.e-szigno.hu/eqtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ssl/eng"
@@ -887,8 +884,8 @@
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ssl/eng"
     ],
     "CPS Last Updated Date": "2025.09.15",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -917,10 +914,10 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://eovtlsca2025-crl.e-szigno.hu/eovtlsca2025.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -982,10 +979,10 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://eqtlsca2025-crl.e-szigno.hu/eqtlsca2025.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1047,10 +1044,10 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://edvtlsca2025-crl.e-szigno.hu/edvtlsca2025.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1411,10 +1408,10 @@
     "Full CRL Issued By This CA": "http://eqtlsca2023-crl.e-szigno.hu/eqtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1445,10 +1442,10 @@
     "Full CRL Issued By This CA": "http://eovtlsca2023-crl.e-szigno.hu/eovtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1479,10 +1476,10 @@
     "Full CRL Issued By This CA": "http://edvtlsca2023-crl.e-szigno.hu/edvtlsca2023.crl",
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1676,12 +1673,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/acs3ca2016.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_uni/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_uni/eng"
     ],
@@ -1718,12 +1715,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/osslca2016.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],
@@ -1802,12 +1799,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/qoca2016.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_bel/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_bel/eng"
     ],
@@ -1992,12 +1989,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/acs2ca2016.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_uni/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_uni/eng"
     ],
@@ -2077,12 +2074,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/qca2009.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ala/eng"
     ],
@@ -2194,12 +2191,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/qcpca2012.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ala/eng"
     ],
@@ -2278,12 +2275,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/qkca2018.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ala/eng"
     ],
@@ -2352,12 +2349,12 @@
     "Full CRL Issued By This CA": "http://crl.e-szigno.hu/sslca2014.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],
@@ -3430,12 +3427,12 @@
     "Full CRL Issued By This CA": "http://esmimeca2023-crl.e-szigno.hu/esmimeca2023.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_uni/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_uni/eng"
     ],
@@ -3473,12 +3470,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_bel/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_bel/eng"
     ],
@@ -3516,12 +3513,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ala/eng"
     ],
@@ -3559,12 +3556,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],
@@ -3602,12 +3599,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ala/eng"
     ],
@@ -3645,12 +3642,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ala/eng"
     ],
@@ -3688,12 +3685,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ala/eng"
     ],
@@ -3731,12 +3728,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ala/eng"
     ],
@@ -3774,12 +3771,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ala/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ala/eng"
     ],
@@ -3817,12 +3814,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_uni/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_uni/eng"
     ],
@@ -3860,12 +3857,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_ssl/eng"
     ],
@@ -3903,12 +3900,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],
@@ -3946,12 +3943,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_min_bel/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_min_bel/eng"
     ],
@@ -4054,12 +4051,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_uni/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_uni/eng"
     ],
@@ -4097,12 +4094,12 @@
     "Auditor": "Hunguard",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_hr_fok_ssl/eng"
     ],
     "CP Last Updated Date": "2025.09.15",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_fok_ssl/eng"
     ],

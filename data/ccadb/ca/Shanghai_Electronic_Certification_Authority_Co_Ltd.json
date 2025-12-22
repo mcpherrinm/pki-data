@@ -314,7 +314,8 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/gdvtlsca1a.crl",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.global.sheca.com/gdvtlsca1a.crl/7fbf4f73/550b/3c29/81094ffc/84bf0f99e3a9d363.crl"
+      "http://crl.global.sheca.com/gdvtlsca1a.crl/7fbf4f73/550b/3c29/81094ffc/84bf0f99e3a9d363.crl",
+      "http://crl.global.sheca.com/gdvtlsca1a.crl/7fbf4f73/0cea/17c7/a78e4e19/8d0316ec665814c0.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
