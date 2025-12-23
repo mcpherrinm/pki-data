@@ -891,8 +891,8 @@
         "United States of America"
       ],
       "aggregated_counts": {
-        "trusted_roots": 1,
-        "partially_trusted_roots": 8,
+        "trusted_roots": 0,
+        "partially_trusted_roots": 9,
         "untrusted_roots": 3,
         "intermediates": 33
       },
@@ -2053,8 +2053,8 @@
         "United Kingdom"
       ],
       "aggregated_counts": {
-        "trusted_roots": 9,
-        "partially_trusted_roots": 17,
+        "trusted_roots": 6,
+        "partially_trusted_roots": 20,
         "untrusted_roots": 11,
         "intermediates": 1428
       },

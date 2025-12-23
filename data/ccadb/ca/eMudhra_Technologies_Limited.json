@@ -1308,7 +1308,7 @@
     "Subject Key Identifier": "pexB+3hZtbFDoGcZtdevqojqWGw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://crl.emsign.com?emSignECCSMIMECAG3.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?emSignECCSMIMECAG3.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

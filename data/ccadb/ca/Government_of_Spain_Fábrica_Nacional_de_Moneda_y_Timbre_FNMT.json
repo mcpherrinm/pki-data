@@ -1474,6 +1474,10 @@
     "TLS BR Audit Period End Date": "2020.01.12",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
+    "CPS Last Updated Date": "2025.12.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1566,9 +1570,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2025.03.05",
+    "CPS Last Updated Date": "2025.12.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.sede.fnmt.gob.es",
@@ -1775,10 +1780,15 @@
     "Authority Key Identifier": "I4JUVDBhTKBOgbmDiPLKBfYZuJs=",
     "Subject Key Identifier": "I4JUVDBhTKBOgbmDiPLKBfYZuJs=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crls/ARLFNMTRCMSERVIDORESSEGUROSG2R.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1827,9 +1837,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf",
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testactivetipo1.cert.fnmt.es/",
     "Test Website URL - Expired": "https://testexpiredtipo1.cert.fnmt.es/",
@@ -1860,9 +1871,14 @@
     "Authority Key Identifier": "4imZRyr/WyaKyDRBZkWvUjoI8YA=",
     "Subject Key Identifier": "4imZRyr/WyaKyDRBZkWvUjoI8YA=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crls/ARLFNMTRCMG2.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
+    "CPS Last Updated Date": "2025.12.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
