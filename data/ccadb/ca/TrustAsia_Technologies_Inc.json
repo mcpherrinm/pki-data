@@ -963,7 +963,7 @@
     "Authority Key Identifier": "JMIPLM3AtRVPa23U8vBY/hRD3/Q=",
     "Subject Key Identifier": "8eyvJKqu4fKVjxcquDi5+G/DlLk=",
     "Technically Constrained": "true",
-    "Full CRL Issued By This CA": "https://crl.wt.trustasia.com/TrustAsiaCodeSigningRSACA.crl",
+    "Full CRL Issued By This CA": "http://crl.wt.trustasia.com/TrustAsiaCodeSigningRSACA.crl",
     "Auditor": "Anthony Kam & Associates Ltd.",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
