@@ -220,6 +220,33 @@
       }
 
       function mergeItem(d, k, appleValue, googleValue) {
+        // Special handling for state when one side is missing
+        if (k === "state") {
+          if (appleValue === null || appleValue === undefined) {
+            // Log missing from Apple - degrade to pending
+            d[k] = "pending";
+            d["google_" + k] = googleValue;
+            return;
+          }
+          if (googleValue === null || googleValue === undefined) {
+            // Log missing from Google - degrade to pending
+            d[k] = "pending";
+            d["apple_" + k] = appleValue;
+            return;
+          }
+          // Both exist but differ - compute overall status
+          if (appleValue !== googleValue) {
+            d[k] = mergeStateConflict(appleValue, googleValue);
+            d["apple_" + k] = appleValue;
+            d["google_" + k] = googleValue;
+            return;
+          }
+          // Both exist and are the same
+          d[k] = appleValue;
+          return;
+        }
+        
+        // Default handling for non-state fields
         if (appleValue === null || appleValue === undefined) {
           d[k] = googleValue;
           return;
@@ -236,11 +263,6 @@
           // Only really want one of the names, so pick one
           d[k] = googleValue;
           return;
-        }
-        if (k === "state") {
-          // If the log states are different per-log, compute an overall status
-          d[k] = mergeStateConflict(appleValue, googleValue);
-          // No return here, keep the originals too
         }
         d["apple_" + k] = appleValue;
         d["google_" + k] = googleValue;
