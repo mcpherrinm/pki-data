@@ -42950,7 +42950,6 @@
     "Authority Key Identifier": "TiJUIBiV5uNu5g/6+rkS7QYXjzk=",
     "Subject Key Identifier": "1cFnOsKjnfR3UltZEjgp5lVou6U=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "revoked",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://bug1722411.bmoattachments.org/attachment.cgi?id=9235137",
