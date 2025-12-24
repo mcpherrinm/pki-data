@@ -926,7 +926,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.11.27",
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssltest-active.actalis.it/",
     "Test Website URL - Expired": "https://ssltest-expired.actalis.it/",
