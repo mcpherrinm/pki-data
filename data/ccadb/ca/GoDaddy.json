@@ -1181,7 +1181,9 @@
     "Authority Key Identifier": "ZXmmW82bBxalQIa3SY4iR8YL3ks=",
     "Subject Key Identifier": "mbRt3Y0MbfotoJ8iIehzwhi8hdk=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.godaddy.com/full_sfr1v1dv.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.starfieldtech.com/sfr1v1dv_s1-1.crl"
+    ],
     "Auditor": "Schellman & Company, LLC.",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -1249,7 +1251,9 @@
     "Authority Key Identifier": "ZXmmW82bBxalQIa3SY4iR8YL3ks=",
     "Subject Key Identifier": "gOVgxDS0Z6jDNxWG/eTyCj/ghTc=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.godaddy.com/full_sfr1v1ev.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.starfieldtech.com/sfr1v1ev_s3-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1281,7 +1285,9 @@
     "Authority Key Identifier": "ZXmmW82bBxalQIa3SY4iR8YL3ks=",
     "Subject Key Identifier": "NxYniEeepGEqPOU8JnSEqVCqVIg=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.godaddy.com/full_sfr1v1ov.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.starfieldtech.com/sfr1v1ov_s2-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1313,7 +1319,9 @@
     "Authority Key Identifier": "7FIRlXBzGcjeykhDl0scNSQiQ1A=",
     "Subject Key Identifier": "UmubZ1ZchmkZ0GHKK2jMuDQJgcI=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.godaddy.com/full_gdr1v1ov.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.godaddy.com/gdr1v1ov_s2-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1414,7 +1422,9 @@
     "Authority Key Identifier": "7FIRlXBzGcjeykhDl0scNSQiQ1A=",
     "Subject Key Identifier": "ievnHXnDvts/3I4gsPvkHnw59is=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.godaddy.com/full_gdr1v1dv.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.godaddy.com/gdr1v1dv_s1-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1446,7 +1456,9 @@
     "Authority Key Identifier": "7FIRlXBzGcjeykhDl0scNSQiQ1A=",
     "Subject Key Identifier": "k4YwJecuCIkA+kKfPCtjZUPDQyw=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.godaddy.com/full_gdr1v1ev.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.godaddy.com/gdr1v1ev_s3-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "true",
