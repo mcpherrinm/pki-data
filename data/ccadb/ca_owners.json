@@ -1,17 +1,17 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9798,
+  "total_records": 9799,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
-      "record_count": 10,
+      "record_count": 11,
       "countries": [
         "Austria"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
-        "untrusted_roots": 8,
+        "untrusted_roots": 9,
         "intermediates": 0
       },
       "output_filename": "A-Trust.json"
