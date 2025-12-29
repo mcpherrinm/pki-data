@@ -2525,13 +2525,11 @@
     "CA Document Repository": "https://e-szigno.hu/en/pki-services/certificate-policies-general-terms-and-conditions/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng",
       "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.18.pdf"
     ],
     "CP Last Updated Date": "2025.12.22",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng",
       "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.18.pdf"
     ],
     "CPS Last Updated Date": "2025.12.22",
@@ -4204,13 +4202,11 @@
     "CA Document Repository": "https://e-szigno.hu/en/pki-services/certificate-policies-general-terms-and-conditions/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://e-szigno.hu/docs/latest-regulation/eidas_hr_all_all/eng",
       "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.18.pdf"
     ],
     "CP Last Updated Date": "2025.12.22",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://e-szigno.hu/docs/latest-regulation/eidas_szsz_all_all/eng",
       "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.18.pdf"
     ],
     "CPS Last Updated Date": "2025.12.22",
