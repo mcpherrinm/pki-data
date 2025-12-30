@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9799,
+  "total_records": 9800,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1530,14 +1530,14 @@
     },
     {
       "ca_owner": "Izenpe S.A.",
-      "record_count": 21,
+      "record_count": 22,
       "countries": [
         "Spain"
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 3,
+        "untrusted_roots": 4,
         "intermediates": 17
       },
       "output_filename": "Izenpe_SA.json"
