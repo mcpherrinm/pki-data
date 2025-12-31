@@ -182,5 +182,33 @@
     "S/MIME Capable": "True",
     "Country": "United States of America",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email"
+  },
+  {
+    "CA Owner": "Open Access Technology International, Inc. (OATI)",
+    "Salesforce Record ID": "001TO00000dsACHYA2",
+    "Certificate Name": "OATI webCARES Server Root CA",
+    "Parent Salesforce Record ID": "001o000000Hsrw8AAB",
+    "Parent Certificate Name": "Open Access Technology International, Inc. (OATI)",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "30F4E5DD679FDE8FD11EB6E0C531615C438B06EDD9F59CBAB49680AA2B6990D9",
+    "Valid From (GMT)": "2025.12.08",
+    "Valid To (GMT)": "2045.12.08",
+    "Subject Key Identifier": "TIRbOactZHUjT7TaEhWRb007IWo=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "United States of America"
   }
 ]
