@@ -473,11 +473,6 @@
     "Full CRL Issued By This CA": "http://crl.certsign.ro/certsign-publicca.crl",
     "Auditor": "LSTI",
     "Audits Same as Parent": "true",
-    "S/MIME BR Audit URL": "https://www.lsti-certification.fr/wp-content/uploads/2024/11/LSTI-Audit-Attestation-Letter-1612-369_V1.0_Certsign_S.pdf",
-    "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2024.11.29",
-    "S/MIME BR Audit Period Start Date": "2023.09.01",
-    "S/MIME BR Audit Period End Date": "2024.08.31",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -569,7 +564,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.certsign.ro/en/document/certsign-web-ca-qwac-certification-practice-statement/",
-      "https://www.certsign.ro/wp-content/uploads/2025/11/certSIGN-Web-CA-QWAC-Certification-Practice-Statement.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2025/11/certSIGN-Web-CA-QWAC-Certification-Practice-Statement-v1.33.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.11.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
