@@ -152,23 +152,23 @@
     "Full CRL Issued By This CA": "https://www.trustfactory.net/crl/tf-client-issuing.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d982b0f2-78cb-4c52-a176-8cc04b8a536e",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=a1f470ce-a796-4579-8b54-23fef14a2935",
     "Standard Audit Type": "WebTrust",
-    "Standard Audit Statement Date": "2024.11.29",
-    "Standard Audit Period Start Date": "2023.10.08",
-    "Standard Audit Period End Date": "2024.10.07",
+    "Standard Audit Statement Date": "2025.12.04",
+    "Standard Audit Period Start Date": "2024.10.08",
+    "Standard Audit Period End Date": "2025.10.07",
     "Policy Documentation": "https://www.trustfactory.net/repository/trustfactory_pki_hierarchy_v1.0.pdf, https://www.trustfactory.net/repository/trustfactory_oid_control_v1.0.pdf",
     "CA Document Repository": "https://www.trustfactory.net/repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.trustfactory.net/repository/trustfactory_cp_v1.11.pdf"
+      "https://www.trustfactory.net/repository/trustfactory_cp_v1.12.pdf"
     ],
-    "CP Last Updated Date": "2024.11.05",
+    "CP Last Updated Date": "2025.08.28",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.trustfactory.net/repository/trustfactory_client_root_ca_cps_v1.10.pdf"
+      "https://www.trustfactory.net/repository/trustfactory_client_root_ca_cps_v1.11.pdf"
     ],
-    "CPS Last Updated Date": "2024.08.21",
+    "CPS Last Updated Date": "2025.08.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
