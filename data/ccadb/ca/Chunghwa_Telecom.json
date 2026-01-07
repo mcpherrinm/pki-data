@@ -82,7 +82,7 @@
     "Authority Key Identifier": "Hgz3tmfy4ZImCUXAVTkudz9CSqI=",
     "Subject Key Identifier": "cbNQMaAbW3uypll8/RCMPK06PXo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;IP Security IKE Intermediate;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Code Signing;Document Signing;IP Security IKE Intermediate;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "https://publicca.hinet.net/crl/PubCA/complete.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -91,7 +91,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "Taiwan, Republic of China"
   },

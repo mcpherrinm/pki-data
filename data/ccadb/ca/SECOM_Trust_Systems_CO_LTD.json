@@ -5006,7 +5006,7 @@
     "Authority Key Identifier": "CoWpd2UFmHxAgfgPlyw48QrsPM8=",
     "Subject Key Identifier": "/Mba/set1VrOSN7P/egoxaO6jxE=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Secure Email",
     "Full CRL Issued By This CA": "http://crl.cybertrust.ne.jp/SureMail/smcag4/cdp.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",

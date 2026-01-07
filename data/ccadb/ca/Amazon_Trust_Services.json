@@ -341,7 +341,7 @@
     "Authority Key Identifier": "q7bb1waeN6wwhgeRcMecxBmxeMA=",
     "Subject Key Identifier": "rlyA/0KXycOgm2ULBM6ecX8+zlo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.sca3b.amazontrust.com/sca3b.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
@@ -383,7 +383,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },

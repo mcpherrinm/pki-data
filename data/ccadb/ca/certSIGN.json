@@ -554,7 +554,7 @@
     "Authority Key Identifier": "giEtZsbXoOAV685MCXfEYJ5UbgM=",
     "Subject Key Identifier": "ZSkrGStaQdMBYpt7RwDiGAhxw0E=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.certsign.ro/certsign-webca.crl",
     "Auditor": "LSTI",
     "Audits Same as Parent": "true",
