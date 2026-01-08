@@ -374,6 +374,7 @@
     "Valid To (GMT)": "2038.01.13",
     "Subject Key Identifier": "RKwaLBwGAco=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl.a-trust.at/crl/a-sign-root-smime-01",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
