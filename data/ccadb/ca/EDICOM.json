@@ -212,13 +212,11 @@
     "CA Document Repository": "https://acedicom.edicomgroup.com/eu/caedicom_en.xml",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://acedicom.edicomgroup.com/eu/CAEDICOM-PoliticaCertificadosTLS.pdf",
       "https://acedicom.edicomgroup.com/eu/CAEDICOM-PoliticaCertificadosTLS.pdf"
     ],
     "CP Last Updated Date": "2025.09.09",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://acedicom.edicomgroup.com/eu/CAEDICOM%20-%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n.pdf",
       "https://acedicom.edicomgroup.com/eu/CAEDICOM%20-%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n.pdf"
     ],
     "CPS Last Updated Date": "2025.09.09",
