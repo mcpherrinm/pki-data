@@ -72,10 +72,6 @@
     "S/MIME BR Audit Period End Date": "2025.04.08",
     "CA Document Repository": "http://www.elektronicznypodpis.pl/en/information/legal-basis/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2025/3/28/ace9e80ba96e217737a6997e9f7af868/Certification_Policy_KIR_Trusted_nq_certificates_1.14_20250328.pdf"
-    ],
-    "CP Last Updated Date": "2025.03.28",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -287,15 +283,7 @@
     "S/MIME BR Audit Period End Date": "2025.04.08",
     "CA Document Repository": "http://www.elektronicznypodpis.pl/en/information/legal-basis/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2025/3/28/ace9e80ba96e217737a6997e9f7af868/Certification_Policy_KIR_Trusted_nq_certificates_1.14_20250328.pdf"
-    ],
-    "CP Last Updated Date": "2025.03.28",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2025/11/28/5efd251ea580c82ce3dd3a390b72e0d2/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_24_sig.pdf"
-    ],
-    "CPS Last Updated Date": "2025.12.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl.elektronicznypodpis.pl/",
