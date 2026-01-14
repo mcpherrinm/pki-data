@@ -277,6 +277,7 @@
     "Authority Key Identifier": "21lPj6tkAwhcErooTamwOJfE4fA=",
     "Subject Key Identifier": "Fy6XKtmcBQTyvpFN42BQliuvmts=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://test.full.crldp.com/DO_NOT_USE_THIS_DATA",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [

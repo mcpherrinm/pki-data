@@ -1028,7 +1028,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.0-en.pdf",
       "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.05-en.pdf"
     ],
     "CP/CPS Last Updated Date": "2025.08.25",
