@@ -55291,7 +55291,7 @@
     "Subject Key Identifier": "/glxQFUFEETYpIF1uJ4a6UoGiMg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/microsoft%20azure%20rsa%20tls%20issuing%20ca%2003.crl",
+    "Full CRL Issued By This CA": "http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2003.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=28efc2e1-0a2a-48c8-9ec0-5343118da987",
@@ -79691,9 +79691,6 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDRootG2.crl",
-    "JSON Array of Partitioned CRLs": [
-      "​"
-    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
