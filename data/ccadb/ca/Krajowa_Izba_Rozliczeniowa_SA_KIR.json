@@ -283,7 +283,15 @@
     "S/MIME BR Audit Period End Date": "2025.04.08",
     "CA Document Repository": "http://www.elektronicznypodpis.pl/en/information/legal-basis/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/1/12/b8c084a06631c576163477cb4b7e6079/Certification_Policy_KIR_Trusted_nq_certificates_1.15_20260112.pdf"
+    ],
+    "CP Last Updated Date": "2026.01.12",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/1/12/03ba7a848b154666783a30b62fc3099b/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_25_20260112.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl.elektronicznypodpis.pl/",
