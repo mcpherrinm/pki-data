@@ -52163,6 +52163,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ha-cs-2011a.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ha-cs-2011a.crl",
+      "http://crl4.digicert.com/ha-cs-2011a.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -52229,7 +52233,9 @@
     "Derived Trust Bits": "Code Signing",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/assured-cs-2011a.crl",
-      "http://crl3.digicert.com/assured-cs-g1.crl"
+      "http://crl3.digicert.com/assured-cs-g1.crl",
+      "http://crl4.digicert.com/assured-cs-2011a.crl",
+      "http://crl4.digicert.com/assured-cs-g1.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -52457,7 +52463,8 @@
     "Subject Key Identifier": "rXWO+6UVi1FWUZVFDRpxS+xPPmM=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/OptioncareCA.crl"
+      "http://crl3.digicert.com/OptioncareCA.crl",
+      "http://crl4.digicert.com/OptioncareCA.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -53156,7 +53163,8 @@
     "Subject Key Identifier": "zukCNH2qBjhBbQTVz7ry8DqkQ1w=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/SCHIExDirectCA.crl"
+      "http://crl3.digicert.com/SCHIExDirectCA.crl",
+      "http://crl4.digicert.com/SCHIExDirectCA.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -53191,6 +53199,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA.crl",
+      "http://crl4.digicert.com/AbbottLaboratoriesSecureCodeSigningCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -53750,7 +53762,8 @@
     "Subject Key Identifier": "z2BKxu29xQTZyWoXmjT80/nU3nk=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/TheKobleGroupCA.crl"
+      "http://crl3.digicert.com/TheKobleGroupCA.crl",
+      "http://crl4.digicert.com/TheKobleGroupCA.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -54572,6 +54585,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CiscoMerakiCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CiscoMerakiCA.crl",
+      "http://crl4.digicert.com/CiscoMerakiCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -54606,6 +54623,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbbottLaboratoriesSecureServerCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureServerCA.crl",
+      "http://crl4.digicert.com/AbbottLaboratoriesSecureServerCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -54639,7 +54660,8 @@
     "Subject Key Identifier": "inEwMMGVB+czGIfRF1ZWSHiU5gg=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/CalINDEXCA.crl"
+      "http://crl3.digicert.com/CalINDEXCA.crl",
+      "http://crl4.digicert.com/CalINDEXCA.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -54773,6 +54795,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCA.crl",
+      "http://crl4.digicert.com/AbbottLaboratoriesSecureAuthenticationCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -56591,6 +56617,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ComcastTrustedUserRSACA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ComcastTrustedUserRSACA.crl",
+      "http://crl4.digicert.com/ComcastTrustedUserRSACA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -56873,6 +56903,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/EVCodeSigning-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EVCodeSigning-g1.crl",
+      "http://crl4.digicert.com/EVCodeSigning-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -56907,6 +56941,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl",
+      "http://crl4.digicert.com/EVCodeSigningSHA2-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -57225,6 +57263,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/WoSignEVSSLProCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoSignEVSSLProCA.crl",
+      "http://crl4.digicert.com/WoSignEVSSLProCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -57259,6 +57301,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/WoSignOVSSLProCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoSignOVSSLProCA.crl",
+      "http://crl4.digicert.com/WoSignOVSSLProCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -57293,6 +57339,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/WoSignEVCodeSigningProCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoSignEVCodeSigningProCA.crl",
+      "http://crl4.digicert.com/WoSignEVCodeSigningProCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -57497,6 +57547,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DCGovernmentSHA2AssuredIDIntermediateCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DCGovernmentSHA2AssuredIDIntermediateCA.crl",
+      "http://crl4.digicert.com/DCGovernmentSHA2AssuredIDIntermediateCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -59834,7 +59888,8 @@
     "Subject Key Identifier": "4zp1SZzaRC9shgMcgYsoV8j/ojI=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/DigiCertFederatedID-L4.crl"
+      "http://crl3.digicert.com/DigiCertFederatedID-L4.crl",
+      "http://crl4.digicert.com/DigiCertFederatedID-L4.crl"
     ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
@@ -59899,7 +59954,8 @@
     "Subject Key Identifier": "3ppcrlPTyXQYAAAxkhtKJwnIeUg=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/DigiCertFederatedID-L1.crl"
+      "http://crl3.digicert.com/DigiCertFederatedID-L1.crl",
+      "http://crl4.digicert.com/DigiCertFederatedID-L1.crl"
     ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
@@ -61440,6 +61496,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AetnaIncSecureEVCA2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AetnaIncSecureEVCA2.crl",
+      "http://crl4.digicert.com/AetnaIncSecureEVCA2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -61507,7 +61567,8 @@
     "Subject Key Identifier": "LCAgLxhzK/E7S5IEyMt9+snC9AU=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/DigiCertUniversalIssuingCA.crl"
+      "http://crl3.digicert.com/DigiCertUniversalIssuingCA.crl",
+      "http://crl4.digicert.com/DigiCertUniversalIssuingCA.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -61806,6 +61867,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/WoTrusEVSSLProCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoTrusEVSSLProCA.crl",
+      "http://crl4.digicert.com/WoTrusEVSSLProCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -61840,6 +61905,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/WoTrusOVSSLProCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WoTrusOVSSLProCA.crl",
+      "http://crl4.digicert.com/WoTrusOVSSLProCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -62080,7 +62149,8 @@
     "Subject Key Identifier": "msRDcTAOMCWlSum0I07TOPM3P6g=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/DigiCertFederatedID-US-L4.crl"
+      "http://crl3.digicert.com/DigiCertFederatedID-US-L4.crl",
+      "http://crl4.digicert.com/DigiCertFederatedID-US-L4.crl"
     ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
@@ -62115,6 +62185,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA.crl",
+      "http://crl4.digicert.com/NETFoundationProjectsCodeSigningCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -62149,6 +62223,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/TrustAsiaSecureEmailCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustAsiaSecureEmailCA.crl",
+      "http://crl4.digicert.com/TrustAsiaSecureEmailCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -62316,6 +62394,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/TrustAsiaSecureEnterpriseEmailCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustAsiaSecureEnterpriseEmailCA.crl",
+      "http://crl4.digicert.com/TrustAsiaSecureEnterpriseEmailCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -62350,6 +62432,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertSHA2AssuredIDCodeSigning.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertSHA2AssuredIDCodeSigning.crl",
+      "http://crl4.digicert.com/DigiCertSHA2AssuredIDCodeSigning.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -62417,6 +62503,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertEVCodeSigningCASHA2G1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertEVCodeSigningCASHA2G1.crl",
+      "http://crl4.digicert.com/DigiCertEVCodeSigningCASHA2G1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -63994,6 +64084,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalCAG2.crl",
+      "http://crl4.digicert.com/DigiCertGlobalCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64183,6 +64277,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalCAG3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalCAG3.crl",
+      "http://crl4.digicert.com/DigiCertGlobalCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64506,6 +64604,20 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/sha2-hasca-master.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-ha-server-g1.crl",
+      "http://crl3.digicert.com/sha2-ha-server-g2.crl",
+      "http://crl3.digicert.com/sha2-ha-server-g3.crl",
+      "http://crl3.digicert.com/sha2-ha-server-g4.crl",
+      "http://crl3.digicert.com/sha2-ha-server-g5.crl",
+      "http://crl3.digicert.com/sha2-ha-server-g6.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g1.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g2.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g3.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g4.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g5.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g6.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64573,6 +64685,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/sha2-assured-cs-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-assured-cs-g1.crl",
+      "http://crl4.digicert.com/sha2-assured-cs-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64607,6 +64723,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/sha2-ha-cs-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-ha-cs-g1.crl",
+      "http://crl4.digicert.com/sha2-ha-cs-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64674,6 +64794,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertDocumentSigningCA-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertDocumentSigningCA-g1.crl",
+      "http://crl4.digicert.com/DigiCertDocumentSigningCA-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64807,6 +64931,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/RVBDCertificateIssuer.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RVBDCertificateIssuer.crl",
+      "http://crl4.digicert.com/RVBDCertificateIssuer.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64874,6 +65002,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/RiverbedCertificateIssuer.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RiverbedCertificateIssuer.crl",
+      "http://crl4.digicert.com/RiverbedCertificateIssuer.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -64907,7 +65039,8 @@
     "Subject Key Identifier": "Co/uAWZzXeIj7agp6FWSUlrQvog=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/DigiCertFederatedIDUSL3CA.crl"
+      "http://crl3.digicert.com/DigiCertFederatedIDUSL3CA.crl",
+      "http://crl4.digicert.com/DigiCertFederatedIDUSL3CA.crl"
     ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
@@ -65005,7 +65138,8 @@
     "Subject Key Identifier": "CiYgUReRDXHbOz5eAgCg6AO2VRk=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/DigiCertFederatedIDL2CA.crl"
+      "http://crl3.digicert.com/DigiCertFederatedIDL2CA.crl",
+      "http://crl4.digicert.com/DigiCertFederatedIDL2CA.crl"
     ],
     "Audits Same as Parent": "false",
     "CP Same as Parent": "true",
@@ -65931,6 +66065,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/secure-auth-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/secure-auth-g1.crl",
+      "http://crl4.digicert.com/secure-auth-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -65965,6 +66103,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/GeoTrustSupremeSSLEV1CA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustSupremeSSLEV1CA.crl",
+      "http://crl4.digicert.com/GeoTrustSupremeSSLEV1CA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -65999,6 +66141,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl",
+      "http://crl4.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -66033,6 +66179,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/GeoTrustSupremeSSL1CA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GeoTrustSupremeSSL1CA.crl",
+      "http://crl4.digicert.com/GeoTrustSupremeSSL1CA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -66939,6 +67089,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertCNRSACAG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertCNRSACAG1.crl",
+      "http://crl4.digicert.com/DigiCertCNRSACAG1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -67204,6 +67358,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertCNRSAEVCAG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertCNRSAEVCAG1.crl",
+      "http://crl4.digicert.com/DigiCertCNRSAEVCAG1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -68440,6 +68598,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NCCGroupSecureServerCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NCCGroupSecureServerCAG2.crl",
+      "http://crl4.digicert.com/NCCGroupSecureServerCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -68474,6 +68636,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NCCGroupSecureServerCAG3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NCCGroupSecureServerCAG3.crl",
+      "http://crl4.digicert.com/NCCGroupSecureServerCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -68508,6 +68674,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NCCGroupSecureServerCAG4.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NCCGroupSecureServerCAG4.crl",
+      "http://crl4.digicert.com/NCCGroupSecureServerCAG4.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -69819,6 +69989,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/SecureSiteCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SecureSiteCA.crl",
+      "http://crl4.digicert.com/SecureSiteCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -69885,7 +70059,8 @@
     "Subject Key Identifier": "B6XI8u2aHxpmf70HV/eq4LkELW4=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl3.digicert.com/NetflixPublicSHA2RSACA2.crl"
+      "http://crl3.digicert.com/NetflixPublicSHA2RSACA2.crl",
+      "http://crl4.digicert.com/NetflixPublicSHA2RSACA2.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -73302,6 +73477,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertCloudServicesCA-1-g1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertCloudServicesCA-1-g1.crl",
+      "http://crl4.digicert.com/DigiCertCloudServicesCA-1-g1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -73501,6 +73680,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl",
+      "http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -73634,6 +73817,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/BloombergTLSCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/BloombergTLSCA.crl",
+      "http://crl4.digicert.com/BloombergTLSCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -73668,6 +73855,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4TLSRSASHA3842020CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -73768,6 +73959,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertCloudServicesCA-1-g2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertCloudServicesCA-1-g2.crl",
+      "http://crl4.digicert.com/DigiCertCloudServicesCA-1-g2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -74391,6 +74586,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/evca-g3-group1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/evca-g3-group1.crl",
+      "http://crl4.digicert.com/evca-g3-group1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -74425,6 +74624,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.cn/AliyunECCTLSDVG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.cn/AliyunECCTLSDVG1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -74458,6 +74660,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.cn/AliyunRSATLSDVG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.cn/AliyunRSATLSDVG1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -74491,6 +74696,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.cn/AliyunECCTLSOVG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.cn/AliyunECCTLSOVG1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -74524,6 +74732,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.cn/AliyunRSATLSOVG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.cn/AliyunRSATLSOVG1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -74557,6 +74768,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDSMIMERSASHA2562020CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDSMIMERSASHA2562020CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDSMIMERSASHA2562020CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -74841,6 +75056,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1.crl",
+      "http://crl4.digicert.com/DigiCertHighAssuranceTLSHybridECCSHA2562020CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -74875,6 +75094,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1.crl",
+      "http://crl4.digicert.com/DigiCertHighAssuranceTLSRSASHA2562020CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75253,6 +75476,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/sha2-assured-ts.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/sha2-assured-ts.crl",
+      "http://crl4.digicert.com/sha2-assured-ts.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75423,6 +75650,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTLSICAUniversal2021.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSICAUniversal2021.crl",
+      "http://crl4.digicert.com/DigiCertTLSICAUniversal2021.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75558,6 +75789,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG2.crl",
+      "http://crl4.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -75591,6 +75826,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DKBCA1O1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DKBCA1O1.crl",
+      "http://crl4.digicert.com/DKBCA1O1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75691,6 +75930,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5TLSECCSHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5TLSECCSHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5TLSECCSHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75725,6 +75968,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75792,6 +76039,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CrowdStrikeGlobalEVCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CrowdStrikeGlobalEVCAG2.crl",
+      "http://crl4.digicert.com/CrowdStrikeGlobalEVCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75826,6 +76077,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/HydrantIDEVSSLCAD1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/HydrantIDEVSSLCAD1.crl",
+      "http://crl4.digicert.com/HydrantIDEVSSLCAD1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -75992,6 +76247,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5ECCSHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5ECCSHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5ECCSHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -76123,6 +76382,10 @@
     "Subject Key Identifier": "LvgC5zTBxa4cWAsGPCAiQpwGDLU=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG3.crl",
+      "http://crl4.digicert.com/AbbottLaboratoriesSecureAuthenticationCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -76157,6 +76420,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5RSA4096SHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5RSA4096SHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5RSA4096SHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -76674,6 +76941,14 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-3.crl",
+      "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl",
+      "http://crl3.digicert.com/DigiCertTLSTSASHA2562020CA1-2.crl",
+      "http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-3.crl",
+      "http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl",
+      "http://crl4.digicert.com/DigiCertTLSTSASHA2562020CA1-2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -77357,6 +77632,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertECCExtendedValidationServerCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertECCExtendedValidationServerCA.crl",
+      "http://crl4.digicert.com/DigiCertECCExtendedValidationServerCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -78199,6 +78478,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigitalSignCA-G5.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigitalSignCA-G5.crl",
+      "http://crl4.digicert.com/DigitalSignCA-G5.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -78299,6 +78582,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NETFoundationProjectsCodeSigningCA2.crl",
+      "http://crl4.digicert.com/NETFoundationProjectsCodeSigningCA2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -78693,6 +78980,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigitalSignCA-G7.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigitalSignCA-G7.crl",
+      "http://crl4.digicert.com/DigitalSignCA-G7.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -78859,6 +79150,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/VerokeySecureEmail.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeySecureEmail.crl",
+      "http://crl4.digicert.com/VerokeySecureEmail.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -78959,6 +79254,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562024CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562024CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562024CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79026,6 +79325,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DataManagementIntermediateCA3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DataManagementIntermediateCA3.crl",
+      "http://crl4.digicert.com/DataManagementIntermediateCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -79059,6 +79362,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmailG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmailG2.crl",
+      "http://crl4.digicert.com/VerokeyAssuredBusinessIDandSecureEmailG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79093,6 +79400,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ADACOMClass2PublicTrustCAG5.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ADACOMClass2PublicTrustCAG5.crl",
+      "http://crl4.digicert.com/ADACOMClass2PublicTrustCAG5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -79159,6 +79470,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmail.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyAssuredBusinessIDandSecureEmail.crl",
+      "http://crl4.digicert.com/VerokeyAssuredBusinessIDandSecureEmail.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79193,6 +79508,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertHighAssuranceCA-3b.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertHighAssuranceCA-3b.crl",
+      "http://crl4.digicert.com/DigiCertHighAssuranceCA-3b.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79227,6 +79546,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDSMIMERSA2048SHA2562021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDSMIMERSA2048SHA2562021CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDSMIMERSA2048SHA2562021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79327,6 +79650,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CrowdStrikeGlobalEVCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CrowdStrikeGlobalEVCA.crl",
+      "http://crl4.digicert.com/CrowdStrikeGlobalEVCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79428,6 +79755,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/VerokeySecureEmailG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeySecureEmailG2.crl",
+      "http://crl4.digicert.com/VerokeySecureEmailG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -79528,6 +79859,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG1SMIMERSA4096SHA3842025CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG1SMIMERSA4096SHA3842025CA1.crl",
+      "http://crl4.digicert.com/DigiCertG1SMIMERSA4096SHA3842025CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -79790,6 +80125,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562022CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDGridClientRSA2048SHA2562022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -80244,6 +80583,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CybertrustJapanExtendedValidationServerCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CybertrustJapanExtendedValidationServerCA.crl",
+      "http://crl4.digicert.com/CybertrustJapanExtendedValidationServerCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -80278,6 +80621,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CybertrustJapanSecureServerCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CybertrustJapanSecureServerCA.crl",
+      "http://crl4.digicert.com/CybertrustJapanSecureServerCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -80967,6 +81314,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertSecureAuthCA3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertSecureAuthCA3.crl",
+      "http://crl4.digicert.com/DigiCertSecureAuthCA3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -81661,6 +82012,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CybertrustJapanSecureServerECCCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CybertrustJapanSecureServerECCCA.crl",
+      "http://crl4.digicert.com/CybertrustJapanSecureServerECCCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -81793,6 +82148,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertOmniTLSRSA4096SHA2562022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertOmniTLSRSA4096SHA2562022CA1.crl",
+      "http://crl4.digicert.com/DigiCertOmniTLSRSA4096SHA2562022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -81861,6 +82220,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/CybertrustJapanECCEVCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/CybertrustJapanECCEVCA.crl",
+      "http://crl4.digicert.com/CybertrustJapanECCEVCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -83899,6 +84262,10 @@
     "Subject Key Identifier": "Tli7kB59tPvroEwExNYjUO/M3UE=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDG2MultiDocSigningRSA4096SHA3842023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDG2MultiDocSigningRSA4096SHA3842023CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDG2MultiDocSigningRSA4096SHA3842023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -84199,6 +84566,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842023CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -84999,6 +85370,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -85530,6 +85905,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NBNCoLimitedPublicIssuingCA-G4.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NBNCoLimitedPublicIssuingCA-G4.crl",
+      "http://crl4.digicert.com/NBNCoLimitedPublicIssuingCA-G4.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -85931,6 +86310,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalG3SMIMEECCP384SHA3842024CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG3SMIMEECCP384SHA3842024CA1.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG3SMIMEECCP384SHA3842024CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86133,6 +86516,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/IBMCertificationAuthorityG7.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/IBMCertificationAuthorityG7.crl",
+      "http://crl4.digicert.com/IBMCertificationAuthorityG7.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86199,6 +86586,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/TrustItaliaIntermediateCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustItaliaIntermediateCAG2.crl",
+      "http://crl4.digicert.com/TrustItaliaIntermediateCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86331,6 +86722,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/KyndrylCertificationAuthorityG3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/KyndrylCertificationAuthorityG3.crl",
+      "http://crl4.digicert.com/KyndrylCertificationAuthorityG3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86364,6 +86759,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDClientCAG3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDClientCAG3.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDClientCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86398,6 +86797,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDClientCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86432,6 +86835,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalClientCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalClientCAG2.crl",
+      "http://crl4.digicert.com/DigiCertGlobalClientCAG2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86466,6 +86873,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalClientCAG3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalClientCAG3.crl",
+      "http://crl4.digicert.com/DigiCertGlobalClientCAG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86565,6 +86976,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NationalUniversityofSingaporeCA-G5.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NationalUniversityofSingaporeCA-G5.crl",
+      "http://crl4.digicert.com/NationalUniversityofSingaporeCA-G5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86598,6 +87013,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/GESMIMEIssuingCA5.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GESMIMEIssuingCA5.crl",
+      "http://crl4.digicert.com/GESMIMEIssuingCA5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86631,6 +87050,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertKMSSolutionsLLCGCCHighEmailCA-G2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertKMSSolutionsLLCGCCHighEmailCA-G2.crl",
+      "http://crl4.digicert.com/DigiCertKMSSolutionsLLCGCCHighEmailCA-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86664,6 +87087,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG2SMIMERSA4096SHA3842024CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG2SMIMERSA4096SHA3842024CA1.crl",
+      "http://crl4.digicert.com/DigiCertG2SMIMERSA4096SHA3842024CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86697,6 +87124,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/JohnsHopkinsAramcoHealthcareIssuingCA-G3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/JohnsHopkinsAramcoHealthcareIssuingCA-G3.crl",
+      "http://crl4.digicert.com/JohnsHopkinsAramcoHealthcareIssuingCA-G3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86730,6 +87161,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/SRIInternationalCA-G5.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SRIInternationalCA-G5.crl",
+      "http://crl4.digicert.com/SRIInternationalCA-G5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86763,6 +87198,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl.digicert.eu/GieseckeandDevrientCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/GieseckeandDevrientCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87060,6 +87498,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ADACOMClass2PublicTrustCAG4.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ADACOMClass2PublicTrustCAG4.crl",
+      "http://crl4.digicert.com/ADACOMClass2PublicTrustCAG4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87093,6 +87535,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AdacomSAClass2-PublicTrustCAG4.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AdacomSAClass2-PublicTrustCAG4.crl",
+      "http://crl4.digicert.com/AdacomSAClass2-PublicTrustCAG4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87126,6 +87572,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AdacomSAClass1-PublicTrustCAG4.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AdacomSAClass1-PublicTrustCAG4.crl",
+      "http://crl4.digicert.com/AdacomSAClass1-PublicTrustCAG4.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87192,6 +87642,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/SaudiTelecomCompanyEmailCA-G2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SaudiTelecomCompanyEmailCA-G2.crl",
+      "http://crl4.digicert.com/SaudiTelecomCompanyEmailCA-G2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87291,6 +87745,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AvayaClientServicesUsersCA3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AvayaClientServicesUsersCA3.crl",
+      "http://crl4.digicert.com/AvayaClientServicesUsersCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87324,6 +87782,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ShellCorporateEmailCAG2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ShellCorporateEmailCAG2.crl",
+      "http://crl4.digicert.com/ShellCorporateEmailCAG2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87357,6 +87819,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbionIntermediateCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbionIntermediateCA.crl",
+      "http://crl4.digicert.com/AbionIntermediateCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87390,6 +87856,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/ULACA-G7.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/ULACA-G7.crl",
+      "http://crl4.digicert.com/ULACA-G7.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87423,6 +87893,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/WIPOCA-G6.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/WIPOCA-G6.crl",
+      "http://crl4.digicert.com/WIPOCA-G6.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87456,6 +87930,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl.digicert.eu/FreistaatBayernICA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/FreistaatBayernICA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87489,6 +87966,9 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.eu/AbsaGroupLimitedPublicCA2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/AbsaGroupLimitedPublicCA2.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87522,6 +88002,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NGACAG5.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NGACAG5.crl",
+      "http://crl4.digicert.com/NGACAG5.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87555,6 +88039,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4TLSRSA4096SHA2562025CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4TLSRSA4096SHA2562025CA1.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4TLSRSA4096SHA2562025CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87686,6 +88174,10 @@
     "Subject Key Identifier": "oJklrzUgSZKUM0IAG+YVVy9aMfQ=",
     "Technically Constrained": "true",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDG3CSECC384SHA3842025CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDG3CSECC384SHA3842025CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDG3CSECC384SHA3842025CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87719,6 +88211,9 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.eu/TelenorNorgeASPG2CA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/TelenorNorgeASPG2CA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87752,6 +88247,9 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.digicert.eu/TelenorNorgeASTG2CA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/TelenorNorgeASTG2CA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87785,6 +88283,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/SGNFISGLOBALPUBLICCA3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/SGNFISGLOBALPUBLICCA3.crl",
+      "http://crl4.digicert.com/SGNFISGLOBALPUBLICCA3.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87817,6 +88319,9 @@
     "Subject Key Identifier": "vkUDuw1Yn6z+ka5gQabEMXCYkyo=",
     "Technically Constrained": "true",
     "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertAssuredIDG3EURCSECC384SHA3842025CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG3EURCSECC384SHA3842025CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87850,6 +88355,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DepartmentforWorkPensionsClientCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DepartmentforWorkPensionsClientCA.crl",
+      "http://crl4.digicert.com/DepartmentforWorkPensionsClientCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87883,6 +88392,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/NoblisCo-brandedIssuingCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NoblisCo-brandedIssuingCA.crl",
+      "http://crl4.digicert.com/NoblisCo-brandedIssuingCA.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87916,6 +88429,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4TLSRSA4096SHA3842025CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4TLSRSA4096SHA3842025CA1.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4TLSRSA4096SHA3842025CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -87949,6 +88466,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5CSRSA4096SHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CSRSA4096SHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5CSRSA4096SHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -87983,6 +88504,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5CSECCSHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CSECCSHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5CSECCSHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88050,6 +88575,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCSHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCSHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG3CodeSigningECCSHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88084,6 +88613,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88151,6 +88684,10 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/TrustItaliaIntermediateCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustItaliaIntermediateCA.crl",
+      "http://crl4.digicert.com/TrustItaliaIntermediateCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88620,6 +89157,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA2562021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA2562021CA1.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA2562021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88654,6 +89195,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCP256SHA3842021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertGlobalG3CodeSigningECCP256SHA3842021CA1.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG3CodeSigningECCP256SHA3842021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88688,6 +89233,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA-G2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/AbbottLaboratoriesSecureCodeSigningCA-G2.crl",
+      "http://crl4.digicert.com/AbbottLaboratoriesSecureCodeSigningCA-G2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88722,6 +89271,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/RiverbedCertificateIssuer-G2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RiverbedCertificateIssuer-G2.crl",
+      "http://crl4.digicert.com/RiverbedCertificateIssuer-G2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88756,6 +89309,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/RVBDENGCertificateIssuer-G2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RVBDENGCertificateIssuer-G2.crl",
+      "http://crl4.digicert.com/RVBDENGCertificateIssuer-G2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88790,6 +89347,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/VerokeySecureCode.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeySecureCode.crl",
+      "http://crl4.digicert.com/VerokeySecureCode.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88824,6 +89385,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/VerokeyHighAssuranceSecureCodeEV.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyHighAssuranceSecureCodeEV.crl",
+      "http://crl4.digicert.com/VerokeyHighAssuranceSecureCodeEV.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88858,6 +89423,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88892,6 +89461,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA2562022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA2562022CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5CodeSigningRSA4096SHA2562022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -88959,6 +89532,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5CodeSigningECCP384SHA3842022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningECCP384SHA3842022CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5CodeSigningECCP384SHA3842022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -89026,6 +89603,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5CodeSigningECCP256SHA3842022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningECCP256SHA3842022CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5CodeSigningECCP256SHA3842022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -89060,6 +89641,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA3842022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertG5CodeSigningRSA4096SHA3842022CA1.crl",
+      "http://crl4.digicert.com/DigiCertG5CodeSigningRSA4096SHA3842022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -89805,6 +90390,10 @@
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl",
+      "http://crl4.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
