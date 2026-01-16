@@ -143,14 +143,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -785,15 +779,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -858,15 +845,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1033,15 +1013,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1105,15 +1078,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1220,8 +1186,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1357,8 +1321,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1391,8 +1353,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1544,15 +1504,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1636,15 +1589,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1696,15 +1642,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
@@ -1756,15 +1695,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://certs.godaddy.com/repository/certificate_practices/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf",
-      "https://certs.godaddy.com/repository/certificate_practices/en/StarfieldCertificatePolicyandCertificationPracticeStatement.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
-      "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
