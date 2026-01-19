@@ -22,18 +22,18 @@
     "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/Devices/devices_certification_authority_uae_government_ae_crlfilec1.crl",
     "Auditor": "Auren",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.4.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.5.pdf"
     ],
-    "CPS Last Updated Date": "2025.04.17",
+    "CPS Last Updated Date": "2026.01.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -64,13 +64,13 @@
     "Technically Constrained": "false",
     "Auditor": "Auren",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.3.pdf"
@@ -109,18 +109,18 @@
       "http://ca-repository.desc.gov.ae/CRL/Devices/devices_certification_authority_uae_government_ae_crlfilec3.crl"
     ],
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.4.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-DevicesCA-CertificationPracticeStatement_v2.5.pdf"
     ],
-    "CPS Last Updated Date": "2025.04.17",
+    "CPS Last Updated Date": "2026.01.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -150,13 +150,13 @@
     "Subject Key Identifier": "eKxOR70dTrECwbWHsBZTkmzVUBU=",
     "Technically Constrained": "true",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.3.pdf"
@@ -275,13 +275,13 @@
     "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/Timestamping/TimestampingCAC2.crl",
     "Auditor": "Auren",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.6.pdf"
@@ -318,18 +318,18 @@
     "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/CodeSigning/CodeSigningCAC2.crl",
     "Auditor": "Auren",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.6.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CodeSigningCA-CertificationPracticeStatement_v1.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.04.17",
+    "CPS Last Updated Date": "2026.01.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -360,13 +360,13 @@
     "Technically Constrained": "true",
     "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/Timestamping/TimestampingCAC3.crl",
     "Audits Same as Parent": "false",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.6.pdf"
@@ -403,13 +403,13 @@
     "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/EthaqPlus/EthaqPlusCA.crl",
     "Auditor": "Auren",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.2.pdf"
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.3.pdf"
     ],
-    "CP Last Updated Date": "2025.04.17",
+    "CP Last Updated Date": "2026.01.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-EthaqPlusCA-CertificationPracticeStatement_v1.0.pdf"
