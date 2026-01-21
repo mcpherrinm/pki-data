@@ -3075,15 +3075,7 @@
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3159,15 +3151,7 @@
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3407,17 +3391,13 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3460,17 +3440,13 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3513,17 +3489,13 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3566,17 +3538,13 @@
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.9.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.8.1.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
