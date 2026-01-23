@@ -1116,6 +1116,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.05-en.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2025.08.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.trustg1ov.hinet.net",
     "Test Website URL - Expired": "https://expired.trustg1ov.hinet.net",

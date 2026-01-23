@@ -16140,6 +16140,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -19093,7 +19099,7 @@
     "Subject Key Identifier": "CwX+8HAc0jz39THZ33Mx4tSp79I=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVCSCAG2C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVCSCAG2C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -19147,7 +19153,7 @@
     "Subject Key Identifier": "ojK9YWQBr3C0D6kf9aYzg4liSzY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG2C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMEVTLSCAG2C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -19326,7 +19332,7 @@
     "Subject Key Identifier": "e54Zz+4CXn975/HZUJEh7UQNiQo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVTLSCAG2B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVTLSCAG2B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -19525,7 +19531,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "MvLWH9zyLbs/oCEn32byqPypOqk=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVTLSCAG2A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVTLSCAG2A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -20035,10 +20041,7 @@
     "Subject Key Identifier": "JRRvF3XiUC/GglAoSqB76tTCCVU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG2B.crl",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMEVTLSCAG2B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -20097,7 +20100,7 @@
     "Subject Key Identifier": "4h4v5xwZOQ5VS2LBICRXNSSKJRQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMDVTLSCAG3B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMDVTLSCAG3B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -20400,7 +20403,7 @@
     "Subject Key Identifier": "Ptwg2YlGmId7hz/YgUeyXBXYRwY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG3B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMEVTLSCAG3B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -20551,7 +20554,7 @@
     "Subject Key Identifier": "i2Wvxys8DH7RBbUH4lgSqGYVKHY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMDVTLSCAG2B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMDVTLSCAG2B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -20605,7 +20608,7 @@
     "Subject Key Identifier": "m9hlUa/n5yw3rQjuaRnZvzeErgo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVTLSCAG3B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVTLSCAG3B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -20691,7 +20694,7 @@
     "Subject Key Identifier": "rn4QXDwplsGoRycFWfHgPdTlCvM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMDVTLSCAG3C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMDVTLSCAG3C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -20744,7 +20747,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "MQYExQscyTBof0JJQvsdm/vBecA=",
     "Technically Constrained": "true",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVCSCAG3A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVCSCAG3A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -20803,6 +20806,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -20870,6 +20877,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -20898,7 +20910,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "18TxEP2QYWeitIyiCDIBtdA1G9w=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMDVTLSCAG2A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMDVTLSCAG2A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -20957,7 +20969,7 @@
     "Subject Key Identifier": "NOrqDOvJCtr50MXi7Zt4yYeeG2w=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVTLSCAG3C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVTLSCAG3C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -21010,7 +21022,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "9uPcBKE/9OBtlJLHPrB527iymk8=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMDVTLSCAG3A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMDVTLSCAG3A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -21074,6 +21086,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21196,7 +21212,7 @@
     "Subject Key Identifier": "7m9zKY1vv6ezG8OVNPYVVkR4Zrc=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVCSCAG3C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVCSCAG3C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -21255,6 +21271,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21316,7 +21336,7 @@
     "Subject Key Identifier": "9UUQQBohADPDnoY6Z4v7j3tqwEg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMDVTLSCAG2C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMDVTLSCAG2C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -21375,6 +21395,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21508,6 +21532,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21597,7 +21626,7 @@
     "Subject Key Identifier": "efro7M/bDXWNpFjWn7bt3HxJ3uY=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVCSCAG3B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVCSCAG3B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -21874,6 +21903,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21902,7 +21935,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "w4m4lu+INVGYIoaEvZRg1nO1PSo=",
     "Technically Constrained": "true",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVCSCAG2A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVCSCAG2A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -22274,7 +22307,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "qzGC84v47gJ0XJjBPwWHJQSzyKU=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG2A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMEVTLSCAG2A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -22338,6 +22371,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22372,6 +22409,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -22724,6 +22765,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -22806,7 +22851,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "VgpY1Gl56hPpLUqfrowL7w8OlU4=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG3A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMEVTLSCAG3A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -22956,7 +23001,7 @@
     "Authority Key Identifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
     "Subject Key Identifier": "7UO69snBn40gI97hSCAy0o/YIGk=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVTLSCAG3A.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVTLSCAG3A.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bff845df-7291-44d0-9c12-fbc8aed1d084",
@@ -23129,7 +23174,7 @@
     "Subject Key Identifier": "dOE6o+hENzdytPXxJdoF01D2Fi0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVTLSCAG2C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVTLSCAG2C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -23312,7 +23357,7 @@
     "Subject Key Identifier": "ivjBsPhlDOoNPlKkeWxpiPHIWB0=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMOVCSCAG2B.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMOVCSCAG2B.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -23398,7 +23443,7 @@
     "Subject Key Identifier": "piVegKlNt/OWfBvHkd+SvO5L618=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://crl.emsign.com/?EMEVTLSCAG3C.crl",
+    "Full CRL Issued By This CA": "http://crl.emsign.com/?EMEVTLSCAG3C.crl",
     "Auditor": "BDO Consulting Sdn. Bhd.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=41e40cb2-f813-4ab0-8200-d7b687606270",
@@ -30381,10 +30426,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -30949,6 +30990,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -47916,6 +47961,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -48052,10 +48103,6 @@
     ],
     "CPS Last Updated Date": "2025.01.27",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48320,6 +48367,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48458,6 +48510,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48704,6 +48760,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48738,6 +48798,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48805,6 +48869,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -48872,6 +48940,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48906,6 +48979,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48940,6 +49017,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -48974,6 +49055,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -49112,6 +49197,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -49624,7 +49713,7 @@
     "Subject Key Identifier": "Jg/wxEgIG83dkfVUVLazs/yZ8Qg=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "Full CRL Issued By This CA": "http://crl.entrust.net/ts2.crl",
+    "Full CRL Issued By This CA": "http://crl.entrust.net/ts2ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -49735,10 +49824,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -49812,10 +49897,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.entrust.com/sites/default/files/documentation/licensingandagreements/ecs/entrust-eu-cps-for-qualified-certificates-v2-2.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.01.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
