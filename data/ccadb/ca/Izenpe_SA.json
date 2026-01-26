@@ -680,9 +680,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.8.pdf"
+      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.8.pdf",
+      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.9.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-qualified.izenpe.eus",
     "Test Website URL - Expired": "https://test-expired-ev.izenpe.eus",
