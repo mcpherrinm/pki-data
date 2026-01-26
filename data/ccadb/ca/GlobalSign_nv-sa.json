@@ -23180,9 +23180,7 @@
     "Subject Key Identifier": "lLDJT8HgbO/Oxitss7TLIop2Sbc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/rnpicpedugr46ovtlsca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
