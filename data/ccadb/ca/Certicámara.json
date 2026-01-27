@@ -65,9 +65,9 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Yet Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "AF132D2996636D66A806EBDACF839EF4C012F47EA58FEED287E316392B632409",
     "Parent SHA-256 Fingerprint": "D2A90E5D35CAC4D41F7D44CE66AFF885E1815FB339185853A87E66C05C9BEF1E",
@@ -76,7 +76,6 @@
     "Authority Key Identifier": "0QnQ6dfOeXRU+Tows/RtLAMDG2g=",
     "Subject Key Identifier": "gHHMMpJYdfQDITqrvhzTj/IgFe0=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security End System;IP Security IKE Intermediate;IP Security Tunnel Termination;IP Security User;Secure Email;Time Stamping",
     "Auditor": "Audit Trust",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -86,7 +85,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Colombia"
   },
   {
@@ -138,9 +137,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "NotBefore",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "D2A90E5D35CAC4D41F7D44CE66AFF885E1815FB339185853A87E66C05C9BEF1E",
     "Valid From (GMT)": "2016.05.24",
     "Valid To (GMT)": "2031.05.24",
@@ -166,8 +165,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Colombia",
-    "Trust Bits for Root Cert": "Client Authentication;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User;IP Security IKE Intermediate;IP Security End System"
+    "S/MIME Capable": "False",
+    "Country": "Colombia"
   }
 ]

@@ -8,9 +8,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "Disabled",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "AD016F958050E0E7E46FAE7DCC50197ED8E3FF0A4B262E5DDCDB3EDDDC7D6578",
     "Valid From (GMT)": "2010.01.19",
     "Valid To (GMT)": "2025.01.19",
@@ -38,12 +38,11 @@
     "Test Website URL - Valid": "https://demo.postsignum.cz:8443/",
     "Test Website URL - Expired": "https://demo.postsignum.cz:8444/",
     "Test Website URL - Revoked": "https://demo.postsignum.cz:8445/",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Czech Republic",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping"
+    "S/MIME Capable": "False",
+    "Country": "Czech Republic"
   },
   {
     "CA Owner": "PostSignum",

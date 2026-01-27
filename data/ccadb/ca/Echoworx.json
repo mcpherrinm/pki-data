@@ -8,9 +8,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "NotBefore",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "6639D13CAB85DF1AD9A23C443B3A60901E2B138D456FA71183578108884EC6BF",
     "Valid From (GMT)": "2005.10.06",
     "Valid To (GMT)": "2030.10.07",
@@ -37,8 +37,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Canada",
-    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email"
+    "S/MIME Capable": "False",
+    "Country": "Canada"
   }
 ]

@@ -175,9 +175,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Disabled",
+    "Microsoft Status": "Included",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "BC2ABBC49A6814370D17E471141C22794311C4DDDF2567BE37283A894392E5D3",
     "Valid From (GMT)": "2013.06.04",
     "Valid To (GMT)": "2033.06.04",
@@ -209,8 +209,9 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
-    "Country": "Lithuania"
+    "S/MIME Capable": "True",
+    "Country": "Lithuania",
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email"
   },
   {
     "CA Owner": "Skaitmeninio sertifikavimo centras (SSC)",
@@ -326,9 +327,9 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "F0F53EAF80A7A87A18B16BDFC7A11B0D040AC1FBC5B40BA7FDF7150EED9DE4D7",
     "Parent SHA-256 Fingerprint": "BC2ABBC49A6814370D17E471141C22794311C4DDDF2567BE37283A894392E5D3",
@@ -337,6 +338,7 @@
     "Authority Key Identifier": "e2ddPwF/1evqJQrPT7YFkh9T53I=",
     "Subject Key Identifier": "JVGcbkYSyvQO8Mw8vvX9Jr1LwIA=",
     "Technically Constrained": "false",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -345,7 +347,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "Lithuania"
   }
 ]
