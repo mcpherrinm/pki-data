@@ -8,9 +8,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "NotBefore",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "C2157309D9AEE17BF34F4DF5E88DBAEBA57E0361EB814CBC239F4D54D329A38D",
     "Valid From (GMT)": "2013.09.13",
     "Valid To (GMT)": "2033.09.13",
@@ -45,11 +45,10 @@
     "Test Website URL - Valid": "https://ssl1.test.hiteles.nisz.hu/",
     "Test Website URL - Expired": "https://ssl3.test.hiteles.nisz.hu",
     "Test Website URL - Revoked": "https://ssl2.test.hiteles.nisz.hu",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Hungary",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "S/MIME Capable": "False",
+    "Country": "Hungary"
   }
 ]

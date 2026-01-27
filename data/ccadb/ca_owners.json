@@ -220,8 +220,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 4,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 3,
         "intermediates": 3
       },
       "output_filename": "Autoridad_de_Certificación_ANF_AC.json"
@@ -360,8 +360,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
         "intermediates": 1
       },
       "output_filename": "Certicámara.json"
@@ -668,8 +668,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 13,
-        "partially_trusted_roots": 27,
-        "untrusted_roots": 70,
+        "partially_trusted_roots": 30,
+        "untrusted_roots": 67,
         "intermediates": 2531
       },
       "output_filename": "DigiCert.json"
@@ -822,8 +822,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 2,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
         "intermediates": 15
       },
       "output_filename": "e-tugra.json"
@@ -836,8 +836,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
         "intermediates": 0
       },
       "output_filename": "Echoworx.json"
@@ -1074,8 +1074,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 4,
-        "untrusted_roots": 2,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 4,
         "intermediates": 21
       },
       "output_filename": "Government_of_Brazil_Instituto_Nacional_de_Tecnologia_da_Informação_ITI.json"
@@ -1088,8 +1088,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 4,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 3,
+        "untrusted_roots": 1,
         "intermediates": 6
       },
       "output_filename": "Government_of_Finland_Population_Register_Centres_Väestörekisterikeskus_VRK.json"
@@ -1130,8 +1130,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 4,
-        "untrusted_roots": 2,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 4,
         "intermediates": 3
       },
       "output_filename": "Government_of_India_Ministry_of_Communications__Information_Technology_Controller_of_Certifying_Authorities_CCA.json"
@@ -1158,8 +1158,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 4,
         "intermediates": 1
       },
       "output_filename": "Government_of_Korea_KLID.json"
@@ -1410,8 +1410,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
-        "partially_trusted_roots": 7,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 6,
+        "untrusted_roots": 1,
         "intermediates": 211
       },
       "output_filename": "HARICA.json"
@@ -1438,8 +1438,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 0,
         "intermediates": 0
       },
       "output_filename": "Image-X_Enterprises_Inc.json"
@@ -1816,8 +1816,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
         "intermediates": 0
       },
       "output_filename": "NISZ_Nemzeti_Infokommunikációs_Szolgáltató_Zrt.json"
@@ -1956,8 +1956,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 1,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 2,
         "intermediates": 4
       },
       "output_filename": "PostSignum.json"
@@ -2040,8 +2040,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
-        "partially_trusted_roots": 8,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 7,
+        "untrusted_roots": 4,
         "intermediates": 175
       },
       "output_filename": "SECOM_Trust_Systems_CO_LTD.json"
@@ -2166,8 +2166,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 6,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 5,
         "intermediates": 4
       },
       "output_filename": "Skaitmeninio_sertifikavimo_centras_SSC.json"
@@ -2334,8 +2334,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 2,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 10,
+        "partially_trusted_roots": 8,
+        "untrusted_roots": 2,
         "intermediates": 75
       },
       "output_filename": "Telia_Company.json"
@@ -2418,8 +2418,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 1,
         "intermediates": 4
       },
       "output_filename": "Trustis.json"

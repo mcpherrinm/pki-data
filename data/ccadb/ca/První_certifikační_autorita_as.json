@@ -264,7 +264,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Czech Republic"
@@ -330,7 +330,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Czech Republic"
@@ -364,7 +364,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Czech Republic"
@@ -722,12 +722,11 @@
     "Test Website URL - Expired": "https://test-evssl.ica.cz:1444/test-EVSSL-expired-ica.html",
     "Test Website URL - Revoked": "https://test-evssl.ica.cz:2444/test-EVSSL-revoked-ica.html",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Czech Republic",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Time Stamping",
-    "EV OIDs for Root Cert": "1.3.6.1.4.1.23624.10.1.35.1.0"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Time Stamping"
   },
   {
     "CA Owner": "První certifikační autorita, a.s.",

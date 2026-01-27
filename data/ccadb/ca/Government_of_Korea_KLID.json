@@ -95,9 +95,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "NotBefore",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "407C276BEAD2E4AF0661EF6697341DEC0A1F9434E4EAFB2D3D32A90549D9DE4A",
     "Valid From (GMT)": "2011.08.03",
     "Valid To (GMT)": "2031.08.03",
@@ -128,12 +128,11 @@
     "Test Website URL - Valid": "https://www.gsslwebtrust.or.kr/",
     "Test Website URL - Expired": "https://expired.gsslwebtrust.or.kr/",
     "Test Website URL - Revoked": "https://revoked.gsslwebtrust.or.kr/",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Republic of Korea (South Korea)",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email"
+    "S/MIME Capable": "False",
+    "Country": "Republic of Korea (South Korea)"
   },
   {
     "CA Owner": "Government of Korea, KLID",
