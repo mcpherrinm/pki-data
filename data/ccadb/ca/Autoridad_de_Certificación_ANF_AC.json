@@ -275,7 +275,7 @@
     "Authority Key Identifier": "h/qe31J2dexJSiBvW3CWj53vuxc=",
     "Subject Key Identifier": "h/qe31J2dexJSiBvW3CWj53vuxc=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "https://crl.anf.es/crl/ANF_Global_Root_CA_2036_arl.crl",
+    "Full CRL Issued By This CA": "http://crl.anf.es/crl/ANF_Global_Root_CA_2036_arl.crl",
     "Auditor": "DEKRA Testing and Certification, S.A.U.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.dekra-checkme.com/api/asset/product/document/download/T4O-2505_ANF_FR_GN-41456/2505_anf_fr_gn_cab-forum_aal_template_standard_audit_e_v3.3.pdf",

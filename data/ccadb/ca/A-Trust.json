@@ -289,9 +289,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.a-trust.at/downloads/Downloads/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf"
+      "https://www.a-trust.at/downloads/Downloads/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf",
+      "https://www.a-trust.at/downloads/de/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf"
     ],
-    "CP/CPS Last Updated Date": "2023.03.27",
+    "CP/CPS Last Updated Date": "2024.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certtest4.einfach-anmelden.at/",
     "Test Website URL - Expired": "https://certtest6.einfach-anmelden.at/",
@@ -343,9 +344,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.a-trust.at/downloads/Downloads/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf",
-      "https://www.a-trust.at/downloads/Downloads/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf"
+      "https://www.a-trust.at/downloads/Downloads/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf",
+      "https://www.a-trust.at/downloads/de/Certificate%20Practice%20Statement/a-sign-ssl-ev/a-sign-ssl-ev_cps.pdf"
     ],
-    "CP/CPS Last Updated Date": "2023.03.27",
+    "CP/CPS Last Updated Date": "2024.08.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certtest1.einfach-anmelden.at/",
     "Test Website URL - Expired": "https://certtest3.einfach-anmelden.at/",
@@ -378,6 +380,10 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.a-trust.at/downloads/de/Certificate%20Practice%20Statement/a-sign-mail/a-sign-mail_cps.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.07",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
