@@ -2904,7 +2904,7 @@
     "Authority Key Identifier": "BH2j4TOfyYr7QrBWwRS5U4Y1chI=",
     "Subject Key Identifier": "BH2j4TOfyYr7QrBWwRS5U4Y1chI=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://httpcrl.trust.telia.com/teliaecsigningrootcav3.crl",
+    "Full CRL Issued By This CA": "http://httpcrl.trust.telia.com/teliarsasigningrootcav3.crl",
     "Auditor": "datenschutz cert GmbH",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.datenschutz-cert.de/fileadmin/uploads/tx_dscertcertlist/DSC1257-7_AAL_Standard_Audit_Telia_V1.pdf",
