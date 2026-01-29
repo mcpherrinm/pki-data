@@ -2823,9 +2823,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md",
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
       "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
@@ -2895,9 +2892,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md",
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
       "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
@@ -3014,8 +3008,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
       "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
@@ -3073,8 +3065,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
-      "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md",
       "https://github.com/IdenTrustCA/TLS-CPCPS/blob/main/docs/IdenTrust_TrustID_CPCPS_TLS.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
@@ -3209,10 +3199,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3258,10 +3244,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3357,10 +3339,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3405,10 +3383,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3449,10 +3423,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3498,10 +3468,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3547,10 +3513,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/IdenTrustCA/NonTLS-CPCPS/blob/main/docs/identrust_TrustID_non-tls-cpcps.md"
-    ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.12",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
