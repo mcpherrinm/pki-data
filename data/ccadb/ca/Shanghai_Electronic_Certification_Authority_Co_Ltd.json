@@ -3078,6 +3078,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://assets-cdn.sheca.com/documents/CPCPSSMIMEv1.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3154,6 +3158,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://assets-cdn.sheca.com/documents/CPCPSSMIMEv1.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
