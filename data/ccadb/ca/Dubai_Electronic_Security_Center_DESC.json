@@ -494,5 +494,33 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "UAE"
+  },
+  {
+    "CA Owner": "Dubai Electronic Security Center (DESC)",
+    "Salesforce Record ID": "001TO00000fVVxbYAG",
+    "Certificate Name": "UAE Global Root CA G4 E2",
+    "Parent Salesforce Record ID": "0011J00001IVjDwQAL",
+    "Parent Certificate Name": "Dubai Electronic Security Center (DESC)",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
+    "SHA-256 Fingerprint": "C9710F7D30B84120EBC85861C69F3A48518066E2E9ADCF9BD4CAA1D39FDE452D",
+    "Valid From (GMT)": "2026.01.28",
+    "Valid To (GMT)": "2051.01.28",
+    "Subject Key Identifier": "csjPavLp0voFvO3BMYY9eMpww/I=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "UAE"
   }
 ]
