@@ -475,7 +475,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_sector_publico_english.pdf"
     ],
-    "CP Last Updated Date": "2025.06.23",
+    "CP Last Updated Date": "2026.01.19",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -597,7 +597,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_representacion_english.pdf"
     ],
-    "CP Last Updated Date": "2025.10.07",
+    "CP Last Updated Date": "2026.01.19",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -639,10 +639,6 @@
     "TLS BR Audit Period End Date": "2020.01.12",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
-    ],
-    "CPS Last Updated Date": "2025.12.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -678,15 +674,7 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement",
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
-    ],
-    "CP Last Updated Date": "2025.03.05",
     "CPS Same as Parent": "true",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
-    ],
-    "CPS Last Updated Date": "2025.03.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -734,11 +722,6 @@
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
-    ],
-    "CPS Last Updated Date": "2025.12.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.sede.fnmt.gob.es",
@@ -1039,10 +1022,6 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
-    ],
-    "CPS Last Updated Date": "2025.12.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
