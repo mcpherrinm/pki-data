@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9841,
+  "total_records": 9847,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2048,7 +2048,7 @@
     },
     {
       "ca_owner": "Sectigo",
-      "record_count": 1465,
+      "record_count": 1470,
       "countries": [
         "United Kingdom"
       ],
@@ -2056,7 +2056,7 @@
         "trusted_roots": 6,
         "partially_trusted_roots": 20,
         "untrusted_roots": 11,
-        "intermediates": 1428
+        "intermediates": 1433
       },
       "output_filename": "Sectigo.json"
     },
@@ -2468,7 +2468,7 @@
     },
     {
       "ca_owner": "Viking Cloud, Inc.",
-      "record_count": 118,
+      "record_count": 119,
       "countries": [
         "United States of America"
       ],
@@ -2476,7 +2476,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 2,
         "untrusted_roots": 2,
-        "intermediates": 110
+        "intermediates": 111
       },
       "output_filename": "Viking_Cloud_Inc.json"
     },
