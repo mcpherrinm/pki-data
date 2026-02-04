@@ -1723,9 +1723,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.3.pdf"
+      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.4.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.27",
+    "CP/CPS Last Updated Date": "2026.02.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://pki-valid.atos.net",
     "Test Website URL - Expired": "https://pki-expired.atos.net",
@@ -2018,9 +2018,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.3.pdf"
+      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.4.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.27",
+    "CP/CPS Last Updated Date": "2026.02.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2079,9 +2079,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.3.pdf"
+      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.4.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.27",
+    "CP/CPS Last Updated Date": "2026.02.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2134,9 +2134,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.3.pdf"
+      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.4.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.27",
+    "CP/CPS Last Updated Date": "2026.02.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-rsa-root-2021-pki-valid.atos.net",
     "Test Website URL - Expired": "https://tls-rsa-root-2021-pki-expired.atos.net",
@@ -2192,9 +2192,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.3.pdf"
+      "https://pki.atos.net/Download/Eviden_TrustedRoot_CPS_v3.2.4.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.08.27",
+    "CP/CPS Last Updated Date": "2026.02.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-ecc-root-2021-pki-valid.atos.net",
     "Test Website URL - Expired": "https://tls-ecc-root-2021-pki-expired.atos.net",
