@@ -4258,9 +4258,9 @@
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
-    "Test Website URL - Valid": "https://ev2v.secomtrust.net/",
-    "Test Website URL - Expired": "https://ev2e.secomtrust.net/",
-    "Test Website URL - Revoked": "https://ev2r.secomtrust.net/",
+    "Test Website URL - Valid": "https://cross-ovrsa2024v.secomtrust-verification.com/",
+    "Test Website URL - Expired": "https://cross-ovrsa2024e.secomtrust-verification.com/",
+    "Test Website URL - Revoked": "https://cross-ovrsa2024r.secomtrust-verification.com/",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "True",
@@ -5979,7 +5979,6 @@
       "https://repository.secomtrust.net/EV-Root1/index.html"
     ],
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "Test Website URL - Valid": "https://repo2.secomtrust.net/ev.gif",
     "TLS Capable": "False",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -6140,9 +6139,6 @@
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
-    "Test Website URL - Valid": "https://sr4v.secom-cert.jp/",
-    "Test Website URL - Expired": "https://sr4e.secom-cert.jp/",
-    "Test Website URL - Revoked": "https://sr4r.secom-cert.jp/",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -6264,9 +6260,9 @@
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2025.10.22",
-    "Test Website URL - Valid": "https://sr5v.secom-cert.jp/",
-    "Test Website URL - Expired": "https://sr5e.secom-cert.jp/",
-    "Test Website URL - Revoked": "https://sr5r.secom-cert.jp/",
+    "Test Website URL - Valid": "https://cross-ovecc2024v.secomtrust-verification.com/",
+    "Test Website URL - Expired": "https://cross-ovecc2024e.secomtrust-verification.com/",
+    "Test Website URL - Revoked": "https://cross-ovecc2024r.secomtrust-verification.com/",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
