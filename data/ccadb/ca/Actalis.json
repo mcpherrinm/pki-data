@@ -1855,6 +1855,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1885,6 +1889,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1915,8 +1923,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.ssltest-dv-ecc-2025.actalis.it",
+    "Test Website URL - Expired": "https://expired.ssltest-dv-ecc-2025.actalis.it",
+    "Test Website URL - Revoked": "https://revoked.ssltest-dv-ecc-2025.actalis.it",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1945,6 +1959,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1975,8 +1993,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.ssltest-dv-rsa-2025.actalis.it",
+    "Test Website URL - Expired": "https://expired.ssltest-dv-rsa-2025.actalis.it",
+    "Test Website URL - Revoked": "https://revoked.ssltest-dv-ecc-2025.actalis.it",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2006,6 +2030,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2035,6 +2063,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2065,6 +2097,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+    ],
+    "CP/CPS Last Updated Date": "2025.12.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

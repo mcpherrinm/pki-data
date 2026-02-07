@@ -658,16 +658,16 @@
     "NetSec Audit Period End Date": "2025.04.30",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-06V9.0.3-EN-2025.pdf",
-      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-07V8.0.3-EN-2025.pdf",
-      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-13V6.0.3-EN-2025.pdf"
+      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-06V9.0.4-EN-2026.pdf",
+      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-07V8.0.4-EN-2026.pdf",
+      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-13V6.0.4-EN-2026.pdf"
     ],
-    "CP Last Updated Date": "2025.02.07",
+    "CP Last Updated Date": "2026.02.04",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.accv.es/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-V5.0.3-EN-2025.pdf"
+      "https://www.accv.es/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-V5.0.4-EN-2026.pdf"
     ],
-    "CPS Last Updated Date": "2025.02.07",
+    "CPS Last Updated Date": "2026.02.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -709,16 +709,16 @@
     "NetSec Audit Period End Date": "2025.04.30",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-06V9.0.3-EN-2025.pdf",
-      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-07V8.0.3-EN-2025.pdf",
-      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-13V6.0.3-EN-2025.pdf"
+      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-06V9.0.4-EN-2026.pdf",
+      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-07V8.0.4-EN-2026.pdf",
+      "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-13V6.0.4-EN-2026.pdf"
     ],
-    "CP Last Updated Date": "2025.02.07",
+    "CP Last Updated Date": "2026.02.04",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.accv.es/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-V5.0.3-EN-2025.pdf"
+      "https://www.accv.es/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-V5.0.4-EN-2026.pdf"
     ],
-    "CPS Last Updated Date": "2025.02.07",
+    "CPS Last Updated Date": "2026.02.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
