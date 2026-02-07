@@ -639,6 +639,10 @@
     "TLS BR Audit Period End Date": "2020.01.12",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -722,6 +726,11 @@
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf",
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.sede.fnmt.gob.es",
@@ -1022,6 +1031,10 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
