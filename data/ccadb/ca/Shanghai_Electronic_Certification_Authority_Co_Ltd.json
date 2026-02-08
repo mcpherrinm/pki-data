@@ -2390,7 +2390,7 @@
     "Subject Key Identifier": "piEDo7y6xPDfeSHAYPBp72qiTVQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.global.sheca.com/govtlscaa1.crl",
+    "Full CRL Issued By This CA": "http://crl.global.sheca.com/govtlscav2a1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
