@@ -327,16 +327,15 @@
     "TLS BR Audit Period End Date": "2025.03.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePolicy.pdf"
+      "https://raw.githubusercontent.com/kyoung0611/ccadb/main/VisaPublicKeyInfrastructureCertificatePolicy.pdf"
     ],
-    "CP Last Updated Date": "2024.03.22",
+    "CP Last Updated Date": "2025.11.30",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://enroll.visaca.com/VisaPublicKeyInfrastructureCertificatePracticeStatement.pdf"
-    ],
-    "CPS Last Updated Date": "2024.03.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "Test Website URL - Valid": "https://3dseccg2test.visaca.com:8447",
+    "Test Website URL - Expired": "https://3dseccg2test.visaca.com:8446",
+    "Test Website URL - Revoked": "https://3dseccg2test.visaca.com:9446",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
