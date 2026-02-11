@@ -5640,9 +5640,7 @@
     "Subject Key Identifier": "wrowItAwygZSbzjLIWxQ6mwd52U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://cnssldvtlsg2r36ca.crl.certum.pl/cnssldvtlsg2r36ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -5675,9 +5673,7 @@
     "Subject Key Identifier": "81J0rdzlkbTpheHkudFUZlPRiV0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://homeplovtlsg2r36ca.crl.certum.pl/homeplovtlsg2r36ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -5710,9 +5706,7 @@
     "Subject Key Identifier": "8e+xeUEJ8ekVi+mrLJaClrpR66U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://cnssldvtlsg2r36ca.crl.certum.pl/cnssldvtlsg2r36ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -5745,9 +5739,7 @@
     "Subject Key Identifier": "9qZFemD26BVAuSC10qaxhR7tO9w=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://homepldvtlsg2r36ca.crl.certum.pl/homepldvtlsg2r36ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
