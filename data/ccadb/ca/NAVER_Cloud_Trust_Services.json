@@ -247,6 +247,7 @@
     "Subject Key Identifier": "krJyuNkqZXrhVg1nlglqxFEdtas=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "Full CRL Issued By This CA": "http://ica.navercorp.com/naverica2/Crl.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
