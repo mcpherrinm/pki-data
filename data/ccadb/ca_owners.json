@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9898,
+  "total_records": 9910,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -172,7 +172,7 @@
     },
     {
       "ca_owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
-      "record_count": 200,
+      "record_count": 202,
       "countries": [
         "Polska"
       ],
@@ -180,7 +180,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 1,
         "untrusted_roots": 9,
-        "intermediates": 186
+        "intermediates": 188
       },
       "output_filename": "Asseco_Data_Systems_SA_previously_Unizeto_Certum.json"
     },
@@ -662,7 +662,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2643,
+      "record_count": 2645,
       "countries": [
         "United States of America"
       ],
@@ -670,7 +670,7 @@
         "trusted_roots": 13,
         "partially_trusted_roots": 30,
         "untrusted_roots": 67,
-        "intermediates": 2533
+        "intermediates": 2535
       },
       "output_filename": "DigiCert.json"
     },
@@ -1026,7 +1026,7 @@
     },
     {
       "ca_owner": "GlobalSign nv-sa",
-      "record_count": 797,
+      "record_count": 798,
       "countries": [
         "Belgium"
       ],
@@ -1034,7 +1034,7 @@
         "trusted_roots": 5,
         "partially_trusted_roots": 10,
         "untrusted_roots": 1,
-        "intermediates": 781
+        "intermediates": 782
       },
       "output_filename": "GlobalSign_nv-sa.json"
     },
@@ -1222,7 +1222,7 @@
     },
     {
       "ca_owner": "Government of Saudi Arabia, NIC (SDAIA)",
-      "record_count": 12,
+      "record_count": 13,
       "countries": [
         "Saudi Arabia"
       ],
@@ -1230,7 +1230,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 0,
-        "intermediates": 11
+        "intermediates": 12
       },
       "output_filename": "Government_of_Saudi_Arabia_NIC_SDAIA.json"
     },
@@ -2104,7 +2104,7 @@
     },
     {
       "ca_owner": "Shanghai Electronic Certification Authority Co., Ltd.",
-      "record_count": 104,
+      "record_count": 110,
       "countries": [
         "China"
       ],
@@ -2112,7 +2112,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 10,
-        "intermediates": 92
+        "intermediates": 98
       },
       "output_filename": "Shanghai_Electronic_Certification_Authority_Co_Ltd.json"
     },
