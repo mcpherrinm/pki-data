@@ -25628,9 +25628,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Germany",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication",
     "EV OIDs for Root Cert": "1.3.6.1.4.1.7879.13.24.1; 2.23.140.1.1"
   },
   {

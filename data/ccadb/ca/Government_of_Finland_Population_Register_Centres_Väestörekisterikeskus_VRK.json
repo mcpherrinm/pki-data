@@ -177,9 +177,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Finland",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing"
   },
   {
     "CA Owner": "Government of Finland, Population Register Centre’s (Väestörekisterikeskus, VRK)",
