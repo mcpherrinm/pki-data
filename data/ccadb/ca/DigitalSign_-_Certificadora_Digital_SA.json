@@ -164,9 +164,9 @@
     "S/MIME BR Audit Period End Date": "2025.06.26",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.8.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.9.pdf"
     ],
-    "CP Last Updated Date": "2024.12.06",
+    "CP Last Updated Date": "2025.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
@@ -278,9 +278,9 @@
     "S/MIME BR Audit Period End Date": "2025.06.26",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.8.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.9.pdf"
     ],
-    "CP Last Updated Date": "2024.12.06",
+    "CP Last Updated Date": "2025.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"

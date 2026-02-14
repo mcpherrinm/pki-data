@@ -228,9 +228,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Time Stamping"
   },
   {
     "CA Owner": "EDICOM",
