@@ -5062,7 +5062,7 @@
     "Authority Key Identifier": "CoWpd2UFmHxAgfgPlyw48QrsPM8=",
     "Subject Key Identifier": "hhzn/i2lSosI/igR+r6jZvhgWS8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://repository.secomtrust.net/SC-ECC-Root1/SCECCRoot1CRL.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
@@ -5073,7 +5073,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Japan"
   },
   {
@@ -6007,7 +6007,7 @@
     "Authority Key Identifier": "ZBR8/FhyFqYKKTQVbyrLvPyvqKs=",
     "Subject Key Identifier": "GZ36vFw0Va88xZtNu6OlljkoiEQ=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Code Signing;Document Signing;Encrypting File System;Time Stamping",
     "Full CRL Issued By This CA": "http://repo1.secomtrust.net/spcpp/ts/ca3/fullCRL.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
@@ -6016,10 +6016,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Japan"
   },
   {
@@ -6143,12 +6143,12 @@
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Japan",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Code Signing;Document Signing;Encrypting File System;Time Stamping"
   },
   {
     "CA Owner": "SECOM Trust Systems Co., Ltd.",
@@ -6205,7 +6205,6 @@
     "Authority Key Identifier": "ZBR8/FhyFqYKKTQVbyrLvPyvqKs=",
     "Subject Key Identifier": "187sgbhtB+GQVXiVGiZxTKux6pw=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://repo1.secomtrust.net/subadvcag2/fullcrl.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
@@ -6214,7 +6213,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -6271,9 +6270,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Japan",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Encrypting File System"
   },
   {
     "CA Owner": "SECOM Trust Systems Co., Ltd.",

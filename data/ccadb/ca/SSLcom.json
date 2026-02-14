@@ -7330,9 +7330,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Document Signing;Secure Email;Encrypting File System;Time Stamping",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Document Signing;Encrypting File System;Time Stamping",
     "EV OIDs for Root Cert": "2.23.140.1.1; 2.23.140.1.3; 1.3.6.1.4.1.38064.1.3.1.4; 1.3.6.1.4.1.38064.1.3.3.2"
   },
   {
@@ -7619,9 +7619,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Document Signing;Secure Email;Encrypting File System;Time Stamping",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Document Signing;Encrypting File System;Time Stamping",
     "EV OIDs for Root Cert": "2.23.140.1.1; 2.23.140.1.3; 1.3.6.1.4.1.38064.1.3.1.4; 1.3.6.1.4.1.38064.1.3.3.2"
   },
   {

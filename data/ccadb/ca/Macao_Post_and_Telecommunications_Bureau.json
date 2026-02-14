@@ -86,7 +86,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "tjdeyOxC+UXdLQwmV8uWnUncnFM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.gov.esigntrust.com/MacaoPostandTelecommunicationsBureauGovernmentDigitalCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -97,7 +97,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -121,7 +121,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "jREQPN9ez4cEhqn43Arr8HUIqD4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.gov.esigntrust.com/MacaoPostandTelecommunicationsBureauPersonalQualifiedCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -132,7 +132,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -156,7 +156,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "lePKu6Dt6a1R9pN0pRynFCl2fd4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.gov.esigntrust.com/MacaoPostandTelecommunicationsBureauPersonalDigitalCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -167,7 +167,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -191,7 +191,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "heZjyzFA2m/1A8KqnpZOT4jxUKo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.corp.esigntrust.com/MacaoPostandTelecommunicationsBureauCorporateDigitalCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -202,7 +202,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -226,7 +226,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "tI49kV3/7dL+ujHm3JuouixDfVA=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.corp.esigntrust.com/MacaoPostandTelecommunicationsBureauPersonalSecureEmailCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -237,7 +237,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -261,7 +261,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "ReLTpmgT3XYxoiTtrl1QZKJ88Z4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.gov.esigntrust.com/MacaoPostandTelecommunicationsBureauGovernmentQualifiedCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -272,7 +272,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -296,7 +296,7 @@
     "Authority Key Identifier": "HOAgYT0G5O0sbVW4jjWu2WzlR4E=",
     "Subject Key Identifier": "W0kcVZYx4OA4IEEZMFoMsWaX3xg=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.corp.esigntrust.com/MacaoPostandTelecommunicationsBureauCorporateQualifiedCertificateG03/LatestCRL.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
@@ -307,7 +307,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -348,8 +348,8 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China",
-    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Time Stamping"
   }
 ]

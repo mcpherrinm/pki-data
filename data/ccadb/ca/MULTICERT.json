@@ -52,7 +52,7 @@
     "Authority Key Identifier": "1TkcnFtvBKqilUzvIN0pdKTFRXE=",
     "Subject Key Identifier": "VbqXmCURhMmiMtD7nFY6iCr4z+s=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://pki.multicert.com/crl/crl_adv005.crl",
     "Auditor": "Associação Portuguesa de Certificação (APCER)",
     "Audits Same as Parent": "true",
@@ -63,7 +63,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Portugal"
   },
   {
@@ -87,7 +87,7 @@
     "Authority Key Identifier": "1TkcnFtvBKqilUzvIN0pdKTFRXE=",
     "Subject Key Identifier": "VkewmZH/brhNYM11I/Hltdfmcqs=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://pki.multicert.com/crl/crl_qwac005.crl",
     "Auditor": "Associação Portuguesa de Certificação (APCER)",
     "Audits Same as Parent": "true",
@@ -95,7 +95,7 @@
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -155,7 +155,7 @@
     "Authority Key Identifier": "1TkcnFtvBKqilUzvIN0pdKTFRXE=",
     "Subject Key Identifier": "B6Zvpnqlwavf5UEjz+mgKkO2uqg=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://pki.multicert.com/crl/crl_ts005.crl",
     "Auditor": "Associação Portuguesa de Certificação (APCER)",
     "Audits Same as Parent": "true",
@@ -166,7 +166,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Portugal"
   },
   {
@@ -255,11 +255,11 @@
     "Test Website URL - Valid": "https://valid.pki.multicert.com",
     "Test Website URL - Expired": "https://expired.pki.multicert.com",
     "Test Website URL - Revoked": "https://revoked.pki.multicert.com",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Portugal",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Encrypting File System;Time Stamping"
   }
 ]

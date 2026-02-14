@@ -52,7 +52,7 @@
     "Authority Key Identifier": "v1+30c7dH4b0W1Ws3NcQwg6piOc=",
     "Subject Key Identifier": "SUtSJ9EbvPKhIWpie1FCeorX1VY=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "https://certificates.godaddy.com/masterstarfieldextendedissuing.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -61,7 +61,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -85,7 +85,7 @@
     "Authority Key Identifier": "0sSw0pHUTBFxs2HLPaH+3ahq1OM=",
     "Subject Key Identifier": "/axhMpNsRdbi7oVfmrrndplozOc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "http://certificates.godaddy.com/mastergodaddyextendedissuing.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -94,7 +94,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -177,7 +177,7 @@
     "Authority Key Identifier": "v1+30c7dH4b0W1Ws3NcQwg6piOc=",
     "Subject Key Identifier": "fAwyH6fZMH/EfWijYqihzqsHWyc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -188,7 +188,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -212,7 +212,7 @@
     "Authority Key Identifier": "fAwyH6fZMH/EfWijYqihzqsHWyc=",
     "Subject Key Identifier": "JUWBaFAmOD07LSy+zWrZtj2zZmM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://certificates.godaddy.com/masterstarfield2issuing.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -221,7 +221,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -245,7 +245,7 @@
     "Authority Key Identifier": "OpqFBxBnKLbv9r0FQW4gwZTaD94=",
     "Subject Key Identifier": "QMK9J47MNIMwojPX+2yz8LQsgM4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://certificates.godaddy.com/mastergodaddy2issuing.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -254,7 +254,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -278,7 +278,7 @@
     "Authority Key Identifier": "0sSw0pHUTBFxs2HLPaH+3ahq1OM=",
     "Subject Key Identifier": "OpqFBxBnKLbv9r0FQW4gwZTaD94=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -289,7 +289,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -313,7 +313,7 @@
     "Authority Key Identifier": "0sSw0pHUTBFxs2HLPaH+3ahq1OM=",
     "Subject Key Identifier": "OpqFBxBnKLbv9r0FQW4gwZTaD94=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.godaddy.com/gdroot-g2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -322,7 +322,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -346,7 +346,7 @@
     "Authority Key Identifier": "v1+30c7dH4b0W1Ws3NcQwg6piOc=",
     "Subject Key Identifier": "fAwyH6fZMH/EfWijYqihzqsHWyc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.starfieldtech.com/sfroot-g2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -355,7 +355,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -609,7 +609,6 @@
     "Authority Key Identifier": "fAwyH6fZMH/EfWijYqihzqsHWyc=",
     "Subject Key Identifier": "lGMvzd6F5Os2Hw+2U3bvZmLJxWc=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Code Signing",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -620,7 +619,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
@@ -644,7 +643,6 @@
     "Authority Key Identifier": "OpqFBxBnKLbv9r0FQW4gwZTaD94=",
     "Subject Key Identifier": "yRmF8N85O6YaSTO60iKuqZsx8R8=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Code Signing",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -655,7 +653,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
@@ -789,10 +787,10 @@
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Secure Email",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email",
     "EV OIDs for Root Cert": "2.23.140.1.1; 2.16.840.1.114414.1.7.23.3; 2.16.840.1.114413.1.7.23.3"
   },
   {
@@ -855,10 +853,10 @@
     "Test Website URL - Revoked": "https://revoked.gdi.catest.godaddy.com/",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Secure Email",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email",
     "EV OIDs for Root Cert": "2.23.140.1.1; 2.16.840.1.114413.1.7.23.3; 2.16.840.1.114414.1.7.23.3"
   },
   {
@@ -881,7 +879,6 @@
     "Authority Key Identifier": "OpqFBxBnKLbv9r0FQW4gwZTaD94=",
     "Subject Key Identifier": "DRtJfVLX79GHwABxZnuBy7BRNjI=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Code Signing",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -892,7 +889,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
@@ -916,7 +913,6 @@
     "Authority Key Identifier": "fAwyH6fZMH/EfWijYqihzqsHWyc=",
     "Subject Key Identifier": "I0/+gxCejUGIpror0/mZSsNCYN8=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Code Signing",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -927,7 +923,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
@@ -1023,10 +1019,10 @@
     "Test Website URL - Revoked": "https://revoked.sfig2.catest.starfieldtech.com/",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
     "EV OIDs for Root Cert": "2.16.840.1.114414.1.7.23.3; 2.23.140.1.1"
   },
   {
@@ -1088,10 +1084,10 @@
     "Test Website URL - Revoked": "https://revoked.gdig2.catest.godaddy.com/",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Code Signing;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
     "EV OIDs for Root Cert": "2.16.840.1.114413.1.7.23.3; 2.23.140.1.1"
   },
   {

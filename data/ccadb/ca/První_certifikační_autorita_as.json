@@ -321,17 +321,17 @@
     "Authority Key Identifier": "drkDSPvVGKGhN6DtzGiCTFI0Ng0=",
     "Subject Key Identifier": "8I6mcwfygZizo4UFWsrYoM9CadE=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://qcrldp1.ica.cz/tsaca17_rsa.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Czech Republic"
   },
   {
@@ -354,7 +354,7 @@
     "Authority Key Identifier": "drkDSPvVGKGhN6DtzGiCTFI0Ng0=",
     "Subject Key Identifier": "Pa8ZCJd6EIy8KMFGbZdIWkj8Aso=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://qcrldp1.ica.cz/qcw17_rsa.crl",
     "Auditor": "TayllorCox PCEB",
     "Audits Same as Parent": "true",
@@ -362,10 +362,10 @@
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Czech Republic"
   },
   {
@@ -720,12 +720,12 @@
     "Test Website URL - Valid": "https://test-evssl.ica.cz:444/test-EVSSL-valid-ica.html",
     "Test Website URL - Expired": "https://test-evssl.ica.cz:1444/test-EVSSL-expired-ica.html",
     "Test Website URL - Revoked": "https://test-evssl.ica.cz:2444/test-EVSSL-revoked-ica.html",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Czech Republic",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Time Stamping"
   },
   {
     "CA Owner": "První certifikační autorita, a.s.",

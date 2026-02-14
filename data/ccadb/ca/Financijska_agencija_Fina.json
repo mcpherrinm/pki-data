@@ -55,11 +55,11 @@
     "Test Website URL - Valid": "https://testsslvalid20.fina.hr",
     "Test Website URL - Expired": "https://testsslexpired20.fina.hr",
     "Test Website URL - Revoked": "https://testsslrevoked20.fina.hr",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Croatia",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Secure Email;Time Stamping"
   }
 ]

@@ -19,7 +19,7 @@
     "Authority Key Identifier": "XN46MzRJZMSSMXxVXvXyO0/uwx0=",
     "Subject Key Identifier": "EZkUlKXRWZNhcYylriMMSMH8uxs=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/crl/LT_AeSign_CA02.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -29,7 +29,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "South Africa"
   },
   {
@@ -52,7 +52,7 @@
     "Authority Key Identifier": "XN46MzRJZMSSMXxVXvXyO0/uwx0=",
     "Subject Key Identifier": "huDmTb/x2xT4AqxlYZ5lLnc8qiA=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/crl/LT_AATL_CA01.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -62,7 +62,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "South Africa"
   },
   {
@@ -85,7 +85,7 @@
     "Authority Key Identifier": "XN46MzRJZMSSMXxVXvXyO0/uwx0=",
     "Subject Key Identifier": "XSpj0Ik1xoShsZp0xJoYwwcJA+o=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://aesigncrl.lawtrust.co.za/CRL/lawtrust_aesign_ca_crlfile1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -95,7 +95,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "South Africa"
   },
   {
@@ -194,9 +194,9 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "South Africa",
-    "Trust Bits for Root Cert": "Client Authentication;Secure Email"
+    "Trust Bits for Root Cert": "Client Authentication"
   },
   {
     "CA Owner": "LAWtrust",
