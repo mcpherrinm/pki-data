@@ -86,14 +86,16 @@
     "CPS Last Updated Date": "2025.01.29",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.0.pdf"
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.0.pdf",
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.09.07",
+    "CP/CPS Last Updated Date": "2026.02.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.0.md"
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.0.md",
+      "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20and%20CPS%20v2.1.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.07",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.05",
     "Test Website URL - Valid": "https://good.ssl.gov.sa",
     "Test Website URL - Expired": "https://expired.ssl.gov.sa",
     "Test Website URL - Revoked": "https://revoked.ssl.gov.sa",

@@ -338,9 +338,10 @@
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
-      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf"
+      "http://cca.gov.in/sites/files/pdf/root-CA/RCAICPS.pdf",
+      "https://cca.gov.in/sites/files/pdf/root-CA/RCAISSLCPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.14",
+    "CPS Last Updated Date": "2026.01.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssldemolive.e-mudhra.in",
