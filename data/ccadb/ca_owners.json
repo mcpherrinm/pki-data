@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9911,
+  "total_records": 9916,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -928,7 +928,7 @@
     },
     {
       "ca_owner": "Eviden",
-      "record_count": 64,
+      "record_count": 67,
       "countries": [
         "Germany"
       ],
@@ -936,7 +936,7 @@
         "trusted_roots": 3,
         "partially_trusted_roots": 2,
         "untrusted_roots": 0,
-        "intermediates": 59
+        "intermediates": 62
       },
       "output_filename": "Eviden.json"
     },
@@ -1418,7 +1418,7 @@
     },
     {
       "ca_owner": "IdenTrust Services, LLC",
-      "record_count": 103,
+      "record_count": 105,
       "countries": [
         "United States of America"
       ],
@@ -1426,7 +1426,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 1,
         "untrusted_roots": 27,
-        "intermediates": 74
+        "intermediates": 76
       },
       "output_filename": "IdenTrust_Services_LLC.json"
     },
