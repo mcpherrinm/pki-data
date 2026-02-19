@@ -691,15 +691,15 @@
     "CP Last Updated Date": "2026.01.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-SSL-DV-CA-Class-3-G2-Certification-Practice-Statement-v1.22.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2026/02/certSIGN-SSL-DV-CA-Class-3-G2-Certification-Practice-Statement-v1.23.pdf"
     ],
-    "CPS Last Updated Date": "2026.01.15",
+    "CPS Last Updated Date": "2026.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-SSL-DV-CA-Class-3-G2-Certification-Practice-Statement-v1.22.md"
+      "https://www.certsign.ro/wp-content/uploads/2026/02/certSIGN-SSL-DV-CA-Class-3-G2-Certification-Practice-Statement-v1.23.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.15",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.20",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

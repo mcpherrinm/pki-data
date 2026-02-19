@@ -21662,9 +21662,7 @@
     "Subject Key Identifier": "2aSgJ8sKJKoxqkN9c3DMf7Ulu5M=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/gsgccr45smimeca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -25141,9 +25139,7 @@
     "Subject Key Identifier": "dw4lfxDnhYxzUv+wueuj7aZoBMM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/riksgaldengccr45smimeca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
