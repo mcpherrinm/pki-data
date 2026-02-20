@@ -1368,7 +1368,6 @@
     "Authority Key Identifier": "p6UGsSymCWDu0ZfpcK68Oxls2yE=",
     "Subject Key Identifier": "o7KH0YtmNsQM1FKmZuVQqe2AZp8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.atos.net/crl/Eviden_TrustedRoot_Client_CA_for_Bull_2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -1378,7 +1377,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Germany"
   },
   {
@@ -2021,7 +2020,6 @@
     "Authority Key Identifier": "ICXzB/2nb/GW7pEQacya733IaHg=",
     "Subject Key Identifier": "7Pz9Vaga+tpg6EJuGDpf2msWKGk=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.atos.net/crl/Eviden_TrustedRoot_Client_CA_for_SPIE_2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2031,7 +2029,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Germany"
   },
   {
