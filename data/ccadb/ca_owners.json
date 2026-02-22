@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9918,
+  "total_records": 9922,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2468,7 +2468,7 @@
     },
     {
       "ca_owner": "Viking Cloud, Inc.",
-      "record_count": 119,
+      "record_count": 123,
       "countries": [
         "United States of America"
       ],
@@ -2476,7 +2476,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 2,
         "untrusted_roots": 2,
-        "intermediates": 111
+        "intermediates": 115
       },
       "output_filename": "Viking_Cloud_Inc.json"
     },
