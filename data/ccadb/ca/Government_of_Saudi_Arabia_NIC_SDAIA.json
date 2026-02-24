@@ -433,12 +433,18 @@
     "Subject Key Identifier": "hoeU0gsxNpnvPRBIHB9Z7HxzrFU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email;Time Stamping",
+    "Full CRL Issued By This CA": "https://dts.tamkeentech.sa/repository/crls/int_ca.crl",
+    "Auditor": "Crowe FST Audit Ltd",
     "Audits Same as Parent": "false",
     "Policy Documentation": "https://dts.tamkeentech.sa/repository/",
     "CA Document Repository": "https://dts.tamkeentech.sa/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://dts.tamkeentech.sa/repository/cps/"
+    ],
+    "CP/CPS Last Updated Date": "2026.02.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
