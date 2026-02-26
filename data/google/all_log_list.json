@@ -880,8 +880,8 @@
           "monitoring_url": "https://raio2026h1a.ct.cloudflare.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-08-06T20:00:00Z"
+            "rejected": {
+              "timestamp": "2026-02-26T22:00:00Z"
             }
           },
           "temporal_interval": {
@@ -897,8 +897,8 @@
           "monitoring_url": "https://raio2026h2a.ct.cloudflare.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-08-06T20:00:00Z"
+            "rejected": {
+              "timestamp": "2026-02-26T22:00:00Z"
             }
           },
           "temporal_interval": {
@@ -914,8 +914,8 @@
           "monitoring_url": "https://raio2027h1a.ct.cloudflare.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-08-06T20:00:00Z"
+            "rejected": {
+              "timestamp": "2026-02-26T22:00:00Z"
             }
           },
           "temporal_interval": {
@@ -931,8 +931,8 @@
           "monitoring_url": "https://raio2027h2a.ct.cloudflare.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2025-08-06T20:00:00Z"
+            "rejected": {
+              "timestamp": "2026-02-26T22:00:00Z"
             }
           },
           "temporal_interval": {
