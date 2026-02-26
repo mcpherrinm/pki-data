@@ -25381,9 +25381,7 @@
     "Subject Key Identifier": "XThM+Vk6UYPMdugrqXyF+/W95aE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.serverid.telesec.de/rl/Telekom_Security_OV_qualified_CA_25.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -25451,9 +25449,7 @@
     "Subject Key Identifier": "n5cLEFW9uzdNfrB59AHav6VGXOg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.clientid.telesec.de/rl/Deutsche_Telekom_SMIME_qualified_CA_25.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -26138,9 +26134,7 @@
     "Subject Key Identifier": "7QIFQcdb3DYqU+ckAnLUO4kuIuM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.serverid.telesec.de/rl/Telekom_Security_OV_ECC_qualified_CA_25.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -26174,9 +26168,7 @@
     "Subject Key Identifier": "aAiugzNFKAPomuxTSigPoXeVMgA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.clientid.telesec.de/rl/Deutsche_Telekom_SMIME_ECC_qualified_CA_25.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -26210,9 +26202,7 @@
     "Subject Key Identifier": "5U1DFT4mzOCdY6gdkynVWTggpnM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.clientid.telesec.de/rl/Deutsche_Telekom_SMIME_RSA_qualified_CA_25.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -26246,9 +26236,7 @@
     "Subject Key Identifier": "eQ/XgAVcttYkFhKHLQBjmNCMa3U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.serverid.telesec.de/rl/Telekom_Security_OV_RSA_qualified_CA_25.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
