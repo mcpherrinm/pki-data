@@ -52508,7 +52508,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -52518,7 +52518,6 @@
     "Valid To (GMT)": "2026.03.03",
     "Subject Key Identifier": "dxDkLtfVIQ+83puW+gVNPHDwfF4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://pki-crl.symauth.com/ca_1981db913a53060e0060a51c516495b8/LatestCRL.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -52529,7 +52528,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
