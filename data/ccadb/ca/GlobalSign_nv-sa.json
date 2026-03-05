@@ -23236,9 +23236,7 @@
     "Subject Key Identifier": "B90H8fGBXgjNBhadFBBosGoVNqc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/solutiv2gr46evtlsca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23271,9 +23269,7 @@
     "Subject Key Identifier": "1IC8DOAUKrlszeAJC2S90VJ8J08=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/solutiv2gr46ovtlsca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -23306,9 +23302,7 @@
     "Subject Key Identifier": "6oZlIN5tXyRAANIlxHNYVL9DExI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/solutiv2gr46dvtlsca2025.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
