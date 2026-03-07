@@ -446,14 +446,16 @@
     "CA Document Repository": "https://www.firmaprofesional.com/certification-policies-and-practices/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf"
+      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf",
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-260226-EN-sFP.pdf"
     ],
-    "CP Last Updated Date": "2025.04.14",
+    "CP Last Updated Date": "2026.02.27",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf"
+      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf",
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-260226-EN-sFP.pdf"
     ],
-    "CPS Last Updated Date": "2025.05.19",
+    "CPS Last Updated Date": "2026.02.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsslev.firmaprofesional.com",
@@ -1322,14 +1324,16 @@
     "CA Document Repository": "https://www.firmaprofesional.com/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf"
+      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf",
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-260226-EN-sFP.pdf"
     ],
-    "CP Last Updated Date": "2025.04.14",
+    "CP Last Updated Date": "2026.02.27",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf"
+      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf",
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-260226-EN-sFP.pdf"
     ],
-    "CPS Last Updated Date": "2025.05.19",
+    "CPS Last Updated Date": "2026.02.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsslev.firmaprofesional.com",
@@ -1414,14 +1418,16 @@
     "TLS EVG Audit Period End Date": "2025.03.27",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf"
+      "https://crl.firmaprofesional.com/cps/FP_CP_Autenticacion_Web-250414-EN.pdf",
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CP_Autenticacion_Web-260226-EN-sFP.pdf"
     ],
-    "CP Last Updated Date": "2025.04.14",
+    "CP Last Updated Date": "2026.02.27",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf"
+      "https://crl.firmaprofesional.com/cps/FP_CPS-250519-EN-sFP.pdf",
+      "https://firmaprofesional.com/wp-content/uploads/pdfs/FP_CPS-260226-EN-sFP.pdf"
     ],
-    "CPS Last Updated Date": "2025.05.19",
+    "CPS Last Updated Date": "2026.02.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsslev2022ec.firmaprofesional.com",
