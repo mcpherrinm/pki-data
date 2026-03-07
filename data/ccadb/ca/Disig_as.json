@@ -302,18 +302,13 @@
     "S/MIME BR Audit Period End Date": "2025.04.18",
     "CA Document Repository": "https://eidas.disig.sk/en/provider/policies-and-documents/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://eidas.disig.sk/pdf/cp-disig-en.pdf",
-      "https://eidas.disig.sk/pdf/cp-smime-disig-en.pdf"
-    ],
-    "CP Last Updated Date": "2025.09.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://eidas.disig.sk/pdf/cps_ra_cadisig_en.pdf",
-      "https://eidas.disig.sk/pdf/cps_smime_ra_cadisig_en.pdf"
-    ],
-    "CPS Last Updated Date": "2025.09.01",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://github.com/disig/Policies/blob/main/SMIME/CP_CPS_SMIME.md",
+      "https://github.com/disig/Policies/blob/main/TLS/CP_CPS_Disig_TLS.md"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl-valid-r2i2.disig.sk/",
     "Test Website URL - Expired": "https://testssl-expire-r2i2.disig.sk/",
