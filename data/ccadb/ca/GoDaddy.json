@@ -1375,6 +1375,7 @@
     "Valid To (GMT)": "2040.08.24",
     "Subject Key Identifier": "hN2w6XHQOCa8D2RA1VDz4P9sbfM=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://certificates.godaddy.com/repository/gd_vmark_root_ca-vmcr1.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
