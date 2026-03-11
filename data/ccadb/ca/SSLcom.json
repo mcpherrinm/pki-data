@@ -7385,6 +7385,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-ecc.ssl.com/",
     "Test Website URL - Expired": "https://expired-ecc-ev.ssl.com",
@@ -7453,6 +7457,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-dv-ecc.ssl.com",
     "Test Website URL - Expired": "https://expired-ecc-dv.ssl.com",
@@ -7567,6 +7575,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-dv-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-rsa-dv.ssl.com",
@@ -7728,6 +7740,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-rsa-ev.ssl.com",
@@ -7784,6 +7800,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7831,6 +7851,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7872,6 +7896,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7923,6 +7951,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-root-2022-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-root-2022-rsa.ssl.com",
@@ -7979,6 +8011,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -8031,6 +8067,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-root-2022-ecc.ssl.com",
     "Test Website URL - Expired": "https://expired-root-2022-ecc.ssl.com",
@@ -8082,6 +8122,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -8123,6 +8167,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -8169,6 +8217,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -8215,6 +8267,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
