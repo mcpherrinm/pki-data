@@ -119,6 +119,11 @@
     ],
     "CPS Last Updated Date": "2025.02.14",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://repository.efos.se/mca_cps/SwedishGovernmentRootAuthority_CPS_Ver0209.pdf",
+      "https://repository.efos.se/mca_cps/SwedishGovernmentRootAuthority_CP_Ver0175.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.02.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://mcacert.myndighetsca.se/",
     "Test Website URL - Expired": "https://mcacertexpired.myndighetsca.se/",
