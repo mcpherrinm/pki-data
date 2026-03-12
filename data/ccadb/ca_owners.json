@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9942,
+  "total_records": 9947,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -466,7 +466,7 @@
     },
     {
       "ca_owner": "Chunghwa Telecom",
-      "record_count": 32,
+      "record_count": 33,
       "countries": [
         "Taiwan, Republic of China"
       ],
@@ -474,7 +474,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 2,
         "untrusted_roots": 2,
-        "intermediates": 26
+        "intermediates": 27
       },
       "output_filename": "Chunghwa_Telecom.json"
     },
@@ -662,7 +662,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2645,
+      "record_count": 2646,
       "countries": [
         "United States of America"
       ],
@@ -670,7 +670,7 @@
         "trusted_roots": 13,
         "partially_trusted_roots": 30,
         "untrusted_roots": 67,
-        "intermediates": 2535
+        "intermediates": 2536
       },
       "output_filename": "DigiCert.json"
     },
@@ -1866,7 +1866,7 @@
     },
     {
       "ca_owner": "Open Access Technology International, Inc. (OATI)",
-      "record_count": 6,
+      "record_count": 9,
       "countries": [
         "United States of America"
       ],
@@ -1874,7 +1874,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 2,
-        "intermediates": 3
+        "intermediates": 6
       },
       "output_filename": "Open_Access_Technology_International_Inc_OATI.json"
     },
