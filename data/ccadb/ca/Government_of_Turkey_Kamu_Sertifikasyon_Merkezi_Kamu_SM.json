@@ -312,9 +312,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "http://depo.kamusm.gov.tr/ilke/KamuSM_CPS/KamuSM_CP_CPS_EN_3.10.0.pdf"
+      "http://depo.kamusm.gov.tr/ilke/KamuSM_CPS/KamuSM_CP_CPS_EN_3.10.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.06.17",
+    "CP/CPS Last Updated Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl.kamusm.gov.tr/",
     "Test Website URL - Expired": "https://testsslexpired.kamusm.gov.tr/",
