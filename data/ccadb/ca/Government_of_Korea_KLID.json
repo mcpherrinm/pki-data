@@ -204,10 +204,9 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://ssl.gpki.go.kr/legal/cps/cps_v1.8_(ENG).pdf",
-      "https://ssl.gpki.go.kr/legal/cps/cps_v1.9_(ENG).pdf"
+      "https://ssl.gpki.go.kr/legal/cps/cps_v2.0_(ENG).pdf"
     ],
-    "CPS Last Updated Date": "2025.08.29",
+    "CPS Last Updated Date": "2026.03.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl-valid.gpki.go.kr",

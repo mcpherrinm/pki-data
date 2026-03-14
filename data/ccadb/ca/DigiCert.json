@@ -66909,6 +66909,9 @@
     "Subject Key Identifier": "DlINS+xiZkXd4HXsHEsBED63RSo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
