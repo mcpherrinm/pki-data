@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9947,
+  "total_records": 9949,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1222,7 +1222,7 @@
     },
     {
       "ca_owner": "Government of Saudi Arabia, NIC (SDAIA)",
-      "record_count": 13,
+      "record_count": 15,
       "countries": [
         "Saudi Arabia"
       ],
@@ -1230,7 +1230,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 0,
-        "intermediates": 12
+        "intermediates": 14
       },
       "output_filename": "Government_of_Saudi_Arabia_NIC_SDAIA.json"
     },
