@@ -513,9 +513,7 @@
     "Subject Key Identifier": "ygjPRLMrBh+9T/ztkvXx63dW1OI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.gdca.com.cn/crl/GDCA_TrustAUTH_R4_DV_SSL_CA2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -583,9 +581,7 @@
     "Subject Key Identifier": "WkHpRL01YK/i1axluCBCYLG66Yk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.gdca.com.cn/crl/GDCA_TrustAUTH_R4_OV_SSL_CA2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",

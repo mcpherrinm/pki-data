@@ -307,7 +307,7 @@
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Yet Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "66398941F6BBE81B0B86BBAB66E71CFC7ADD49DA3E7640859C6CBA9942306A45",
     "Parent SHA-256 Fingerprint": "51A7ECB93ACB55FF0E34CD0ECFD1578978B37E9EDB82FD06F23F6CEC005B986D",
     "Valid From (GMT)": "2022.06.21",
