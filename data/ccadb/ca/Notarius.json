@@ -28,10 +28,15 @@
     "CA Document Repository": "https://notarius.com/en/certification-policy",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.notarius.com/hubfs/document/en/notarius-pki-certificate-policy.pdf"
+      "https://www.notarius.com/hubfs/document/en/notarius-pki-certificate-policy.pdf",
+      "https://www.portagecybertech.com/wp-content/uploads/ICP-Notarius_politique_certification-1.pdf"
     ],
-    "CP Last Updated Date": "2024.11.25",
+    "CP Last Updated Date": "2025.11.27",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.portagecybertech.com/wp-content/uploads/ICP-Notarius_declaration_pratiques_certification-1.pdf"
+    ],
+    "CPS Last Updated Date": "2025.11.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -168,10 +173,15 @@
     "Standard Audit Period End Date": "2024.11.29",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.notarius.com/hubfs/document/en/notarius-pki-certificate-policy.pdf"
+      "https://www.notarius.com/hubfs/document/en/notarius-pki-certificate-policy.pdf",
+      "https://www.portagecybertech.com/wp-content/uploads/ICP-Notarius_politique_certification-1.pdf"
     ],
-    "CP Last Updated Date": "2024.11.25",
+    "CP Last Updated Date": "2025.11.27",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.portagecybertech.com/wp-content/uploads/ICP-Notarius_declaration_pratiques_certification-1.pdf"
+    ],
+    "CPS Last Updated Date": "2025.11.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
