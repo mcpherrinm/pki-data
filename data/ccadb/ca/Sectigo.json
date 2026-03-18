@@ -16139,8 +16139,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -16203,7 +16202,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -18888,9 +18886,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -18944,9 +18942,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19000,9 +18998,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -20011,7 +20009,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -20809,10 +20806,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22190,7 +22183,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -22378,10 +22370,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22700,7 +22688,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -25773,7 +25760,6 @@
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -27225,7 +27211,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -28896,9 +28881,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -28952,9 +28937,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -29008,9 +28993,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -29065,9 +29050,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -29121,9 +29106,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -30300,9 +30285,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30358,9 +30343,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30646,9 +30631,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -30702,9 +30687,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30758,9 +30743,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -31084,7 +31069,6 @@
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -31329,7 +31313,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -33929,9 +33912,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -33984,9 +33967,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -49785,8 +49768,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
+      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -49881,7 +49863,6 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -50121,7 +50102,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -50298,7 +50278,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -50446,7 +50425,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -50523,7 +50501,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -50708,10 +50685,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -50966,7 +50939,6 @@
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -51040,10 +51012,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -52396,7 +52364,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
@@ -52558,7 +52525,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_4.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.06",
