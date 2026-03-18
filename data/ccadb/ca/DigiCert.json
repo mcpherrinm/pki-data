@@ -66910,7 +66910,8 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl3.digicert.com/DigiCertHighAssuranceCA-3c.crl",
+      "http://crl4.digicert.com/DigiCertHighAssuranceCA-3c.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -70426,9 +70427,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -72941,9 +72942,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -73002,9 +73003,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -73063,9 +73064,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -73124,9 +73125,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf",
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -73185,9 +73187,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -76449,9 +76451,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -76505,9 +76507,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -79302,9 +79304,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -79358,9 +79360,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.10.31",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
