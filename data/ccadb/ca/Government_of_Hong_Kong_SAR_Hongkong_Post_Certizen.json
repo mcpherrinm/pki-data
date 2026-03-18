@@ -646,14 +646,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en25.pdf"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en26.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.01",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en25.md"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en26.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.01",
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.15",
     "Test Website URL - Valid": "https://valid-ev.ecert.gov.hk/",
     "Test Website URL - Expired": "https://expired-ev.ecert.gov.hk/",
     "Test Website URL - Revoked": "https://revoked-ev.ecert.gov.hk/",

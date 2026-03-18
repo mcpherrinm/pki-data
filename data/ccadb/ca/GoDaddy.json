@@ -1412,7 +1412,8 @@
     "Subject Key Identifier": "ievnHXnDvts/3I4gsPvkHnw59is=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.godaddy.com/gdr1v1dv_s1-1.crl"
+      "http://crl.godaddy.com/gdr1v1dv_s1-1.crl",
+      "http://crl.godaddy.com/gdr1v1dv_s1-2.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
