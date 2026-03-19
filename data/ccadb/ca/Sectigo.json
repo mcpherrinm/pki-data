@@ -16136,7 +16136,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
@@ -16200,7 +16200,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -20004,10 +20003,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -20802,10 +20798,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicServerAuthenticationRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -20869,10 +20864,9 @@
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicTimeStampingRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
@@ -21078,10 +21072,9 @@
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
@@ -21263,10 +21256,9 @@
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootE46.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
@@ -21387,10 +21379,9 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicEmailProtectionRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
@@ -21524,10 +21515,9 @@
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicTimeStampingRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
@@ -21895,10 +21885,9 @@
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootR46.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
@@ -22178,10 +22167,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -22366,10 +22352,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicServerAuthenticationRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22400,10 +22385,9 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicEmailProtectionRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
@@ -22683,10 +22667,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -22759,10 +22740,9 @@
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicCodeSigningRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
@@ -25757,8 +25737,6 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -27206,10 +27184,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -31066,8 +31041,6 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -31109,7 +31082,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
@@ -31308,10 +31281,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -49765,7 +49735,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
@@ -49861,7 +49831,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -50099,8 +50068,6 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -50170,10 +50137,9 @@
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicTimeStampingRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
@@ -50273,10 +50239,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -50316,10 +50279,9 @@
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
@@ -50420,10 +50382,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -50496,10 +50455,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -50572,10 +50528,9 @@
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootE46.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
@@ -50610,10 +50565,9 @@
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicDocumentSigningRootR46.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
@@ -50681,10 +50635,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicServerAuthenticationRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -50748,10 +50701,9 @@
     "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicTimeStampingRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
@@ -50787,10 +50739,9 @@
     "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicCodeSigningRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
@@ -50825,10 +50776,9 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicEmailProtectionRootR46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
@@ -50863,10 +50813,9 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicEmailProtectionRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
@@ -50934,10 +50883,7 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_TLS_CPS_v6_1_5.pdf"
     ],
@@ -51008,10 +50954,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.sectigo.com/SectigoPublicServerAuthenticationRootE46.crl",
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://sectigo.com/legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -52061,7 +52006,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52112,7 +52056,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52158,7 +52101,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52209,7 +52151,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52255,7 +52196,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52307,8 +52247,6 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52418,7 +52356,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52469,7 +52406,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52579,7 +52515,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52631,8 +52566,6 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CP-CPS-1.0.6.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
       "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
@@ -52684,7 +52617,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME-CP-CPS-1.0.7.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.01.19",
