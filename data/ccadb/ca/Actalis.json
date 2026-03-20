@@ -924,9 +924,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssltest-active.actalis.it/",
     "Test Website URL - Expired": "https://ssltest-expired.actalis.it/",
@@ -1856,9 +1857,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1887,12 +1889,17 @@
     "Full CRL Issued By This CA": "http://crl13.actalis.it/Repository/smime-root-ecc-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://www.actalis.com/s-mime-certificates-policy"
+    ],
+    "CP Last Updated Date": "2026.01.15",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1924,9 +1931,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.ssltest-dv-ecc-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-ecc-2025.actalis.it",
@@ -1960,9 +1969,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1994,9 +2004,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.ssltest-dv-rsa-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-rsa-2025.actalis.it",
@@ -2031,9 +2043,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2064,9 +2077,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2095,12 +2109,17 @@
     "Full CRL Issued By This CA": "http://crl13.actalis.it/Repository/smime-root-rsa-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://www.actalis.com/s-mime-certificates-policy"
+    ],
+    "CP Last Updated Date": "2026.01.15",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
