@@ -2002,7 +2002,9 @@
     "Subject Key Identifier": "Jg2jV6/1aOoqJcEshU8u4ldrd9w=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2035,7 +2037,9 @@
     "Subject Key Identifier": "mXMgyqTxaDoVRiJ8FJlNGOC/Mt4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2068,7 +2072,9 @@
     "Subject Key Identifier": "Cx1JbEguosPkqKhcaXQ4w7QjYV4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2101,7 +2107,9 @@
     "Subject Key Identifier": "QeLb+NEr4UILSudk+YarIeSVfMk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2134,7 +2142,9 @@
     "Subject Key Identifier": "oy9WBF90VYNaiFtpO8giUfhBR8w=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2167,7 +2177,9 @@
     "Subject Key Identifier": "AVuBRonvtVAG4o7SLV0/8Jv+Jvg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2200,7 +2212,9 @@
     "Subject Key Identifier": "dRZuQJ/MoFU7IU3a+Mj/tuxA4Rs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2233,7 +2247,9 @@
     "Subject Key Identifier": "W5yHshZbpoVwDSB8dBDyIsMkjCI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2266,7 +2282,9 @@
     "Subject Key Identifier": "D7QkCpYDdkv/XSz5d0L/UKYm7Hc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2299,7 +2317,9 @@
     "Subject Key Identifier": "jvyI+7rhSStVhdaopsqcAGIcbXo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2332,7 +2352,9 @@
     "Subject Key Identifier": "tnleFlrm7rCiObs7a5jFWeL7TyM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2365,7 +2387,9 @@
     "Subject Key Identifier": "RYBTM2ZCPwgEV/wmQs/xsDRhvf4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2398,7 +2422,9 @@
     "Subject Key Identifier": "FOGyb+Mz+il/+S780YmKgqiw4+I=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2431,7 +2457,9 @@
     "Subject Key Identifier": "G5ltaji3FdORhSXCgxvqqozpGFo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2464,7 +2492,9 @@
     "Subject Key Identifier": "w3/FdJJtcLi9l5ZWOKGR6kV92HI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2497,7 +2527,9 @@
     "Subject Key Identifier": "kG056cIP4nzXq8FMnxDg2ZMyhKM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2530,7 +2562,9 @@
     "Subject Key Identifier": "IHFr6IfrpPx08JdMZeWNK2xRsr0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2563,7 +2597,9 @@
     "Subject Key Identifier": "kg8CZikmyNMr3r4jbahworUcHbY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2596,7 +2632,7 @@
     "Subject Key Identifier": "KDEErEh8SehQI0Q9f8zVNQJzCok=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "Full CRL Issued By This CA": "http://eur2m1.crl.root.amznts.eu/eur2m1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -2630,7 +2666,7 @@
     "Subject Key Identifier": "sbtHIDmafYAXHaYFXBhnDBtUoqg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "Full CRL Issued By This CA": "http://eue3m1.crl.root.amznts.eu/eue3m1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -2664,7 +2700,7 @@
     "Subject Key Identifier": "cdF/ctm4GS3wEaXNtYZPbh/d5aI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "Full CRL Issued By This CA": "http://eue2m1.crl.root.amznts.eu/eue2m1.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",

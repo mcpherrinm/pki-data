@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9954,
+  "total_records": 9963,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1586,14 +1586,14 @@
     },
     {
       "ca_owner": "Krajowa Izba Rozliczeniowa S.A. (KIR)",
-      "record_count": 8,
+      "record_count": 10,
       "countries": [
         "Poland"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
-        "untrusted_roots": 1,
+        "untrusted_roots": 3,
         "intermediates": 6
       },
       "output_filename": "Krajowa_Izba_Rozliczeniowa_SA_KIR.json"
@@ -1642,7 +1642,7 @@
     },
     {
       "ca_owner": "Microsec Ltd.",
-      "record_count": 113,
+      "record_count": 120,
       "countries": [
         "Hungary"
       ],
@@ -1650,7 +1650,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 2,
         "untrusted_roots": 8,
-        "intermediates": 102
+        "intermediates": 109
       },
       "output_filename": "Microsec_Ltd.json"
     },
