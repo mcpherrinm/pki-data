@@ -73125,7 +73125,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.1.pdf",
       "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.03.15",
