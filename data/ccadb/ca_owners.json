@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9963,
+  "total_records": 9964,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -718,14 +718,14 @@
     },
     {
       "ca_owner": "Disig, a.s.",
-      "record_count": 10,
+      "record_count": 11,
       "countries": [
         "Slovakia"
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
+        "untrusted_roots": 3,
         "intermediates": 7
       },
       "output_filename": "Disig_as.json"
