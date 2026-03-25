@@ -327,6 +327,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/oatiwebcares/CPS/blob/main/cps_webcaresserverrootca.md"
+    ],
+    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.12.31",
     "Test Website URL - Valid": "https://valid2026.oaticerts.com/",
     "Test Website URL - Expired": "https://expired2026.oaticerts.com/",
     "Test Website URL - Revoked": "https://revoked2026.oaticerts.com/",

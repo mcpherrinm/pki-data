@@ -15349,14 +15349,13 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZD2.crl",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -15392,14 +15391,13 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZD6.crl",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -15435,14 +15433,13 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZD3.crl",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -15478,14 +15475,13 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZDD.crl",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://www.siemens.com/pki",
     "CA Document Repository": "https://www.siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -15521,8 +15517,17 @@
     "Technically Constrained": "true",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZD0.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
+    "CP Last Updated Date": "2026.01.27",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -15713,8 +15718,17 @@
     "Subject Key Identifier": "jkcFnFd9YGDLSMz3omBO0usAumI=",
     "Technically Constrained": "true",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
+    "CP Last Updated Date": "2026.01.27",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -16034,8 +16048,17 @@
     "Technically Constrained": "true",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZD0.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
+    "CP Last Updated Date": "2026.01.27",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -16601,8 +16624,17 @@
     "Technically Constrained": "true",
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZD0.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
+    ],
+    "CP Last Updated Date": "2026.01.27",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -17834,10 +17866,10 @@
     "Parent Certificate Name": "Siemens Intermediate CA 2021",
     "Certificate Record Type": "Intermediate Certificate",
     "Subordinate CA Owner": "Siemens AG",
-    "Apple Status": "Not Trusted",
+    "Apple Status": "Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "05E7AB4F1795F4E76E9EF5D49B5AE1E46CB22DA833B1758D031B8AAA7E2FDF84",
@@ -17851,12 +17883,12 @@
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZE3.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -17877,10 +17909,10 @@
     "Parent Certificate Name": "Siemens Intermediate CA 2021",
     "Certificate Record Type": "Intermediate Certificate",
     "Subordinate CA Owner": "Siemens AG",
-    "Apple Status": "Not Trusted",
+    "Apple Status": "Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "1D4E9F45681E59D88853B38CA704F3738EE6E2B0BA2DFADEB3ACACF4A0555739",
@@ -17894,12 +17926,12 @@
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZED.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -17920,10 +17952,10 @@
     "Parent Certificate Name": "Siemens Intermediate CA 2021",
     "Certificate Record Type": "Intermediate Certificate",
     "Subordinate CA Owner": "Siemens AG",
-    "Apple Status": "Not Trusted",
+    "Apple Status": "Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "6DC59E8EF20AE4304A53A0BDC15E0244897BEB6C75DEF5F6999AD5BB882EC3F6",
@@ -17937,12 +17969,12 @@
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZE6.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -17963,10 +17995,10 @@
     "Parent Certificate Name": "Siemens Intermediate CA 2021",
     "Certificate Record Type": "Intermediate Certificate",
     "Subordinate CA Owner": "Siemens AG",
-    "Apple Status": "Not Trusted",
+    "Apple Status": "Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "CEC450B3354FCAC90219D71FAC4DC1CFF4A67B6102F87B00A0301207FC2A4EFA",
@@ -17980,12 +18012,12 @@
     "Full CRL Issued By This CA": "http://ch.siemens.com/pki?ZZZZZZE2.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.siemens.com/pki",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
     "CP Last Updated Date": "2025.01.28",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
@@ -18327,18 +18359,19 @@
     "S/MIME BR Audit Statement Date": "2025.02.28",
     "S/MIME BR Audit Period Start Date": "2024.02.27",
     "S/MIME BR Audit Period End Date": "2025.02.17",
+    "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf",
-      "https://assets.new.siemens.com/siemens/assets/api/uuid:bec81888-47cf-4132-9c3b-a2bc47888f5e/PPKI-Central_CP.pdf"
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
-    "CP Last Updated Date": "2025.01.30",
+    "CP Last Updated Date": "2026.01.27",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf",
-      "https://assets.new.siemens.com/siemens/assets/api/uuid:bcb2b9b4-5172-4a3e-8cc5-d9ec710aea48/PPKI-Central-CPS.pdf"
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
-    "CPS Last Updated Date": "2025.01.30",
+    "CPS Last Updated Date": "2026.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25534,16 +25567,17 @@
     "S/MIME BR Audit Statement Date": "2025.02.28",
     "S/MIME BR Audit Period Start Date": "2024.02.27",
     "S/MIME BR Audit Period End Date": "2025.02.17",
+    "CA Document Repository": "https://www.siemens.com/pki",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://assets.new.siemens.com/siemens/assets/api/uuid:bec81888-47cf-4132-9c3b-a2bc47888f5e/PPKI-Central_CP.pdf"
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:1a549d04-c503-47bd-afac-d3d079471ec1/siemens-cp.pdf"
     ],
-    "CP Last Updated Date": "2025.01.30",
+    "CP Last Updated Date": "2026.01.27",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://assets.new.siemens.com/siemens/assets/api/uuid:bcb2b9b4-5172-4a3e-8cc5-d9ec710aea48/PPKI-Central-CPS.pdf"
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:a261b8b8-8aa0-4fb5-9659-392f76ba0ebe/siemens-cps-issuing-ca-s.pdf"
     ],
-    "CPS Last Updated Date": "2025.01.30",
+    "CPS Last Updated Date": "2026.01.27",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
