@@ -4264,8 +4264,6 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -4448,7 +4446,7 @@
     "Parent Salesforce Record ID": "001o000000HshFeAAJ",
     "Parent Certificate Name": "Security Communication RootCA2",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "JPRS",
+    "Subordinate CA Owner": "Japan Registry Services Co., Ltd.",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
@@ -5371,7 +5369,7 @@
     "Parent Salesforce Record ID": "001o000000HshFeAAJ",
     "Parent Certificate Name": "Security Communication RootCA2",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "JPRS",
+    "Subordinate CA Owner": "Japan Registry Services Co., Ltd.",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
@@ -5859,7 +5857,7 @@
     "Parent Salesforce Record ID": "001o000000xnVWeAAM",
     "Parent Certificate Name": "Security Communication ECC RootCA1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "JPRS",
+    "Subordinate CA Owner": "Japan Registry Services Co., Ltd.",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
@@ -5915,7 +5913,7 @@
     "Parent Salesforce Record ID": "001o000000xnVWeAAM",
     "Parent Certificate Name": "Security Communication ECC RootCA1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "JPRS",
+    "Subordinate CA Owner": "Japan Registry Services Co., Ltd.",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
@@ -6165,8 +6163,6 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -6286,7 +6282,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -6451,7 +6446,7 @@
     "Parent Salesforce Record ID": "001TO00000ENLIHYA5",
     "Parent Certificate Name": "SECOM TLS RSA Root CA 2024",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "JPRS",
+    "Subordinate CA Owner": "Japan Registry Services Co., Ltd.",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
@@ -6507,7 +6502,7 @@
     "Parent Salesforce Record ID": "001TO00000ENLIHYA5",
     "Parent Certificate Name": "SECOM TLS RSA Root CA 2024",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "JPRS",
+    "Subordinate CA Owner": "Japan Registry Services Co., Ltd.",
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
@@ -6849,7 +6844,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -6890,7 +6884,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -6976,7 +6969,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -7031,7 +7023,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
@@ -7088,7 +7079,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Last Updated Date": "2026.02.12",
