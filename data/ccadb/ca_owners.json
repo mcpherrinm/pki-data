@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9964,
+  "total_records": 9981,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -718,14 +718,14 @@
     },
     {
       "ca_owner": "Disig, a.s.",
-      "record_count": 11,
+      "record_count": 12,
       "countries": [
         "Slovakia"
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 3,
+        "untrusted_roots": 4,
         "intermediates": 7
       },
       "output_filename": "Disig_as.json"
@@ -2048,7 +2048,7 @@
     },
     {
       "ca_owner": "Sectigo",
-      "record_count": 1518,
+      "record_count": 1534,
       "countries": [
         "United Kingdom"
       ],
@@ -2056,7 +2056,7 @@
         "trusted_roots": 6,
         "partially_trusted_roots": 20,
         "untrusted_roots": 11,
-        "intermediates": 1481
+        "intermediates": 1497
       },
       "output_filename": "Sectigo.json"
     },
