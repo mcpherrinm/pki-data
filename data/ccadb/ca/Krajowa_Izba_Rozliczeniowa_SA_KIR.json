@@ -302,10 +302,15 @@
     "Authority Key Identifier": "9p4Pkrzi1pS+rl67JXa+nWtFZ3o=",
     "Subject Key Identifier": "9p4Pkrzi1pS+rl67JXa+nWtFZ3o=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca3_tls.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=9557449"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -331,10 +336,15 @@
     "Authority Key Identifier": "mGq1s+Y3e4vWscjK+Ujq/MPJDK8=",
     "Subject Key Identifier": "mGq1s+Y3e4vWscjK+Ujq/MPJDK8=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca4_smime.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=9557448"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

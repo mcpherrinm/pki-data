@@ -350,7 +350,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
     ],
-    "CP Last Updated Date": "2025.11.28",
+    "CP Last Updated Date": "2026.03.12",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -394,7 +394,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
     ],
-    "CP Last Updated Date": "2025.11.28",
+    "CP Last Updated Date": "2026.03.12",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -555,9 +555,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss.pdf"
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -624,7 +624,6 @@
     "Valid To (GMT)": "2030.01.01",
     "Subject Key Identifier": "933F/cTomht3ZKf1HaDMv4dgmm0=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crls/ARLFNMTRCM.crl",
     "Auditor": "AENOR CONFIA, S.A. (Unipersonal)",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.aenor.com/Certificacion_Documentos/eiDas/2020%20AENOR%20Anexo%202%20ETSI%20319%20411-1%20PSC-2019-003%20-%20FNMT-v2.pdf",
@@ -670,11 +669,14 @@
     "Subject Key Identifier": "933F/cTomht3ZKf1HaDMv4dgmm0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Server Authentication;Time Stamping",
-    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crls/ARLFNMTRCM.crl",
     "Auditor": "AENOR CONFIA, S.A. (Unipersonal)",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
+    ],
+    "CPS Last Updated Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -899,14 +901,9 @@
       ""
     ],
     "Audits Same as Parent": "true",
-    "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss.pdf"
-    ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -938,9 +935,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf",
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -989,9 +987,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf",
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.18",
+    "CP/CPS Last Updated Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testactivetipo1.cert.fnmt.es/",
     "Test Website URL - Expired": "https://testexpiredtipo1.cert.fnmt.es/",
@@ -1022,7 +1021,6 @@
     "Authority Key Identifier": "4imZRyr/WyaKyDRBZkWvUjoI8YA=",
     "Subject Key Identifier": "4imZRyr/WyaKyDRBZkWvUjoI8YA=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crls/ARLFNMTRCMG2.crl",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
