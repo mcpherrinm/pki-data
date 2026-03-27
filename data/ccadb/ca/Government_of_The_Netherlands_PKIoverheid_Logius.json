@@ -2655,9 +2655,10 @@
     "CP Last Updated Date": "2024.03.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
     ],
-    "CPS Last Updated Date": "2024.09.15",
+    "CPS Last Updated Date": "2026.03.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3361,9 +3362,9 @@
     "CP Last Updated Date": "2025.07.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.04.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
     ],
-    "CPS Last Updated Date": "2026.02.24",
+    "CPS Last Updated Date": "2026.03.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3413,6 +3414,10 @@
     ],
     "CP Last Updated Date": "2025.07.08",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
+    ],
+    "CPS Last Updated Date": "2026.03.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3992,9 +3997,10 @@
     "CP Last Updated Date": "2024.03.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
     ],
-    "CPS Last Updated Date": "2024.09.15",
+    "CPS Last Updated Date": "2026.03.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4045,9 +4051,10 @@
     "CP Last Updated Date": "2024.03.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
     ],
-    "CPS Last Updated Date": "2024.09.15",
+    "CPS Last Updated Date": "2026.03.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4193,6 +4200,10 @@
     ],
     "CP Last Updated Date": "2025.07.08",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
+    ],
+    "CPS Last Updated Date": "2026.03.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
