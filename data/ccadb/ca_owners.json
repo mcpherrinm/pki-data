@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 9981,
+  "total_records": 9986,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -578,7 +578,7 @@
     },
     {
       "ca_owner": "D-TRUST",
-      "record_count": 64,
+      "record_count": 69,
       "countries": [
         "Germany"
       ],
@@ -586,7 +586,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 7,
         "untrusted_roots": 3,
-        "intermediates": 52
+        "intermediates": 57
       },
       "output_filename": "D-TRUST.json"
     },
