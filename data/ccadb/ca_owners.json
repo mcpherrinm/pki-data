@@ -1,6 +1,6 @@
 {
-  "total_ca_owners": 182,
-  "total_records": 9986,
+  "total_ca_owners": 181,
+  "total_records": 9987,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1026,7 +1026,7 @@
     },
     {
       "ca_owner": "GlobalSign nv-sa",
-      "record_count": 798,
+      "record_count": 799,
       "countries": [
         "Belgium"
       ],
@@ -1034,7 +1034,7 @@
         "trusted_roots": 5,
         "partially_trusted_roots": 10,
         "untrusted_roots": 1,
-        "intermediates": 782
+        "intermediates": 783
       },
       "output_filename": "GlobalSign_nv-sa.json"
     },
@@ -2188,15 +2188,15 @@
     },
     {
       "ca_owner": "SSL.com",
-      "record_count": 243,
+      "record_count": 366,
       "countries": [
         "United States of America"
       ],
       "aggregated_counts": {
-        "trusted_roots": 6,
-        "partially_trusted_roots": 6,
-        "untrusted_roots": 3,
-        "intermediates": 228
+        "trusted_roots": 10,
+        "partially_trusted_roots": 8,
+        "untrusted_roots": 5,
+        "intermediates": 343
       },
       "output_filename": "SSLcom.json"
     },
@@ -2465,20 +2465,6 @@
         "intermediates": 0
       },
       "output_filename": "Valid_Certificadora.json"
-    },
-    {
-      "ca_owner": "Viking Cloud, Inc.",
-      "record_count": 123,
-      "countries": [
-        "United States of America"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 4,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 2,
-        "intermediates": 115
-      },
-      "output_filename": "Viking_Cloud_Inc.json"
     },
     {
       "ca_owner": "Vintegris / vinCAsign",
