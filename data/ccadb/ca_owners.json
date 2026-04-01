@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 9987,
+  "total_records": 9991,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -662,7 +662,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2646,
+      "record_count": 2650,
       "countries": [
         "United States of America"
       ],
@@ -670,7 +670,7 @@
         "trusted_roots": 13,
         "partially_trusted_roots": 30,
         "untrusted_roots": 67,
-        "intermediates": 2536
+        "intermediates": 2540
       },
       "output_filename": "DigiCert.json"
     },
