@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 9991,
+  "total_records": 9994,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1586,7 +1586,7 @@
     },
     {
       "ca_owner": "Krajowa Izba Rozliczeniowa S.A. (KIR)",
-      "record_count": 10,
+      "record_count": 11,
       "countries": [
         "Poland"
       ],
@@ -1594,7 +1594,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 3,
-        "intermediates": 6
+        "intermediates": 7
       },
       "output_filename": "Krajowa_Izba_Rozliczeniowa_SA_KIR.json"
     },
@@ -1712,14 +1712,14 @@
     },
     {
       "ca_owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
-      "record_count": 1,
+      "record_count": 3,
       "countries": [
         "Sri Lanka"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 1,
+        "untrusted_roots": 3,
         "intermediates": 0
       },
       "output_filename": "National_Certification_Authority_of_Sri_Lanka_NCA_of_Sri_Lanka.json"
