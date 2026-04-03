@@ -17636,6 +17636,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r1.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r1.roots.globalsign.com",
@@ -20226,6 +20230,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r3.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r3.roots.globalsign.com",
@@ -24267,6 +24275,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r6.roots.globalsign.com/",
     "Test Website URL - Expired": "https://expired.r6.roots.globalsign.com/",
@@ -25264,6 +25276,11 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r5.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r5.roots.globalsign.com",
@@ -25587,6 +25604,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -25655,6 +25676,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -25724,6 +25749,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -25793,6 +25822,11 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -25862,6 +25896,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -25931,6 +25969,11 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26000,6 +26043,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26069,6 +26116,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26138,6 +26189,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26207,6 +26262,11 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26278,6 +26338,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r46.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r46.roots.globalsign.com",
@@ -26353,6 +26417,10 @@
     ],
     "CPS Last Updated Date": "2026.02.27",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+    ],
+    "CP/CPS Last Updated Date": "2026.03.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.e46.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.e46.roots.globalsign.com",
