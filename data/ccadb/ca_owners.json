@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 9994,
+  "total_records": 9995,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -760,14 +760,14 @@
     },
     {
       "ca_owner": "Dubai Electronic Security Center (DESC)",
-      "record_count": 12,
+      "record_count": 13,
       "countries": [
         "UAE"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
+        "untrusted_roots": 3,
         "intermediates": 10
       },
       "output_filename": "Dubai_Electronic_Security_Center_DESC.json"
