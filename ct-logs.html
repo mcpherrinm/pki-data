@@ -66,6 +66,10 @@
         display: none;
       }
 
+      tbody#logs > tr:not(.current):not(.operator-header) {
+        color: #888;
+      }
+
       input#hideNotCurrent ~ label::before {
         content: "hide ";
       }
@@ -106,7 +110,8 @@
       <thead>
         <tr>
           <th>Name</th>
-          <th>State</th>
+          <th>Apple</th>
+          <th>Google</th>
           <th class="data" colspan="4">Data</th>
         </tr>
       </thead>
@@ -197,42 +202,10 @@
         return new Set([...keysA, ...keysB]);
       }
 
-      function mergeStateConflict(apple, google) {
-        // Handle missing from one vendor - degrade only usable/qualified to pending
-        if (apple === null || apple === undefined) {
-          if (google === "usable" || google === "qualified") {
-            return "pending";
-          }
-          return google;
-        }
-        if (google === null || google === undefined) {
-          if (apple === "usable" || apple === "qualified") {
-            return "pending";
-          }
-          return apple;
-        }
-
-        // Both exist and are the same - return the common value
-        if (apple === google) {
-          return apple;
-        }
-
-        // Both exist but differ - handle conflicts
-        if (google === "rejected" || apple === "rejected") {
-          return "rejected";
-        }
-        if (google === "pending" || apple === "pending") {
-          return "pending";
-        }
-        if (apple === "usable" && google !== "usable") {
-          return google;
-        }
-        if (google === "usable" && apple !== "usable") {
-          return apple;
-        }
-
-        // jank for other potential cases
-        return apple + google;
+      function isCurrentState(state) {
+        return (
+          state === "pending" || state === "usable" || state === "qualified"
+        );
       }
 
       function condGet(m, k) {
@@ -240,20 +213,10 @@
       }
 
       function mergeItem(d, k, appleValue, googleValue) {
-        // Special handling for state - always use mergeStateConflict
+        // Special handling for state - always preserve both sides in their own columns
         if (k === "state") {
-          d[k] = mergeStateConflict(appleValue, googleValue);
-          // Preserve original values if both exist and differ, or if one is missing
-          if ((appleValue !== null && appleValue !== undefined) && 
-              (googleValue !== null && googleValue !== undefined) && 
-              appleValue !== googleValue) {
-            d["apple_" + k] = appleValue;
-            d["google_" + k] = googleValue;
-          } else if (appleValue === null || appleValue === undefined) {
-            d["google_" + k] = googleValue;
-          } else if (googleValue === null || googleValue === undefined) {
-            d["apple_" + k] = appleValue;
-          }
+          d["apple_" + k] = appleValue;
+          d["google_" + k] = googleValue;
           return;
         }
 
@@ -335,12 +298,7 @@
         // First pass: determine which operators have current logs
         const operatorsWithCurrentLogs = new Set();
         logs.forEach((log) => {
-          const state = log.state;
-          if (
-            state === "pending" ||
-            state === "usable" ||
-            state === "qualified"
-          ) {
+          if (isCurrentState(log.apple_state) || isCurrentState(log.google_state)) {
             operatorsWithCurrentLogs.add(log.operator);
           }
         });
@@ -365,7 +323,7 @@
             }
 
             operatorRow.innerHTML = `
-                <td colspan="3">
+                <td colspan="4">
                     ${log.operator || "Unknown Operator"}
                 </td>
             `;
@@ -375,19 +333,22 @@
           logIndex++;
           const tr = document.createElement("tr");
 
-          // Add current class if log is current
-          const state = log.state;
-          if (
-            state === "pending" ||
-            state === "usable" ||
-            state === "qualified"
-          ) {
+          // Add current class if log is current in either program
+          if (isCurrentState(log.apple_state) || isCurrentState(log.google_state)) {
             tr.classList.add("current");
           }
 
+          const appleState = log.apple_state || "";
+          const googleState = log.google_state || "";
+          const stateConflict =
+            appleState && googleState && appleState !== googleState;
+          const appleClass = "state apple-state" + (stateConflict ? " conflict-value" : "");
+          const googleClass = "state google-state" + (stateConflict ? " conflict-value" : "");
+
           tr.innerHTML = `
             <td class="name">${log.name || ""}</td>
-            <td class="state">${log.state || ""}</td>
+            <td class="${appleClass}">${appleState}</td>
+            <td class="${googleClass}">${googleState}</td>
             <td class="data" colspan="4">
                 <input id="log${logIndex}" class="expand" type="checkbox">
                 <label for="log${logIndex}" class="expand">expand</label>
@@ -431,7 +392,14 @@
               // Add conflict highlighting for apple_/google_ prefixed fields
               if (key.startsWith("apple_") || key.startsWith("google_")) {
                 if (!key.endsWith("_state_timestamp") && !key.endsWith("_description")) {
-                  valueClass += " conflict-value";
+                  // For state, only highlight when the two sides actually differ
+                  if (key.endsWith("_state")) {
+                    if (log.apple_state !== log.google_state) {
+                      valueClass += " conflict-value";
+                    }
+                  } else {
+                    valueClass += " conflict-value";
+                  }
                 }
               }
 
