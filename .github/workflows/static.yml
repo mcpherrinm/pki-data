@@ -41,9 +41,12 @@ jobs:
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          for dir in data/*/; do
+            git add -- "$dir"
+            git diff --cached --quiet -- "$dir" && continue
+            git commit -m "Latest ${dir%/} data: ${timestamp}"
+          done
           git push
       - name: Setup Pages
         uses: actions/configure-pages@v6
