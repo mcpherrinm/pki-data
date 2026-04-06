@@ -6,6 +6,10 @@
       table {
         width: 100%;
       }
+      #logTable {
+        max-width: 60rem;
+        margin: 0 auto;
+      }
       table,
       thead,
       tr,
@@ -19,9 +23,6 @@
         width: 10rem;
         overflow: hidden;
       }
-      tbody#logs > tr {
-        height: 2.5rem;
-      }
       tr.log_id > td.value,
       tr.key > td.value {
         font-family: monospace;
@@ -32,9 +33,6 @@
         font-weight: bold;
         text-align: left;
       }
-      input.expand:not(:checked) ~ table {
-        display: none;
-      }
       label {
         background: lightsteelblue;
         padding: 0.3rem 1rem;
@@ -43,15 +41,55 @@
         cursor: pointer;
         user-select: none;
       }
-      input.expand:checked ~ label.expand {
-        background: cornflowerblue;
-      }
-      input.expand:checked ~ label.expand::before {
-        content: "un";
-      }
-      input.expand,
       input#hideNotCurrent {
         display: none;
+      }
+      tbody#logs td:has(> button.row-trigger) {
+        padding: 0;
+      }
+      tbody#logs td button.row-trigger {
+        all: unset;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        width: 100%;
+        min-height: 2.5rem;
+        padding: 0.25em;
+        cursor: pointer;
+        color: inherit;
+      }
+      [popover].log-popover {
+        padding: 1rem;
+        border: 1px solid #888;
+        border-radius: 0.5rem;
+        width: max-content;
+        max-width: 90vw;
+        max-height: 85vh;
+        overflow: auto;
+      }
+      [popover].log-popover table {
+        width: auto;
+      }
+      [popover].log-popover td {
+        width: auto;
+        white-space: nowrap;
+      }
+      [popover].log-popover tr.log_id > td.value,
+      [popover].log-popover tr.key > td.value {
+        white-space: normal;
+      }
+      [popover].log-popover::backdrop {
+        background-color: rgba(200, 200, 200, 0.4);
+        backdrop-filter: blur(3px);
+      }
+      /* Prevent click-through to other rows while a popover is open. */
+      body:has([popover].log-popover:popover-open)
+        tbody#logs
+        button.row-trigger {
+        pointer-events: none;
+      }
+      [popover].log-popover table {
+        width: 100%;
       }
       input#hideNotCurrent:not(:checked)
         ~ table
@@ -68,6 +106,11 @@
 
       tbody#logs > tr:not(.current):not(.operator-header) {
         color: #888;
+      }
+      body:not(:has([popover].log-popover:popover-open))
+        tbody#logs
+        > tr:not(.operator-header):hover {
+        background-color: #eef3fb;
       }
 
       input#hideNotCurrent ~ label::before {
@@ -112,11 +155,11 @@
           <th>Name</th>
           <th>Apple</th>
           <th>Google</th>
-          <th class="data" colspan="4">Data</th>
         </tr>
       </thead>
       <tbody id="logs"></tbody>
     </table>
+    <div id="popovers"></div>
 
     <script>
       // Utility functions from render.py
@@ -304,7 +347,9 @@
         });
 
         const tbody = document.getElementById("logs");
-        tbody.innerHTML = "";
+        tbody.replaceChildren();
+        const popoversContainer = document.getElementById("popovers");
+        popoversContainer.replaceChildren();
 
         let currentOperator = "";
         let logIndex = 0;
@@ -322,15 +367,15 @@
               operatorRow.classList.add("no-current-logs");
             }
 
-            operatorRow.innerHTML = `
-                <td colspan="4">
-                    ${log.operator || "Unknown Operator"}
-                </td>
-            `;
+            const operatorCell = document.createElement("td");
+            operatorCell.colSpan = 3;
+            operatorCell.textContent = log.operator || "Unknown Operator";
+            operatorRow.appendChild(operatorCell);
             tbody.appendChild(operatorRow);
           }
 
           logIndex++;
+          const popoverId = `log${logIndex}`;
           const tr = document.createElement("tr");
 
           // Add current class if log is current in either program
@@ -342,27 +387,49 @@
           const googleState = log.google_state || "";
           const stateConflict =
             appleState && googleState && appleState !== googleState;
-          const appleClass = "state apple-state" + (stateConflict ? " conflict-value" : "");
-          const googleClass = "state google-state" + (stateConflict ? " conflict-value" : "");
 
-          tr.innerHTML = `
-            <td class="name">${log.name || ""}</td>
-            <td class="${appleClass}">${appleState}</td>
-            <td class="${googleClass}">${googleState}</td>
-            <td class="data" colspan="4">
-                <input id="log${logIndex}" class="expand" type="checkbox">
-                <label for="log${logIndex}" class="expand">expand</label>
-                <table>
-                    ${renderLogDetails(log)}
-                </table>
-            </td>
-        `;
+          tr.appendChild(makeTriggerCell("name", log.name || "", popoverId));
+          tr.appendChild(
+            makeTriggerCell(
+              "state apple-state" + (stateConflict ? " conflict-value" : ""),
+              appleState,
+              popoverId,
+            ),
+          );
+          tr.appendChild(
+            makeTriggerCell(
+              "state google-state" + (stateConflict ? " conflict-value" : ""),
+              googleState,
+              popoverId,
+            ),
+          );
 
           tbody.appendChild(tr);
+
+          const popover = document.createElement("div");
+          popover.id = popoverId;
+          popover.className = "log-popover";
+          popover.setAttribute("popover", "");
+          const detailsTable = document.createElement("table");
+          appendLogDetailRows(detailsTable, log);
+          popover.appendChild(detailsTable);
+          popoversContainer.appendChild(popover);
         });
       }
 
-      function renderLogDetails(log) {
+      function makeTriggerCell(tdClass, text, popoverId) {
+        const td = document.createElement("td");
+        td.className = tdClass;
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "row-trigger";
+        button.setAttribute("popovertarget", popoverId);
+        button.textContent = text;
+        td.appendChild(button);
+        return td;
+      }
+
+      function appendLogDetailRows(table, log) {
         const keys = [
           "description",
           "state",
@@ -379,41 +446,49 @@
           "apple",
           "google",
         ];
-        let html = "";
 
         for (const baseKey of keys) {
           const variants = [baseKey, "apple_" + baseKey, "google_" + baseKey];
 
           for (const key of variants) {
-            if (log.hasOwnProperty(key)) {
-              let rowClass = key;
-              let valueClass = "value";
+            if (!log.hasOwnProperty(key)) continue;
 
-              // Add conflict highlighting for apple_/google_ prefixed fields
-              if (key.startsWith("apple_") || key.startsWith("google_")) {
-                if (!key.endsWith("_state_timestamp") && !key.endsWith("_description")) {
-                  // For state, only highlight when the two sides actually differ
-                  if (key.endsWith("_state")) {
-                    if (log.apple_state !== log.google_state) {
-                      valueClass += " conflict-value";
-                    }
-                  } else {
+            let valueClass = "value";
+
+            // Add conflict highlighting for apple_/google_ prefixed fields
+            if (key.startsWith("apple_") || key.startsWith("google_")) {
+              if (
+                !key.endsWith("_state_timestamp") &&
+                !key.endsWith("_description")
+              ) {
+                // For state, only highlight when the two sides actually differ
+                if (key.endsWith("_state")) {
+                  if (log.apple_state !== log.google_state) {
                     valueClass += " conflict-value";
                   }
+                } else {
+                  valueClass += " conflict-value";
                 }
               }
-
-              html += `
-                    <tr class="${rowClass}">
-                        <td class="key">${key}</td>
-                        <td class="${valueClass}" colspan="3">${log[key]}</td>
-                    </tr>
-                `;
             }
+
+            const tr = document.createElement("tr");
+            tr.className = key;
+
+            const keyCell = document.createElement("td");
+            keyCell.className = "key";
+            keyCell.textContent = key;
+            tr.appendChild(keyCell);
+
+            const valueCell = document.createElement("td");
+            valueCell.className = valueClass;
+            valueCell.colSpan = 3;
+            valueCell.textContent = String(log[key]);
+            tr.appendChild(valueCell);
+
+            table.appendChild(tr);
           }
         }
-
-        return html;
       }
 
       async function loadData() {
