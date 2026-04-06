@@ -24,6 +24,7 @@
         overflow: hidden;
       }
       tr.log_id > td.value,
+      tr.log_id_hex > td.value,
       tr.key > td.value {
         font-family: monospace;
         word-break: break-all;
@@ -75,6 +76,7 @@
         white-space: nowrap;
       }
       [popover].log-popover tr.log_id > td.value,
+      [popover].log-popover tr.log_id_hex > td.value,
       [popover].log-popover tr.key > td.value {
         white-space: normal;
       }
@@ -233,10 +235,25 @@
               flatLog.end = log.temporal_interval.end_exclusive;
             }
 
+            // log_id is base64 in the source data; some systems display it
+            // as hex, so precompute that representation here.
+            if (log.log_id) {
+              flatLog.log_id_hex = base64ToHex(log.log_id);
+            }
+
             result.push(flatLog);
           }
         }
         return result;
+      }
+
+      function base64ToHex(b64) {
+        const bin = atob(b64);
+        let hex = "";
+        for (let i = 0; i < bin.length; i++) {
+          hex += bin.charCodeAt(i).toString(16).padStart(2, "0");
+        }
+        return hex;
       }
 
       function allKeys(a, b) {
@@ -440,6 +457,7 @@
           "start",
           "end",
           "log_id",
+          "log_id_hex",
           "key",
           "mmd",
           "state_timestamp",
