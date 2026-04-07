@@ -3273,7 +3273,8 @@
       "http://crl-01.r1.ica.amznts.eu/e2s01/8HhnesS17L6.crl",
       "http://crl-01.r1.ica.amznts.eu/e2s01/HVytROIjZtQ.crl",
       "http://crl-01.r1.ica.amznts.eu/e2s01/Jf3FutZ1J5x.crl",
-      "http://crl-01.r1.ica.amznts.eu/e2s01/1LvnFX2riWx.crl"
+      "http://crl-01.r1.ica.amznts.eu/e2s01/1LvnFX2riWx.crl",
+      "http://crl-01.r1.ica.amznts.eu/e2s01/8ojWpLSBvv3.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
