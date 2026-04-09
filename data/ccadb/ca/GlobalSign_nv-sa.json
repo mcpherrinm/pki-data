@@ -18743,7 +18743,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2024.12.01",
     "TLS EVG Audit Period End Date": "2025.11.30",
-    "Policy Documentation": "CP/CPS",
+    "Policy Documentation": "CP/CPS\r\nMD/AsciiDoc CP/CPS",
     "CA Document Repository": "https://www.ecert.gov.hk/product/cps/ecert/index.html",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

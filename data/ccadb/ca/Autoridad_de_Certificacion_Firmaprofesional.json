@@ -1434,7 +1434,7 @@
     "Test Website URL - Expired": "https://testexpiredsslev2022ec.firmaprofesional.com",
     "Test Website URL - Revoked": "https://testrevokedsslev2022ec.firmaprofesional.com",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Spain",
