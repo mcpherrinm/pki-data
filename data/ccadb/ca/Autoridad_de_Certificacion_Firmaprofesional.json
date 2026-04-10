@@ -302,7 +302,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Spain"
@@ -336,7 +336,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Spain"
@@ -1438,7 +1438,6 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Spain",
-    "Trust Bits for Root Cert": "Server Authentication",
-    "EV OIDs for Root Cert": "2.23.140.1.1"
+    "Trust Bits for Root Cert": "Server Authentication"
   }
 ]
