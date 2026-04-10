@@ -516,7 +516,7 @@
     "S/MIME Capable": "True",
     "Country": "United States of America",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping",
-    "EV OIDs for Root Cert": "1.3.6.1.4.1.34697.2.1; 2.23.140.1.1"
+    "EV OIDs for Root Cert": "2.23.140.1.1; 1.3.6.1.4.1.34697.2.1"
   },
   {
     "CA Owner": "Entrust",
@@ -581,7 +581,7 @@
     "S/MIME Capable": "True",
     "Country": "United States of America",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping",
-    "EV OIDs for Root Cert": "1.3.6.1.4.1.34697.2.2; 2.23.140.1.1"
+    "EV OIDs for Root Cert": "2.23.140.1.1; 1.3.6.1.4.1.34697.2.2"
   },
   {
     "CA Owner": "Entrust",
@@ -1248,7 +1248,7 @@
     "S/MIME Capable": "True",
     "Country": "United States of America",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping",
-    "EV OIDs for Root Cert": "1.3.6.1.4.1.34697.2.3; 2.23.140.1.1"
+    "EV OIDs for Root Cert": "2.23.140.1.1; 1.3.6.1.4.1.34697.2.3"
   },
   {
     "CA Owner": "Entrust",
@@ -1313,7 +1313,7 @@
     "S/MIME Capable": "True",
     "Country": "United States of America",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping",
-    "EV OIDs for Root Cert": "1.3.6.1.4.1.34697.2.4; 2.23.140.1.1"
+    "EV OIDs for Root Cert": "2.23.140.1.1; 1.3.6.1.4.1.34697.2.4"
   },
   {
     "CA Owner": "Entrust",
