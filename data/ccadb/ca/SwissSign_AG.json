@@ -2666,7 +2666,7 @@
     "S/MIME Capable": "True",
     "Country": "Switzerland",
     "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email",
-    "EV OIDs for Root Cert": "2.16.756.1.89.1.2.1.1; 2.23.140.1.1"
+    "EV OIDs for Root Cert": "2.23.140.1.1; 2.16.756.1.89.1.2.1.1"
   },
   {
     "CA Owner": "SwissSign AG",
