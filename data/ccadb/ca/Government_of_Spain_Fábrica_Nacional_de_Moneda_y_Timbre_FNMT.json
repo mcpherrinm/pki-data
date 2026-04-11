@@ -851,6 +851,7 @@
     "JSON Array of Partitioned CRLs": [
       ""
     ],
+    "Auditor": "AENOR CONFIA, S.A. (Unipersonal)",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1051,6 +1052,7 @@
     "Authority Key Identifier": "4imZRyr/WyaKyDRBZkWvUjoI8YA=",
     "Subject Key Identifier": "4imZRyr/WyaKyDRBZkWvUjoI8YA=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/certs/ACRAIZFNMTG2.crt",
     "Auditor": "AENOR CONFIA, S.A. (Unipersonal)",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://eidas.aenor.com/www.aenor.com/Certificacion_Documentos/eiDas/AENOR-AAL_PSC20190003-2025-2026-FNMT_Standard_Audit%201.pdf",
