@@ -178,7 +178,7 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -193,6 +193,7 @@
     "Parent Salesforce Record ID": "001TO00000gE6GhYAK",
     "Parent Certificate Name": "Tamkeen Intermediate CA G1",
     "Certificate Record Type": "Intermediate Certificate",
+    "Subordinate CA Owner": "Tamkeen Intermediate CA G1",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -212,7 +213,7 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -247,7 +248,7 @@
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -546,7 +547,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://dts.tamkeentech.sa/repository/cps/"
+      "https://dts.tamkeentech.sa/repository/cps/Tamkeen_DTS_CP_CPS_V1.0.pdf"
     ],
     "CP/CPS Last Updated Date": "2026.02.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
