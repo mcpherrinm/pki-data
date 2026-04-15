@@ -5,6 +5,8 @@ Script to fetch CT log schemas and lists
 This script downloads the latest CT log data from Google and Apple
 """
 
+import base64
+import hashlib
 import json
 import os
 import re
@@ -14,6 +16,8 @@ import sys
 import csv
 import io
 from collections import defaultdict
+from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 
 def fetch_json(url, description):
@@ -228,6 +232,90 @@ def convert_ccadb_csv_to_json(csv_data):
         sys.exit(1)
 
 
+def is_log_active(log):
+    """Return True if the log has a temporal_interval that has not ended yet."""
+    ti = log.get("temporal_interval")
+    if not ti:
+        return False
+    end = ti.get("end_exclusive")
+    if not end:
+        return False
+    try:
+        dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    return dt > datetime.now(timezone.utc)
+
+
+def der_to_pem(der):
+    b64 = base64.b64encode(der).decode("ascii")
+    lines = [b64[i:i + 64] for i in range(0, len(b64), 64)]
+    return "-----BEGIN CERTIFICATE-----\n" + "\n".join(lines) + "\n-----END CERTIFICATE-----\n"
+
+
+def fetch_roots_for_log(log, seen_log_ids):
+    """Fetch get-roots for a single log and write roots.json + PEM files."""
+    log_id = log.get("log_id")
+    if log_id and log_id in seen_log_ids:
+        return
+    if log_id:
+        seen_log_ids.add(log_id)
+
+    if not is_log_active(log):
+        return
+
+    base_url = log.get("submission_url") or log.get("url")
+    if not base_url:
+        return
+    if not base_url.endswith("/"):
+        base_url += "/"
+    roots_url = base_url + "ct/v1/get-roots"
+
+    description = log.get("description") or base_url
+    print(f"Fetching roots for {description}...")
+    try:
+        with urllib.request.urlopen(roots_url, timeout=60) as response:
+            data = json.loads(response.read().decode("utf-8"))
+    except (urllib.error.URLError, json.JSONDecodeError, TimeoutError, OSError) as e:
+        print(f"  Error fetching roots for {description}: {e}")
+        return
+
+    fingerprints = []
+    os.makedirs("data/roots", exist_ok=True)
+    for cert_b64 in data.get("certificates", []):
+        try:
+            der = base64.b64decode(cert_b64)
+        except (ValueError, TypeError) as e:
+            print(f"  Error decoding cert for {description}: {e}")
+            continue
+        fp = hashlib.sha256(der).hexdigest()
+        fingerprints.append(fp)
+        cert_path = f"data/roots/{fp}.crt"
+        if not os.path.exists(cert_path):
+            with open(cert_path, "w", encoding="utf-8") as f:
+                f.write(der_to_pem(der))
+
+    fingerprints = sorted(set(fingerprints))
+
+    parsed = urlparse(base_url)
+    path_parts = [p for p in parsed.path.strip("/").split("/") if p]
+    out_dir = os.path.join("data", "log", parsed.netloc, *path_parts)
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, "roots.json")
+    save_json({"fingerprints": fingerprints}, out_path, f"roots for {description}")
+
+
+def fetch_all_roots(*log_lists):
+    """Fetch roots for every active log across the provided log lists."""
+    seen = set()
+    for source in log_lists:
+        for op in source.get("operators", []):
+            for log in op.get("logs", []):
+                fetch_roots_for_log(log, seen)
+            for log in op.get("tiled_logs", []):
+                fetch_roots_for_log(log, seen)
+
+
 def main():
     """Main function to fetch all CT log data."""
 
@@ -259,6 +347,9 @@ def main():
         del google_list["log_list_timestamp"]
 
     save_json(google_list, "data/google/all_log_list.json", "Google CT Log List")
+
+    # Fetch roots for every log that is still within its temporal interval.
+    fetch_all_roots(google_list, apple_list)
 
     # Fetch CCADB All Certificate Records CSV and convert to JSON.
     # As a temporary measure, CCADB has split this into two files.
