@@ -56,6 +56,7 @@
     "Valid To (GMT)": "2015.03.22",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "http://www.turktrust.com.tr/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -84,6 +85,7 @@
     "Subject Key Identifier": "/dFYQ0tPMQ9nXj94b27GX221Egk=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "http://www.turktrust.com.tr/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -254,12 +256,12 @@
     "Certificate Policy (CP) URL": [
       "http://dl.turktrust.com.tr/pdf/TURKTRUST_CP_V-11_[EN]_(NES).pdf"
     ],
-    "CP Last Updated Date": "2017.03.29",
+    "CP Effective Date": "2017.03.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://dl.turktrust.com.tr/pdf/TURKTRUST_CPS_V-11_[EN]_(NES).pdf"
     ],
-    "CPS Last Updated Date": "2017.03.29",
+    "CPS Effective Date": "2017.03.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -295,12 +297,12 @@
     "Certificate Policy (CP) URL": [
       "http://dl.turktrust.com.tr/pdf/TURKTRUST_CP_V-11_[EN]_(NES).pdf"
     ],
-    "CP Last Updated Date": "2017.03.29",
+    "CP Effective Date": "2017.03.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://dl.turktrust.com.tr/pdf/TURKTRUST_CPS_V-11_[EN]_(NES).pdf"
     ],
-    "CPS Last Updated Date": "2017.03.29",
+    "CPS Effective Date": "2017.03.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

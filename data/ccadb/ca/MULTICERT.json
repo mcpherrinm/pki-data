@@ -240,17 +240,17 @@
     "Certificate Policy (CP) URL": [
       "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_426_en.pdf"
     ],
-    "CP Last Updated Date": "2025.12.15",
+    "CP Effective Date": "2025.12.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.multicert.com/docs/EN/MULTICERT_PJ.ECRAIZ_427_en.pdf"
     ],
-    "CPS Last Updated Date": "2025.12.15",
+    "CPS Effective Date": "2025.12.15",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://pki.multicert.com/docs/PT/tsa/MULTICERT_PJ.CA3_24.1.1_0002_pt.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.15",
+    "CP/CPS Effective Date": "2025.12.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.pki.multicert.com",
     "Test Website URL - Expired": "https://expired.pki.multicert.com",

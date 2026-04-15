@@ -151,7 +151,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www.netrust.net/docs/ourpractices/CPS_2.1.4.pdf"
     ],
-    "CPS Last Updated Date": "2025.02.20",
+    "CPS Effective Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://activecert.netrust.net:8444/",

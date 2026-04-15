@@ -16,6 +16,7 @@
     "Valid To (GMT)": "2013.01.29",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.esigntrust.com/en/repos_cps.html",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -50,14 +51,14 @@
     "Standard Audit Statement Date": "2020.03.26",
     "Standard Audit Period Start Date": "2019.03.01",
     "Standard Audit Period End Date": "2020.02.29",
-    "CA Document Repository": "https://www.esigntrust.com/en/repos_rootca.html",
+    "CA Document Repository": "https://www.esigntrust.com/en/repos_cps.html",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.esigntrust.com/download/CPS/CTT-SC-CPS-EN-2020-02.v06p.pdf"
     ],
-    "CP/CPS Last Updated Date": "2020.02.26",
+    "CP/CPS Effective Date": "2020.02.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -343,7 +344,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.esigntrust.com/download/CPS/CTT-SC-CPS-EN-2025-01.v11p.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.01.17",
+    "CP/CPS Effective Date": "2025.01.17",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

@@ -23,6 +23,7 @@
     "Standard Audit Statement Date": "2015.12.18",
     "Standard Audit Period Start Date": "2015.12.18",
     "Standard Audit Period End Date": "2015.12.18",
+    "CA Document Repository": "https://www.lgpki.jp/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -125,13 +126,14 @@
     "TLS BR Audit Statement Date": "2017.01.13",
     "TLS BR Audit Period Start Date": "2015.10.16",
     "TLS BR Audit Period End Date": "2016.10.15",
+    "CA Document Repository": "https://www.lgpki.jp/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://bugzilla.mozilla.org/attachment.cgi?id=8846190"
     ],
-    "CP/CPS Last Updated Date": "2016.12.13",
+    "CP/CPS Effective Date": "2016.12.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.test.lgpki.jp/CATest/test.htm",
     "TLS Capable": "False",
@@ -177,7 +179,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.lgpki.jp/unei/C-6-3-9_CPCPS_APCAG4Root_20171013.pdf"
     ],
-    "CP/CPS Last Updated Date": "2017.10.13",
+    "CP/CPS Effective Date": "2017.10.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.test.lgpki.jp/CATest/test.htm",
     "Test Website URL - Expired": "https://www.test-e.lgpki.jp/CATestExpired/test.htm",

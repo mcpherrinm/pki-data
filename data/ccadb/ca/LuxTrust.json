@@ -40,12 +40,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf"
     ],
-    "CP Last Updated Date": "2018.07.20",
+    "CP Effective Date": "2018.07.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_ssl_ca_cps_v1.6.pdf"
     ],
-    "CPS Last Updated Date": "2018.07.20",
+    "CPS Effective Date": "2018.07.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -95,12 +95,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_certificate_profiles_v1_29.pdf"
     ],
-    "CP Last Updated Date": "2019.03.19",
+    "CP Effective Date": "2019.03.19",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_ssl_ca_cps_v1.7.pdf"
     ],
-    "CPS Last Updated Date": "2019.03.19",
+    "CPS Effective Date": "2019.03.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ltsslca5.trustme.lu/",
@@ -150,12 +150,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf"
     ],
-    "CP Last Updated Date": "2018.03.26",
+    "CP Effective Date": "2018.03.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_corporate_ca_certification_practice_statements_v1_0.pdf"
     ],
-    "CPS Last Updated Date": "2018.03.26",
+    "CPS Effective Date": "2018.03.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -203,12 +203,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_root_ca_-_certificate_profiles_v1_28.pdf"
     ],
-    "CP Last Updated Date": "2018.02.01",
+    "CP Effective Date": "2018.02.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.luxtrust.lu/upload/data/repository/luxtrust_global_qualified_ca_certification_practice_statements_v1_10.pdf"
     ],
-    "CPS Last Updated Date": "2018.02.01",
+    "CPS Effective Date": "2018.02.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

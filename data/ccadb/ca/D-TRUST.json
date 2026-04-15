@@ -17,6 +17,8 @@
     "Subject Key Identifier": "LEz2miqfKIIBwZkGEa+zS3y3mv4=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -45,6 +47,8 @@
     "Subject Key Identifier": "kTCr9vPGRLfr3Si8DxSfUl1ifwI=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -73,6 +77,8 @@
     "Subject Key Identifier": "gi82I0l4IELXsFJYoNZ0VBV4v6o=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -211,13 +217,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.07.26",
+    "CPS Effective Date": "2024.07.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -292,12 +298,12 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Effective Date": "2025.07.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -408,13 +414,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.05.23",
+    "CP Effective Date": "2024.05.23",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_Cloud_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.05.23",
+    "CPS Effective Date": "2024.05.23",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -556,13 +562,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.07.26",
+    "CPS Effective Date": "2024.07.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -673,13 +679,13 @@
     "S/MIME BR Audit Statement Date": "2026.01.15",
     "S/MIME BR Audit Period Start Date": "2024.10.08",
     "S/MIME BR Audit Period End Date": "2025.10.07",
-    "Policy Documentation": "Documents are provided in English and German. \r\nTo support a better audit practice D-TRUST has decided to develop a CPS for the standard issuing process managed within the CSM-System, please see\r\nhttp://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf\r\nall other issuing processes are covered by the generic CPS.",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
@@ -687,7 +693,7 @@
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_Cloud_PKI_CPS_v4.2.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -725,12 +731,12 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2021.08.18",
+    "CP Effective Date": "2021.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/UNIPER_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2021.08.18",
+    "CPS Effective Date": "2021.08.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -803,12 +809,12 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2022.11.18",
+    "CP Effective Date": "2022.11.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/UNIPER_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2022.11.18",
+    "CPS Effective Date": "2022.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -879,14 +885,14 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_Root_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.07.26",
+    "CPS Effective Date": "2024.07.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1086,13 +1092,13 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2021.10.14",
+    "CP Effective Date": "2021.10.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2021.10.14",
+    "CPS Effective Date": "2021.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1131,13 +1137,13 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.07.26",
+    "CPS Effective Date": "2024.07.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1288,19 +1294,19 @@
     "S/MIME BR Audit Statement Date": "2026.01.15",
     "S/MIME BR Audit Period Start Date": "2024.10.08",
     "S/MIME BR Audit Period End Date": "2025.10.07",
-    "Policy Documentation": "Documents are provided in English and German. \r\nTo support a better audit practice D-TRUST has decided to develop a CPS for the standard issuing process managed within the CSM-System, please see\r\nhttp://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf\r\nall other issuing processes are covered by the generic CPS.",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.ssl.d-trust.net/",
@@ -1415,13 +1421,13 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.07.26",
+    "CPS Effective Date": "2024.07.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1458,13 +1464,13 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2021.10.14",
+    "CP Effective Date": "2021.10.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2021.10.14",
+    "CPS Effective Date": "2021.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1547,19 +1553,19 @@
     "S/MIME BR Audit Statement Date": "2026.01.15",
     "S/MIME BR Audit Period Start Date": "2024.10.08",
     "S/MIME BR Audit Period End Date": "2025.10.07",
-    "Policy Documentation": "Documents are provided in English and German. \r\nTo support a better audit practice D-TRUST has decided to develop a CPS for the standard issuing process managed within the CSM-System, please see\r\nhttp://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf\r\nall other issuing processes are covered by the generic CPS.",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.ssl.d-trust.net/",
@@ -1608,17 +1614,19 @@
     "TLS EVG Audit Statement Date": "2026.01.15",
     "TLS EVG Audit Period Start Date": "2024.10.08",
     "TLS EVG Audit Period End Date": "2025.10.07",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.tls.d-trust.net/",
@@ -1770,13 +1778,13 @@
     "Certificate Policy (CP) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2024.07.26",
+    "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
       "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.07.26",
+    "CPS Effective Date": "2024.07.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1851,17 +1859,19 @@
     "TLS EVG Audit Statement Date": "2026.01.15",
     "TLS EVG Audit Period Start Date": "2024.10.08",
     "TLS EVG Audit Period End Date": "2025.10.07",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.tls.d-trust.net/",
@@ -1905,7 +1915,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Effective Date": "2025.07.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1945,7 +1955,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "http://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.07.22",
+    "CPS Effective Date": "2025.07.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2128,17 +2138,19 @@
     "S/MIME BR Audit Statement Date": "2026.01.15",
     "S/MIME BR Audit Period Start Date": "2024.10.08",
     "S/MIME BR Audit Period End Date": "2025.10.07",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2214,7 +2226,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2254,7 +2266,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2294,7 +2306,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2334,7 +2346,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2374,18 +2386,20 @@
     "S/MIME BR Audit Statement Date": "2026.01.15",
     "S/MIME BR Audit Period Start Date": "2024.10.08",
     "S/MIME BR Audit Period End Date": "2025.10.07",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2425,7 +2439,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -2470,17 +2484,19 @@
     "TLS EVG Audit Statement Date": "2026.01.15",
     "TLS EVG Audit Period Start Date": "2024.10.08",
     "TLS EVG Audit Period End Date": "2025.10.07",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-dv-valid-rsa.tls.d-trust.net/",
@@ -2636,17 +2652,19 @@
     "TLS EVG Audit Statement Date": "2026.01.15",
     "TLS EVG Audit Period Start Date": "2024.10.08",
     "TLS EVG Audit Period End Date": "2025.10.07",
+    "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CSM CPS. \n\nDocuments are provided in both English and German.",
+    "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.7.pdf"
     ],
-    "CP Last Updated Date": "2025.11.13",
+    "CP Effective Date": "2025.11.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.0.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v4.9.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.13",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid-rsa.tls.d-trust.net/",

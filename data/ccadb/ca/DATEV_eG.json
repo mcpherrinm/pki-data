@@ -18,6 +18,7 @@
     "Subject Key Identifier": "61uyBP6c8viSUTss71Oxs8rVzQk=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -48,6 +49,7 @@
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
     "Standard Audit Type": "ETSI TS 102 042",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -77,6 +79,7 @@
     "Subject Key Identifier": "RuLidGBMgZwvjuBVEfui7TLtvYc=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -112,19 +115,19 @@
     "Standard Audit Statement Date": "2019.04.16",
     "Standard Audit Period Start Date": "2018.03.14",
     "Standard Audit Period End Date": "2019.04.03",
-    "CA Document Repository": "https://www.datev.de/zertifikat-policy-std",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.datev.de/web/de/media/datev_de/pdf/service/datev_certification_services_security_guidelines.pdf",
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CPS Last Updated Date": "2020.11.01",
+    "CPS Effective Date": "2020.11.01",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CP/CPS Last Updated Date": "2020.11.01",
+    "CP/CPS Effective Date": "2020.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -157,19 +160,19 @@
     "Standard Audit Statement Date": "2019.04.16",
     "Standard Audit Period Start Date": "2018.03.14",
     "Standard Audit Period End Date": "2019.04.03",
-    "CA Document Repository": "https://www.datev.de/zertifikat-policy-std",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.datev.de/web/de/media/datev_de/pdf/service/datev_certification_services_security_guidelines.pdf",
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CPS Last Updated Date": "2020.11.01",
+    "CPS Effective Date": "2020.11.01",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CP/CPS Last Updated Date": "2020.11.01",
+    "CP/CPS Effective Date": "2020.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -202,19 +205,19 @@
     "Standard Audit Statement Date": "2019.04.16",
     "Standard Audit Period Start Date": "2018.03.14",
     "Standard Audit Period End Date": "2019.04.03",
-    "CA Document Repository": "https://www.datev.de/zertifikat-policy-std",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.datev.de/web/de/media/datev_de/pdf/service/datev_certification_services_security_guidelines.pdf",
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CPS Last Updated Date": "2020.11.01",
+    "CPS Effective Date": "2020.11.01",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CP/CPS Last Updated Date": "2020.11.01",
+    "CP/CPS Effective Date": "2020.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -247,19 +250,19 @@
     "Standard Audit Statement Date": "2022.05.27",
     "Standard Audit Period Start Date": "2021.05.27",
     "Standard Audit Period End Date": "2022.05.27",
-    "CA Document Repository": "https://www.datev.de/zertifikat-policy-std",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.datev.de/web/de/media/datev_de/pdf/service/datev_certification_services_security_guidelines.pdf",
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CPS Last Updated Date": "2020.11.01",
+    "CPS Effective Date": "2020.11.01",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CP/CPS Last Updated Date": "2020.11.01",
+    "CP/CPS Effective Date": "2020.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -292,19 +295,19 @@
     "Standard Audit Statement Date": "2022.05.27",
     "Standard Audit Period Start Date": "2021.05.27",
     "Standard Audit Period End Date": "2022.05.27",
-    "CA Document Repository": "https://www.datev.de/zertifikat-policy-std",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.datev.de/web/de/media/datev_de/pdf/service/datev_certification_services_security_guidelines.pdf",
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CPS Last Updated Date": "2020.11.01",
+    "CPS Effective Date": "2020.11.01",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CP/CPS Last Updated Date": "2020.11.01",
+    "CP/CPS Effective Date": "2020.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -337,19 +340,19 @@
     "Standard Audit Statement Date": "2022.05.27",
     "Standard Audit Period Start Date": "2021.05.27",
     "Standard Audit Period End Date": "2022.05.27",
-    "CA Document Repository": "https://www.datev.de/zertifikat-policy-std",
+    "CA Document Repository": "www.datev.de/zertifikat-policy-std",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.datev.de/web/de/media/datev_de/pdf/service/datev_certification_services_security_guidelines.pdf",
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CPS Last Updated Date": "2020.11.01",
+    "CPS Effective Date": "2020.11.01",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.datev.de/zertifikat-policy-std"
     ],
-    "CP/CPS Last Updated Date": "2020.11.01",
+    "CP/CPS Effective Date": "2020.11.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

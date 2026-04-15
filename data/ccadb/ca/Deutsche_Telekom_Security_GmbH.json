@@ -6818,12 +6818,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf"
     ],
-    "CP Last Updated Date": "2019.02.14",
+    "CP Effective Date": "2019.02.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2019.02.14",
+    "CPS Effective Date": "2019.02.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -15801,12 +15801,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CP.pdf"
     ],
-    "CP Last Updated Date": "2019.02.14",
+    "CP Effective Date": "2019.02.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.pki.dfn.de/fileadmin/PKI/DFN-PKI_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2019.02.14",
+    "CPS Effective Date": "2019.02.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -20845,17 +20845,17 @@
     "TLS BR Audit Period Start Date": "2018.05.18",
     "TLS BR Audit Period End Date": "2019.05.09",
     "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
-    "CA Document Repository": "https://www.telesec.de/en/root-program/informations-about-ca-certificates/root-certificates/; https://www.telesec.de/en/service/downloads/pki-repository/",
+    "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps?download=775:cp-telesec-globalroot"
     ],
-    "CP Last Updated Date": "2019.10.10",
+    "CP Effective Date": "2019.10.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps?download=776:cps-telesec-globalroot"
     ],
-    "CPS Last Updated Date": "2019.10.10",
+    "CPS Effective Date": "2019.10.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-ca2.test.telesec.de/",
@@ -23959,12 +23959,12 @@
     "Certificate Policy (CP) URL": [
       "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
     ],
-    "CP Last Updated Date": "2020.07.01",
+    "CP Effective Date": "2020.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
     ],
-    "CPS Last Updated Date": "2020.07.01",
+    "CPS Effective Date": "2020.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -24106,12 +24106,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
     ],
-    "CP Last Updated Date": "2020.07.14",
+    "CP Effective Date": "2020.07.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
     ],
-    "CPS Last Updated Date": "2020.07.14",
+    "CPS Effective Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -24386,12 +24386,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
     ],
-    "CP Last Updated Date": "2020.07.14",
+    "CP Effective Date": "2020.07.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/CP-CPS_CPKI_DTAG_SecureEmail_20200727_v.08.00_EN.pdf"
     ],
-    "CPS Last Updated Date": "2020.07.14",
+    "CPS Effective Date": "2020.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -24426,12 +24426,12 @@
     "Certificate Policy (CP) URL": [
       "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
     ],
-    "CP Last Updated Date": "2020.07.01",
+    "CP Effective Date": "2020.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://telesec.de/assets/downloads/PKI-Repository/cPKI_SecureEmail_CP_CPS_07.00_EN.pdf"
     ],
-    "CPS Last Updated Date": "2020.07.01",
+    "CPS Effective Date": "2020.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -24821,12 +24821,12 @@
     "Certificate Policy (CP) URL": [
       "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v16-en.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v16-en.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -24995,12 +24995,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf"
     ],
-    "CP Last Updated Date": "2023.01.24",
+    "CP Effective Date": "2023.01.24",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf"
     ],
-    "CPS Last Updated Date": "2023.01.24",
+    "CPS Effective Date": "2023.01.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25035,12 +25035,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf"
     ],
-    "CP Last Updated Date": "2023.01.24",
+    "CP Effective Date": "2023.01.24",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf"
     ],
-    "CPS Last Updated Date": "2023.01.24",
+    "CPS Effective Date": "2023.01.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25143,12 +25143,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-V3.0.pdf"
     ],
-    "CP Last Updated Date": "2023.01.24",
+    "CP Effective Date": "2023.01.24",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V4.0.pdf"
     ],
-    "CPS Last Updated Date": "2023.01.24",
+    "CPS Effective Date": "2023.01.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25681,19 +25681,20 @@
     "S/MIME BR Audit Statement Date": "2025.06.18",
     "S/MIME BR Audit Period Start Date": "2024.04.08",
     "S/MIME BR Audit Period End Date": "2025.04.03",
+    "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V8.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Last Updated Date": "2026.03.15",
+    "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V11.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.15",
+    "CPS Effective Date": "2026.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-class2.test.telesec.de/",
@@ -25732,12 +25733,12 @@
     "Certificate Policy (CP) URL": [
       "https://telesec.de/assets/downloads/PKI-Repository/PKS-CPS_07.00_EN.pdf"
     ],
-    "CP Last Updated Date": "2020.07.01",
+    "CP Effective Date": "2020.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://telesec.de/assets/downloads/PKI-Repository/PKS-CPS_07.00_EN.pdf"
     ],
-    "CPS Last Updated Date": "2020.07.01",
+    "CPS Effective Date": "2020.07.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -25786,19 +25787,20 @@
     "TLS EVG Audit Statement Date": "2025.06.18",
     "TLS EVG Audit Period Start Date": "2024.04.08",
     "TLS EVG Audit Period End Date": "2025.04.03",
+    "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V8.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Last Updated Date": "2026.03.15",
+    "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V11.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.15",
+    "CPS Effective Date": "2026.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-class3.test.telesec.de/",
@@ -26472,18 +26474,20 @@
     "TLS EVG Audit Statement Date": "2025.06.18",
     "TLS EVG Audit Period Start Date": "2024.04.08",
     "TLS EVG Audit Period End Date": "2025.04.03",
+    "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
+    "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V8.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Last Updated Date": "2026.03.15",
+    "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V11.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.15",
+    "CPS Effective Date": "2026.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.tstlser20.test.telesec.de/",
@@ -26537,18 +26541,20 @@
     "S/MIME BR Audit Statement Date": "2025.06.18",
     "S/MIME BR Audit Period Start Date": "2024.04.08",
     "S/MIME BR Audit Period End Date": "2025.04.03",
+    "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
+    "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V8.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Last Updated Date": "2026.03.15",
+    "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V11.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.15",
+    "CPS Effective Date": "2026.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -26599,18 +26605,20 @@
     "S/MIME BR Audit Statement Date": "2025.06.18",
     "S/MIME BR Audit Period Start Date": "2024.04.08",
     "S/MIME BR Audit Period End Date": "2025.04.03",
+    "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
+    "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V8.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Last Updated Date": "2026.03.15",
+    "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V11.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.15",
+    "CPS Effective Date": "2026.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -26661,18 +26669,20 @@
     "TLS EVG Audit Statement Date": "2025.06.18",
     "TLS EVG Audit Period Start Date": "2024.04.08",
     "TLS EVG Audit Period End Date": "2025.04.03",
+    "Policy Documentation": "https://www.telesec.de/en/public-key-infrastructure/support/cp-cps",
+    "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V8.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Last Updated Date": "2026.03.15",
+    "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V11.0.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.15",
+    "CPS Effective Date": "2026.03.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.tstlsrr23.test.telesec.de/",

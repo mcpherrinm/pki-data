@@ -854,12 +854,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/DBD_PC_Certificats_SSL_RGS_et_ETSI_V_2.3.docx.pdf"
     ],
-    "CP Last Updated Date": "2018.10.16",
+    "CP Effective Date": "2018.10.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.keynectis.com/en/",
@@ -1283,6 +1283,7 @@
     "TLS EVG Audit Statement Date": "2016.08.19",
     "TLS EVG Audit Period Start Date": "2016.08.19",
     "TLS EVG Audit Period End Date": "2016.08.19",
+    "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1364,6 +1365,7 @@
     "TLS EVG Audit Statement Date": "2016.08.19",
     "TLS EVG Audit Period Start Date": "2016.08.19",
     "TLS EVG Audit Period End Date": "2016.08.19",
+    "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1408,6 +1410,7 @@
     "TLS EVG Audit Statement Date": "2016.08.19",
     "TLS EVG Audit Period Start Date": "2016.08.19",
     "TLS EVG Audit Period End Date": "2016.08.19",
+    "CA Document Repository": "https://www.docusign.fr/societe/politiques-de-certifications",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1594,12 +1597,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
     ],
-    "CP Last Updated Date": "2017.05.26",
+    "CP Effective Date": "2017.05.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1931,12 +1934,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
     ],
-    "CP Last Updated Date": "2017.05.26",
+    "CP Effective Date": "2017.05.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certplusrootcag1-test.opentrust.com",
@@ -1988,12 +1991,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
     ],
-    "CP Last Updated Date": "2017.05.26",
+    "CP Effective Date": "2017.05.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://opentrustrootcag2-test.opentrust.com",
@@ -2045,12 +2048,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
     ],
-    "CP Last Updated Date": "2017.05.26",
+    "CP Effective Date": "2017.05.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://opentrustrootcag1-test.opentrust.com",
@@ -2102,12 +2105,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
     ],
-    "CP Last Updated Date": "2017.05.26",
+    "CP Effective Date": "2017.05.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certplusrootcag2-test.opentrust.com",
@@ -2196,12 +2199,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/DBD_PC_Certificats_Nume%CC%81riques_Personnels_RGS_etou_ETSI_v_2_0.pdf"
     ],
-    "CP Last Updated Date": "2017.05.26",
+    "CP Effective Date": "2017.05.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.docusign.fr/sites/default/files/Politiques%20de%20Certifications/EV_SSL_CA_Certification_Practice%20Statement_v_1_2.pdf"
     ],
-    "CPS Last Updated Date": "2017.05.26",
+    "CPS Effective Date": "2017.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://opentrustrootcag3-test.opentrust.com",
