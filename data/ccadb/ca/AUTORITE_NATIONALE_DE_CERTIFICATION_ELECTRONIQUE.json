@@ -762,7 +762,7 @@
     "Code Signing Audit Statement Date": "2022.06.23",
     "Code Signing Audit Period Start Date": "2021.04.01",
     "Code Signing Audit Period End Date": "2022.03.31",
-    "Policy Documentation": "https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.1.pdf\nhttps://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.0.pdf",
+    "Policy Documentation": "https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.1.pdf https://ca.pki.ance.dz/repository/cps/National%20Root%20CA%20CPS%20v2.0.pdf",
     "CA Document Repository": "https://ca.pki.ance.dz/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

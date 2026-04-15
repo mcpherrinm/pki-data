@@ -521,7 +521,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl05.actalis.it/Repository/AUTHCL-G1/getLastCRL",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below. \r\nBoth refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
+    "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below.   Both refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
@@ -1269,7 +1269,7 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl09.actalis.it/Repository/AUTHCL-G3/getLastCRL",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below. \r\nBoth refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
+    "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below.   Both refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
