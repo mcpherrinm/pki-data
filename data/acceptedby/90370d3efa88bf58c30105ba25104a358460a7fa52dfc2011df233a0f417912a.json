@@ -1,0 +1,19 @@
+{
+  "logs": [
+    "arche2026h1.staging.ct.transparency.dev",
+    "ct.googleapis.com/logs/eu1/xenon2026h1",
+    "ct.googleapis.com/logs/eu1/xenon2026h2",
+    "ct.googleapis.com/logs/eu1/xenon2027h1",
+    "ct.googleapis.com/logs/us1/argon2026h1",
+    "ct.googleapis.com/logs/us1/argon2026h2",
+    "ct.googleapis.com/logs/us1/argon2027h1",
+    "ct2026-a.trustasia.com/log2026a",
+    "ct2026-b.trustasia.com/log2026b",
+    "hetu2027.trustasia.com/hetu2027",
+    "luoshu2027.trustasia.com/luoshu2027",
+    "tuscolo2026h1.sunlight.geomys.org",
+    "tuscolo2026h2.sunlight.geomys.org",
+    "tuscolo2027h1.sunlight.geomys.org",
+    "tuscolo2027h2.sunlight.geomys.org"
+  ]
+}

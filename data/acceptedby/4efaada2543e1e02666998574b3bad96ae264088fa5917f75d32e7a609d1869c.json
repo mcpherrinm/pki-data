@@ -1,0 +1,19 @@
+{
+  "logs": [
+    "coachandhorses2026h1.staging.certificate.transparency.goog",
+    "coachandhorses2026h2.staging.certificate.transparency.goog",
+    "coachandhorses2027h1.staging.certificate.transparency.goog",
+    "log.twig.ct.letsencrypt.org/2026h1",
+    "log.twig.ct.letsencrypt.org/2026h2",
+    "log.twig.ct.letsencrypt.org/2027h1",
+    "log.twig.ct.letsencrypt.org/2027h2",
+    "navigli2026h1.sunlight.geomys.org",
+    "navigli2026h2.sunlight.geomys.org",
+    "navigli2027h1.sunlight.geomys.org",
+    "navigli2027h2.sunlight.geomys.org",
+    "rennet2026h1.log.ct.ipng.ch",
+    "rennet2026h2.log.ct.ipng.ch",
+    "rennet2027h1.log.ct.ipng.ch",
+    "rennet2027h2.log.ct.ipng.ch"
+  ]
+}
