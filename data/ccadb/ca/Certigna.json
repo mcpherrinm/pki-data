@@ -1093,8 +1093,8 @@
     "S/MIME BR Audit Statement Date": "2025.06.03",
     "S/MIME BR Audit Period Start Date": "2024.04.12",
     "S/MIME BR Audit Period End Date": "2025.03.28",
-    "Policy Documentation": "https://www.certigna.fr/autorites/",
-    "CA Document Repository": "https://www.certigna.fr/autorites/",
+    "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
+    "CA Document Repository": "https://www.certigna.com/autorites-de-certification/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1102,13 +1102,13 @@
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.03.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://valid.servicesca-racine.dhimyotis.com",
     "Test Website URL - Expired": "https://expired.servicesca-racine.dhimyotis.com",
     "Test Website URL - Revoked": "https://revoked.servicesca-racine.dhimyotis.com",
@@ -1500,8 +1500,8 @@
     "S/MIME BR Audit Statement Date": "2025.06.03",
     "S/MIME BR Audit Period Start Date": "2024.04.12",
     "S/MIME BR Audit Period End Date": "2025.03.28",
-    "Policy Documentation": "https://www.certigna.fr/autorites/",
-    "CA Document Repository": "https://www.certigna.fr/autorites/",
+    "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
+    "CA Document Repository": "https://www.certigna.com/autorites-de-certification/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1509,13 +1509,13 @@
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.03.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://valid.servicesca.dhimyotis.com",
     "Test Website URL - Expired": "https://expired.servicesca.dhimyotis.com",
     "Test Website URL - Revoked": "https://revoked.servicesca.dhimyotis.com",
@@ -1979,6 +1979,8 @@
     "TLS BR Audit Statement Date": "2025.06.03",
     "TLS BR Audit Period Start Date": "2024.04.12",
     "TLS BR Audit Period End Date": "2025.03.28",
+    "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
+    "CA Document Repository": "https://www.certigna.com/autorites-de-certification/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1986,13 +1988,13 @@
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.03.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://valid.certignaserverauthenticationovcpca.certigna.com",
     "Test Website URL - Expired": "https://expired.certignaserverauthenticationovcpca.certigna.com",
     "Test Website URL - Revoked": "https://revoked.certignaserverauthenticationovcpca.certigna.com",
@@ -2033,6 +2035,8 @@
     "S/MIME BR Audit Statement Date": "2025.06.03",
     "S/MIME BR Audit Period Start Date": "2024.04.12",
     "S/MIME BR Audit Period End Date": "2025.03.28",
+    "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
+    "CA Document Repository": "https://www.certigna.com/autorites-de-certification/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2073,7 +2077,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.09.19",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.09.19",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2179,7 +2183,7 @@
     "Certificate Practice & Policy Statement": [
       "https://cps.certigna.com/DPCCertignaSMIMECA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.04.20",
+    "CP/CPS Effective Date": "2025.04.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2218,6 +2222,8 @@
     "S/MIME BR Audit Statement Date": "2025.06.03",
     "S/MIME BR Audit Period Start Date": "2024.04.12",
     "S/MIME BR Audit Period End Date": "2025.03.28",
+    "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
+    "CA Document Repository": "https://www.certigna.com/autorites-de-certification/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2259,6 +2265,8 @@
     "TLS BR Audit Statement Date": "2025.06.03",
     "TLS BR Audit Period Start Date": "2024.04.12",
     "TLS BR Audit Period End Date": "2025.03.28",
+    "Policy Documentation": "https://www.certigna.com/autorites-de-certification/",
+    "CA Document Repository": "https://www.certigna.com/autorites-de-certification/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2266,13 +2274,13 @@
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.03.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://valid.certignaserverauthenticationovcpeuca.certigna.com",
     "Test Website URL - Expired": "https://expired.certignaserverauthenticationovcpeuca.certigna.com",
     "Test Website URL - Revoked": "https://revoked.certignaserverauthenticationovcpeuca.certigna.com",

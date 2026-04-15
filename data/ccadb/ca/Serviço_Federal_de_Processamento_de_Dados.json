@@ -30,16 +30,17 @@
     "TLS BR Audit Statement Date": "2023.10.02",
     "TLS BR Audit Period Start Date": "2022.05.30",
     "TLS BR Audit Period End Date": "2023.05.29",
+    "CA Document Repository": "https://certificados.serpro.gov.br/serprossl/certification-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://repositorio.serpro.gov.br/docs/CP_SERPRO_SSL_CA_4.0.pdf"
     ],
-    "CP Last Updated Date": "2022.12.29",
+    "CP Effective Date": "2022.12.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repositorio.serpro.gov.br/docs/CPS_SERPRO_SSL_CA_4.0.pdf"
     ],
-    "CPS Last Updated Date": "2022.12.29",
+    "CPS Effective Date": "2022.12.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active-repositorio.serpro.gov.br/",
@@ -70,16 +71,17 @@
     "Subject Key Identifier": "bRccItGs/YUqNYPMps2smk3HjVI=",
     "Technically Constrained": "true",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://certificados.serpro.gov.br/serprossl/certification-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://repositorio.serpro.gov.br/docs/pcserprosslA1.pdf"
     ],
-    "CP Last Updated Date": "2020.05.12",
+    "CP Effective Date": "2020.05.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repositorio.serpro.gov.br/docs/dpcserprossl.pdf"
     ],
-    "CPS Last Updated Date": "2020.06.01",
+    "CPS Effective Date": "2020.06.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

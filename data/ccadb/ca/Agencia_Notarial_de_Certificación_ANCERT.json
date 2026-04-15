@@ -24,6 +24,7 @@
     "Standard Audit Statement Date": "2015.01.02",
     "Standard Audit Period Start Date": "2015.01.02",
     "Standard Audit Period End Date": "2015.01.02",
+    "CA Document Repository": "http://www.ancert.com/en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -59,6 +60,7 @@
     "Standard Audit Statement Date": "2015.01.02",
     "Standard Audit Period Start Date": "2015.01.02",
     "Standard Audit Period End Date": "2015.01.02",
+    "CA Document Repository": "http://www.ancert.com/en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -94,6 +96,7 @@
     "Standard Audit Statement Date": "2015.01.02",
     "Standard Audit Period Start Date": "2015.01.02",
     "Standard Audit Period End Date": "2015.01.02",
+    "CA Document Repository": "http://www.ancert.com/en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -142,7 +145,7 @@
     "Certificate Practice & Policy Statement": [
       "http://www.ancert.com/pki/v2/docs/dpc/EN/DPC_NOT_V2_EN.pdf"
     ],
-    "CP/CPS Last Updated Date": "2023.09.18",
+    "CP/CPS Effective Date": "2023.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-test.ancert.com",
     "Test Website URL - Expired": "https://expired.ancert.com",
@@ -187,7 +190,7 @@
     "Certificate Practice & Policy Statement": [
       "http://www.ancert.com/pki/v2/docs/dpc/EN/DPC_CGN_V2_EN.pdf"
     ],
-    "CP/CPS Last Updated Date": "2023.09.18",
+    "CP/CPS Effective Date": "2023.09.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -215,6 +218,7 @@
     "Subject Key Identifier": "c82i/h9FyGTFeiBE0DEFkGt0hWU=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "http://www.ancert.com/en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -244,6 +248,7 @@
     "Subject Key Identifier": "nsENM0l5q7OxkwZgM6lqRPSwgzM=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "http://www.ancert.com/en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

@@ -29,7 +29,8 @@
     "TLS BR Audit Statement Date": "2018.03.29",
     "TLS BR Audit Period Start Date": "2018.03.29",
     "TLS BR Audit Period End Date": "2018.03.29",
-    "CA Document Repository": "http://www.defence.gov.au/pki/",
+    "Policy Documentation": "CPS and CPs documentation.",
+    "CA Document Repository": "https://crl.defence.gov.au/pki/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -76,18 +77,18 @@
     "S/MIME BR Audit Statement Date": "2025.05.15",
     "S/MIME BR Audit Period Start Date": "2024.03.01",
     "S/MIME BR Audit Period End Date": "2025.02.28",
-    "Policy Documentation": "Updates to the CPS and CPs currently in progress.",
-    "CA Document Repository": "http://www.defence.gov.au/pki/_lib/doc_pdf/",
+    "Policy Documentation": "CPS and CPs documentation.",
+    "CA Document Repository": "https://crl.defence.gov.au/pki/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://crl.defence.gov.au/pki/_lib/doc_pdf/Defence-ADPRCA-CP.pdf"
     ],
-    "CP Last Updated Date": "2024.12.20",
+    "CP Effective Date": "2024.12.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://crl.defence.gov.au/pki/cps/Defence-CPS.pdf"
     ],
-    "CPS Last Updated Date": "2024.12.20",
+    "CPS Effective Date": "2024.12.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www1.defence.gov.au/",

@@ -18,6 +18,7 @@
     "Subject Key Identifier": "/4pGcjNY6EiIIqoXaNoWSAmLNZE=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "http://www.rootca.or.kr/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -47,6 +48,7 @@
     "Subject Key Identifier": "j4Hw2qbNdDy+ZvQVa0ak/gYozKo=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "http://www.rootca.or.kr/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -91,12 +93,12 @@
     "Certificate Policy (CP) URL": [
       "http://www.rootca.or.kr/"
     ],
-    "CP Last Updated Date": "2018.12.01",
+    "CP Effective Date": "2018.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://www.rootca.or.kr/kor/down/cps16.pdf"
     ],
-    "CPS Last Updated Date": "2018.12.01",
+    "CPS Effective Date": "2018.12.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -134,12 +136,13 @@
     "TLS BR Audit Statement Date": "2017.03.31",
     "TLS BR Audit Period Start Date": "2016.01.01",
     "TLS BR Audit Period End Date": "2016.12.31",
+    "CA Document Repository": "http://www.rootca.or.kr/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://rootca.or.kr/kor/down/cps16.pdf"
     ],
-    "CPS Last Updated Date": "2016.05.18",
+    "CPS Effective Date": "2016.05.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

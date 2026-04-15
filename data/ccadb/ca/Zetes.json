@@ -127,6 +127,7 @@
     "Standard Audit Statement Date": "2024.06.05",
     "Standard Audit Period Start Date": "2023.03.11",
     "Standard Audit Period End Date": "2024.03.10",
+    "Policy Documentation": "Zetes TSP ROOT CA 001 v1.7 15/12/2024",
     "CA Document Repository": "https://repository.tsp.zetes.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -134,7 +135,7 @@
     "Certificate Practice & Policy Statement": [
       "https://repository.tsp.zetes.com/Zetes%20TSP%20-%20Root%20CA%20-%20Certification%20Practice%20Statement%20and%20Certificate%20Policy%20v1.7.pdf"
     ],
-    "CP/CPS Last Updated Date": "2024.12.15",
+    "CP/CPS Effective Date": "2024.12.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

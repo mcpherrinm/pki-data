@@ -220,13 +220,14 @@
     "TLS BR Audit Statement Date": "2024.02.12",
     "TLS BR Audit Period Start Date": "2023.01.01",
     "TLS BR Audit Period End Date": "2023.12.31",
+    "CA Document Repository": "https://www.oaticerts.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.10",
+    "CP/CPS Effective Date": "2025.12.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -276,7 +277,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.oaticerts.com/repository/OATI-webCARES-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.10",
+    "CP/CPS Effective Date": "2025.12.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid2021.oaticerts.com",
     "Test Website URL - Expired": "https://expired2021.oaticerts.com",
@@ -323,6 +324,7 @@
     "TLS BR Audit Statement Date": "2026.01.20",
     "TLS BR Audit Period Start Date": "2025.01.01",
     "TLS BR Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://www.oaticerts.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -330,7 +332,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/oatiwebcares/CPS/blob/main/cps_webcaresserverrootca.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.12.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.12.31",
     "Test Website URL - Valid": "https://valid2026.oaticerts.com/",
     "Test Website URL - Expired": "https://expired2026.oaticerts.com/",
     "Test Website URL - Revoked": "https://revoked2026.oaticerts.com/",

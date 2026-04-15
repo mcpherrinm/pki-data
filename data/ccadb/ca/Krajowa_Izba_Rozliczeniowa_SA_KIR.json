@@ -116,7 +116,7 @@
     "Full CRL Issued By This CA": "https://cdp.elektronicznypodpis.pl/root_ca.crl",
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
-    "CA Document Repository": "http://www.elektronicznypodpis.pl/en/information/legal-basis/",
+    "CA Document Repository": "https://www.elektronicznypodpis.pl/en/support/legal-basis",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -327,17 +327,17 @@
     "S/MIME BR Audit Statement Date": "2025.06.13",
     "S/MIME BR Audit Period Start Date": "2024.04.09",
     "S/MIME BR Audit Period End Date": "2025.04.08",
-    "CA Document Repository": "http://www.elektronicznypodpis.pl/en/information/legal-basis/",
+    "CA Document Repository": "https://www.elektronicznypodpis.pl/en/support/legal-basis",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/1/12/b8c084a06631c576163477cb4b7e6079/Certification_Policy_KIR_Trusted_nq_certificates_1.15_20260112.pdf"
     ],
-    "CP Last Updated Date": "2026.01.12",
+    "CP Effective Date": "2026.01.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/3/13/6a226145ee6688ae69b6b7d4135f4743/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_26_20260314_sig.pdf"
     ],
-    "CPS Last Updated Date": "2026.03.14",
+    "CPS Effective Date": "2026.03.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl.elektronicznypodpis.pl/",
@@ -370,13 +370,14 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca3_tls.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.elektronicznypodpis.pl/en/support/legal-basis",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://bugzilla.mozilla.org/attachment.cgi?id=9557449"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -404,13 +405,14 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca4_smime.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.elektronicznypodpis.pl/en/support/legal-basis",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://bugzilla.mozilla.org/attachment.cgi?id=9557448"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -438,13 +440,14 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca4_smime.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.elektronicznypodpis.pl/en/support/legal-basis",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/4/2/38ff16ea59ab1c6523391f3ec47e4326/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_SMIME_1_0_20260401_sig.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.04.01",
+    "CP/CPS Effective Date": "2026.04.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

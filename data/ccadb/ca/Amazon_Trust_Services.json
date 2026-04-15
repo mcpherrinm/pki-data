@@ -306,12 +306,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cp-v5-15.pdf"
     ],
-    "CP Last Updated Date": "2023.04.13",
+    "CP Effective Date": "2023.04.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cps-v5-15.pdf"
     ],
-    "CPS Last Updated Date": "2023.04.13",
+    "CPS Effective Date": "2023.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -383,7 +383,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -454,7 +454,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -525,7 +525,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -596,7 +596,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -667,7 +667,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -738,7 +738,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -809,7 +809,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -880,7 +880,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -951,7 +951,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1025,7 +1025,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1096,7 +1096,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1167,7 +1167,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1241,7 +1241,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1312,7 +1312,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1383,7 +1383,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1454,7 +1454,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1525,7 +1525,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1595,7 +1595,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1665,7 +1665,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1735,7 +1735,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -3784,7 +3784,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca0a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca0a.amazontrust.com/",
@@ -3920,7 +3920,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca1a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca1a.amazontrust.com/",
@@ -3990,7 +3990,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca3a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca3a.amazontrust.com/",
@@ -4060,7 +4060,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.rootca2.demo.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca2a.amazontrust.com/",
@@ -4130,7 +4130,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.sca4a.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.sca4a.amazontrust.com/",
@@ -4196,12 +4196,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cp-v5-15.pdf"
     ],
-    "CP Last Updated Date": "2023.04.13",
+    "CP Effective Date": "2023.04.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-cps-v5-15.pdf"
     ],
-    "CPS Last Updated Date": "2023.04.13",
+    "CPS Effective Date": "2023.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4323,13 +4323,14 @@
     "S/MIME BR Audit Statement Date": "2025.04.10",
     "S/MIME BR Audit Period Start Date": "2024.01.16",
     "S/MIME BR Audit Period End Date": "2025.01.15",
+    "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.eue3m1.demo.eu.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.eue3m1.demo.eu.amazontrust.com/",
@@ -4391,13 +4392,14 @@
     "S/MIME BR Audit Statement Date": "2025.04.10",
     "S/MIME BR Audit Period Start Date": "2024.01.16",
     "S/MIME BR Audit Period End Date": "2025.01.15",
+    "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.eue2m1.demo.eu.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.eue2m1.demo.eu.amazontrust.com/",
@@ -4459,13 +4461,14 @@
     "S/MIME BR Audit Statement Date": "2025.04.10",
     "S/MIME BR Audit Period Start Date": "2024.01.16",
     "S/MIME BR Audit Period End Date": "2025.01.15",
+    "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.amazontrust.com/repository/ats-cp-cps-2.5.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.eur2m1.demo.eu.amazontrust.com/",
     "Test Website URL - Expired": "https://expired.eur2m1.demo.eu.amazontrust.com/",

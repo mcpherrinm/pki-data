@@ -123,6 +123,7 @@
     "TLS BR Audit Statement Date": "2017.01.27",
     "TLS BR Audit Period Start Date": "2017.01.27",
     "TLS BR Audit Period End Date": "2017.01.27",
+    "CA Document Repository": "https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -202,7 +203,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.digidentity.eu/assets/files/terms/2019v4-CPCPS-DDY.pdf"
     ],
-    "CP/CPS Last Updated Date": "2019.12.06",
+    "CP/CPS Effective Date": "2019.12.06",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.services.digidentity-pki.com",
     "Test Website URL - Expired": "https://expired.services.digidentity-pki.com",

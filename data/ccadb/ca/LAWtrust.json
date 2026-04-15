@@ -23,8 +23,16 @@
     "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/crl/LT_AeSign_CA02.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_AeSignCA02_CEN-SSCD_CPS_V010%202025-08-10.pdf"
+    ],
+    "CPS Effective Date": "2025.10.31",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_AeSignCA02_CEN-SSCD_CPS_V010%202025-08-10.pdf"
+    ],
+    "CP/CPS Effective Date": "2025.10.31",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -56,8 +64,12 @@
     "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/crl/LT_AATL_CA01.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_AATLCA01_CEN-SSCD_CPS_V009%202025-08-20.pdf"
+    ],
+    "CPS Effective Date": "2025.10.31",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -89,8 +101,12 @@
     "Full CRL Issued By This CA": "http://aesigncrl.lawtrust.co.za/CRL/lawtrust_aesign_ca_crlfile1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.lawtrust.co.za/wp-content/uploads/2026/03/LT_ISP_IS_AES_CPS_V012_2026-02-26.pdf"
+    ],
+    "CPS Effective Date": "2025.10.31",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -178,6 +194,7 @@
     "Authority Key Identifier": "XN46MzRJZMSSMXxVXvXyO0/uwx0=",
     "Subject Key Identifier": "XN46MzRJZMSSMXxVXvXyO0/uwx0=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://aesigncrl.lawtrust.co.za/CRL/lawtrust_ca_root_za_crlfile.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=8f8c2147-a85c-4779-a357-14007f5b9949",
@@ -283,12 +300,16 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.lawtrust.co.za/repository/",
     "CA Document Repository": "https://www.lawtrust.co.za/repository/",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
+    "Certificate Policy (CP) URL": [
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_IS_CP_V023%202025-08-07.pdf"
+    ],
+    "CP Effective Date": "2023.09.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.lawtrust.co.za/wp-content/uploads/2023/11/LT_ISP_SigningCA01_CEN-SSCD_CPS_V007-01-09-2023.pdf"
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_SigningCA01_CEN-SSCD_CPS_V010%202025-08-20.pdf"
     ],
-    "CPS Last Updated Date": "2023.09.01",
+    "CPS Effective Date": "2025.10.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -321,12 +342,12 @@
     "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/CRL/lawtrust_auth_ca01_lawtrust_za_crlfile.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.lawtrust.co.za/repository/",
-    "CP Same as Parent": "false",
+    "CP Same as Parent": "true",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.lawtrust.co.za/wp-content/uploads/2023/11/LT_ISP_AuthCA01_CPS_V007-01-09-2023.pdf"
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_AuthCA01_CPS_V010%202025-08-19.pdf"
     ],
-    "CPS Last Updated Date": "2023.09.01",
+    "CPS Effective Date": "2025.10.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -390,8 +411,12 @@
     "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/CRL/lawtrust_secure_ca01_lawtrust_za_crlfile1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.lawtrust.co.za/wp-content/uploads/2025/11/LT_ISP_SecureCA01_CPS_V005%202025-08-20.pdf"
+    ],
+    "CPS Effective Date": "2025.10.31",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -425,6 +450,7 @@
     "Standard Audit Statement Date": "2023.03.22",
     "Standard Audit Period Start Date": "2022.01.01",
     "Standard Audit Period End Date": "2022.12.31",
+    "CA Document Repository": "https://www.lawtrust.co.za/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -453,6 +479,7 @@
     "Authority Key Identifier": "19ZWYlw/F4Hmc0Qp9VEF7wtgN6w=",
     "Subject Key Identifier": "19ZWYlw/F4Hmc0Qp9VEF7wtgN6w=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl.lawtrust.co.za/CRL/lawtrust_root_ca2_(4096)_lawtrust_za_crlfile1.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=8f8c2147-a85c-4779-a357-14007f5b9949",
@@ -470,6 +497,7 @@
     "S/MIME BR Audit Statement Date": "2026.03.20",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://www.lawtrust.co.za/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

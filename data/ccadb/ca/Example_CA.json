@@ -17,6 +17,8 @@
     "Subject Key Identifier": "Km35nRjjUX8w6AIOUKsR8NgTVe0=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "Optional explanation about the CA's policy documentation.",
+    "CA Document Repository": "URL to where the CA's policy documentation may be found. More than one URL may be provided as a semicolon - separated list.",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -46,6 +48,8 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://badssl.com/",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "Optional explanation about the CA's policy documentation.",
+    "CA Document Repository": "URL to where the CA's policy documentation may be found. More than one URL may be provided as a semicolon - separated list.",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -85,6 +89,8 @@
     "NetSec Audit Statement Date": "2024.12.15",
     "NetSec Audit Period Start Date": "2024.12.15",
     "NetSec Audit Period End Date": "2024.12.15",
+    "Policy Documentation": "Optional explanation about the CA's policy documentation.",
+    "CA Document Repository": "URL to where the CA's policy documentation may be found. More than one URL may be provided as a semicolon - separated list.",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -137,6 +143,8 @@
     "S/MIME BR Audit Statement Date": "2023.12.14",
     "S/MIME BR Audit Period Start Date": "2023.01.01",
     "S/MIME BR Audit Period End Date": "2023.12.14",
+    "Policy Documentation": "Optional explanation about the CA's policy documentation.",
+    "CA Document Repository": "URL to where the CA's policy documentation may be found. More than one URL may be provided as a semicolon - separated list.",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -200,16 +208,18 @@
     "VMC Audit Statement Date": "2025.02.24",
     "VMC Audit Period Start Date": "2025.02.24",
     "VMC Audit Period End Date": "2025.02.24",
+    "Policy Documentation": "Optional explanation about the CA's policy documentation.",
+    "CA Document Repository": "URL to where the CA's policy documentation may be found. More than one URL may be provided as a semicolon - separated list.",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://test.CP.pdf"
     ],
-    "CP Last Updated Date": "2023.02.21",
+    "CP Effective Date": "2023.02.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://cps.example.pdf"
     ],
-    "CPS Last Updated Date": "2023.02.21",
+    "CPS Effective Date": "2023.02.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://validtest.test",
@@ -283,12 +293,12 @@
     "Certificate Policy (CP) URL": [
       "https://file-examples.com/storage/feb05093336710053a32bc1/2017/10/file-sample_150kB.pdf"
     ],
-    "CP Last Updated Date": "2024.10.01",
+    "CP Effective Date": "2024.10.01",
     "CPS Same as Parent": "true",
     "Certificate Practice Statement (CPS) URL": [
       "https://file-examples.com/storage/feb05093336710053a32bc1/2017/10/file-sample_150kB.pdf"
     ],
-    "CPS Last Updated Date": "2024.10.01",
+    "CPS Effective Date": "2024.10.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -324,7 +334,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.20",
+    "CP/CPS Effective Date": "2026.03.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -364,7 +374,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.20",
+    "CP/CPS Effective Date": "2026.03.20",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -456,13 +466,15 @@
     "S/MIME BR Audit Statement Date": "2024.03.14",
     "S/MIME BR Audit Period Start Date": "2023.02.14",
     "S/MIME BR Audit Period End Date": "2024.02.13",
+    "Policy Documentation": "Optional explanation about the CA's policy documentation.",
+    "CA Document Repository": "URL to where the CA's policy documentation may be found. More than one URL may be provided as a semicolon - separated list.",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://drive.google.com/uc?export=download&id=19WxBRJuVZlSzIIbLVCPlhszs8NuwHPl_"
     ],
-    "CP/CPS Last Updated Date": "2026.02.02",
+    "CP/CPS Effective Date": "2026.02.02",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid_example.com",
     "Test Website URL - Expired": "https://expired_example.com",

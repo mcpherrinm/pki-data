@@ -581,12 +581,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.startcomca.com/static/download/CP_for_website_certificates.pdf"
     ],
-    "CP Last Updated Date": "2017.07.14",
+    "CP Effective Date": "2017.07.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.startcomca.com/static/download/policy.pdf"
     ],
-    "CPS Last Updated Date": "2017.07.14",
+    "CPS Effective Date": "2017.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -632,12 +632,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.startcomca.com/static/download/CP_for_website_certificates.pdf"
     ],
-    "CP Last Updated Date": "2017.07.14",
+    "CP Effective Date": "2017.07.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.startcomca.com/static/download/policy.pdf"
     ],
-    "CPS Last Updated Date": "2017.07.14",
+    "CPS Effective Date": "2017.07.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -675,7 +675,7 @@
     "TLS BR Audit Statement Date": "2016.08.23",
     "TLS BR Audit Period Start Date": "2015.05.13",
     "TLS BR Audit Period End Date": "2016.05.13",
-    "CA Document Repository": "http://www.certinomis.com/documents-et-liens/nos-politiques",
+    "CA Document Repository": "https://www.certinomis.fr/nos-certificats-racines/nos-politiques-de-certification",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://www.certinomis.fr/publi/rgs/DT-FL-1310-060-PC-WEBSSL-1.4-EN.pdf"
@@ -923,7 +923,7 @@
       "https://www.certinomis.fr/publi/rgs/DT-FL-1310-001-PC-RACINE-1.2.pdf",
       "https://www.certinomis.fr/publi/rgs/DT-FL-1310-001-PC-RACINE-1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2019.08.25",
+    "CP/CPS Effective Date": "2019.08.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ccadb-valid.certinomis.com",
     "Test Website URL - Expired": "https://ccadb-expired.certinomis.com",

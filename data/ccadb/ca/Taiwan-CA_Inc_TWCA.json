@@ -690,18 +690,19 @@
     "S/MIME BR Audit Statement Date": "2026.02.26",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
-    "CA Document Repository": "https://www.twca.com.tw/Portal/english/coporate_profile/Repository.html",
+    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/e11207ce2d0a4d86b8bdd15c16fa1501/e11207ce2d0a4d86b8bdd15c16fa1501.pdf"
     ],
-    "CP Last Updated Date": "2025.11.15",
+    "CP Effective Date": "2025.11.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/0c032e8ede674ed2bb0e0c95eeec3675/0c032e8ede674ed2bb0e0c95eeec3675.pdf",
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/afa7dad789c149568d0c31046cc55d07/afa7dad789c149568d0c31046cc55d07.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.15",
+    "CPS Effective Date": "2025.11.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://evssldemo6.twca.com.tw/",
@@ -734,6 +735,8 @@
     "Technically Constrained": "false",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -789,18 +792,19 @@
     "S/MIME BR Audit Statement Date": "2026.02.26",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
-    "CA Document Repository": "https://www.twca.com.tw/Portal/english/coporate_profile/Repository.html",
+    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/e11207ce2d0a4d86b8bdd15c16fa1501/e11207ce2d0a4d86b8bdd15c16fa1501.pdf"
     ],
-    "CP Last Updated Date": "2025.11.15",
+    "CP Effective Date": "2025.11.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/0c032e8ede674ed2bb0e0c95eeec3675/0c032e8ede674ed2bb0e0c95eeec3675.pdf",
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/afa7dad789c149568d0c31046cc55d07/afa7dad789c149568d0c31046cc55d07.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.15",
+    "CPS Effective Date": "2025.11.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://evssldemo3.twca.com.tw/",
@@ -1091,16 +1095,18 @@
     "S/MIME BR Audit Statement Date": "2026.02.26",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
+    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/e11207ce2d0a4d86b8bdd15c16fa1501/e11207ce2d0a4d86b8bdd15c16fa1501.pdf"
     ],
-    "CP Last Updated Date": "2025.11.15",
+    "CP Effective Date": "2025.11.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/0c032e8ede674ed2bb0e0c95eeec3675/0c032e8ede674ed2bb0e0c95eeec3675.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.15",
+    "CPS Effective Date": "2025.11.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1156,16 +1162,18 @@
     "S/MIME BR Audit Statement Date": "2025.02.26",
     "S/MIME BR Audit Period Start Date": "2024.01.01",
     "S/MIME BR Audit Period End Date": "2024.12.31",
+    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/e11207ce2d0a4d86b8bdd15c16fa1501/e11207ce2d0a4d86b8bdd15c16fa1501.pdf"
     ],
-    "CP Last Updated Date": "2025.11.15",
+    "CP Effective Date": "2025.11.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.twca.com.tw/upload/saveArea/filePage/20251114/afa7dad789c149568d0c31046cc55d07/afa7dad789c149568d0c31046cc55d07.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.15",
+    "CPS Effective Date": "2025.11.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://cyberevnormal.twca.com.tw/",

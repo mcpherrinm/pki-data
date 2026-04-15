@@ -430,7 +430,8 @@
     "Standard Audit Statement Date": "2017.04.26",
     "Standard Audit Period Start Date": "2016.04.27",
     "Standard Audit Period End Date": "2017.04.26",
-    "CA Document Repository": "https://www.comsign.co.uk/",
+    "Policy Documentation": "https://www.comsign.co.il/repository",
+    "CA Document Repository": "https://www.comsign.co.il/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.comsign.co.uk/?page_id=1282"
@@ -473,7 +474,8 @@
     "Standard Audit Statement Date": "2017.04.26",
     "Standard Audit Period Start Date": "2016.04.27",
     "Standard Audit Period End Date": "2017.04.26",
-    "CA Document Repository": "https://www.comsign.co.uk/",
+    "Policy Documentation": "https://www.comsign.co.il/repository",
+    "CA Document Repository": "https://www.comsign.co.il/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.comsign.co.uk/?page_id=1282"
@@ -519,7 +521,8 @@
     "TLS BR Audit Statement Date": "2016.04.26",
     "TLS BR Audit Period Start Date": "2016.04.26",
     "TLS BR Audit Period End Date": "2016.04.26",
-    "CA Document Repository": "https://www.comsign.co.uk/",
+    "Policy Documentation": "https://www.comsign.co.il/repository",
+    "CA Document Repository": "https://www.comsign.co.il/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.comsign.co.uk/?page_id=1282"
@@ -699,6 +702,7 @@
     "TLS BR Audit Statement Date": "2025.04.27",
     "TLS BR Audit Period Start Date": "2024.04.27",
     "TLS BR Audit Period End Date": "2025.04.26",
+    "Policy Documentation": "https://www.comsign.co.il/repository",
     "CA Document Repository": "https://www.comsign.co.il/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
