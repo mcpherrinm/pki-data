@@ -19,14 +19,13 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crlroot.vida.id/vidarootca.crl",
     "Audits Same as Parent": "false",
-    "Policy Documentation": "https://dl.vida.id/VIDA-CPS-TLS.pdf\nThis CP/CPS version (v1.1) is different with the version mentioned in the audit report, which have updated PKI hierarchy information and other as feedback from Webtrust auditor.\n\nThe CP/CPS version that is mentioned in the audit report (v1.0) can be accessed from this link https://dl.vida.id/VIDA-CPS-TLS_v1.0.pdf",
+    "Policy Documentation": "https://dl.vida.id/VIDA-CPS-TLS.pdf This CP/CPS version (v1.1) is different with the version mentioned in the audit report, which have updated PKI hierarchy information and other as feedback from Webtrust auditor.  The CP/CPS version that is mentioned in the audit report (v1.0) can be accessed from this link https://dl.vida.id/VIDA-CPS-TLS_v1.0.pdf",
     "CA Document Repository": "https://www.repo.vida.id/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "This CP/CPS version (v1.1) is different with the version mentioned in the audit report, which have updated PKI hierarchy information and other as feedback from Webtrust auditor.",
-      "https://dl.vida.id/VIDA-CPS-TLS.pdf"
+      "https://dl.vida.id/VIDA-CPS-TLS.pdf This CP/CPS version (v1.1) is different with the version mentioned in the audit report, which have updated PKI hierarchy information and other as feedback from Webtrust auditor."
     ],
     "CP/CPS Effective Date": "2025.06.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

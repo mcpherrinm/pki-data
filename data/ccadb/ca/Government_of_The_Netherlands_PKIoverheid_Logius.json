@@ -1656,7 +1656,7 @@
     "TLS BR Audit Period Start Date": "2020.11.01",
     "TLS BR Audit Period End Date": "2021.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/  https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -1767,7 +1767,7 @@
     "TLS BR Audit Period Start Date": "2019.03.30",
     "TLS BR Audit Period End Date": "2019.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/  https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -2332,7 +2332,7 @@
     "TLS EVG Audit Statement Date": "2023.03.31",
     "TLS EVG Audit Period Start Date": "2022.01.01",
     "TLS EVG Audit Period End Date": "2022.12.31",
-    "Policy Documentation": "Dutch Government Programme of Requirements (only applicable to level 3 SubCAs which issue end-user certificates):\nhttps://cp.pkioverheid.nl\n\nCPS applicable to Root CA and level 2 subCAs can be found on https://cps.pkioverheid.nl",
+    "Policy Documentation": "Dutch Government Programme of Requirements (only applicable to level 3 SubCAs which issue end-user certificates): https://cp.pkioverheid.nl  CPS applicable to Root CA and level 2 subCAs can be found on https://cps.pkioverheid.nl",
     "CA Document Repository": "https://cps.pkioverheid.nl/; https://cp.pkioverheid.nl",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2745,7 +2745,7 @@
     "Standard Audit Period Start Date": "2018.11.01",
     "Standard Audit Period End Date": "2019.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -2804,7 +2804,7 @@
     "Parent Salesforce Record ID": "001o000000iEQJhAAO",
     "Parent Certificate Name": "Staat der Nederlanden Organisatie Services CA - G3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het\r\nMinisterie van Volksgezondheid, Welzijn\r\nen Sport",
+    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het  Ministerie van Volksgezondheid, Welzijn  en Sport",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -2904,7 +2904,7 @@
     "Parent Salesforce Record ID": "001o000000nTKvxAAG",
     "Parent Certificate Name": "Staat der Nederlanden Organisatie Persoon CA - G3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het\r\nMinisterie van Volksgezondheid, Welzijn\r\nen Sport",
+    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het  Ministerie van Volksgezondheid, Welzijn  en Sport",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -3021,7 +3021,7 @@
     "Parent Salesforce Record ID": "001o000000nTKvxAAG",
     "Parent Certificate Name": "Staat der Nederlanden Organisatie Persoon CA - G3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het\r\nMinisterie van Volksgezondheid, Welzijn\r\nen Sport",
+    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het  Ministerie van Volksgezondheid, Welzijn  en Sport",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -3105,7 +3105,7 @@
     "S/MIME BR Audit Period Start Date": "2024.11.01",
     "S/MIME BR Audit Period End Date": "2025.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
@@ -3464,7 +3464,7 @@
     "TLS BR Audit Period Start Date": "2019.11.01",
     "TLS BR Audit Period End Date": "2020.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -3605,7 +3605,7 @@
     "S/MIME BR Audit Period Start Date": "2024.11.01",
     "S/MIME BR Audit Period End Date": "2025.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/  https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
@@ -3725,7 +3725,7 @@
     "Parent Salesforce Record ID": "001o000000iEQJhAAO",
     "Parent Certificate Name": "Staat der Nederlanden Organisatie Services CA - G3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het\r\nMinisterie van Volksgezondheid, Welzijn\r\nen Sport",
+    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het  Ministerie van Volksgezondheid, Welzijn  en Sport",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -3809,7 +3809,7 @@
     "S/MIME BR Audit Period Start Date": "2024.11.01",
     "S/MIME BR Audit Period End Date": "2025.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/\r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/  https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
@@ -3907,7 +3907,7 @@
     "Standard Audit Period Start Date": "2017.11.01",
     "Standard Audit Period End Date": "2018.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -4144,7 +4144,7 @@
     "TLS BR Audit Period Start Date": "2019.11.01",
     "TLS BR Audit Period End Date": "2020.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads\r\nhttps://www.digidentity.eu/en/documentation/",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -4275,7 +4275,7 @@
     "Parent Salesforce Record ID": "001o000000nTKvxAAG",
     "Parent Certificate Name": "Staat der Nederlanden Organisatie Persoon CA - G3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het\r\nMinisterie van Volksgezondheid, Welzijn\r\nen Sport",
+    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het  Ministerie van Volksgezondheid, Welzijn  en Sport",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -4407,7 +4407,7 @@
     "Parent Salesforce Record ID": "001o000000nTKvxAAG",
     "Parent Certificate Name": "Staat der Nederlanden Organisatie Persoon CA - G3",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het\r\nMinisterie van Volksgezondheid, Welzijn\r\nen Sport",
+    "Subordinate CA Owner": "CIBG, Uitvoeringsorganisatie van het  Ministerie van Volksgezondheid, Welzijn  en Sport",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -4565,7 +4565,7 @@
     "Standard Audit Period Start Date": "2017.11.01",
     "Standard Audit Period End Date": "2018.10.31",
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
-    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/ \r\nhttps://www.digidentity.eu/en/home/#downloads",
+    "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.logius.nl/languages/english/pkioverheid/"
@@ -4806,7 +4806,7 @@
     "S/MIME BR Audit Statement Date": "2026.03.25",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
-    "Policy Documentation": "Dutch Government Programme of Requirements (only applicable to level 3 SubCAs which issue end-user certificates):\nhttps://cp.pkioverheid.nl\n\nCPS applicable to Root CA and level 2 subCAs can be found on https://cps.pkioverheid.nl",
+    "Policy Documentation": "Dutch Government Programme of Requirements (only applicable to level 3 SubCAs which issue end-user certificates): https://cp.pkioverheid.nl  CPS applicable to Root CA and level 2 subCAs can be found on https://cps.pkioverheid.nl",
     "CA Document Repository": "https://cps.pkioverheid.nl/; https://cp.pkioverheid.nl",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -4997,7 +4997,7 @@
     "S/MIME BR Audit Statement Date": "2025.03.27",
     "S/MIME BR Audit Period Start Date": "2024.01.01",
     "S/MIME BR Audit Period End Date": "2024.12.31",
-    "Policy Documentation": "Dutch Government Programme of Requirements (only applicable to level 3 SubCAs which issue end-user certificates):\nhttps://cp.pkioverheid.nl\n\nCPS applicable to Root CA and level 2 subCAs can be found on https://cps.pkioverheid.nl",
+    "Policy Documentation": "Dutch Government Programme of Requirements (only applicable to level 3 SubCAs which issue end-user certificates): https://cp.pkioverheid.nl  CPS applicable to Root CA and level 2 subCAs can be found on https://cps.pkioverheid.nl",
     "CA Document Repository": "https://cps.pkioverheid.nl/; https://cp.pkioverheid.nl",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

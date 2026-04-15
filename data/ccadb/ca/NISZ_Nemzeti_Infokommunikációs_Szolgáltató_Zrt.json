@@ -29,8 +29,8 @@
     "TLS BR Audit Statement Date": "2021.09.14",
     "TLS BR Audit Period Start Date": "2020.06.16",
     "TLS BR Audit Period End Date": "2021.06.15",
-    "Policy Documentation": "https://hiteles.gov.hu/cikk/20/szabalyozasi_dokumentumok\n(here are the CP/CPS documents in Hungarian, all are up-to-date)",
-    "CA Document Repository": "http://hiteles.gov.hu/content/20/certificate_policies_and_other_public_documents\n(here are the CP/CPS documents in English; all are up-to-date)",
+    "Policy Documentation": "https://hiteles.gov.hu/cikk/20/szabalyozasi_dokumentumok (here are the CP/CPS documents in Hungarian, all are up-to-date)",
+    "CA Document Repository": "http://hiteles.gov.hu/content/20/certificate_policies_and_other_public_documents (here are the CP/CPS documents in English; all are up-to-date)",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://hiteles.gov.hu/letoltes/373/BR-WOT_v3.1_s.pdf"

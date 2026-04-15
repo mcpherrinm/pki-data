@@ -349,7 +349,7 @@
     "Parent Salesforce Record ID": "001o000000x4X3gAAE",
     "Parent Certificate Name": "AC Camerfirma - 2009",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "CONSEJO GENERAL DE COLEGIOS\r\nOFICIALES DE MEDICOS",
+    "Subordinate CA Owner": "CONSEJO GENERAL DE COLEGIOS  OFICIALES DE MEDICOS",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
@@ -1772,8 +1772,7 @@
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf",
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
     ],
     "CP Effective Date": "2025.05.29",
     "CPS Same as Parent": "false",
@@ -2461,8 +2460,7 @@
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf",
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
     ],
     "CP Effective Date": "2025.05.29",
     "CPS Same as Parent": "false",
@@ -2515,8 +2513,7 @@
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf",
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
     ],
     "CP Effective Date": "2025.05.29",
     "CPS Same as Parent": "false",

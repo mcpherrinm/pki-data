@@ -690,7 +690,7 @@
     "S/MIME BR Audit Statement Date": "2026.02.26",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
-    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "Policy Documentation": "CP applies to all CAs. Global CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs. CYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
@@ -735,7 +735,7 @@
     "Technically Constrained": "false",
     "Auditor": "KPMG",
     "Audits Same as Parent": "false",
-    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "Policy Documentation": "CP applies to all CAs. Global CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs. CYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -792,7 +792,7 @@
     "S/MIME BR Audit Statement Date": "2026.02.26",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
-    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "Policy Documentation": "CP applies to all CAs. Global CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs. CYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
@@ -1095,7 +1095,7 @@
     "S/MIME BR Audit Statement Date": "2026.02.26",
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
-    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "Policy Documentation": "CP applies to all CAs. Global CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs. CYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
@@ -1162,7 +1162,7 @@
     "S/MIME BR Audit Statement Date": "2025.02.26",
     "S/MIME BR Audit Period Start Date": "2024.01.01",
     "S/MIME BR Audit Period End Date": "2024.12.31",
-    "Policy Documentation": "CP applies to all CAs.\nGlobal CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.\nCYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
+    "Policy Documentation": "CP applies to all CAs. Global CA CPS (for Non-TLS Hierarchy) applies to Global Root CA G2  (Non-TLS Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs. CYBER CA CPS (for TLS-only Hierarchy) applies to CYBER Root CA (TLS-only Hierarchy), Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and TLS subordinate CAs.",
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
