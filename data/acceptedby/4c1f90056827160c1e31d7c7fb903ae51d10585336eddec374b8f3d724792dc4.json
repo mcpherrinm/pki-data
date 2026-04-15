@@ -1,0 +1,11 @@
+{
+  "logs": [
+    "ct.googleapis.com/logs/eu1/solera2026h1",
+    "ct.googleapis.com/logs/eu1/solera2026h2",
+    "ct.googleapis.com/logs/eu1/solera2027h1",
+    "log.twig.ct.letsencrypt.org/2026h1",
+    "log.twig.ct.letsencrypt.org/2026h2",
+    "log.twig.ct.letsencrypt.org/2027h1",
+    "log.twig.ct.letsencrypt.org/2027h2"
+  ]
+}
