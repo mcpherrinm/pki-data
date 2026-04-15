@@ -260,11 +260,23 @@ def main():
 
     save_json(google_list, "data/google/all_log_list.json", "Google CT Log List")
 
-    # Fetch CCADB All Certificate Records CSV and convert to JSON
-    ccadb_csv_url = (
-        "https://ccadb.my.salesforce-sites.com/ccadb/AllCertificateRecordsCSVFormatv3"
+    # Fetch CCADB All Certificate Records CSV and convert to JSON.
+    # As a temporary measure, CCADB has split this into two files.
+    ccadb_csv_url_a = (
+        "https://ccadb.my.salesforce-sites.com/ccadb/AllCertificateRecordsCSVFormatV4a"
     )
-    ccadb_csv_data = fetch_csv_data(ccadb_csv_url)
+    ccadb_csv_url_b = (
+        "https://ccadb.my.salesforce-sites.com/ccadb/AllCertificateRecordsCSVFormatV4b"
+    )
+    ccadb_csv_data_a = fetch_csv_data(ccadb_csv_url_a)
+    ccadb_csv_data_b = fetch_csv_data(ccadb_csv_url_b)
+
+    # Drop the header from the second file before concatenating.
+    _, _, ccadb_csv_data_b_body = ccadb_csv_data_b.partition("\n")
+    ccadb_csv_data = ccadb_csv_data_a
+    if not ccadb_csv_data.endswith("\n"):
+        ccadb_csv_data += "\n"
+    ccadb_csv_data += ccadb_csv_data_b_body
 
     # Convert CCADB CSV to JSON
     convert_ccadb_csv_to_json(ccadb_csv_data)
