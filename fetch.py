@@ -253,7 +253,7 @@ def der_to_pem(der):
     return "-----BEGIN CERTIFICATE-----\n" + "\n".join(lines) + "\n-----END CERTIFICATE-----\n"
 
 
-def fetch_roots_for_log(log, seen_log_ids):
+def fetch_roots_for_log(log, seen_log_ids, accepted_by):
     """Fetch get-roots for a single log and write roots.json + PEM files."""
     log_id = log.get("log_id")
     if log_id and log_id in seen_log_ids:
@@ -304,16 +304,35 @@ def fetch_roots_for_log(log, seen_log_ids):
     out_path = os.path.join(out_dir, "roots.json")
     save_json({"fingerprints": fingerprints}, out_path, f"roots for {description}")
 
+    log_identifier = "/".join([parsed.netloc, *path_parts])
+    for fp in fingerprints:
+        accepted_by[fp].add(log_identifier)
+
 
 def fetch_all_roots(*log_lists):
     """Fetch roots for every active log across the provided log lists."""
     seen = set()
+    accepted_by = defaultdict(set)
     for source in log_lists:
         for op in source.get("operators", []):
             for log in op.get("logs", []):
-                fetch_roots_for_log(log, seen)
+                fetch_roots_for_log(log, seen, accepted_by)
             for log in op.get("tiled_logs", []):
-                fetch_roots_for_log(log, seen)
+                fetch_roots_for_log(log, seen, accepted_by)
+    write_accepted_by(accepted_by)
+
+
+def write_accepted_by(accepted_by):
+    """Write the reverse mapping: for each root, which logs accept it."""
+    out_dir = "data/acceptedby"
+    os.makedirs(out_dir, exist_ok=True)
+    desired = {f"{fp}.json" for fp in accepted_by}
+    for existing in os.listdir(out_dir):
+        if existing.endswith(".json") and existing not in desired:
+            os.remove(os.path.join(out_dir, existing))
+    for fp, logs in accepted_by.items():
+        path = os.path.join(out_dir, f"{fp}.json")
+        save_json({"logs": sorted(logs)}, path, f"accepted-by for {fp}")
 
 
 def main():
