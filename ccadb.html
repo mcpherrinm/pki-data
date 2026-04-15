@@ -161,7 +161,9 @@
 
     <script>
       let ccadbData = null;
+      let caByOwner = new Map();
       let currentCA = null;
+      let currentRecords = null;
       let currentRecord = null;
 
       // Load CCADB data
@@ -172,10 +174,49 @@
             throw new Error("Failed to load CCADB data");
           }
           ccadbData = await response.json();
-          showCAOwners();
+          ccadbData.ca_owners.forEach((ca) => caByOwner.set(ca.ca_owner, ca));
+          await routeFromURL(false);
         } catch (error) {
           showError("Error loading CCADB data: " + error.message);
         }
+      }
+
+      // Parse URL and render the matching view. If `push` is true, this is a
+      // direct navigation we should reflect by replacing the history entry.
+      async function routeFromURL(push) {
+        const params = new URLSearchParams(window.location.search);
+        const ownerName = params.get("owner");
+        const sha256 = params.get("sha256");
+
+        if (!ownerName) {
+          showCAOwners(false);
+          return;
+        }
+        const ca = caByOwner.get(ownerName);
+        if (!ca) {
+          showCAOwners(false);
+          return;
+        }
+        if (currentCA !== ca || !currentRecords) {
+          await showCARecords(ca, false);
+        } else {
+          // Already loaded; just ensure the records view is visible.
+          document.getElementById("ca-owners-view").classList.add("hidden");
+          document.getElementById("record-details-view").classList.add("hidden");
+          document.getElementById("ca-records-view").classList.remove("hidden");
+        }
+        if (sha256 && currentRecords) {
+          const record = currentRecords.find(
+            (r) => (r["SHA-256 Fingerprint"] || "").toUpperCase() === sha256.toUpperCase(),
+          );
+          if (record) showRecordDetails(record, false);
+        }
+      }
+
+      function updateURL(params) {
+        const qs = params.toString();
+        const url = qs ? `?${qs}` : window.location.pathname;
+        history.pushState(null, "", url);
       }
 
       // Show error message
@@ -186,11 +227,15 @@
       }
 
       // Show CA owners view
-      function showCAOwners() {
+      function showCAOwners(push = true) {
         document.getElementById("loading").classList.add("hidden");
         document.getElementById("ca-records-view").classList.add("hidden");
         document.getElementById("record-details-view").classList.add("hidden");
         document.getElementById("ca-owners-view").classList.remove("hidden");
+        if (push) updateURL(new URLSearchParams());
+        currentCA = null;
+        currentRecords = null;
+        currentRecord = null;
 
         const tbody = document.getElementById("ca-owners-tbody");
         tbody.innerHTML = "";
@@ -216,14 +261,16 @@
       }
 
       // Show CA records view
-      async function showCARecords(ca) {
+      async function showCARecords(ca, push = true) {
         currentCA = ca;
+        currentRecord = null;
         document.getElementById("ca-owners-view").classList.add("hidden");
         document.getElementById("record-details-view").classList.add("hidden");
         document.getElementById("ca-records-view").classList.remove("hidden");
 
         document.getElementById("ca-records-title").textContent =
           `Records for ${ca.ca_owner}`;
+        if (push) updateURL(new URLSearchParams({ owner: ca.ca_owner }));
 
         try {
           const response = await fetch(`data/ccadb/ca/${ca.output_filename}`);
@@ -231,6 +278,7 @@
             throw new Error("Failed to load CA records");
           }
           const records = await response.json();
+          currentRecords = records;
 
           const tbody = document.getElementById("ca-records-tbody");
           tbody.innerHTML = "";
@@ -257,7 +305,7 @@
       }
 
       // Show record details view
-      function showRecordDetails(record) {
+      function showRecordDetails(record, push = true) {
         currentRecord = record;
         document.getElementById("ca-records-view").classList.add("hidden");
         document
@@ -266,6 +314,13 @@
 
         document.getElementById("record-details-title").textContent =
           `Details for ${record["Certificate Name"] || "Unknown Certificate"}`;
+
+        if (push && currentCA) {
+          const params = new URLSearchParams({ owner: currentCA.ca_owner });
+          const sha = record["SHA-256 Fingerprint"];
+          if (sha) params.set("sha256", sha);
+          updateURL(params);
+        }
 
         const content = document.getElementById("record-details-content");
         content.innerHTML = "";
@@ -300,9 +355,13 @@
       }
 
       // Event listeners
-      document.getElementById("back-to-owners").onclick = showCAOwners;
+      document.getElementById("back-to-owners").onclick = () => showCAOwners();
       document.getElementById("back-to-records").onclick = () =>
         showCARecords(currentCA);
+
+      window.addEventListener("popstate", () => {
+        if (ccadbData) routeFromURL(false);
+      });
 
       // Load data when page loads
       document.addEventListener("DOMContentLoaded", loadCCADBData);
