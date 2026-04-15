@@ -1,0 +1,17 @@
+{
+  "logs": [
+    "arche2026h1.staging.ct.transparency.dev",
+    "ct.cloudflare.com/logs/nimbus2026",
+    "ct.cloudflare.com/logs/nimbus2027",
+    "ct.googleapis.com/logs/eu1/xenon2026h1",
+    "ct.googleapis.com/logs/eu1/xenon2026h2",
+    "ct.googleapis.com/logs/eu1/xenon2027h1",
+    "ct.googleapis.com/logs/us1/argon2026h1",
+    "ct.googleapis.com/logs/us1/argon2026h2",
+    "ct.googleapis.com/logs/us1/argon2027h1",
+    "ct2026-a.trustasia.com/log2026a",
+    "ct2026-b.trustasia.com/log2026b",
+    "hetu2027.trustasia.com/hetu2027",
+    "luoshu2027.trustasia.com/luoshu2027"
+  ]
+}
