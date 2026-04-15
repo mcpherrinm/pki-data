@@ -121,6 +121,7 @@
     "TLS BR Audit Statement Date": "2017.12.19",
     "TLS BR Audit Period Start Date": "2016.12.19",
     "TLS BR Audit Period End Date": "2017.12.19",
+    "CA Document Repository": "https://kamusm.bilgem.tubitak.gov.tr/depo/ilke_ve_uygulama_esaslari/guncel_ilke_ve_uygulama_esaslari.jsp",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://www.kamusm.gov.tr/BilgiDeposu/KSM_NES_SI/KSM_NES_SI.pdf"
@@ -267,6 +268,7 @@
     "TLS BR Audit Statement Date": "2025.12.11",
     "TLS BR Audit Period Start Date": "2024.09.20",
     "TLS BR Audit Period End Date": "2025.09.19",
+    "CA Document Repository": "https://kamusm.bilgem.tubitak.gov.tr/depo/ilke_ve_uygulama_esaslari/guncel_ilke_ve_uygulama_esaslari.jsp",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -307,14 +309,14 @@
     "TLS BR Audit Statement Date": "2025.12.11",
     "TLS BR Audit Period Start Date": "2024.09.20",
     "TLS BR Audit Period End Date": "2025.09.19",
-    "CA Document Repository": "http://kamusm.gov.tr/depo/ilke_ve_uygulama_esaslari/guncel_ilke_ve_uygulama_esaslari.jsp",
+    "CA Document Repository": "https://kamusm.bilgem.tubitak.gov.tr/depo/ilke_ve_uygulama_esaslari/guncel_ilke_ve_uygulama_esaslari.jsp",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "http://depo.kamusm.gov.tr/ilke/KamuSM_CPS/KamuSM_CP_CPS_EN_3.10.1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl.kamusm.gov.tr/",
     "Test Website URL - Expired": "https://testsslexpired.kamusm.gov.tr/",

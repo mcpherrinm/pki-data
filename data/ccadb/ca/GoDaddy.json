@@ -22,6 +22,7 @@
     "Standard Audit Statement Date": "2014.08.14",
     "Standard Audit Period Start Date": "2014.08.14",
     "Standard Audit Period End Date": "2014.08.14",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -147,7 +148,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfi.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
@@ -1356,7 +1357,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certainly.com/repository/CertainlyCP-CPS.pdf"
     ],
-    "CPS Last Updated Date": "2022.05.01",
+    "CPS Effective Date": "2022.05.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1404,7 +1405,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certainly.com/repository/CertainlyCP-CPS.pdf"
     ],
-    "CPS Last Updated Date": "2022.05.01",
+    "CPS Effective Date": "2022.05.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1471,7 +1472,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Effective Date": "2025.11.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1537,7 +1538,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.21",
+    "CP/CPS Effective Date": "2025.11.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -1737,7 +1738,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfi.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
@@ -1803,7 +1804,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "Test Website URL - Valid": "https://valid.gdi.catest.godaddy.com/",
     "Test Website URL - Expired": "https://expired.gdi.catest.godaddy.com/",
     "Test Website URL - Revoked": "https://revoked.gdi.catest.godaddy.com/",
@@ -1969,7 +1970,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "Test Website URL - Valid": "https://valid.sfig2.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfig2.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfig2.catest.starfieldtech.com/",
@@ -2034,7 +2035,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "Test Website URL - Valid": "https://valid.gdig2.catest.godaddy.com/",
     "Test Website URL - Expired": "https://expired.gdig2.catest.godaddy.com/",
     "Test Website URL - Revoked": "https://revoked.gdig2.catest.godaddy.com/",
@@ -2154,6 +2155,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2025.01.01",
     "TLS EVG Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2161,7 +2163,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2310,6 +2312,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2025.01.01",
     "TLS EVG Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2317,7 +2320,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2375,6 +2378,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://certificates.godaddy.com/repository/gd_vmark_root_ca-vmcr1.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2382,7 +2386,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2529,6 +2533,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2025.01.01",
     "TLS EVG Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2536,7 +2541,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2614,6 +2619,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2025.01.01",
     "TLS EVG Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2621,7 +2627,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2667,6 +2673,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2025.01.01",
     "TLS EVG Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2674,7 +2681,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2720,6 +2727,7 @@
     "TLS EVG Audit Statement Date": "2026.02.24",
     "TLS EVG Audit Period Start Date": "2025.01.01",
     "TLS EVG Audit Period End Date": "2025.12.31",
+    "CA Document Repository": "https://certs.godaddy.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2727,7 +2735,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

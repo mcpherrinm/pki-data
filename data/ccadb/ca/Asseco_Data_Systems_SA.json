@@ -423,12 +423,12 @@
     "Certificate Policy (CP) URL": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
     ],
-    "CP Last Updated Date": "2022.09.14",
+    "CP Effective Date": "2022.09.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
     ],
-    "CPS Last Updated Date": "2022.09.14",
+    "CPS Effective Date": "2022.09.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -487,12 +487,12 @@
     "Certificate Policy (CP) URL": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
     ],
-    "CP Last Updated Date": "2022.09.14",
+    "CP Effective Date": "2022.09.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS-v1.16.pdf"
     ],
-    "CPS Last Updated Date": "2022.09.14",
+    "CPS Effective Date": "2022.09.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1392,12 +1392,12 @@
     "Certificate Policy (CP) URL": [
       "https://assets-cdn.sheca.com/documents/UniTrust%20Certificate%20Policy%20v1.5.1%EF%BC%88EN%20)%20%20.pdf"
     ],
-    "CP Last Updated Date": "2023.04.18",
+    "CP Effective Date": "2023.04.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://assets-cdn.sheca.com/documents/UniTrust%20Certification%20Practice%20Statement%20v3.7.3%EF%BC%88EN%EF%BC%89.pdf"
     ],
-    "CPS Last Updated Date": "2023.04.18",
+    "CPS Effective Date": "2023.04.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3851,13 +3851,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2025/11/Certification-Policy-of-Certum-Certification-Services_v5.2.pdf"
     ],
-    "CP Last Updated Date": "2025.12.01",
+    "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
-    "CPS Last Updated Date": "2026.04.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4292,7 +4292,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -4362,7 +4362,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -4420,12 +4420,12 @@
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -4483,12 +4483,12 @@
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -4677,13 +4677,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2025/11/Certification-Policy-of-Certum-Certification-Services_v5.2.pdf"
     ],
-    "CP Last Updated Date": "2025.12.01",
+    "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
-    "CPS Last Updated Date": "2026.04.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid-certum-ctnca.certificates.certum.pl",
@@ -6620,13 +6620,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2025/11/Certification-Policy-of-Certum-Certification-Services_v5.2.pdf"
     ],
-    "CP Last Updated Date": "2025.12.01",
+    "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
-    "CPS Last Updated Date": "2026.04.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid-ctrca.certificates.certum.pl/",
@@ -6690,13 +6690,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2025/11/Certification-Policy-of-Certum-Certification-Services_v5.2.pdf"
     ],
-    "CP Last Updated Date": "2025.12.01",
+    "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
-    "CPS Last Updated Date": "2026.04.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid-cec384ca.certificates.certum.pl",
@@ -6754,17 +6754,18 @@
     "S/MIME BR Audit Statement Date": "2025.04.04",
     "S/MIME BR Audit Period Start Date": "2024.02.11",
     "S/MIME BR Audit Period End Date": "2025.02.10",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2025/11/Certification-Policy-of-Certum-Certification-Services_v5.2.pdf"
     ],
-    "CP Last Updated Date": "2025.12.01",
+    "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
-    "CPS Last Updated Date": "2026.04.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -6854,13 +6855,13 @@
     "Certificate Policy (CP) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2025/11/Certification-Policy-of-Certum-Certification-Services_v5.2.pdf"
     ],
-    "CP Last Updated Date": "2025.12.01",
+    "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
-    "CPS Last Updated Date": "2026.04.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid-certum-ctnca2.certificates.certum.pl",
@@ -6893,6 +6894,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumsmimersarootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -6922,6 +6924,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumsmimeeccrootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -6951,6 +6954,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumtlseccrootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -6980,6 +6984,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumcodesigningrsarootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -7009,6 +7014,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumdocumentsigningeccrootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -7038,6 +7044,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumcodesigningeccrootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -7067,6 +7074,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumtlsrsarootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -7096,6 +7104,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://crl.certum.pl/certumdocumentsigningrsarootca.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.certum.pl/pl/cert_wiedza_repozytorium_pl_en/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

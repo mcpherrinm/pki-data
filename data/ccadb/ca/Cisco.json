@@ -28,12 +28,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.cisco.com/security/pki/policies/CiscoRootCA2048-CP.pdf"
     ],
-    "CP Last Updated Date": "2020.05.20",
+    "CP Effective Date": "2020.05.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.cisco.com/security/pki/policies/CiscoRootCA2048-CPS.pdf"
     ],
-    "CPS Last Updated Date": "2020.05.20",
+    "CPS Effective Date": "2020.05.20",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -76,12 +76,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.cisco.com/security/pki/policies/CiscoRXC-CP.pdf"
     ],
-    "CP Last Updated Date": "2020.05.20",
+    "CP Effective Date": "2020.05.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.cisco.com/security/pki/policies/CiscoRXCR2-CPS.pdf"
     ],
-    "CPS Last Updated Date": "2020.08.24",
+    "CPS Effective Date": "2020.08.24",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://gxssl.cisco.com",
@@ -132,12 +132,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.cisco.com/security/pki/policies/CiscoRXC-CP.pdf"
     ],
-    "CP Last Updated Date": "2019.04.10",
+    "CP Effective Date": "2019.04.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.cisco.com/security/pki/policies/CiscoXSSLCA-CPS.pdf"
     ],
-    "CPS Last Updated Date": "2019.04.10",
+    "CPS Effective Date": "2019.04.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

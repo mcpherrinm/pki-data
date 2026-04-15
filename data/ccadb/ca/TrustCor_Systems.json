@@ -917,6 +917,7 @@
     "Subject Key Identifier": "RJ5I9cxtSNSgS3/+WSQvg5eZmoY=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -946,6 +947,7 @@
     "Subject Key Identifier": "7mtJPHo/DeOxCbeKyKsZn3MzUOc=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -975,6 +977,7 @@
     "Subject Key Identifier": "7mtJPHo/DeOxCbeKyKsZn3MzUOc=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1025,13 +1028,13 @@
     "Certificate Policy (CP) URL": [
       "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf"
     ],
-    "CP Last Updated Date": "2022.06.29",
+    "CP Effective Date": "2022.06.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
       "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf"
     ],
-    "CPS Last Updated Date": "2022.06.29",
+    "CPS Effective Date": "2022.06.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.epki.external.trustcor.ca/",
@@ -1066,6 +1069,7 @@
     "Standard Audit Statement Date": "2015.12.30",
     "Standard Audit Period Start Date": "2015.12.30",
     "Standard Audit Period End Date": "2015.12.30",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1116,13 +1120,13 @@
     "Certificate Policy (CP) URL": [
       "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf"
     ],
-    "CP Last Updated Date": "2022.06.29",
+    "CP Effective Date": "2022.06.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
       "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf"
     ],
-    "CPS Last Updated Date": "2022.06.29",
+    "CPS Effective Date": "2022.06.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://catest1.trustcor.ca/",
@@ -1153,6 +1157,7 @@
     "Subject Key Identifier": "7mtJPHo/DeOxCbeKyKsZn3MzUOc=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1234,13 +1239,13 @@
     "Certificate Policy (CP) URL": [
       "https://trustcor.com/resources/repo/TrustCorCA-CP-1.9.0.pdf"
     ],
-    "CP Last Updated Date": "2022.06.29",
+    "CP Effective Date": "2022.06.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.8.0.pdf",
       "https://trustcor.com/resources/repo/TrustCorCA-CPS-1.9.0.pdf"
     ],
-    "CPS Last Updated Date": "2022.06.29",
+    "CPS Effective Date": "2022.06.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://catest2.trustcor.ca/",
@@ -1271,6 +1276,7 @@
     "Subject Key Identifier": "2f4hQG6UnrybPZx9mCAZ5YwwYrI=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1300,6 +1306,7 @@
     "Subject Key Identifier": "2f4hQG6UnrybPZx9mCAZ5YwwYrI=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.trustcor.com/resources/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

@@ -17,6 +17,8 @@
     "Subject Key Identifier": "HixL+exmph6SX4d5A+3VwpW3lYM=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "https://www.idmanagement.gov/fpki/",
+    "CA Document Repository": "https://www.idmanagement.gov/fpki/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -425,12 +427,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/fpki-x509-cert-common-policy.pdf"
     ],
-    "CP Last Updated Date": "2017.03.17",
+    "CP Effective Date": "2017.03.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://cp1.govt.com-strong-id.net/CPS/Verizon-Federal-SSP-CPS_v3.pdf"
     ],
-    "CPS Last Updated Date": "2017.03.17",
+    "CPS Effective Date": "2017.03.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -467,6 +469,8 @@
     "TLS BR Audit Statement Date": "2016.09.27",
     "TLS BR Audit Period Start Date": "2016.09.27",
     "TLS BR Audit Period End Date": "2016.09.27",
+    "Policy Documentation": "https://www.idmanagement.gov/fpki/",
+    "CA Document Repository": "https://www.idmanagement.gov/fpki/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -512,12 +516,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.idmanagement.gov/docs/fpki-x509-cert-policy-common.pdf"
     ],
-    "CP Last Updated Date": "2021.12.01",
+    "CP Effective Date": "2021.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.idmanagement.gov/docs/fpki-fpkima-cps.pdf"
     ],
-    "CPS Last Updated Date": "2021.06.28",
+    "CPS Effective Date": "2021.06.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://pki.treas.gov/",

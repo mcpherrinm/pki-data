@@ -1831,18 +1831,19 @@
     "TLS EVG Audit Statement Date": "2025.10.11",
     "TLS EVG Audit Period Start Date": "2024.08.01",
     "TLS EVG Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "Test Website URL - Valid": "https://ev-rsatls-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-rsatls-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-rsatls-revoked.trustasia.com",
@@ -1922,18 +1923,19 @@
     "S/MIME BR Audit Statement Date": "2025.10.11",
     "S/MIME BR Audit Period Start Date": "2024.08.01",
     "S/MIME BR Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2047,18 +2049,19 @@
     "TLS EVG Audit Statement Date": "2025.10.11",
     "TLS EVG Audit Period Start Date": "2024.08.01",
     "TLS EVG Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "Test Website URL - Valid": "https://ev-ecctls-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-ecctls-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-ecctls-revoked.trustasia.com",
@@ -2105,18 +2108,19 @@
     "S/MIME BR Audit Statement Date": "2025.10.11",
     "S/MIME BR Audit Period Start Date": "2024.08.01",
     "S/MIME BR Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2175,6 +2179,7 @@
     "S/MIME BR Audit Statement Date": "2024.10.14",
     "S/MIME BR Audit Period Start Date": "2023.08.01",
     "S/MIME BR Audit Period End Date": "2024.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2229,6 +2234,7 @@
     "TLS EVG Audit Statement Date": "2024.10.14",
     "TLS EVG Audit Period Start Date": "2023.08.01",
     "TLS EVG Audit Period End Date": "2024.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -2293,18 +2299,19 @@
     "S/MIME BR Audit Statement Date": "2025.10.11",
     "S/MIME BR Audit Period Start Date": "2024.08.01",
     "S/MIME BR Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "Test Website URL - Valid": "https://ev-eccg4-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-eccg4-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-eccg4-revoked.trustasia.com",
@@ -2367,18 +2374,19 @@
     "S/MIME BR Audit Statement Date": "2025.10.11",
     "S/MIME BR Audit Period Start Date": "2024.08.01",
     "S/MIME BR Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "Test Website URL - Valid": "https://ev-rsag3-valid.trustasia.com",
     "Test Website URL - Expired": "https://ev-rsag3-expired.trustasia.com",
     "Test Website URL - Revoked": "https://ev-rsag3-revoked.trustasia.com",
@@ -2425,18 +2433,19 @@
     "Code Signing Audit Statement Date": "2025.10.11",
     "Code Signing Audit Period Start Date": "2024.08.01",
     "Code Signing Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2478,18 +2487,19 @@
     "Code Signing Audit Statement Date": "2025.10.11",
     "Code Signing Audit Period Start Date": "2024.08.01",
     "Code Signing Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2531,18 +2541,19 @@
     "Code Signing Audit Statement Date": "2025.10.11",
     "Code Signing Audit Period Start Date": "2024.08.01",
     "Code Signing Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2584,18 +2595,19 @@
     "Code Signing Audit Statement Date": "2025.10.11",
     "Code Signing Audit Period Start Date": "2024.08.01",
     "Code Signing Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://repository.trustasia.com/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.03.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

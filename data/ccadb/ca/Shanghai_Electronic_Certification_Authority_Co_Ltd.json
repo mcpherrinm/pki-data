@@ -616,6 +616,8 @@
     "TLS BR Audit Statement Date": "2016.09.27",
     "TLS BR Audit Period Start Date": "2016.09.26",
     "TLS BR Audit Period End Date": "2016.09.27",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3012,6 +3014,8 @@
     "TLS BR Audit Statement Date": "2016.09.27",
     "TLS BR Audit Period Start Date": "2016.09.26",
     "TLS BR Audit Period End Date": "2016.09.27",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3099,6 +3103,7 @@
     "Code Signing Audit Statement Date": "2025.05.09",
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -3107,7 +3112,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://rsaevg3.good.sheca.com/",
     "Test Website URL - Expired": "https://rsaevg3.expired.sheca.com/",
     "Test Website URL - Revoked": "https://rsaevg3.revoked.sheca.com/",
@@ -3191,6 +3196,8 @@
     "TLS EVG Audit Statement Date": "2025.05.09",
     "TLS EVG Audit Period Start Date": "2024.04.01",
     "TLS EVG Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3198,7 +3205,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://rsaev1a.good.sheca.com",
     "Test Website URL - Expired": "https://rsaev1a.expired.sheca.com",
     "Test Website URL - Revoked": "https://rsaev1a.revoked.sheca.com",
@@ -3279,6 +3286,8 @@
     "TLS EVG Audit Statement Date": "2025.05.09",
     "TLS EVG Audit Period Start Date": "2024.04.01",
     "TLS EVG Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3286,7 +3295,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://eccev2a.good.sheca.com",
     "Test Website URL - Expired": "https://eccev2a.expired.sheca.com",
     "Test Website URL - Revoked": "https://eccev2a.revoked.sheca.com",
@@ -3331,6 +3340,8 @@
     "S/MIME BR Audit Statement Date": "2025.05.09",
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3338,7 +3349,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CPCPSSMIMEv1.0.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3411,6 +3422,8 @@
     "S/MIME BR Audit Statement Date": "2025.05.09",
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3418,7 +3431,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CPCPSSMIMEv1.0.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3601,6 +3614,7 @@
     "S/MIME BR Audit Statement Date": "2025.05.09",
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -3609,7 +3623,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
     "Test Website URL - Valid": "https://rsaovg5.good.sheca.com/",
     "Test Website URL - Expired": "https://rsaovg5.expired.sheca.com/",
     "Test Website URL - Revoked": "https://rsaovg5.revoked.sheca.com/",
@@ -3655,6 +3669,8 @@
     "Code Signing Audit Statement Date": "2025.05.09",
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3662,7 +3678,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3704,6 +3720,8 @@
     "Code Signing Audit Statement Date": "2025.05.09",
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3711,7 +3729,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3753,6 +3771,8 @@
     "Code Signing Audit Statement Date": "2025.05.09",
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3760,7 +3780,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3802,6 +3822,8 @@
     "Code Signing Audit Statement Date": "2025.05.09",
     "Code Signing Audit Period Start Date": "2024.04.01",
     "Code Signing Audit Period End Date": "2025.03.31",
+    "Policy Documentation": "CP/CPS",
+    "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -3809,7 +3831,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://assets-cdn.sheca.com/documents/CP-CPS-CodeSigning%20v1.0%202026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.01.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.13",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

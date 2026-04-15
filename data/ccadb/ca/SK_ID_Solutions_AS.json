@@ -27,6 +27,7 @@
     "TLS BR Audit Statement Date": "2015.10.30",
     "TLS BR Audit Period Start Date": "2015.10.30",
     "TLS BR Audit Period End Date": "2015.10.30",
+    "CA Document Repository": "https://www.skidsolutions.eu/en/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -483,12 +484,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.skidsolutions.eu/upload/files/SK-CP-TLS-EN-v7_0-20200410.pdf"
     ],
-    "CP Last Updated Date": "2020.04.10",
+    "CP Effective Date": "2020.04.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.skidsolutions.eu/upload/files/SK-CPS-KLASS3-EN-v9_0-20200410.pdf"
     ],
-    "CPS Last Updated Date": "2020.04.10",
+    "CPS Effective Date": "2020.04.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://sk.ee/en/repository/certs/",

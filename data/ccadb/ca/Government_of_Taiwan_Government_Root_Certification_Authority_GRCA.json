@@ -423,12 +423,12 @@
     "Certificate Policy (CP) URL": [
       "http://grca.nat.gov.tw/download/GPKI_CP_eng_v2.0.pdf"
     ],
-    "CP Last Updated Date": "2019.06.19",
+    "CP Effective Date": "2019.06.19",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://grca.nat.gov.tw/download/GRCA_CPS_eng_v2.0.pdf"
     ],
-    "CPS Last Updated Date": "2019.06.19",
+    "CPS Effective Date": "2019.06.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.gca.nat.gov.tw",
@@ -812,12 +812,12 @@
     "Certificate Policy (CP) URL": [
       "http://grca.nat.gov.tw/download/GPKI_CP_eng_v2.0.pdf"
     ],
-    "CP Last Updated Date": "2019.06.19",
+    "CP Effective Date": "2019.06.19",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://grca.nat.gov.tw/download/GRCA_CPS_eng_v2.0.pdf"
     ],
-    "CPS Last Updated Date": "2019.06.19",
+    "CPS Effective Date": "2019.06.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid2.gca.nat.gov.tw",

@@ -29,6 +29,7 @@
     "TLS BR Audit Statement Date": "2016.07.31",
     "TLS BR Audit Period Start Date": "2015.08.01",
     "TLS BR Audit Period End Date": "2016.07.31",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -281,14 +282,14 @@
       "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf",
       "https://www.cfca.com.cn/upload/resources/file/2025/11/03/2613.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.03",
+    "CP/CPS Effective Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.cfca.com.cn/upload/CFCA%20Global-Trust%20CPCPS-en-v4.11%20release.md",
       "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md",
       "https://www.cfca.com.cn/upload/resources/file/2025/11/28/2653.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.30",
     "Test Website URL - Valid": "https://www.anxinsign.com/Web/login",
     "Test Website URL - Expired": "https://exp.cebnet.com.cn/",
     "Test Website URL - Revoked": "https://rev.cebnet.com.cn/",
@@ -339,7 +340,7 @@
       "https://www.cfca.com.cn/upload/resources/file/2024/10/31/2050.pdf",
       "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Effective Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -367,13 +368,14 @@
     "Subject Key Identifier": "FLz9xX60WqJzKCpyVFQzda5AblY=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Effective Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -400,13 +402,14 @@
     "Subject Key Identifier": "VJ42Fh9/urZ4OrE04SGDcExV4bw=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Effective Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -433,13 +436,14 @@
     "Subject Key Identifier": "VJ42Fh9/urZ4OrE04SGDcExV4bw=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Effective Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -466,13 +470,14 @@
     "Subject Key Identifier": "FLz9xX60WqJzKCpyVFQzda5AblY=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2025/08/20/2446.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.07.21",
+    "CP/CPS Effective Date": "2025.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -520,20 +525,21 @@
     "TLS EVG Audit Statement Date": "2025.10.21",
     "TLS EVG Audit Period Start Date": "2024.08.01",
     "TLS EVG Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2025/11/03/2613.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.03",
+    "CP/CPS Effective Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.cfca.com.cn/upload/CFCA%20Global-Trust%20CPCPS-en-v4.11%20release.md",
       "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md",
       "https://www.cfca.com.cn/upload/resources/file/2025/11/28/2653.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -580,20 +586,21 @@
     "TLS EVG Audit Statement Date": "2025.10.21",
     "TLS EVG Audit Period Start Date": "2024.08.01",
     "TLS EVG Audit Period End Date": "2025.07.31",
+    "CA Document Repository": "https://www.cfca.com.cn/zhengshuzizhu/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cfca.com.cn/upload/resources/file/2025/11/03/2613.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.03",
+    "CP/CPS Effective Date": "2025.11.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.cfca.com.cn/upload/CFCA%20Global-Trust%20CPCPS-en-v4.11%20release.md",
       "https://www.cfca.com.cn/upload/cp-cps-en-4.10.md",
       "https://www.cfca.com.cn/upload/resources/file/2025/11/28/2653.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.30",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.30",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

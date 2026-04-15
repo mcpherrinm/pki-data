@@ -785,13 +785,14 @@
     "TLS EVG Audit Statement Date": "2026.03.11",
     "TLS EVG Audit Period Start Date": "2025.01.09",
     "TLS EVG Audit Period End Date": "2026.01.08",
+    "CA Document Repository": "https://www.itrus.com.cn/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.itrus.com.cn/upload/file/20260311/1773211207826059054.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.12",
+    "CP/CPS Effective Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://eccevtest.itrus.cn/",
     "Test Website URL - Expired": "https://expiredecc.itrus.cn/",
@@ -844,13 +845,14 @@
     "TLS EVG Audit Statement Date": "2026.03.11",
     "TLS EVG Audit Period Start Date": "2025.01.09",
     "TLS EVG Audit Period End Date": "2026.01.08",
+    "CA Document Repository": "https://www.itrus.com.cn/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.itrus.com.cn/upload/file/20260311/1773211207826059054.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.12",
+    "CP/CPS Effective Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://evtest.itrus.cn/",
     "Test Website URL - Expired": "https://expiredrsa.itrus.cn/",

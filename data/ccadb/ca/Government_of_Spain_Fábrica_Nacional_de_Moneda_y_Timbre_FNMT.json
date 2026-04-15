@@ -26,6 +26,8 @@
     "TLS BR Audit Statement Date": "2016.05.18",
     "TLS BR Audit Period Start Date": "2016.05.18",
     "TLS BR Audit Period End Date": "2016.05.18",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
+    "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -66,12 +68,12 @@
       "https://www.sede.fnmt.gob.es/documents/10445900/10536344/dpc_english.pdf",
       "https://www.sede.fnmt.gob.es/documents/10445900/10745629/DPC_Sedes_english.pdf"
     ],
-    "CP Last Updated Date": "2020.02.06",
+    "CP Effective Date": "2020.02.06",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2020.02.06",
+    "CPS Effective Date": "2020.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -179,12 +181,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_personasfisicas_english.pdf"
     ],
-    "CP Last Updated Date": "2020.02.06",
+    "CP Effective Date": "2020.02.06",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2020.02.06",
+    "CPS Effective Date": "2020.02.06",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -350,7 +352,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
     ],
-    "CP Last Updated Date": "2026.03.12",
+    "CP Effective Date": "2026.03.12",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -394,7 +396,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_componentes_english.pdf"
     ],
-    "CP Last Updated Date": "2026.03.12",
+    "CP Effective Date": "2026.03.12",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -435,7 +437,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_personasfisicas_english.pdf"
     ],
-    "CP Last Updated Date": "2025.11.11",
+    "CP Effective Date": "2025.11.11",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -475,7 +477,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_sector_publico_english.pdf"
     ],
-    "CP Last Updated Date": "2026.01.19",
+    "CP Effective Date": "2026.01.19",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -515,7 +517,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_unidades_sellado_tiempo_english.pdf"
     ],
-    "CP Last Updated Date": "2025.10.07",
+    "CP Effective Date": "2025.10.07",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -557,7 +559,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.12",
+    "CP/CPS Effective Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -597,7 +599,7 @@
     "Certificate Policy (CP) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_representacion_english.pdf"
     ],
-    "CP Last Updated Date": "2026.01.19",
+    "CP Effective Date": "2026.01.19",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -641,12 +643,14 @@
     "S/MIME BR Audit Statement Date": "2026.04.01",
     "S/MIME BR Audit Period Start Date": "2025.01.13",
     "S/MIME BR Audit Period End Date": "2026.01.12",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
+    "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2026.01.29",
+    "CPS Effective Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -691,12 +695,14 @@
     "S/MIME BR Audit Statement Date": "2026.04.01",
     "S/MIME BR Audit Period Start Date": "2025.01.13",
     "S/MIME BR Audit Period End Date": "2026.01.12",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
+    "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2026.01.29",
+    "CPS Effective Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -740,14 +746,14 @@
     "S/MIME BR Audit Statement Date": "2026.04.01",
     "S/MIME BR Audit Period Start Date": "2025.01.13",
     "S/MIME BR Audit Period End Date": "2026.01.12",
-    "Policy Documentation": "Each CA has its own specific CP",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2026.01.29",
+    "CPS Effective Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www.sede.fnmt.gob.es",
@@ -918,9 +924,7 @@
     "Authority Key Identifier": "I4JUVDBhTKBOgbmDiPLKBfYZuJs=",
     "Subject Key Identifier": "HkeI1jmrOM3WwbF7TDWR2hAOFqk=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crlsservseguros/CRLT2G2R.crl",
     "Auditor": "AENOR CONFIA, S.A. (Unipersonal)",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -964,13 +968,15 @@
     "TLS BR Audit Statement Date": "2026.04.01",
     "TLS BR Audit Period Start Date": "2025.01.13",
     "TLS BR Audit Period End Date": "2026.01.12",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
+    "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.12",
+    "CP/CPS Effective Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1013,7 +1019,7 @@
     "TLS EVG Audit Statement Date": "2026.04.01",
     "TLS EVG Audit Period Start Date": "2025.01.13",
     "TLS EVG Audit Period End Date": "2026.01.12",
-    "Policy Documentation": "Each CA has its own specific CP",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
     "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1021,7 +1027,7 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.12",
+    "CP/CPS Effective Date": "2026.03.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testactivetipo1.cert.fnmt.es/",
     "Test Website URL - Expired": "https://testexpiredtipo1.cert.fnmt.es/",
@@ -1060,12 +1066,14 @@
     "Standard Audit Statement Date": "2026.04.01",
     "Standard Audit Period Start Date": "2025.01.13",
     "Standard Audit Period End Date": "2026.01.12",
+    "Policy Documentation": "For root AC RAIZ FNMT-RCM and AC RAIZ FNMT-RCM G2 there is 1 General CPS and 1 Particular CPS for each subordinate AC\nFor root AC RAIZ FNMT-RCM SERVIDORES SEGUROS and AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R  there is just 1 CP/CPS",
+    "CA Document Repository": "https://www.sede.fnmt.gob.es/normativa/declaracion-de-practicas-de-certificacion",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dgpc_english.pdf"
     ],
-    "CPS Last Updated Date": "2026.01.29",
+    "CPS Effective Date": "2026.01.29",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

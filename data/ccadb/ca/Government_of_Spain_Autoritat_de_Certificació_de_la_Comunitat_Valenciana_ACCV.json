@@ -60,7 +60,8 @@
     "TLS BR Audit Statement Date": "2015.07.17",
     "TLS BR Audit Period Start Date": "2015.07.17",
     "TLS BR Audit Period End Date": "2015.07.17",
-    "Policy Documentation": "http://www.accv.es/webtrust",
+    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/; http://www.accv.es/webtrust",
+    "CA Document Repository": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://www.accv.es/quienes-somos/practicas-y-politicas-de-certificacion/politicas-de-certificacion/"
@@ -101,8 +102,8 @@
     "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
     "Full CRL Issued By This CA": "https://www.accv.es/fileadmin/Archivos/certificados/accvca110_der.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
@@ -345,7 +346,7 @@
     "TLS BR Audit Statement Date": "2025.07.24",
     "TLS BR Audit Period Start Date": "2024.05.01",
     "TLS BR Audit Period End Date": "2025.04.30",
-    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/",
+    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/; http://www.accv.es/webtrust",
     "CA Document Repository": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -353,12 +354,12 @@
     "Certificate Practice & Policy Statement": [
       "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.20-EN-2026.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.13",
+    "CP/CPS Effective Date": "2026.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.20-EN-2026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.13",
     "Test Website URL - Valid": "https://activo.accv.es/test/hola.html",
     "Test Website URL - Expired": "https://caducado.accv.es:444/test/hola.html",
     "Test Website URL - Revoked": "https://revocado.accv.es:442/test/hola.html",
@@ -656,18 +657,20 @@
     "NetSec Audit Statement Date": "2025.07.24",
     "NetSec Audit Period Start Date": "2024.05.01",
     "NetSec Audit Period End Date": "2025.04.30",
+    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/; http://www.accv.es/webtrust",
+    "CA Document Repository": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-06V9.0.4-EN-2026.pdf",
       "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-07V8.0.4-EN-2026.pdf",
       "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-13V6.0.4-EN-2026.pdf"
     ],
-    "CP Last Updated Date": "2026.02.04",
+    "CP Effective Date": "2026.02.04",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.accv.es/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-V5.0.4-EN-2026.pdf"
     ],
-    "CPS Last Updated Date": "2026.02.04",
+    "CPS Effective Date": "2026.02.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -707,18 +710,20 @@
     "NetSec Audit Statement Date": "2025.07.24",
     "NetSec Audit Period Start Date": "2024.05.01",
     "NetSec Audit Period End Date": "2025.04.30",
+    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/; http://www.accv.es/webtrust",
+    "CA Document Repository": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-06V9.0.4-EN-2026.pdf",
       "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-07V8.0.4-EN-2026.pdf",
       "https://www.accv.es/fileadmin/Archivos/Politicas_pdf/ACCV-CP-13V6.0.4-EN-2026.pdf"
     ],
-    "CP Last Updated Date": "2026.02.04",
+    "CP Effective Date": "2026.02.04",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.accv.es/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-V5.0.4-EN-2026.pdf"
     ],
-    "CPS Last Updated Date": "2026.02.04",
+    "CPS Effective Date": "2026.02.04",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -763,18 +768,20 @@
     "TLS BR Audit Statement Date": "2025.07.24",
     "TLS BR Audit Period Start Date": "2024.05.01",
     "TLS BR Audit Period End Date": "2025.04.30",
+    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/; http://www.accv.es/webtrust",
+    "CA Document Repository": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.20-EN-2026.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.13",
+    "CP/CPS Effective Date": "2026.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.20-EN-2026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.13",
     "Test Website URL - Valid": "https://activonjecc.accv.es/test/hola.html",
     "Test Website URL - Expired": "https://caducadonjecc.accv.es:444/test/hola.html",
     "Test Website URL - Revoked": "https://revocadonjecc.accv.es:442/test/hola.html",
@@ -820,18 +827,20 @@
     "TLS BR Audit Statement Date": "2025.07.24",
     "TLS BR Audit Period Start Date": "2024.05.01",
     "TLS BR Audit Period End Date": "2025.04.30",
+    "Policy Documentation": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/\r\nhttps://www.accv.es/quienes-somos/practicas-y-politicas/certification-practice-statement/; http://www.accv.es/webtrust",
+    "CA Document Repository": "https://www.accv.es/quienes-somos/practicas-y-politicas/certification-policy/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.20-EN-2026.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.13",
+    "CP/CPS Effective Date": "2026.03.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.accv.es/en/fileadmin/Archivos/Practicas_de_certificacion/ACCV-CPS-CP-V4.0.20-EN-2026.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.13",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.13",
     "Test Website URL - Valid": "https://activonjrsa.accv.es/test/hola.html",
     "Test Website URL - Expired": "https://caducadonjrsa.accv.es:444/test/hola.html",
     "Test Website URL - Revoked": "https://revocadonjrsa.accv.es:442/test/hola.html",

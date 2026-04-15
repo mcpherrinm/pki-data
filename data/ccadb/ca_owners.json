@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 9999,
+  "total_records": 10013,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -241,6 +241,20 @@
       "output_filename": "AUTORITE_NATIONALE_DE_CERTIFICATION_ELECTRONIQUE.json"
     },
     {
+      "ca_owner": "Balai Besar Sertifikasi Elektronik (BSrE)",
+      "record_count": 2,
+      "countries": [
+        "Indonesia"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
+      },
+      "output_filename": "Balai_Besar_Sertifikasi_Elektronik_BSrE.json"
+    },
+    {
       "ca_owner": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
       "record_count": 2,
       "countries": [
@@ -424,7 +438,7 @@
     },
     {
       "ca_owner": "certSIGN",
-      "record_count": 27,
+      "record_count": 30,
       "countries": [
         "Romania"
       ],
@@ -432,7 +446,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 0,
         "untrusted_roots": 1,
-        "intermediates": 24
+        "intermediates": 27
       },
       "output_filename": "certSIGN.json"
     },
@@ -872,7 +886,7 @@
     },
     {
       "ca_owner": "eMudhra Technologies Limited",
-      "record_count": 108,
+      "record_count": 115,
       "countries": [
         "India"
       ],
@@ -880,7 +894,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 4,
         "untrusted_roots": 10,
-        "intermediates": 92
+        "intermediates": 99
       },
       "output_filename": "eMudhra_Technologies_Limited.json"
     },
@@ -1219,20 +1233,6 @@
         "intermediates": 0
       },
       "output_filename": "Government_of_Portugal_Sistema_de_Certificação_Electrónica_do_Estado_SCEE__Electronic_Certification_System_of_the_State.json"
-    },
-    {
-      "ca_owner": "Government of Saudi Arabia, NIC (SDAIA)",
-      "record_count": 16,
-      "countries": [
-        "Saudi Arabia"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 0,
-        "intermediates": 15
-      },
-      "output_filename": "Government_of_Saudi_Arabia_NIC_SDAIA.json"
     },
     {
       "ca_owner": "Government of South Africa, Post Office Trust Centre",
@@ -2020,20 +2020,20 @@
     },
     {
       "ca_owner": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
-      "record_count": 2,
+      "record_count": 18,
       "countries": [
         "Saudi Arabia"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 0,
+        "partially_trusted_roots": 1,
         "untrusted_roots": 1,
-        "intermediates": 1
+        "intermediates": 16
       },
       "output_filename": "Saudi_Data_and_Artificial_Intelligence_Authority_SDAIA.json"
     },
     {
-      "ca_owner": "SECOM Trust Systems CO., LTD.",
+      "ca_owner": "SECOM Trust Systems Co., Ltd.",
       "record_count": 187,
       "countries": [
         "Japan"
@@ -2044,7 +2044,7 @@
         "untrusted_roots": 4,
         "intermediates": 175
       },
-      "output_filename": "SECOM_Trust_Systems_CO_LTD.json"
+      "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
     },
     {
       "ca_owner": "Sectigo",
@@ -2342,7 +2342,7 @@
     },
     {
       "ca_owner": "Thailand National Root Certificate Authority (Electronic Transactions Development Agency)",
-      "record_count": 8,
+      "record_count": 10,
       "countries": [
         "Thailand"
       ],
@@ -2350,7 +2350,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 1,
         "untrusted_roots": 2,
-        "intermediates": 5
+        "intermediates": 7
       },
       "output_filename": "Thailand_National_Root_Certificate_Authority_Electronic_Transactions_Development_Agency.json"
     },

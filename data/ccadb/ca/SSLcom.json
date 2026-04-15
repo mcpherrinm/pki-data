@@ -4186,7 +4186,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4246,7 +4246,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -4306,7 +4306,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4366,7 +4366,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4436,7 +4436,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4506,7 +4506,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4576,7 +4576,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4646,7 +4646,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -4772,14 +4772,15 @@
     "S/MIME BR Audit Statement Date": "2025.11.21",
     "S/MIME BR Audit Period Start Date": "2024.09.01",
     "S/MIME BR Audit Period End Date": "2025.08.31",
-    "CA Document Repository": "https://certs.securetrust.com/CA/",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-sgca.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-sgca-rsa.sslsecuretrust.com",
@@ -4904,14 +4905,15 @@
     "S/MIME BR Audit Statement Date": "2025.11.21",
     "S/MIME BR Audit Period Start Date": "2024.09.01",
     "S/MIME BR Audit Period End Date": "2025.08.31",
-    "CA Document Repository": "https://certs.securetrust.com/CA/",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-stca-rsa.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-stca-rsa.sslsecuretrust.com",
@@ -8891,7 +8893,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -8956,7 +8958,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -9021,7 +9023,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -9081,7 +9083,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -9141,7 +9143,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -9206,7 +9208,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -9296,14 +9298,15 @@
     "S/MIME BR Audit Statement Date": "2025.11.21",
     "S/MIME BR Audit Period Start Date": "2024.09.01",
     "S/MIME BR Audit Period End Date": "2025.08.31",
-    "CA Document Repository": "https://certs.securetrust.com/CA/",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-xgca.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-xgca-rsa.sslsecuretrust.com",
@@ -11456,7 +11459,7 @@
     "Code Signing Audit Statement Date": "2025.09.22",
     "Code Signing Audit Period Start Date": "2024.07.01",
     "Code Signing Audit Period End Date": "2025.06.30",
-    "Policy Documentation": "All documents in English.",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -11464,7 +11467,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-ecc.ssl.com/",
     "Test Website URL - Expired": "https://expired-ecc-ev.ssl.com",
@@ -11528,7 +11531,7 @@
     "S/MIME BR Audit Statement Date": "2025.09.22",
     "S/MIME BR Audit Period Start Date": "2024.07.01",
     "S/MIME BR Audit Period End Date": "2025.06.30",
-    "Policy Documentation": "All documents in English.",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -11536,7 +11539,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-dv-ecc.ssl.com",
     "Test Website URL - Expired": "https://expired-ecc-dv.ssl.com",
@@ -11583,7 +11586,7 @@
     "TLS EVG Audit Statement Date": "2017.01.20",
     "TLS EVG Audit Period Start Date": "2016.09.20",
     "TLS EVG Audit Period End Date": "2016.11.20",
-    "Policy Documentation": "All documents are in English.",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -11646,7 +11649,7 @@
     "S/MIME BR Audit Statement Date": "2025.09.22",
     "S/MIME BR Audit Period Start Date": "2024.07.01",
     "S/MIME BR Audit Period End Date": "2025.06.30",
-    "Policy Documentation": "All documents in English.",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -11654,7 +11657,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-dv-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-rsa-dv.ssl.com",
@@ -11811,7 +11814,7 @@
     "Code Signing Audit Statement Date": "2025.09.22",
     "Code Signing Audit Period Start Date": "2024.07.01",
     "Code Signing Audit Period End Date": "2025.06.30",
-    "Policy Documentation": "All documents in English.",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
     "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -11819,7 +11822,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-rsa-ev.ssl.com",
@@ -11884,7 +11887,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -12104,7 +12107,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -12164,7 +12167,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -12254,14 +12257,15 @@
     "S/MIME BR Audit Statement Date": "2025.11.21",
     "S/MIME BR Audit Period Start Date": "2024.09.01",
     "S/MIME BR Audit Period End Date": "2025.08.31",
-    "CA Document Repository": "https://certs.securetrust.com/CA/",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-twgca-ecc-p384.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-twgca-ecc-p384.sslsecuretrust.com",
@@ -12324,14 +12328,15 @@
     "S/MIME BR Audit Statement Date": "2025.11.21",
     "S/MIME BR Audit Period Start Date": "2024.09.01",
     "S/MIME BR Audit Period End Date": "2025.08.31",
-    "CA Document Repository": "https://certs.securetrust.com/CA/",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-twgca-ecc-p256.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-twgca-ecc-p256.sslsecuretrust.com",
@@ -12394,14 +12399,15 @@
     "S/MIME BR Audit Statement Date": "2025.11.21",
     "S/MIME BR Audit Period Start Date": "2024.09.01",
     "S/MIME BR Audit Period End Date": "2025.08.31",
-    "CA Document Repository": "https://certs.securetrust.com/CA/",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-twgca-rsa.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-twgca-rsa.sslsecuretrust.com",
@@ -12455,13 +12461,15 @@
     "S/MIME BR Audit Statement Date": "2025.09.22",
     "S/MIME BR Audit Period Start Date": "2024.07.01",
     "S/MIME BR Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12506,13 +12514,15 @@
     "Code Signing Audit Statement Date": "2025.09.22",
     "Code Signing Audit Period Start Date": "2024.07.01",
     "Code Signing Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12551,13 +12561,15 @@
     "NetSec Audit Statement Date": "2025.09.22",
     "NetSec Audit Period Start Date": "2024.07.01",
     "NetSec Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12606,13 +12618,15 @@
     "TLS EVG Audit Statement Date": "2025.09.22",
     "TLS EVG Audit Period Start Date": "2024.07.01",
     "TLS EVG Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-root-2022-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-root-2022-rsa.ssl.com",
@@ -12666,13 +12680,15 @@
     "S/MIME BR Audit Statement Date": "2025.09.22",
     "S/MIME BR Audit Period Start Date": "2024.07.01",
     "S/MIME BR Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12722,13 +12738,15 @@
     "TLS EVG Audit Statement Date": "2025.09.22",
     "TLS EVG Audit Period Start Date": "2024.07.01",
     "TLS EVG Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-root-2022-ecc.ssl.com",
     "Test Website URL - Expired": "https://expired-root-2022-ecc.ssl.com",
@@ -12777,13 +12795,15 @@
     "Code Signing Audit Statement Date": "2025.09.22",
     "Code Signing Audit Period Start Date": "2024.07.01",
     "Code Signing Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12822,13 +12842,15 @@
     "NetSec Audit Statement Date": "2025.09.22",
     "NetSec Audit Period Start Date": "2024.07.01",
     "NetSec Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12872,13 +12894,15 @@
     "VMC Audit Statement Date": "2025.09.22",
     "VMC Audit Period Start Date": "2024.07.01",
     "VMC Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12922,13 +12946,15 @@
     "VMC Audit Statement Date": "2025.09.22",
     "VMC Audit Period Start Date": "2024.07.01",
     "VMC Audit Period End Date": "2025.06.30",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2026.03.05",
+    "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12976,13 +13002,15 @@
     "TLS EVG Audit Statement Date": "2024.11.22",
     "TLS EVG Audit Period Start Date": "2023.09.01",
     "TLS EVG Audit Period End Date": "2024.08.31",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vct1catest.vikingcloud.com",
     "Test Website URL - Expired": "https://vct1catest-expired.vikingcloud.com",
@@ -13033,13 +13061,15 @@
     "TLS EVG Audit Statement Date": "2024.11.22",
     "TLS EVG Audit Period Start Date": "2023.09.01",
     "TLS EVG Audit Period End Date": "2024.08.31",
+    "Policy Documentation": "All documents in English.; All documents are in English.",
+    "CA Document Repository": "https://www.ssl.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.25",
+    "CP/CPS Effective Date": "2025.11.25",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vct1p3catest.vikingcloud.com",
     "Test Website URL - Expired": "https://vct1p3catest-expired.vikingcloud.com",

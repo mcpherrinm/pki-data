@@ -77,12 +77,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
     ],
-    "CP Last Updated Date": "2020.04.22",
+    "CP Effective Date": "2020.04.22",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/wp-content/uploads/2020/04/WPKI-WISeKey-CPS.v3.2-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2020.04.22",
+    "CPS Effective Date": "2020.04.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -202,12 +202,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
     ],
-    "CP Last Updated Date": "2019.05.10",
+    "CP Effective Date": "2019.05.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2019.05.10",
+    "CPS Effective Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -294,12 +294,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
     ],
-    "CP Last Updated Date": "2019.05.10",
+    "CP Effective Date": "2019.05.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2019.05.10",
+    "CPS Effective Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -631,12 +631,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
     ],
-    "CP Last Updated Date": "2019.05.10",
+    "CP Effective Date": "2019.05.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2019.05.10",
+    "CPS Effective Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -760,12 +760,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
     ],
-    "CP Last Updated Date": "2019.05.10",
+    "CP Effective Date": "2019.05.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2019.05.10",
+    "CPS Effective Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -844,7 +844,7 @@
     "S/MIME BR Audit Statement Date": "2025.07.09",
     "S/MIME BR Audit Period Start Date": "2024.05.09",
     "S/MIME BR Audit Period End Date": "2025.05.08",
-    "Policy Documentation": "The OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
     "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -854,7 +854,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1206,12 +1206,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf"
     ],
-    "CP Last Updated Date": "2019.05.10",
+    "CP Effective Date": "2019.05.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2019.05.10",
+    "CPS Effective Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1330,7 +1330,7 @@
     "S/MIME BR Audit Statement Date": "2025.07.09",
     "S/MIME BR Audit Period Start Date": "2024.05.09",
     "S/MIME BR Audit Period End Date": "2025.05.08",
-    "Policy Documentation": "The OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
     "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1340,7 +1340,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "Test Website URL - Valid": "https://gbvalidssl.hightrusted.com/",
     "Test Website URL - Expired": "https://gbexpiredssl.hightrusted.com/",
     "Test Website URL - Revoked": "https://gbrevokedssl.hightrusted.com/",
@@ -1500,12 +1500,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf"
     ],
-    "CP Last Updated Date": "2020.04.22",
+    "CP Effective Date": "2020.04.22",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/wp-content/uploads/2020/04/WPKI-WISeKey-CPS.v3.2-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2020.04.22",
+    "CPS Effective Date": "2020.04.22",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1549,12 +1549,12 @@
     "Certificate Policy (CP) URL": [
       "https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf"
     ],
-    "CP Last Updated Date": "2019.05.10",
+    "CP Effective Date": "2019.05.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cdn.wisekey.com/uploads/images/WPKI-WISeKey-CPS.v3.1-CLEAN.pdf"
     ],
-    "CPS Last Updated Date": "2019.05.10",
+    "CPS Effective Date": "2019.05.10",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1698,7 +1698,7 @@
     "S/MIME BR Audit Statement Date": "2025.07.09",
     "S/MIME BR Audit Period Start Date": "2024.05.09",
     "S/MIME BR Audit Period End Date": "2025.05.08",
-    "Policy Documentation": "The OISTE Foundation has three different CP documents: \r\n- CP for Personal Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Personal-Certificates.v1.1.pdf \r\n- CP for SSL Certificates (above CP link): https://oiste.org/wp-content/uploads/OGTM-CP-SSL-Certificates.v1.0.pdf \r\n- CP for Device Certificates: https://oiste.org/wp-content/uploads/OGTM-CP-Device-Certificates.v1.0.pdf",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
     "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1708,7 +1708,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "Test Website URL - Valid": "https://gcvalidssl.hightrusted.com/",
     "Test Website URL - Expired": "https://gcexpiredssl.hightrusted.com/",
     "Test Website URL - Revoked": "https://gcrevokedssl.hightrusted.com/",
@@ -1761,6 +1761,8 @@
     "TLS EVG Audit Statement Date": "2025.07.09",
     "TLS EVG Audit Period Start Date": "2024.05.09",
     "TLS EVG Audit Period End Date": "2025.05.08",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
+    "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1769,7 +1771,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "Test Website URL - Valid": "https://rsag1validssl.hightrusted.com/",
     "Test Website URL - Expired": "https://rsag1expiredssl.hightrusted.com/",
     "Test Website URL - Revoked": "https://rsag1revokedssl.hightrusted.com/",
@@ -1816,6 +1818,8 @@
     "S/MIME BR Audit Statement Date": "2025.07.09",
     "S/MIME BR Audit Period Start Date": "2024.05.09",
     "S/MIME BR Audit Period End Date": "2025.05.08",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
+    "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1824,7 +1828,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1868,6 +1872,8 @@
     "S/MIME BR Audit Statement Date": "2025.07.09",
     "S/MIME BR Audit Period Start Date": "2024.05.09",
     "S/MIME BR Audit Period End Date": "2025.05.08",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
+    "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1876,7 +1882,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1925,6 +1931,8 @@
     "TLS EVG Audit Statement Date": "2025.07.09",
     "TLS EVG Audit Period Start Date": "2024.05.09",
     "TLS EVG Audit Period End Date": "2025.05.08",
+    "Policy Documentation": "Since January 20th 2025, OISTE publishes a unified CP/CPS document in Markdown format in: https://github.com/OISTE/repository",
+    "CA Document Repository": "https://www.oiste.org/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1933,7 +1941,7 @@
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md",
       "https://raw.githubusercontent.com/OISTE/repository/refs/heads/main/OWGTMCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
     "Test Website URL - Valid": "https://eccg1validssl.hightrusted.com/",
     "Test Website URL - Expired": "https://eccg1expiredssl.hightrusted.com/",
     "Test Website URL - Revoked": "https://eccg1revokedssl.hightrusted.com/",

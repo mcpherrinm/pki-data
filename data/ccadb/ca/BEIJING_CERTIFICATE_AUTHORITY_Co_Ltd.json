@@ -930,16 +930,17 @@
     "Code Signing Audit Statement Date": "2025.05.20",
     "Code Signing Audit Period Start Date": "2024.03.10",
     "Code Signing Audit Period End Date": "2025.03.09",
+    "CA Document Repository": "https://www.bjca.cn/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -983,16 +984,17 @@
     "Code Signing Audit Statement Date": "2025.05.20",
     "Code Signing Audit Period Start Date": "2024.03.10",
     "Code Signing Audit Period End Date": "2025.03.09",
+    "CA Document Repository": "https://www.bjca.cn/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1310,26 +1312,27 @@
     "Code Signing Audit Statement Date": "2024.05.09",
     "Code Signing Audit Period Start Date": "2023.03.10",
     "Code Signing Audit Period End Date": "2024.03.09",
+    "CA Document Repository": "https://www.bjca.cn/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_SSL_CP&CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.26",
+    "CP/CPS Effective Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_SSL_CP&CPS_EN.zip"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.26",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.26",
     "Test Website URL - Valid": "https://demossl-ecc-valid.bjca.org.cn",
     "Test Website URL - Expired": "https://demossl-ecc-expired.bjca.org.cn",
     "Test Website URL - Revoked": "https://demossl-ecc-revoked.bjca.org.cn",
@@ -1371,16 +1374,17 @@
     "NetSec Audit Statement Date": "2025.05.20",
     "NetSec Audit Period Start Date": "2024.03.10",
     "NetSec Audit Period End Date": "2025.03.09",
+    "CA Document Repository": "https://www.bjca.cn/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1434,26 +1438,27 @@
     "Code Signing Audit Statement Date": "2025.05.20",
     "Code Signing Audit Period Start Date": "2024.03.10",
     "Code Signing Audit Period End Date": "2025.03.09",
+    "CA Document Repository": "https://www.bjca.cn/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_SSL_CP&CPS.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.26",
+    "CP/CPS Effective Date": "2025.11.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_SSL_CP&CPS_EN.zip"
     ],
-    "MD/AsciiDoc CP/CPS Last Updated Date": "2025.11.26",
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.26",
     "Test Website URL - Valid": "https://demossl-rsa-valid.bjca.org.cn",
     "Test Website URL - Expired": "https://demossl-rsa-expired.bjca.org.cn",
     "Test Website URL - Revoked": "https://demossl-rsa-revoked.bjca.org.cn",
@@ -1500,16 +1505,17 @@
     "Code Signing Audit Statement Date": "2025.05.20",
     "Code Signing Audit Period Start Date": "2024.03.10",
     "Code Signing Audit Period End Date": "2025.03.09",
+    "CA Document Repository": "https://www.bjca.cn/cps",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
     ],
-    "CP Last Updated Date": "2025.11.26",
+    "CP Effective Date": "2025.11.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.26",
+    "CPS Effective Date": "2025.11.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

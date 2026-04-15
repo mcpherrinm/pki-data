@@ -168,12 +168,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.vincasign.net/policy/en/PDS-sede/pds-sede-en.pdf"
     ],
-    "CP Last Updated Date": "2020.11.16",
+    "CP Effective Date": "2020.11.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.vincasign.net/policy/en/DPC/Vintegris-CPS-EN.pdf"
     ],
-    "CPS Last Updated Date": "2020.11.16",
+    "CPS Effective Date": "2020.11.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -200,6 +200,7 @@
     "Subject Key Identifier": "0D5KapJvTbOGR1x05FajAvQWyNA=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.vincasign.net/#politicas",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -246,6 +247,7 @@
     "TLS EVG Audit Statement Date": "2023.05.19",
     "TLS EVG Audit Period Start Date": "2022.03.17",
     "TLS EVG Audit Period End Date": "2023.03.16",
+    "CA Document Repository": "https://www.vincasign.net/#politicas",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

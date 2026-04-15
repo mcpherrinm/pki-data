@@ -6905,7 +6905,7 @@
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://haricaeccrootca2015-valid-ev.harica.gr",
     "Test Website URL - Expired": "https://haricaeccrootca2015-expired-ev.harica.gr",
@@ -6975,7 +6975,7 @@
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://haricarootca2015-valid-ev.harica.gr",
     "Test Website URL - Expired": "https://haricarootca2015-expired-ev.harica.gr",
@@ -7023,13 +7023,14 @@
     "S/MIME BR Audit Statement Date": "2025.06.27",
     "S/MIME BR Audit Period Start Date": "2024.03.30",
     "S/MIME BR Audit Period End Date": "2025.03.29",
+    "CA Document Repository": "https://repo.harica.gr/documents/CPS",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7078,13 +7079,14 @@
     "TLS EVG Audit Statement Date": "2025.06.27",
     "TLS EVG Audit Period Start Date": "2024.03.30",
     "TLS EVG Audit Period End Date": "2025.03.29",
+    "CA Document Repository": "https://repo.harica.gr/documents/CPS",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-ecc-valid-ev.root2021.harica.gr",
     "Test Website URL - Expired": "https://tls-ecc-expired-ev.root2021.harica.gr",
@@ -7132,13 +7134,14 @@
     "Code Signing Audit Statement Date": "2025.06.27",
     "Code Signing Audit Period Start Date": "2024.03.30",
     "Code Signing Audit Period End Date": "2025.03.29",
+    "CA Document Repository": "https://repo.harica.gr/documents/CPS",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7182,13 +7185,14 @@
     "S/MIME BR Audit Statement Date": "2025.06.27",
     "S/MIME BR Audit Period Start Date": "2024.03.30",
     "S/MIME BR Audit Period End Date": "2025.03.29",
+    "CA Document Repository": "https://repo.harica.gr/documents/CPS",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7232,13 +7236,14 @@
     "Code Signing Audit Statement Date": "2025.06.27",
     "Code Signing Audit Period Start Date": "2024.03.30",
     "Code Signing Audit Period End Date": "2025.03.29",
+    "CA Document Repository": "https://repo.harica.gr/documents/CPS",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -7287,13 +7292,14 @@
     "TLS EVG Audit Statement Date": "2025.06.27",
     "TLS EVG Audit Period Start Date": "2024.03.30",
     "TLS EVG Audit Period End Date": "2025.03.29",
+    "CA Document Repository": "https://repo.harica.gr/documents/CPS",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repo.harica.gr/documents/CPS-EN-4.11.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.28",
+    "CP/CPS Effective Date": "2025.11.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-rsa-valid-ev.root2021.harica.gr",
     "Test Website URL - Expired": "https://tls-rsa-expired-ev.root2021.harica.gr",

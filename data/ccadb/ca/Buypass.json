@@ -33,6 +33,7 @@
     "TLS EVG Audit Statement Date": "2015.02.25",
     "TLS EVG Audit Period Start Date": "2015.02.25",
     "TLS EVG Audit Period End Date": "2015.02.25",
+    "CA Document Repository": "https://www.buypass.com/security/ca-documentation-legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -76,6 +77,7 @@
     "TLS BR Audit Statement Date": "2016.03.23",
     "TLS BR Audit Period Start Date": "2016.03.23",
     "TLS BR Audit Period End Date": "2016.03.23",
+    "CA Document Repository": "https://www.buypass.com/security/ca-documentation-legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -693,7 +695,6 @@
     "TLS BR Audit Statement Date": "2026.01.29",
     "TLS BR Audit Period Start Date": "2024.11.01",
     "TLS BR Audit Period End Date": "2025.10.31",
-    "Policy Documentation": "Buypass Class 2 SSL Certificates:\r\nhttps://www.buypass.com/security/ca-documentation-legal/_/attachment/download/b5ac176b-8023-443c-a0f1-24ce2777add2:a8a8e609fc452ed48103034ec2e4831413b60ca5/cpsSSL_CL2-2020-04-15.pdf\r\n\r\n\r\nBuypass Class 3 SSL Certificates:\r\nhttps://www.buypass.com/security/ca-documentation-legal/_/attachment/download/14f3c524-2327-44c3-be38-12cfa8eef383:bc2946220b17f9ba69563a5deeccaa384d06d91b/cpsSSL_CL3-2020-04-15.pdf",
     "CA Document Repository": "https://www.buypass.com/security/ca-documentation-legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -701,7 +702,7 @@
     "Certificate Practice & Policy Statement": [
       "https://repository.buypassca.com/cpsTLS-v2-1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.01",
+    "CP/CPS Effective Date": "2025.12.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.business.ca22.ssl.buypass.no",
     "Test Website URL - Expired": "https://expired.business.ca22.ssl.buypass.no",
@@ -753,7 +754,6 @@
     "TLS EVG Audit Statement Date": "2026.01.29",
     "TLS EVG Audit Period Start Date": "2024.11.01",
     "TLS EVG Audit Period End Date": "2025.10.31",
-    "Policy Documentation": "Buypass Class 2 SSL Certificates:\r\nhttps://www.buypass.com/security/ca-documentation-legal/_/attachment/download/b5ac176b-8023-443c-a0f1-24ce2777add2:a8a8e609fc452ed48103034ec2e4831413b60ca5/cpsSSL_CL2-2020-04-15.pdf\r\n\r\n\r\nBuypass Class 3 SSL Certificates:\r\nhttps://www.buypass.com/security/ca-documentation-legal/_/attachment/download/14f3c524-2327-44c3-be38-12cfa8eef383:bc2946220b17f9ba69563a5deeccaa384d06d91b/cpsSSL_CL3-2020-04-15.pdf",
     "CA Document Repository": "https://www.buypass.com/security/ca-documentation-legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -761,7 +761,7 @@
     "Certificate Practice & Policy Statement": [
       "https://repository.buypassca.com/cpsTLS-v2-1.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.12.01",
+    "CP/CPS Effective Date": "2025.12.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.evident.ca23.ssl.buypass.no",
     "Test Website URL - Expired": "https://expired.evident.ca23.ssl.buypass.no",
@@ -793,6 +793,7 @@
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.buypassca.com/BPCl3RootCaG2HT.crl",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.buypass.com/security/ca-documentation-legal",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",

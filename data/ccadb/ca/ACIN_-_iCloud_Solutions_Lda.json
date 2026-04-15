@@ -48,19 +48,21 @@
     "Subject Key Identifier": "pph8oJGE2dxe204vggIzldN0LkE=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "Policy Documentation": "All documents have Portuguese and English versions.  See https://pki.globaltrustedsign.com/en",
+    "CA Document Repository": "https://pki.globaltrustedsign.com",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://pki.globaltrustedsign.com/download/doc/en/PL03_GTS.pdf",
       "https://pki.globaltrustedsign.com/download/doc/en/PL04_GTS.pdf"
     ],
-    "CP Last Updated Date": "2021.06.23",
+    "CP Effective Date": "2021.06.23",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.globaltrustedsign.com/download/doc/en/DP01_GTS.pdf",
       "https://pki.globaltrustedsign.com/download/doc/en/DP02_GTS.pdf",
       "https://pki.globaltrustedsign.com/index.php/home_c/download/DP05_EN"
     ],
-    "CPS Last Updated Date": "2021.07.21",
+    "CPS Effective Date": "2021.07.21",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

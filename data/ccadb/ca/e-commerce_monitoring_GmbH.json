@@ -18,6 +18,7 @@
     "Subject Key Identifier": "NI+fcx/xt9c0Y4Ctctj//7UgFmY=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://globaltrust.eu/certificate-policy/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -47,6 +48,7 @@
     "Subject Key Identifier": "N38+PplxYMok1JETedB0KbSoJNg=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://globaltrust.eu/certificate-policy/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -224,19 +226,19 @@
     "Code Signing Audit Statement Date": "2024.07.22",
     "Code Signing Audit Period Start Date": "2023.04.01",
     "Code Signing Audit Period End Date": "2024.03.31",
-    "CA Document Repository": "http://www.globaltrust.eu/certificate-policy.html",
+    "CA Document Repository": "https://globaltrust.eu/certificate-policy/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf"
     ],
-    "CP Last Updated Date": "2024.02.16",
+    "CP Effective Date": "2024.02.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
       "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
       "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf"
     ],
-    "CPS Last Updated Date": "2025.03.25",
+    "CPS Effective Date": "2025.03.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testok-2006-server-ov-1.e-monitoring.at/",
@@ -922,19 +924,19 @@
     "S/MIME BR Audit Statement Date": "2025.06.27",
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
-    "CA Document Repository": "http://www.globaltrust.eu/certificate-policy.html",
+    "CA Document Repository": "https://globaltrust.eu/certificate-policy/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf"
     ],
-    "CP Last Updated Date": "2024.02.16",
+    "CP Effective Date": "2024.02.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
       "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
       "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf"
     ],
-    "CPS Last Updated Date": "2025.03.25",
+    "CPS Effective Date": "2025.03.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testok-2015-server-qualified-ev-2.e-monitoring.at/",
@@ -1522,19 +1524,19 @@
     "S/MIME BR Audit Statement Date": "2025.06.27",
     "S/MIME BR Audit Period Start Date": "2024.04.01",
     "S/MIME BR Audit Period End Date": "2025.03.31",
-    "CA Document Repository": "http://www.globaltrust.eu/certificate-policy.html",
+    "CA Document Repository": "https://globaltrust.eu/certificate-policy/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "http://service.globaltrust.eu/static/globaltrust-certificate-policy.pdf"
     ],
-    "CP Last Updated Date": "2024.02.16",
+    "CP Effective Date": "2024.02.16",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
       "http://service.globaltrust.eu/static/globaltrust-certificate-practice-statement.pdf",
       "https://www.globaltrust.eu/static/globaltrust-practice-statement.pdf"
     ],
-    "CPS Last Updated Date": "2025.03.25",
+    "CPS Effective Date": "2025.03.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testok-2020-server-qualified-ev-1.e-monitoring.at/",

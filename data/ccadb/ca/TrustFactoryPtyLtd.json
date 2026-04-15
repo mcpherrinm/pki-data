@@ -28,12 +28,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.trustfactory.net/repository/trustfactory_cp_v1.7.pdf"
     ],
-    "CP Last Updated Date": "2021.07.12",
+    "CP Effective Date": "2021.07.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.trustfactory.net/repository/trustfactory_ssl_issuing_ca_cps_v1.7.pdf"
     ],
-    "CPS Last Updated Date": "2021.07.12",
+    "CPS Effective Date": "2021.07.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -72,12 +72,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.trustfactory.net/repository/trustfactory_cp_v1.8.pdf"
     ],
-    "CP Last Updated Date": "2022.07.11",
+    "CP Effective Date": "2022.07.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.trustfactory.net/repository/trustfactory_client_issuing_ca_cps_v1.9.pdf"
     ],
-    "CPS Last Updated Date": "2022.07.11",
+    "CPS Effective Date": "2022.07.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -116,7 +116,7 @@
     "TLS BR Audit Statement Date": "2020.12.11",
     "TLS BR Audit Period Start Date": "2019.10.08",
     "TLS BR Audit Period End Date": "2020.10.07",
-    "Policy Documentation": "https://www.trustfactory.net/repository/trustfactory_pki_hierarchy_v1.0.pdf, https://www.trustfactory.net/repository/trustfactory_oid_control_v1.0.pdf",
+    "Policy Documentation": "https://www.trustfactory.net/repository/trustfactory_pki_hierarchy_v1.0.pdf, https://www.trustfactory.net/repository/trustfactory_oid_control_v1.2.pdf",
     "CA Document Repository": "https://www.trustfactory.net/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -157,18 +157,18 @@
     "Standard Audit Statement Date": "2025.12.04",
     "Standard Audit Period Start Date": "2024.10.08",
     "Standard Audit Period End Date": "2025.10.07",
-    "Policy Documentation": "https://www.trustfactory.net/repository/trustfactory_pki_hierarchy_v1.0.pdf, https://www.trustfactory.net/repository/trustfactory_oid_control_v1.0.pdf",
+    "Policy Documentation": "https://www.trustfactory.net/repository/trustfactory_pki_hierarchy_v1.0.pdf, https://www.trustfactory.net/repository/trustfactory_oid_control_v1.2.pdf",
     "CA Document Repository": "https://www.trustfactory.net/repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.trustfactory.net/repository/trustfactory_cp_v1.12.pdf"
     ],
-    "CP Last Updated Date": "2025.08.28",
+    "CP Effective Date": "2025.08.28",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.trustfactory.net/repository/trustfactory_client_root_ca_cps_v1.11.pdf"
     ],
-    "CPS Last Updated Date": "2025.08.28",
+    "CPS Effective Date": "2025.08.28",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

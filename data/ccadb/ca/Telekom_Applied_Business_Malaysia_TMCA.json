@@ -29,12 +29,12 @@
     "Certificate Policy (CP) URL": [
       "https://www.tmca.com.my/portal/documents/repositories/TMCA%20CP%20version%204.0.pdf"
     ],
-    "CP Last Updated Date": "2018.06.05",
+    "CP Effective Date": "2018.06.05",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.tmca.com.my/portal/documents/repositories/TMCA%20CPS%20version%201.16.pdf"
     ],
-    "CPS Last Updated Date": "2018.06.05",
+    "CPS Effective Date": "2018.06.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ca-1.tabgdc.com",

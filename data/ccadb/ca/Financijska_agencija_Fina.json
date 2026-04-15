@@ -30,27 +30,26 @@
     "TLS BR Audit Statement Date": "2026.02.18",
     "TLS BR Audit Period Start Date": "2025.06.03",
     "TLS BR Audit Period End Date": "2026.02.06",
-    "Policy Documentation": "http://rdc.fina.hr/dokumentacija/eIDAS_certificate_profile.pdf",
-    "CA Document Repository": "https://www.fina.hr/finadigicert",
+    "CA Document Repository": "https://www.fina.hr/en/legislation-documents-and-conformance-certificates",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://rdc.fina.hr/RDC2015/CPNQC2-1-en.pdf",
       "https://rdc.fina.hr/RDC2015/CPQC2-7-en.pdf",
       "https://rdc.fina.hr/RDC2015/CPWSA1-13-en.pdf"
     ],
-    "CP Last Updated Date": "2026.02.09",
+    "CP Effective Date": "2026.02.09",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://rdc.fina.hr/RDC2015/CPSNQC2-1-en.pdf",
       "https://rdc.fina.hr/RDC2015/CPSQC2-7-en.pdf",
       "https://rdc.fina.hr/RDC2015/CPSWSA1-13-en.pdf"
     ],
-    "CPS Last Updated Date": "2026.02.09",
+    "CPS Effective Date": "2026.02.09",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://rdc.fina.hr/Root/FinaRootCA-CPCPS2-10-en.pdf"
     ],
-    "CP/CPS Last Updated Date": "2025.11.24",
+    "CP/CPS Effective Date": "2025.11.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testsslvalid20.fina.hr",
     "Test Website URL - Expired": "https://testsslexpired20.fina.hr",

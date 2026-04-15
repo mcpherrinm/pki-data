@@ -111,8 +111,8 @@
     "TLS BR Audit Statement Date": "2023.07.12",
     "TLS BR Audit Period Start Date": "2022.07.13",
     "TLS BR Audit Period End Date": "2023.07.12",
-    "Policy Documentation": "https://vrk.fi/documents/2252790/9940790/PDS+Root+Fin+Gov+G2++eIDAS+v.1.1.pdf/f22e822b-9e8a-4667-9d86-4e222416f1e0/PDS+Root+Fin+Gov+G2++eIDAS+v.1.1.pdf",
-    "CA Document Repository": "https://vrk.fi/en/root-certificateg2",
+    "Policy Documentation": "https://dvv.fi/documents/16079645/220292919/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf/364ed4fe-05ad-6c4e-3f02-b54da7499421/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602250",
+    "CA Document Repository": "https://dvv.fi/en/certificate-policy",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -157,18 +157,18 @@
     "TLS BR Audit Statement Date": "2025.10.08",
     "TLS BR Audit Period Start Date": "2024.07.11",
     "TLS BR Audit Period End Date": "2025.07.10",
-    "Policy Documentation": "https://vrk.fi/documents/2252790/9940790/PDS+Root+Fin+Gov+G2++eIDAS+v.1.1.pdf/f22e822b-9e8a-4667-9d86-4e222416f1e0/PDS+Root+Fin+Gov+G2++eIDAS+v.1.1.pdf",
-    "CA Document Repository": "https://vrk.fi/en/root-certificateg2",
+    "Policy Documentation": "https://dvv.fi/documents/16079645/220292919/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf/364ed4fe-05ad-6c4e-3f02-b54da7499421/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602250",
+    "CA Document Repository": "https://dvv.fi/en/certificate-policy",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220292919/CP+Root+Fin+Gov+eIDAS+v.1.5.pdf/9e3da9dd-4993-25e0-6a77-1ef196c94119/CP+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602637"
     ],
-    "CP Last Updated Date": "2025.09.13",
+    "CP Effective Date": "2025.09.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220292919/CPS+Root+Fin+Gov+eIDAS+v.1.5.pdf/ba4ebcbb-530e-8048-2198-176451680f7f/CPS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369601560"
     ],
-    "CPS Last Updated Date": "2025.09.13",
+    "CPS Effective Date": "2025.09.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid2.fineid.fi",
@@ -210,12 +210,12 @@
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220294811/CP+Service+Certificates+G3+eIDAS+v.1.6.pdf"
     ],
-    "CP Last Updated Date": "2026.01.08",
+    "CP Effective Date": "2026.01.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220294811/CPS+Service+Certificates+Server+G3+eIDAS+v.1.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.01",
+    "CPS Effective Date": "2025.11.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -253,12 +253,12 @@
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220294811/CP+Service+Certificates+G3+eIDAS+v.1.6.pdf"
     ],
-    "CP Last Updated Date": "2026.01.08",
+    "CP Effective Date": "2026.01.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220294811/CPS+Service+Certificates+Server+G3+eIDAS+v.1.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.01",
+    "CPS Effective Date": "2025.11.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -296,13 +296,13 @@
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220294811/CP+Service+Certificates+G3+eIDAS+v.1.6.pdf"
     ],
-    "CP Last Updated Date": "2026.01.08",
+    "CP Effective Date": "2026.01.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220294811/CPS+Service+Certificates+Server+G3+eIDAS+v.1.7.pdf",
       "https://dvv.fi/documents/16079645/76500344/CPS+HealthSocial+Service+Certificates+Service+Use+G3+eIDAS+v.1.0.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.01",
+    "CPS Effective Date": "2025.11.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -340,12 +340,12 @@
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220294811/CP+Service+Certificates+G3+eIDAS+v.1.6.pdf"
     ],
-    "CP Last Updated Date": "2026.01.08",
+    "CP Effective Date": "2026.01.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220294811/CPS+Service+Certificates+Server+G3+eIDAS+v.1.7.pdf"
     ],
-    "CPS Last Updated Date": "2025.11.01",
+    "CPS Effective Date": "2025.11.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -385,16 +385,18 @@
     "TLS BR Audit Statement Date": "2025.10.08",
     "TLS BR Audit Period Start Date": "2024.07.11",
     "TLS BR Audit Period End Date": "2025.07.10",
+    "Policy Documentation": "https://dvv.fi/documents/16079645/220292919/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf/364ed4fe-05ad-6c4e-3f02-b54da7499421/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602250",
+    "CA Document Repository": "https://dvv.fi/en/certificate-policy",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220292919/CP+Root+Fin+Gov+eIDAS+v.1.5.pdf/9e3da9dd-4993-25e0-6a77-1ef196c94119/CP+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602637"
     ],
-    "CP Last Updated Date": "2025.09.13",
+    "CP Effective Date": "2025.09.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220292919/CPS+Root+Fin+Gov+eIDAS+v.1.5.pdf/ba4ebcbb-530e-8048-2198-176451680f7f/CPS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369601560"
     ],
-    "CPS Last Updated Date": "2025.09.13",
+    "CPS Effective Date": "2025.09.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid3e.fineid.fi/",
@@ -438,16 +440,18 @@
     "TLS BR Audit Statement Date": "2025.10.08",
     "TLS BR Audit Period Start Date": "2024.07.11",
     "TLS BR Audit Period End Date": "2025.07.10",
+    "Policy Documentation": "https://dvv.fi/documents/16079645/220292919/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf/364ed4fe-05ad-6c4e-3f02-b54da7499421/PDS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602250",
+    "CA Document Repository": "https://dvv.fi/en/certificate-policy",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://dvv.fi/documents/16079645/220292919/CP+Root+Fin+Gov+eIDAS+v.1.5.pdf/9e3da9dd-4993-25e0-6a77-1ef196c94119/CP+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369602637"
     ],
-    "CP Last Updated Date": "2025.09.13",
+    "CP Effective Date": "2025.09.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://dvv.fi/documents/16079645/220292919/CPS+Root+Fin+Gov+eIDAS+v.1.5.pdf/ba4ebcbb-530e-8048-2198-176451680f7f/CPS+Root+Fin+Gov+eIDAS+v.1.5.pdf?version=1.0&t=1756369601560"
     ],
-    "CPS Last Updated Date": "2025.09.13",
+    "CPS Effective Date": "2025.09.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid3r.fineid.fi/",

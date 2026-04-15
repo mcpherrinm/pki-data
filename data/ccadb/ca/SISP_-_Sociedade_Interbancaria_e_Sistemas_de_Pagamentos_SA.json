@@ -57,12 +57,12 @@
     "Certificate Policy (CP) URL": [
       "https://pki.sisp.cv/docs/PLRC010.01_SISP_QWAC_CP_EN.pdf"
     ],
-    "CP Last Updated Date": "2022.06.14",
+    "CP Effective Date": "2022.06.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.sisp.cv/docs/PLRC009.01_SISP_QWAC_CPS_EN.pdf"
     ],
-    "CPS Last Updated Date": "2022.06.14",
+    "CPS Effective Date": "2022.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -91,6 +91,7 @@
     "Technically Constrained": "false",
     "Auditor": "Associação Portuguesa de Certificação (APCER)",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://pki.sisp.cv/document_repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -120,6 +121,7 @@
     "Subject Key Identifier": "TpHgBGSCQEc+PM4ZqVHCR1j69eU=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://pki.sisp.cv/document_repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -166,16 +168,17 @@
     "TLS EVG Audit Statement Date": "2022.08.29",
     "TLS EVG Audit Period Start Date": "2022.07.14",
     "TLS EVG Audit Period End Date": "2022.07.14",
+    "CA Document Repository": "https://pki.sisp.cv/document_repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://pki.sisp.cv/docs/PLRC012.01_SISP_ROOTCA2_CP_EN.pdf"
     ],
-    "CP Last Updated Date": "2022.06.14",
+    "CP Effective Date": "2022.06.14",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.sisp.cv/docs/PLRC011.01_SISP_ROOTCA2_CPS_EN.pdf"
     ],
-    "CPS Last Updated Date": "2022.06.14",
+    "CPS Effective Date": "2022.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.sispqwac.sisp.cv/",

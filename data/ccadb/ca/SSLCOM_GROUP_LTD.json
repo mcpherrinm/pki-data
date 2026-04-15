@@ -204,6 +204,7 @@
     "Subject Key Identifier": "dhVpk7lzJMMz0oufbKOUM931Rs8=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.sslcomgroup.com/cps",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -251,7 +252,7 @@
     "Certificate Practice & Policy Statement": [
       "https://docs.wixstatic.com/ugd/e6d025_bc04855d3d454d52a86f95b0fb044a34.pdf"
     ],
-    "CP/CPS Last Updated Date": "2019.07.19",
+    "CP/CPS Effective Date": "2019.07.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testvalid.tagim2.polimil.com",
     "Test Website URL - Expired": "https://testexpired.tagim2.polimil.com",

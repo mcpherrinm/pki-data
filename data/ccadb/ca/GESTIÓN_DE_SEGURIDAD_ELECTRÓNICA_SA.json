@@ -87,12 +87,13 @@
     "Standard Audit Statement Date": "2022.09.20",
     "Standard Audit Period Start Date": "2021.09.01",
     "Standard Audit Period End Date": "2022.08.31",
+    "CA Document Repository": "https://gse.com.co/marco-regulatorio/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://gse.com.co/documentos/calidad/DPC/Certification_Practice_Statement_V13.pdf"
     ],
-    "CPS Last Updated Date": "2022.05.31",
+    "CPS Effective Date": "2022.05.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -127,12 +128,13 @@
     "Standard Audit Statement Date": "2022.09.20",
     "Standard Audit Period Start Date": "2021.09.01",
     "Standard Audit Period End Date": "2022.08.31",
+    "CA Document Repository": "https://gse.com.co/marco-regulatorio/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://gse.com.co/documentos/calidad/DPC/Certification_Practice_Statement_V13.pdf"
     ],
-    "CPS Last Updated Date": "2022.05.31",
+    "CPS Effective Date": "2022.05.31",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

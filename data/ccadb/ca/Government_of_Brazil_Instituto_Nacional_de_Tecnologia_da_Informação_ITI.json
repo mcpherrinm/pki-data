@@ -17,6 +17,7 @@
     "Subject Key Identifier": "ivrxV4QREzWQQvpXSVRpDaTE8Dc=",
     "Technically Constrained": "false",
     "Audits Same as Parent": "false",
+    "CA Document Repository": "https://www.gov.br/iti/pt-br/assuntos/repositorio/repositorio-ac-raiz",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -534,8 +535,7 @@
     "TLS BR Audit Statement Date": "2016.12.14",
     "TLS BR Audit Period Start Date": "2015.09.09",
     "TLS BR Audit Period End Date": "2016.09.08",
-    "Policy Documentation": "https://www.iti.gov.br/images/repositorio/legislacao/documentos-principais/02/DOC-ICP-02_-_v.3.1_POLIT_SEG_DA_ICP-BRASIL.pdf",
-    "CA Document Repository": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "CA Document Repository": "https://www.gov.br/iti/pt-br/assuntos/repositorio/repositorio-ac-raiz",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -694,15 +694,14 @@
     "Standard Audit Statement Date": "2022.01.18",
     "Standard Audit Period Start Date": "2020.09.09",
     "Standard Audit Period End Date": "2021.09.08",
-    "Policy Documentation": "https://www.iti.gov.br/images/repositorio/legislacao/documentos-principais/02/DOC-ICP-02_-_v.3.1_POLIT_SEG_DA_ICP-BRASIL.pdf",
-    "CA Document Repository": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "CA Document Repository": "https://www.gov.br/iti/pt-br/assuntos/repositorio/repositorio-ac-raiz",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
     ],
-    "CP/CPS Last Updated Date": "2021.11.16",
+    "CP/CPS Effective Date": "2021.11.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -736,8 +735,7 @@
     "Standard Audit Statement Date": "2024.12.05",
     "Standard Audit Period Start Date": "2023.09.09",
     "Standard Audit Period End Date": "2024.09.08",
-    "Policy Documentation": "https://www.iti.gov.br/images/repositorio/legislacao/documentos-principais/02/DOC-ICP-02_-_v.3.1_POLIT_SEG_DA_ICP-BRASIL.pdf",
-    "CA Document Repository": "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
+    "CA Document Repository": "https://www.gov.br/iti/pt-br/assuntos/repositorio/repositorio-ac-raiz",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -745,7 +743,7 @@
       "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
       "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
     ],
-    "CP/CPS Last Updated Date": "2024.08.07",
+    "CP/CPS Effective Date": "2024.08.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -794,12 +792,12 @@
     "Certificate Policy (CP) URL": [
       "https://repositorio.serpro.gov.br/docs/CP_SERPRO_SSL_CA.pdf"
     ],
-    "CP Last Updated Date": "2020.11.30",
+    "CP Effective Date": "2020.11.30",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repositorio.serpro.gov.br/docs/CPS_SERPRO_SSL_CA.pdf"
     ],
-    "CPS Last Updated Date": "2020.11.30",
+    "CPS Effective Date": "2020.11.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -839,13 +837,14 @@
     "Code Signing Audit Statement Date": "2023.01.30",
     "Code Signing Audit Period Start Date": "2021.09.09",
     "Code Signing Audit Period End Date": "2022.09.08",
+    "CA Document Repository": "https://www.gov.br/iti/pt-br/assuntos/repositorio/repositorio-ac-raiz",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
     ],
-    "CP/CPS Last Updated Date": "2021.11.16",
+    "CP/CPS Effective Date": "2021.11.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -889,12 +888,12 @@
     "Certificate Policy (CP) URL": [
       "http://ccd.acsoluti.com.br/docs/ac-soluti-ssl-ev/pc-a1.pdf"
     ],
-    "CP Last Updated Date": "2022.09.02",
+    "CP Effective Date": "2022.09.02",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://ccd.acsoluti.com.br/docs/dpc-ac-soluti-ssl-ev.pdf"
     ],
-    "CPS Last Updated Date": "2022.09.02",
+    "CPS Effective Date": "2022.09.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1000,12 +999,12 @@
     "Certificate Policy (CP) URL": [
       "http://icp-brasil.certisign.com.br/repositorio/pc/PSC_Certisign/PCO_PSC_CERTISIGN.pdf"
     ],
-    "CP Last Updated Date": "2021.12.12",
+    "CP Effective Date": "2021.12.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "http://icp-brasil.certisign.com.br/repositorio/dpc/PSC_Certisign/DPPSC_CERTISIGN.pdf"
     ],
-    "CPS Last Updated Date": "2021.12.12",
+    "CPS Effective Date": "2021.12.12",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -1050,6 +1049,7 @@
     "TLS EVG Audit Statement Date": "2023.01.30",
     "TLS EVG Audit Period Start Date": "2021.09.09",
     "TLS EVG Audit Period End Date": "2022.09.08",
+    "CA Document Repository": "https://www.gov.br/iti/pt-br/assuntos/repositorio/repositorio-ac-raiz",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
@@ -1057,7 +1057,7 @@
       "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf",
       "http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf"
     ],
-    "CP/CPS Last Updated Date": "2021.11.16",
+    "CP/CPS Effective Date": "2021.11.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active-repositorio.serpro.gov.br/",
     "Test Website URL - Expired": "https://expired-repositorio.serpro.gov.br/",
