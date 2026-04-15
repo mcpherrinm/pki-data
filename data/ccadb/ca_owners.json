@@ -1,6 +1,6 @@
 {
-  "total_ca_owners": 181,
-  "total_records": 10013,
+  "total_ca_owners": 180,
+  "total_records": 10003,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -969,20 +969,6 @@
       "output_filename": "Evrotrust_Technologies_AD.json"
     },
     {
-      "ca_owner": "Example CA",
-      "record_count": 11,
-      "countries": [
-        "United States"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 6,
-        "intermediates": 5
-      },
-      "output_filename": "Example_CA.json"
-    },
-    {
       "ca_owner": "Federal Aviation Administration",
       "record_count": 1,
       "countries": [
@@ -1348,7 +1334,7 @@
     },
     {
       "ca_owner": "Government of Turkey, Kamu Sertifikasyon Merkezi (Kamu SM)",
-      "record_count": 9,
+      "record_count": 10,
       "countries": [
         "Turkey"
       ],
@@ -1356,7 +1342,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
         "untrusted_roots": 2,
-        "intermediates": 6
+        "intermediates": 7
       },
       "output_filename": "Government_of_Turkey_Kamu_Sertifikasyon_Merkezi_Kamu_SM.json"
     },

@@ -1386,7 +1386,7 @@
     "TLS EVG Audit Statement Date": "2022.04.22",
     "TLS EVG Audit Period Start Date": "2021.05.01",
     "TLS EVG Audit Period End Date": "2022.03.31",
-    "Policy Documentation": "EV CP\r\nhttps://assets-cdn.sheca.com/documents/SHECA-EV-CP-v1.6.8.pdf\r\n\r\nEV CPS\r\nhttps://assets-cdn.sheca.com/documents/SHECA-EV%20CPS-v1.5.2.pdf",
+    "Policy Documentation": "EV CP  https://assets-cdn.sheca.com/documents/SHECA-EV-CP-v1.6.8.pdf    EV CPS  https://assets-cdn.sheca.com/documents/SHECA-EV%20CPS-v1.5.2.pdf",
     "CA Document Repository": "https://www.sheca.com/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
