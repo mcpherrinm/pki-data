@@ -2765,7 +2765,7 @@
     "Apple Status": "Trusted",
     "Chrome Status": "Trusted",
     "Microsoft Status": "Trusted",
-    "Mozilla Status": "Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "AE0FC852280F1B87CEDAF73CFB84CF106EFEC88E8294253AF352ED4034460D7B",

@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10003,
+  "total_records": 10008,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -206,8 +206,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 3,
-        "untrusted_roots": 1,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 2,
         "intermediates": 35
       },
       "output_filename": "Autoridad_de_Certificacion_Firmaprofesional.json"
@@ -443,8 +443,8 @@
         "Romania"
       ],
       "aggregated_counts": {
-        "trusted_roots": 2,
-        "partially_trusted_roots": 0,
+        "trusted_roots": 1,
+        "partially_trusted_roots": 1,
         "untrusted_roots": 1,
         "intermediates": 27
       },
@@ -732,7 +732,7 @@
     },
     {
       "ca_owner": "Disig, a.s.",
-      "record_count": 12,
+      "record_count": 13,
       "countries": [
         "Slovakia"
       ],
@@ -740,7 +740,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
         "untrusted_roots": 4,
-        "intermediates": 7
+        "intermediates": 8
       },
       "output_filename": "Disig_as.json"
     },
@@ -1404,7 +1404,7 @@
     },
     {
       "ca_owner": "IdenTrust Services, LLC",
-      "record_count": 105,
+      "record_count": 109,
       "countries": [
         "United States of America"
       ],
@@ -1412,7 +1412,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 1,
         "untrusted_roots": 27,
-        "intermediates": 76
+        "intermediates": 80
       },
       "output_filename": "IdenTrust_Services_LLC.json"
     },
@@ -2179,8 +2179,8 @@
         "United States of America"
       ],
       "aggregated_counts": {
-        "trusted_roots": 10,
-        "partially_trusted_roots": 8,
+        "trusted_roots": 6,
+        "partially_trusted_roots": 12,
         "untrusted_roots": 5,
         "intermediates": 344
       },
@@ -2319,8 +2319,8 @@
         "Sweden"
       ],
       "aggregated_counts": {
-        "trusted_roots": 2,
-        "partially_trusted_roots": 8,
+        "trusted_roots": 1,
+        "partially_trusted_roots": 9,
         "untrusted_roots": 2,
         "intermediates": 75
       },
