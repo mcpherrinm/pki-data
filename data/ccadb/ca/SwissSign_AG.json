@@ -2438,7 +2438,7 @@
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
