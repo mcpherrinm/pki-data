@@ -41694,6 +41694,37 @@
   },
   {
     "CA Owner": "DigiCert",
+    "Salesforce Record ID": "0018Z00002eGfbVQAS",
+    "Certificate Name": "Bayerische SSL-CA-2014-01",
+    "Parent Salesforce Record ID": "0011J00001kW1FOQA0",
+    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
+    "Certificate Record Type": "Intermediate Certificate",
+    "Apple Status": "Not Trusted",
+    "Chrome Status": "Not Trusted",
+    "Microsoft Status": "Not Trusted",
+    "Mozilla Status": "Not Trusted",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Revocation Status": "Revoked",
+    "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
+    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
+    "Valid From (GMT)": "2014.05.06",
+    "Valid To (GMT)": "2024.05.06",
+    "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
+    "Subject Key Identifier": "bFWYxu2WS56PqPCZVFfIJfgud2Q=",
+    "Technically Constrained": "true",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "United States of America"
+  },
+  {
+    "CA Owner": "DigiCert",
     "Salesforce Record ID": "0018Z00002eGi2UQAS",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
     "Parent Salesforce Record ID": "001o000000HshFSAAZ",
@@ -41738,37 +41769,6 @@
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
     "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
-    "Valid From (GMT)": "2014.05.06",
-    "Valid To (GMT)": "2024.05.06",
-    "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
-    "Subject Key Identifier": "bFWYxu2WS56PqPCZVFfIJfgud2Q=",
-    "Technically Constrained": "true",
-    "Audits Same as Parent": "false",
-    "CP Same as Parent": "false",
-    "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "False",
-    "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
-    "Country": "United States of America"
-  },
-  {
-    "CA Owner": "DigiCert",
-    "Salesforce Record ID": "0018Z00002eGfbVQAS",
-    "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "0011J00001kW1FOQA0",
-    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
-    "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Revoked",
-    "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -53628,9 +53628,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -53688,9 +53688,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -53949,9 +53949,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -54009,9 +54009,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -54271,9 +54271,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -54331,9 +54331,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -55668,9 +55668,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -55876,9 +55876,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -56130,9 +56130,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -56292,9 +56292,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -56454,9 +56454,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -56616,9 +56616,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -56823,9 +56823,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -56985,9 +56985,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -68470,9 +68470,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -68530,9 +68530,9 @@
     "CP Effective Date": "2025.04.21",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
-    "CPS Effective Date": "2026.02.12",
+    "CPS Effective Date": "2026.04.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
