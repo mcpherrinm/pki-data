@@ -1,5 +1,9 @@
 {
   "logs": [
+    "coachandhorses2026h1.staging.certificate.transparency.goog",
+    "coachandhorses2026h2.staging.certificate.transparency.goog",
+    "coachandhorses2027h1.staging.certificate.transparency.goog",
+    "coachandhorses2027h2.staging.certificate.transparency.goog",
     "ct.googleapis.com/logs/eu1/solera2026h1",
     "ct.googleapis.com/logs/eu1/solera2026h2",
     "ct.googleapis.com/logs/eu1/solera2027h1",
