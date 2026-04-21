@@ -24272,9 +24272,7 @@
     "Subject Key Identifier": "FhSJvL3PL8UyfGbCllg9Dop/qbU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.businessid.telesec.de/rl/Telekom_Security_OV_RSA_CA_26B.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -24308,9 +24306,7 @@
     "Subject Key Identifier": "9E5RC05/oHVyMg99lyxL41zxRGQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.serverid.telesec.de/rl/Telekom_Security_OV_ECC_CA_26.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -24344,9 +24340,7 @@
     "Subject Key Identifier": "XomdnwYooWBi/+dPxKriUPnVO2I=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.serverid.telesec.de/rl/Telekom_Security_OV_RSA_CA_26A.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -25418,9 +25412,7 @@
     "Subject Key Identifier": "43LMbpWZR7Hms2FM0cur47rN3p8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://tstlser20.crl.telesec.de/rl/Telekom_Security_TLS_ECC_Root_2020.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -25454,9 +25446,7 @@
     "Subject Key Identifier": "tqeXgj10hZv3PJ+TmpV5dVKMbUc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://tstlsrr23.crl.telesec.de/rl/Telekom_Security_TLS_RSA_Root_2023.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",

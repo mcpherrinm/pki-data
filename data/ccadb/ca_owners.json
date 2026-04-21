@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10010,
+  "total_records": 10013,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -387,8 +387,8 @@
         "France"
       ],
       "aggregated_counts": {
-        "trusted_roots": 1,
-        "partially_trusted_roots": 1,
+        "trusted_roots": 0,
+        "partially_trusted_roots": 2,
         "untrusted_roots": 4,
         "intermediates": 59
       },
@@ -592,7 +592,7 @@
     },
     {
       "ca_owner": "D-TRUST",
-      "record_count": 69,
+      "record_count": 72,
       "countries": [
         "Germany"
       ],
@@ -600,7 +600,7 @@
         "trusted_roots": 2,
         "partially_trusted_roots": 7,
         "untrusted_roots": 3,
-        "intermediates": 57
+        "intermediates": 60
       },
       "output_filename": "D-TRUST.json"
     },
@@ -681,8 +681,8 @@
         "United States of America"
       ],
       "aggregated_counts": {
-        "trusted_roots": 13,
-        "partially_trusted_roots": 30,
+        "trusted_roots": 9,
+        "partially_trusted_roots": 34,
         "untrusted_roots": 67,
         "intermediates": 2540
       },
@@ -2263,8 +2263,8 @@
         "Switzerland"
       ],
       "aggregated_counts": {
-        "trusted_roots": 1,
-        "partially_trusted_roots": 3,
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
         "untrusted_roots": 4,
         "intermediates": 78
       },
