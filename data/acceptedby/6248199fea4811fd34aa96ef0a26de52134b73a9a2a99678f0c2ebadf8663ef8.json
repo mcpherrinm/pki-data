@@ -2,6 +2,8 @@
   "logs": [
     "coachandhorses2026h1.staging.certificate.transparency.goog",
     "coachandhorses2026h2.staging.certificate.transparency.goog",
+    "coachandhorses2027h1.staging.certificate.transparency.goog",
+    "coachandhorses2027h2.staging.certificate.transparency.goog",
     "log.twig.ct.letsencrypt.org/2026h1",
     "log.twig.ct.letsencrypt.org/2026h2",
     "log.twig.ct.letsencrypt.org/2027h1",
