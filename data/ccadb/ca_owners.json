@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10013,
+  "total_records": 10030,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -155,6 +155,20 @@
         "intermediates": 0
       },
       "output_filename": "Aretiico_Group_PLC_and_Aretiico_Inc.json"
+    },
+    {
+      "ca_owner": "ARRIS Technology, Inc.",
+      "record_count": 10,
+      "countries": [
+        "USA"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 4,
+        "intermediates": 6
+      },
+      "output_filename": "ARRIS_Technology_Inc.json"
     },
     {
       "ca_owner": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
@@ -521,20 +535,6 @@
       "output_filename": "Collegio_de_Registradores_Mercantile_Spanish_Property__Commerce_Registry.json"
     },
     {
-      "ca_owner": "CommScope",
-      "record_count": 10,
-      "countries": [
-        "USA"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 4,
-        "intermediates": 6
-      },
-      "output_filename": "CommScope.json"
-    },
-    {
       "ca_owner": "ComSign",
       "record_count": 21,
       "countries": [
@@ -774,7 +774,7 @@
     },
     {
       "ca_owner": "Dubai Electronic Security Center (DESC)",
-      "record_count": 13,
+      "record_count": 16,
       "countries": [
         "UAE"
       ],
@@ -782,7 +782,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
         "untrusted_roots": 3,
-        "intermediates": 10
+        "intermediates": 13
       },
       "output_filename": "Dubai_Electronic_Security_Center_DESC.json"
     },
@@ -1026,7 +1026,7 @@
     },
     {
       "ca_owner": "GlobalSign nv-sa",
-      "record_count": 799,
+      "record_count": 813,
       "countries": [
         "Belgium"
       ],
@@ -1034,7 +1034,7 @@
         "trusted_roots": 5,
         "partially_trusted_roots": 10,
         "untrusted_roots": 1,
-        "intermediates": 783
+        "intermediates": 797
       },
       "output_filename": "GlobalSign_nv-sa.json"
     },
