@@ -26,9 +26,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.04.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.05.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.08",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -62,9 +62,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.04.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.05.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.08",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -98,9 +98,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.04.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.05.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.08",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -134,9 +134,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.04.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.05.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.08",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -170,9 +170,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.04.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.05.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.08",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -206,9 +206,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.04.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-CA-TLS-CP-CPS-v1.05.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.08",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -242,9 +242,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/incommon/InCommon-IGTF-SSL-CPS-v3.0.md"
+      "https://repository.emsign.com/cps/incommon/InCommon-IGTF-SSL-CPS-v3.01.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
