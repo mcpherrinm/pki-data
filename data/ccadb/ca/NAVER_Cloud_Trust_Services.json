@@ -53,6 +53,7 @@
     "Subject Key Identifier": "b5aIRIQpJWYbWe8q8gVrB2/XIjU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "Full CRL Issued By This CA": "http://ica.navercloudtrust.com/g1rc3/Crl.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
