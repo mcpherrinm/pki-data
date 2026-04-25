@@ -416,6 +416,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/disig/Policies/blob/main/TLS/CP_CPS_Disig_TLS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -467,6 +471,12 @@
     ],
     "CP/CPS Effective Date": "2026.03.05",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/disig/Policies/blob/main/SMIME/CP_CPS_SMIME.md",
+      "https://github.com/disig/Policies/blob/main/SMIME/CP_CPS_SMIME.md",
+      "https://github.com/disig/Policies/blob/main/TLS/CP_CPS_Disig_TLS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "Test Website URL - Valid": "https://testssl-valid-r2i2.disig.sk/",
     "Test Website URL - Expired": "https://testssl-expire-r2i2.disig.sk/",
     "Test Website URL - Revoked": "https://testssl-revoked-r2i2.disig.sk/",
@@ -556,6 +566,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/disig/Policies/blob/main/SMIME/CP_CPS_SMIME.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
