@@ -447,7 +447,15 @@
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.4.pdf"
+    ],
+    "CP Effective Date": "2026.04.25",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-CorporateCA-CertificationPracticeStatement_v2.4.pdf"
+    ],
+    "CPS Effective Date": "2026.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -476,9 +484,21 @@
     "Authority Key Identifier": "csjPavLp0voFvO3BMYY9eMpww/I=",
     "Subject Key Identifier": "x7e8juhAY6wRim7m3lEiWmudkIU=",
     "Technically Constrained": "false",
-    "Audits Same as Parent": "false",
+    "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/ethaqplus/ethaqplusCAC2.crl",
+    "Auditor": "Certi-Trust",
+    "Audits Same as Parent": "true",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.4.pdf",
+    "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.4.pdf"
+    ],
+    "CP Effective Date": "2026.04.25",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-EthaqPlusCA-CertificationPracticeStatement_v1.1.pdf"
+    ],
+    "CPS Effective Date": "2026.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -507,9 +527,21 @@
     "Authority Key Identifier": "csjPavLp0voFvO3BMYY9eMpww/I=",
     "Subject Key Identifier": "r9Koy3eDr65Pk1CPPvsYXny2QpQ=",
     "Technically Constrained": "true",
-    "Audits Same as Parent": "false",
+    "Full CRL Issued By This CA": "http://ca-repository.desc.gov.ae/CRL/Timestamping/TimestampingCAC4.crl",
+    "Auditor": "Certi-Trust",
+    "Audits Same as Parent": "true",
+    "Policy Documentation": "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.4.pdf",
+    "CA Document Repository": "https://ca-repository.desc.gov.ae/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cp/DubaiPKI-DESCSubordinateCAs-CertificatePolicy_v2.4.pdf"
+    ],
+    "CP Effective Date": "2026.04.25",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://ca-repository.desc.gov.ae/Repository/source/cps/DubaiPKI-TimestampingCA-CertificationPracticeStatement_v1.7.pdf"
+    ],
+    "CPS Effective Date": "2026.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
