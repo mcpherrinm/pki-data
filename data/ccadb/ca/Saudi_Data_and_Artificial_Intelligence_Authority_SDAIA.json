@@ -158,7 +158,7 @@
     "Parent Salesforce Record ID": "001TO00000gE6GhYAK",
     "Parent Certificate Name": "Tamkeen Intermediate CA G1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Tamkeen Intermediate CA G1",
+    "Subordinate CA Owner": "Tamkeen Technologies",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -193,7 +193,7 @@
     "Parent Salesforce Record ID": "001TO00000gE6GhYAK",
     "Parent Certificate Name": "Tamkeen Intermediate CA G1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Tamkeen Intermediate CA G1",
+    "Subordinate CA Owner": "Tamkeen Technologies",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -228,7 +228,7 @@
     "Parent Salesforce Record ID": "001TO00000gE6GhYAK",
     "Parent Certificate Name": "Tamkeen Intermediate CA G1",
     "Certificate Record Type": "Intermediate Certificate",
-    "Subordinate CA Owner": "Tamkeen Intermediate CA G1",
+    "Subordinate CA Owner": "Tamkeen Technologies",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
@@ -495,8 +495,8 @@
     "Standard Audit Statement Date": "2025.09.25",
     "Standard Audit Period Start Date": "2024.07.01",
     "Standard Audit Period End Date": "2025.06.30",
-    "Policy Documentation": "https://ssl.gov.sa/repository",
-    "CA Document Repository": "https://ssl.gov.sa/repository",
+    "Policy Documentation": "https://ssl.gov.sa/repository;https://ca.nic.gov.sa",
+    "CA Document Repository": "https://ssl.gov.sa/repository;https://ca.nic.gov.sa",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CP%20v3.6.pdf"
@@ -731,8 +731,8 @@
     "TLS BR Audit Statement Date": "2025.04.27",
     "TLS BR Audit Period Start Date": "2024.02.12",
     "TLS BR Audit Period End Date": "2025.02.11",
-    "Policy Documentation": "https://ssl.gov.sa/repository",
-    "CA Document Repository": "https://ssl.gov.sa/repository",
+    "Policy Documentation": "https://ssl.gov.sa/repository;https://ca.nic.gov.sa",
+    "CA Document Repository": "https://ssl.gov.sa/repository;https://ca.nic.gov.sa",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://ssl.gov.sa/repository/SDAIA%20-%20Saudi%20National%20SSL%20CP%20v1.4.pdf"

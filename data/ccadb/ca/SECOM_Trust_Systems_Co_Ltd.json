@@ -4620,17 +4620,13 @@
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://repo1.secomtrust.net/sppca/ff/fnetcac/",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://repo1.secomtrust.net/sppca/ff/fnetcac/CP.pdf"
-    ],
-    "CP Effective Date": "2022.07.06",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://repo1.secomtrust.net/spcpp/cps/SECOM-CPS-EN.pdf"
-    ],
-    "CPS Effective Date": "2025.05.26",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/sppca/ff/fnetcac/Fnet_CA-C_CP-CPS_EN.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.28",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
