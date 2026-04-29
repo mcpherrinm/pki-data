@@ -222,9 +222,7 @@
     "Authority Key Identifier": "ZL90omYme3+mmdXjBefQpFGH64U=",
     "Subject Key Identifier": "zPJKM+oi6rbv7m92U6N98hVq4ZU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://cdp.disig.sk/subcar3i1/crl/subcar3i1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
