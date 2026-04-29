@@ -2164,6 +2164,9 @@
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "Test Website URL - Valid": "https://valid.sf-tls-issuing-dv-r1v1.catest.starfieldtech.com",
+    "Test Website URL - Expired": "https://expired.sf-tls-issuing-dv-r1v1.catest.starfieldtech.com",
+    "Test Website URL - Revoked": "https://revoked.sf-tls-issuing-dv-r1v1.catest.starfieldtech.com",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2321,6 +2324,9 @@
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "Test Website URL - Valid": "https://valid.gd-tls-issuing-dv-r1v1.catest.godaddy.com",
+    "Test Website URL - Expired": "https://expired.gd-tls-issuing-dv-r1v1.catest.godaddy.com",
+    "Test Website URL - Revoked": "https://revoked.gd-tls-issuing-dv-r1v1.catest.godaddy.com",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
