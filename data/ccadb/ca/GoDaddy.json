@@ -2353,7 +2353,9 @@
     "Authority Key Identifier": "hN2w6XHQOCa8D2RA1VDz4P9sbfM=",
     "Subject Key Identifier": "46sWLVPHmVFCEUlxiQ0uhXgynwdE2vZVh9l7pMVtYAU=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": "\"\"",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.godaddy.com/gdvmcr1v1_s7-1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
