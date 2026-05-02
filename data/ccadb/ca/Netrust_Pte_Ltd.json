@@ -148,11 +148,11 @@
     "CA Document Repository": "https://www.netrust.net/ourpractices/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.netrust.net/docs/ourpractices/CPS_2.1.4.pdf"
-    ],
-    "CPS Effective Date": "2025.02.20",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.netrust.net/docs/ourpractices/CPS_2.1.5.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.03.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://activecert.netrust.net:8444/",
     "Test Website URL - Expired": "https://expiredcert.netrust.net:8445/",

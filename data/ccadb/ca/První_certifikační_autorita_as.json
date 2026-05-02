@@ -714,11 +714,15 @@
     "TLS EVG Audit Period End Date": "2024.05.09",
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_1v174_en.pdf"
+    ],
+    "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/ACPS/HCA/CPS_RSA_1v74_EN.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cps_rsa_1v75_en.pdf"
     ],
-    "CPS Effective Date": "2025.05.25",
+    "CPS Effective Date": "2026.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-evssl.ica.cz:444/test-EVSSL-valid-ica.html",
@@ -805,6 +809,10 @@
     "S/MIME BR Audit Period End Date": "2025.08.31",
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_ecc_1v054_en.pdf"
+    ],
+    "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.ica.cz/sites/default/files/docs/2026/04/cps_ecc_1v08.pdf"
@@ -857,14 +865,14 @@
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/HCA/Kvalifikovane/EN/CP_Root_RSA_1v173_EN.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_1v174_en.pdf"
     ],
-    "CP Effective Date": "2025.04.20",
+    "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/ACPS/HCA/CPS_RSA_1v74_EN.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cps_rsa_1v75_en.pdf"
     ],
-    "CPS Effective Date": "2025.04.25",
+    "CPS Effective Date": "2026.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -912,10 +920,14 @@
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/Userfiles/files/politika/CP_Root_RSA_TLS_1v003_EN.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_tls_1v004_en.pdf"
     ],
-    "CP Effective Date": "2025.04.20",
+    "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cps_rsa_1v75_en.pdf"
+    ],
+    "CPS Effective Date": "2026.04.25",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-evssl.ica.cz:1446/test-EVSSL-valid-ica22.html",
