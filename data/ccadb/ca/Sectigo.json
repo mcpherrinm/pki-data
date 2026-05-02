@@ -16187,9 +16187,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://entrustrootcertificationauthority.sectigo.com",
     "Test Website URL - Expired": "https://entrustrootcertificationauthority.sectigo.com:442",
@@ -19970,10 +19971,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -22124,10 +22126,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -22620,10 +22623,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://aaacertificateservices.comodoca.com/",
     "Test Website URL - Expired": "https://aaacertificateservices.comodoca.com:442/",
@@ -25687,9 +25691,10 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://entrustnetcertificationauthority2048.sectigo.com",
     "Test Website URL - Expired": "https://entrustnetcertificationauthority2048.sectigo.com:442",
@@ -27134,10 +27139,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://comodocertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodocertificationauthority-ev.comodoca.com:442/",
@@ -30991,9 +30997,10 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://entrustrootcertificationauthorityg2.sectigo.com",
     "Test Website URL - Expired": "https://entrustrootcertificationauthorityg2.sectigo.com:442",
@@ -31227,10 +31234,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://comodocertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodocertificationauthority-ev.comodoca.com:442/",
@@ -50267,9 +50275,10 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://entrustrootcertificationauthorityec1.sectigo.com",
     "Test Website URL - Expired": "https://entrustrootcertificationauthorityec1.sectigo.com:442",
@@ -50503,10 +50512,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -50674,10 +50684,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://comodoecccertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodoecccertificationauthority-ev.comodoca.com:442/",
@@ -50813,10 +50824,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://usertrustecccertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://usertrustecccertificationauthority-ev.comodoca.com:442/",
@@ -50886,10 +50898,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://comodorsacertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodorsacertificationauthority-ev.comodoca.com:442/",
@@ -51301,10 +51314,11 @@
     "Certificate Practice & Policy Statement": [
       "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
       "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://usertrustrsacertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://usertrustrsacertificationauthority-ev.comodoca.com:442/",
@@ -52757,9 +52771,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://sectigopublicserverauthenticationrootr46-ev.sectigo.com/",
     "Test Website URL - Expired": "https://sectigopublicserverauthenticationrootr46-ev.sectigo.com:442/",
@@ -52919,9 +52934,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.0.pdf"
+      "https://www.sectigo.com/uploads/legal/Sectigo-TLS-CPCPS-v6.2.1.pdf",
+      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.07",
+    "CP/CPS Effective Date": "2026.04.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://sectigopublicserverauthenticationroote46-ev.sectigo.com/",
     "Test Website URL - Expired": "https://sectigopublicserverauthenticationroote46-ev.sectigo.com:442/",
