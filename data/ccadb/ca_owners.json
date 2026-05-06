@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10063,
+  "total_records": 10064,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -214,7 +214,7 @@
     },
     {
       "ca_owner": "Autoridad de Certificacion Firmaprofesional",
-      "record_count": 39,
+      "record_count": 40,
       "countries": [
         "Spain"
       ],
@@ -222,7 +222,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 2,
-        "intermediates": 35
+        "intermediates": 36
       },
       "output_filename": "Autoridad_de_Certificacion_Firmaprofesional.json"
     },
@@ -1697,7 +1697,7 @@
       "output_filename": "National_Authority_for_Digital_Certification.json"
     },
     {
-      "ca_owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+      "ca_owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
       "record_count": 3,
       "countries": [
         "Sri Lanka"
