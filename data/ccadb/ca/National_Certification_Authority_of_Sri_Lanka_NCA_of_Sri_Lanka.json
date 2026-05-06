@@ -1,10 +1,10 @@
 [
   {
-    "CA Owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "CA Owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Salesforce Record ID": "0014o00001mHqJzAAK",
     "Certificate Name": "National Certification Authority of Sri Lanka - G1",
     "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
-    "Parent Certificate Name": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "Parent Certificate Name": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
@@ -29,11 +29,11 @@
     "Country": "Sri Lanka"
   },
   {
-    "CA Owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "CA Owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Salesforce Record ID": "001TO00000ijHzSYAU",
     "Certificate Name": "National Certification Authority of Sri Lanka TLS Root CA - G1",
     "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
-    "Parent Certificate Name": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "Parent Certificate Name": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
@@ -75,11 +75,11 @@
     "Country": "Sri Lanka"
   },
   {
-    "CA Owner": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "CA Owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Salesforce Record ID": "001TO00000ijKSgYAM",
     "Certificate Name": "National Certification Authority of Sri Lanka DS Root CA - G1",
     "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
-    "Parent Certificate Name": "National Certification Authority of Sri Lanka (“NCA of Sri Lanka”)",
+    "Parent Certificate Name": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
