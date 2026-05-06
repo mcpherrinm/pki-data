@@ -3859,7 +3859,6 @@
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
     "CPS Effective Date": "2026.04.01",
@@ -4756,7 +4755,6 @@
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
     "CPS Effective Date": "2026.04.01",
@@ -4766,6 +4764,10 @@
     ],
     "CP/CPS Effective Date": "2026.04.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.29",
     "Test Website URL - Valid": "https://valid-certum-ctnca.certificates.certum.pl",
     "Test Website URL - Expired": "https://expired-certum-ctnca.certificates.certum.pl",
     "Test Website URL - Revoked": "https://revoked-certum-ctnca.certificates.certum.pl",
@@ -6774,7 +6776,6 @@
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
     "CPS Effective Date": "2026.04.01",
@@ -6784,6 +6785,10 @@
     ],
     "CP/CPS Effective Date": "2026.04.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.29",
     "Test Website URL - Valid": "https://valid-ctrca.certificates.certum.pl/",
     "Test Website URL - Expired": "https://expired-ctrca.certificates.certum.pl/",
     "Test Website URL - Revoked": "https://revoked-ctrca.certificates.certum.pl/",
@@ -6853,7 +6858,6 @@
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
     "CPS Effective Date": "2026.04.01",
@@ -6863,6 +6867,10 @@
     ],
     "CP/CPS Effective Date": "2026.04.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.29",
     "Test Website URL - Valid": "https://valid-cec384ca.certificates.certum.pl",
     "Test Website URL - Expired": "https://expired-cec384ca.certificates.certum.pl",
     "Test Website URL - Revoked": "https://revoked-cec384ca.certificates.certum.pl",
@@ -6931,7 +6939,6 @@
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
     "CPS Effective Date": "2026.04.01",
@@ -7032,7 +7039,6 @@
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf",
       "https://www.certum.eu/en/wp-content/uploads/2026/03/Certification-Practice-Statement-of-Certum-Certification-Services_v8.3.pdf"
     ],
     "CPS Effective Date": "2026.04.01",
@@ -7042,6 +7048,10 @@
     ],
     "CP/CPS Effective Date": "2026.04.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.29",
     "Test Website URL - Valid": "https://valid-certum-ctnca2.certificates.certum.pl",
     "Test Website URL - Expired": "https://expired-certum-ctnca2.certificates.certum.pl",
     "Test Website URL - Revoked": "https://revoked-certum-ctnca2.certificates.certum.pl",
@@ -7095,10 +7105,6 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7149,10 +7155,6 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7208,16 +7210,16 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.pdf"
     ],
     "CP/CPS Effective Date": "2026.04.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.29",
     "Test Website URL - Valid": "https://valid-certumtlseccrootca.certificates.certum.pl/",
     "Test Website URL - Expired": "https://expired-certumtlseccrootca.certificates.certum.pl/",
     "Test Website URL - Revoked": "https://revoked-certumtlseccrootca.certificates.certum.pl/",
@@ -7269,10 +7271,6 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7318,10 +7316,6 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7372,10 +7366,6 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -7431,16 +7421,16 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.pdf"
     ],
     "CP/CPS Effective Date": "2026.04.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.certum.pl/cp-cps-tls/certum-cp-cps-tls-certificates-en-1-0-0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.29",
     "Test Website URL - Valid": "https://valid-certumtlsrsarootca.certificates.certum.pl/",
     "Test Website URL - Expired": "https://expired-certumtlsrsarootca.certificates.certum.pl/",
     "Test Website URL - Revoked": "https://revoked-certumtlsrsarootca.certificates.certum.pl/",
@@ -7487,10 +7477,6 @@
     ],
     "CP Effective Date": "2025.12.01",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.certum.eu/en/wp-content/uploads/2026/01/Certification-Practice-Statement-of-Certum-Certification-Services_v8.2.pdf"
-    ],
-    "CPS Effective Date": "2026.02.02",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
