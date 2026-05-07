@@ -1470,10 +1470,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf",
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.1.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.21",
+    "CP/CPS Effective Date": "2026.05.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.1.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.15",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1536,10 +1541,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf"
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.0.pdf",
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.1.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.21",
+    "CP/CPS Effective Date": "2026.05.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.certainly.com/repository/cp-cps/CertainlyCP-CPS_v2.1.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.15",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

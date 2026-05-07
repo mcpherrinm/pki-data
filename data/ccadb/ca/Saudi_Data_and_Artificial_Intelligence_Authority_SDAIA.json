@@ -406,8 +406,8 @@
     "Full CRL Issued By This CA": "http://repository.emdha.sa/crls/esignca.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://emdha.sa/en/repository",
-    "CA Document Repository": "https://emdha.sa/en/repository",
+    "Policy Documentation": "https://emdha.sa/repository",
+    "CA Document Repository": "https://emdha.sa/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://emdha.sa/en/repository"
@@ -419,6 +419,10 @@
     ],
     "CPS Effective Date": "2022.02.01",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://emdha.sa/Downloads/Signed_L2-emdha_eSign_CA_CP-CPS_v24_18MAR2026.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

@@ -412,7 +412,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/e2s07/f61c0c1a-1702-440e-ad48-618ed6a210c3.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -448,7 +448,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/e2s08/05fd8d89-eb60-4a12-9928-16819779749d.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -484,7 +484,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/r2s07/5ecb3be7-b64b-4cc2-b268-941cf80c7c55.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -520,7 +520,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/e3s07/dc96594f-9538-4628-b89e-28f66e90216f.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -556,7 +556,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/e3s11/09de7e8e-0417-4b5c-bf76-345d2e42dd4d.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -592,7 +592,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/e2s06/03ea7bfe-350f-4307-9fe4-2c352191b020.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -628,7 +628,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/e3s09/b8a4415a-ab38-4856-b3d5-0f88c35129e3.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -664,7 +664,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/r2s08/2d6f5013-459d-4fb2-ad0d-35c49acff419.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -700,7 +700,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/e3s13/8d9973aa-cdc9-42e4-8486-04cd4c53e228.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -736,7 +736,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/r2s10/c61fb2fd-9f30-4c65-be63-f7dcde85c2d1.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -772,7 +772,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/e3s10/570a2ddc-e634-44f6-aca7-45d64e419dc3.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -808,7 +808,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/e3s12/c9923560-364c-450c-a0a8-8759d979bfcd.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -844,7 +844,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/r2s06/d542be06-efcf-498e-b2d6-4fa2fa079934.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -880,7 +880,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/e3s06/f1e23d2e-95ad-4d82-ab8f-ef7aa539fbf9.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -916,7 +916,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/e2s09/fd099c4c-9273-4c7e-b7ca-402274f4343a.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -952,7 +952,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1001.amazontrust.com/e3s08/b1e836ab-ad10-4f5b-833d-79968f0fb745.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -988,7 +988,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/r2s09/708da32e-638c-450d-823a-a201f72fad8b.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -1024,7 +1024,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2001.amazontrust.com/r2s11/fa8af87a-1123-4e2c-9523-47693c3add1b.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
