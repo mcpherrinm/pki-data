@@ -257,10 +257,18 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://acedicom.edicomgroup.com/caedicom04.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "true",
+    "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://acedicom.edicomgroup.com/eu/CAEDICOM%20-%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n.pdf"
+    ],
+    "CP Effective Date": "2026.03.13",
+    "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://acedicom.edicomgroup.com/eu/CAEDICOM-PoliticaCertificadosTLS.pdf"
+    ],
+    "CPS Effective Date": "2026.04.27",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
