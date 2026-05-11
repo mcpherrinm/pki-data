@@ -362,7 +362,8 @@
     "Full CRL Issued By This CA": "http://repository.emdha.sa/crls/L1CA19.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://emdha.sa/en/repository/",
+    "Policy Documentation": "https://emdha.sa/repository/",
+    "CA Document Repository": "https://emdha.sa/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
@@ -371,9 +372,9 @@
     "CPS Effective Date": "2022.10.21",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://emdha.sa/Downloads/L2_-_emdha_DSC_CA_CP-CPS_v11_21OCT22.pdf"
+      "https://www.emdha.sa/Downloads/Signed_L2-emdh_DSC_CA_CP-CPS_v12_18MAR2026.pdf"
     ],
-    "CP/CPS Effective Date": "2022.10.21",
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -454,7 +455,8 @@
     "Full CRL Issued By This CA": "http://repository.emdha.sa/crls/L1CA19.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "true",
-    "Policy Documentation": "https://emdha.sa/en/repository/",
+    "Policy Documentation": "https://www.emdha.sa/repository",
+    "CA Document Repository": "https://www.emdha.sa/repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://emdha.sa/images/Repository/PoliciesandAgreement/Signed_L2_-_emdha_TSA_CA_CP-CPS_v10_28SEP22.pdf"
@@ -466,6 +468,10 @@
     ],
     "CPS Effective Date": "2022.09.28",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.emdha.sa/Downloads/Signed_L2-emdha_TSA_CA_CP-CPS_v11_18MAR2026.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -604,6 +610,10 @@
     ],
     "CPS Effective Date": "2022.09.28",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.emdha.sa/Downloads/Signed_L1-BTC_Licensed_CA_CP-CPS_v13_18MAR2026.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.03.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -645,14 +655,14 @@
     "CA Document Repository": "https://www.sirar.com.sa/repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.sirar.com.sa/repository/"
+      "https://www.sirar.com.sa/wp-content/uploads/2026/04/sirar-Issuing-CAs-Certificate-Policy.pdf"
     ],
-    "CP Effective Date": "2024.12.30",
+    "CP Effective Date": "2026.02.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.sirar.com.sa/repository/"
+      "https://www.sirar.com.sa/wp-content/uploads/2026/04/sirar-Intermediary-CA-Certification-Practice-Statement.pdf"
     ],
-    "CPS Effective Date": "2024.12.30",
+    "CPS Effective Date": "2026.02.08",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
