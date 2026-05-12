@@ -4422,14 +4422,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.05.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.3.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.09",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -4485,14 +4485,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.2.pdf"
+      "https://repository.trustasia.com/repo/cps/TrustAsia-Global-CP-CPS_EN_V2.1.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.09",
+    "CP/CPS Effective Date": "2026.05.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.2.adoc"
+      "https://repository.trustasia.com/repo/cps/adoc/TrustAsia-Global-CP-CPS_EN_V2.1.3.adoc"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.09",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.09",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -6064,6 +6064,41 @@
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
+    "Country": "Polska"
+  },
+  {
+    "CA Owner": "Asseco Data Systems S.A.",
+    "Salesforce Record ID": "001TO00000klthiYAA",
+    "Certificate Name": "IKARUS mail.security SMIME G1 R36 CA",
+    "Parent Salesforce Record ID": "001o000000mNjDoAAK",
+    "Parent Certificate Name": "Certum Trusted Network CA 2",
+    "Certificate Record Type": "Intermediate Certificate",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Revocation Status": "Not Revoked",
+    "SHA-256 Fingerprint": "4CE86EC569454765D871D05E6D8C5B0B2102B4D02B0AA132F348A5F54A73D46B",
+    "Parent SHA-256 Fingerprint": "B676F2EDDAE8775CD36CB0F63CD1D4603961F49E6265BA013A2F0307B6D0B804",
+    "Valid From (GMT)": "2026.05.06",
+    "Valid To (GMT)": "2036.04.23",
+    "Authority Key Identifier": "tqFUOQLDoD+Oirz61PgcptE6Dv0=",
+    "Subject Key Identifier": "HC5skjmcP9yYpd7vD4QpEPlkwns=",
+    "Technically Constrained": "false",
+    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
+    "Audits Same as Parent": "true",
+    "CP Same as Parent": "true",
+    "CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "Polska"
   },
   {
