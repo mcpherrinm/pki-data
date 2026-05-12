@@ -1533,7 +1533,7 @@
     "Test Website URL - Expired": "https://ss12-expired.managedpki.ne.jp",
     "Test Website URL - Revoked": "https://ss12-revoked.managedpki.ne.jp",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Japan",
