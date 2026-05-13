@@ -26885,6 +26885,7 @@
     "Valid To (GMT)": "2046.03.24",
     "Subject Key Identifier": "plk86WYwLhKZVRGmgO4eCPx8uJk=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/timestamproote46.crl",
     "Audits Same as Parent": "false",
     "Policy Documentation": "Our policy documentation can be found publicly on our website at: https://www.globalsign.com/en/repository/. Our policy documentation is written in English.",
     "CA Document Repository": "https://www.globalsign.com/en/repository",

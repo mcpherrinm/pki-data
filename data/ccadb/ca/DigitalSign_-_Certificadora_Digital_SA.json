@@ -176,6 +176,10 @@
     "CPS Effective Date": "2025.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.07.16",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -291,6 +295,10 @@
     "CPS Effective Date": "2025.07.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2025.07.16",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
