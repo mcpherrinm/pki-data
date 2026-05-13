@@ -2341,7 +2341,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -2476,7 +2476,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -2611,7 +2611,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -2746,7 +2746,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -2881,7 +2881,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -3184,7 +3184,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -7169,13 +7169,11 @@
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.1.9.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.0.pdf"
     ],
     "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
     "CPS Effective Date": "2026.04.13",
@@ -7279,13 +7277,11 @@
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.1.9.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.0.pdf"
     ],
     "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.5.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
     ],
     "CPS Effective Date": "2026.04.13",

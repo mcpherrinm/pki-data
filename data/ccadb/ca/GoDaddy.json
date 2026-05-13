@@ -2434,7 +2434,8 @@
     "JSON Array of Partitioned CRLs": [
       "http://crl.godaddy.com/gdr1v1dv_s1-1.crl",
       "http://crl.godaddy.com/gdr1v1dv_s1-2.crl",
-      "http://crl.godaddy.com/gdr1v1dv_s1-3.crl"
+      "http://crl.godaddy.com/gdr1v1dv_s1-3.crl",
+      "http://crl.godaddy.com/gdr1v1dv_s1-4.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
