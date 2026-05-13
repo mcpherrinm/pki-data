@@ -609,7 +609,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/hwovtlsrsa2026.crl",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
