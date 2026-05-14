@@ -6087,9 +6087,7 @@
     "Subject Key Identifier": "HC5skjmcP9yYpd7vD4QpEPlkwns=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://ikarusmailsecuritysmimeg1r36ca.crl.certum.pl/ikarusmailsecuritysmimeg1r36ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
