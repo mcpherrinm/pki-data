@@ -1570,7 +1570,7 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2752,14 +2752,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://qtlsca2018-valid.e-szigno.hu/",
@@ -2856,14 +2856,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://qtlsca2018-valid.e-szigno.hu",
@@ -3348,14 +3348,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3399,14 +3399,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3450,14 +3450,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3622,14 +3622,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4431,14 +4431,14 @@
     "CA Document Repository": "https://e-szigno.hu/documents-and-policies",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/hr--all--all--EN--v3.20.pdf"
     ],
-    "CP Effective Date": "2026.04.02",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.19.pdf"
+      "https://static.e-szigno.hu/docs/szsz--all--all--EN--v3.20.pdf"
     ],
-    "CPS Effective Date": "2026.04.02",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://eqtlsca2018-valid.e-szigno.hu",
