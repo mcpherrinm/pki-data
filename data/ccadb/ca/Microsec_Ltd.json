@@ -3146,9 +3146,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/microsec/regulations/releases/download/v3.19/hrsz--all--ssl--EN.md"
+      "https://github.com/microsec/regulations/releases/download/v3.20/hrsz--all--ssl--EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.02",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.13",
     "Test Website URL - Valid": "https://eqtlsca2023-valid.e-szigno.hu",
     "Test Website URL - Expired": "https://eqtlsca2023-expired.e-szigno.hu",
     "Test Website URL - Revoked": "https://eqtlsca2023-revoked.e-szigno.hu",
@@ -3301,9 +3301,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/microsec/regulations/releases/download/v3.19/hrsz--all--ssl--EN.md"
+      "https://github.com/microsec/regulations/releases/download/v3.20/hrsz--all--ssl--EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.02",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.13",
     "Test Website URL - Valid": "https://eqtlsca2025-valid.e-szigno.hu",
     "Test Website URL - Expired": "https://eqtlsca2025-expired.e-szigno.hu",
     "Test Website URL - Revoked": "https://eqtlsca2025-revoked.e-szigno.hu",
@@ -3509,9 +3509,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/microsec/regulations/releases/download/v3.19/hrsz--all--ssl--EN.md"
+      "https://github.com/microsec/regulations/releases/download/v3.20/hrsz--all--ssl--EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.02",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.13",
     "Test Website URL - Valid": "https://ovtlsca2025-valid.e-szigno.hu",
     "Test Website URL - Expired": "https://ovtlsca2025-expired.e-szigno.hu",
     "Test Website URL - Revoked": "https://ovtlsca2025-revoked.e-szigno.hu",
