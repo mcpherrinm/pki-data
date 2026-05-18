@@ -19191,14 +19191,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en26.pdf"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en27.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.05.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en26.md"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en27.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.15",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
