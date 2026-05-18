@@ -658,7 +658,8 @@
     "JSON Array of Partitioned CRLs": [
       "http://crl.r2001.amazontrust.com/e3s11/09de7e8e-0417-4b5c-bf76-345d2e42dd4d.crl",
       "http://crl.r2001.amazontrust.com/e3s11/28LuxnxAChm.crl",
-      "http://crl.r2001.amazontrust.com/e3s11/C4MZf5qydhj.crl"
+      "http://crl.r2001.amazontrust.com/e3s11/C4MZf5qydhj.crl",
+      "http://crl.r2001.amazontrust.com/e3s11/6Ek27oXKXlZ.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -981,7 +982,8 @@
     "JSON Array of Partitioned CRLs": [
       "http://crl.r2001.amazontrust.com/e3s10/570a2ddc-e634-44f6-aca7-45d64e419dc3.crl",
       "http://crl.r2001.amazontrust.com/e3s10/He5ZOY0hVVY.crl",
-      "http://crl.r2001.amazontrust.com/e3s10/HHY3efm0mrb.crl"
+      "http://crl.r2001.amazontrust.com/e3s10/HHY3efm0mrb.crl",
+      "http://crl.r2001.amazontrust.com/e3s10/FqGb3OnItlb.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -1055,7 +1057,8 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1001.amazontrust.com/r2s06/d542be06-efcf-498e-b2d6-4fa2fa079934.crl"
+      "http://crl.r1001.amazontrust.com/r2s06/d542be06-efcf-498e-b2d6-4fa2fa079934.crl",
+      "http://crl.r1001.amazontrust.com/r2s06/ACfv06hp1il.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
