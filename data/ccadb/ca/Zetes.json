@@ -8,7 +8,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
     "Revocation Status": "Not Revoked",
@@ -19,7 +19,6 @@
     "Authority Key Identifier": "OLxcMFTc4rsg7+5vQaAxblz9i3U=",
     "Subject Key Identifier": "4rTbX2oPAlBU1R3v0nZyciGVRis=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Time Stamping",
     "Full CRL Issued By This CA": "https://crl.tsp.zetes.com/ZETESTSPQUALIFIEDCA001.crl",
     "Auditor": "LSTI",
     "Audits Same as Parent": "true",
@@ -30,7 +29,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Belgium"
   },
   {
