@@ -1954,6 +1954,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -2124,6 +2128,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -3217,11 +3225,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md"
-    ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
