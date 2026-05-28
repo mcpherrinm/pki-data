@@ -67,6 +67,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://nca.gov.lk/policies/CP_CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2025.05.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

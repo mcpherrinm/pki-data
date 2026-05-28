@@ -683,16 +683,18 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_Cloud_PKI_CPS_v4.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_Cloud_PKI_CPS_v4.3.pdf",
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.5.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.05.13",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1432,9 +1434,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
@@ -1690,9 +1693,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
@@ -1750,9 +1754,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
@@ -1994,9 +1999,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
@@ -2272,9 +2278,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
@@ -2519,15 +2526,17 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.5.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.05.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2616,9 +2625,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
@@ -2783,9 +2793,10 @@
     "CA Document Repository": "https://www.bundesdruckerei.de/en/Repository",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"

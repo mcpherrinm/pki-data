@@ -4778,9 +4778,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-sgca.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-sgca-rsa.sslsecuretrust.com",
@@ -4911,9 +4912,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-stca-rsa.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-stca-rsa.sslsecuretrust.com",
@@ -9336,9 +9338,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-xgca.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-xgca-rsa.sslsecuretrust.com",
@@ -10829,10 +10832,10 @@
     "Parent Salesforce Record ID": "0018Z00002oh4CDQAY",
     "Parent Certificate Name": "SSL.com TLS Transit ECC CA R2",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
-    "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "90EB56A4A90DC5EC9E7C0C7B064FF5DE141834C13B2744C0BE153912BEC45CCE",
@@ -10850,7 +10853,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
@@ -11792,6 +11795,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-ecc.ssl.com/",
     "Test Website URL - Expired": "https://expired-ecc-ev.ssl.com",
@@ -11860,6 +11867,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-dv-ecc.ssl.com",
     "Test Website URL - Expired": "https://expired-ecc-dv.ssl.com",
@@ -11911,6 +11922,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "True",
@@ -11974,6 +11989,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-dv-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-rsa-dv.ssl.com",
@@ -12135,6 +12154,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-ev-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-rsa-ev.ssl.com",
@@ -12575,9 +12598,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-twgca-ecc-p384.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-twgca-ecc-p384.sslsecuretrust.com",
@@ -12646,9 +12670,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-twgca-ecc-p256.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-twgca-ecc-p256.sslsecuretrust.com",
@@ -12717,9 +12742,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-twgca-rsa.sslsecuretrust.com",
     "Test Website URL - Expired": "https://expired-twgca-rsa.sslsecuretrust.com",
@@ -12778,6 +12804,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12827,6 +12857,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12870,6 +12904,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -12923,6 +12961,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-root-2022-rsa.ssl.com",
     "Test Website URL - Expired": "https://expired-root-2022-rsa.ssl.com",
@@ -12981,6 +13023,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -13035,6 +13081,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://test-root-2022-ecc.ssl.com",
     "Test Website URL - Expired": "https://expired-root-2022-ecc.ssl.com",
@@ -13088,6 +13138,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -13131,6 +13185,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -13179,6 +13237,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -13227,6 +13289,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -13280,9 +13346,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vct1catest.vikingcloud.com",
     "Test Website URL - Expired": "https://vct1catest-expired.vikingcloud.com",
@@ -13339,9 +13406,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf"
+      "https://certs.securetrust.com/CA/VikingCloudCPS_84.pdf",
+      "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2025.11.25",
+    "CP/CPS Effective Date": "2026.05.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://vct1p3catest.vikingcloud.com",
     "Test Website URL - Expired": "https://vct1p3catest-expired.vikingcloud.com",
