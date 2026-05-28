@@ -2639,9 +2639,10 @@
       "https://repository.swisssign.com/SwissSign_CP_NCP.pdf",
       "https://repository.swisssign.com/SwissSign_CP_NCP_extended.pdf",
       "https://repository.swisssign.com/SwissSign_CP_OV.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf",
       "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf"
     ],
-    "CP Effective Date": "2025.08.07",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
@@ -3104,9 +3105,10 @@
     "CA Document Repository": "https://www.swisssign.com/en/support/repository.html",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf",
       "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf"
     ],
-    "CP Effective Date": "2025.05.15",
+    "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
