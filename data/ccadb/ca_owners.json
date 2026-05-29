@@ -1032,8 +1032,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 5,
-        "partially_trusted_roots": 10,
-        "untrusted_roots": 4,
+        "partially_trusted_roots": 11,
+        "untrusted_roots": 3,
         "intermediates": 800
       },
       "output_filename": "GlobalSign_nv-sa.json"
