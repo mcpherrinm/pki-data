@@ -4294,9 +4294,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.4.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -4364,9 +4364,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.3.md"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.4.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -4819,10 +4819,10 @@
     "Parent Salesforce Record ID": "0011J00001SDOe7QAH",
     "Parent Certificate Name": "Certum EC-384 CA",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Not Trusted",
+    "Apple Status": "Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "749D9CDF01084CB5DA49DDEF11E193ECFA6530E67419302C4D945BAF74342145",
