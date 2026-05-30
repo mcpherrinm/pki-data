@@ -6978,7 +6978,8 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Japan",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication",
+    "EV OIDs for Root Cert": "2.23.140.1.1"
   },
   {
     "CA Owner": "SECOM Trust Systems Co., Ltd.",
