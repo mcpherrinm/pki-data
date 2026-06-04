@@ -669,7 +669,7 @@
     "Microsoft Status": "Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Removed",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "EA9A43515E138FF7782FCACDB9C7E8E1A61CFD1D17096ED5DDD1F400D02B03F5",
     "Parent SHA-256 Fingerprint": "EAA962C4FA4A6BAFEBE415196D351CCD888D4F53F3FA8AE6D7C466A94E6042BB",
     "Valid From (GMT)": "2018.01.30",

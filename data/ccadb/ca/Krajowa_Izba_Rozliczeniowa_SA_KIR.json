@@ -375,9 +375,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://bugzilla.mozilla.org/attachment.cgi?id=9557449"
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/6/2/232f25825ac9a6eaa4a5c312179f3ce6/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_1_20260602_sig.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.18",
+    "CP/CPS Effective Date": "2026.06.02",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -438,16 +438,16 @@
     "Authority Key Identifier": "NddNZQIbT5HTCrqvojqm7TIRt98=",
     "Subject Key Identifier": "NddNZQIbT5HTCrqvojqm7TIRt98=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca4_smime.crl",
+    "Full CRL Issued By This CA": "http://cdp.elektronicznypodpis.pl/root_ca5_smime.crl",
     "Audits Same as Parent": "false",
     "CA Document Repository": "https://www.elektronicznypodpis.pl/en/support/legal-basis",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/4/2/38ff16ea59ab1c6523391f3ec47e4326/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_SMIME_1_0_20260401_sig.pdf"
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/6/2/c3bb86f87f0a71fac02a20b4231ae1a2/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_SMIME_certificates_1_1_20260602_sig.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.01",
+    "CP/CPS Effective Date": "2026.06.02",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
