@@ -2551,7 +2551,8 @@
       "http://crl.r1001.amazontrust.com/e3s08/DdLJiXb71ys.crl",
       "http://crl.r1001.amazontrust.com/e3s08/8HmtEB3vsCA.crl",
       "http://crl.r1001.amazontrust.com/e3s08/FNJi8DoUCQQ.crl",
-      "http://crl.r1001.amazontrust.com/e3s08/9pVOcA01Wq.crl"
+      "http://crl.r1001.amazontrust.com/e3s08/9pVOcA01Wq.crl",
+      "http://crl.r1001.amazontrust.com/e3s08/IaETk7gf4RO.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
