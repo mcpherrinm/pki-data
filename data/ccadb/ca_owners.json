@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10093,
+  "total_records": 10098,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1726,7 +1726,7 @@
     },
     {
       "ca_owner": "NAVER Cloud Trust Services",
-      "record_count": 13,
+      "record_count": 17,
       "countries": [
         "Republic of Korea (South Korea)"
       ],
@@ -1734,7 +1734,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 2,
         "untrusted_roots": 0,
-        "intermediates": 10
+        "intermediates": 14
       },
       "output_filename": "NAVER_Cloud_Trust_Services.json"
     },
@@ -2034,14 +2034,14 @@
     },
     {
       "ca_owner": "Sectigo",
-      "record_count": 1534,
+      "record_count": 1535,
       "countries": [
         "United Kingdom"
       ],
       "aggregated_counts": {
         "trusted_roots": 6,
         "partially_trusted_roots": 20,
-        "untrusted_roots": 11,
+        "untrusted_roots": 12,
         "intermediates": 1497
       },
       "output_filename": "Sectigo.json"

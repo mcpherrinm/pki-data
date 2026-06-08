@@ -674,14 +674,14 @@
     "CA Document Repository": "https://www.gdca.com.cn/customer_service/knowledge_universe/certificate-services/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.gdca.com.cn/export/sites/default/customer_service/.content/attachments/GDCACPV3.6.pdf"
+      "https://www.gdca.com.cn/export/sites/default/customer_service/.content/attachments/GDCACPV3.7.pdf"
     ],
-    "CP Effective Date": "2026.03.13",
+    "CP Effective Date": "2026.06.05",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.gdca.com.cn/export/sites/default/customer_service/.content/attachments/GDCACPSV6.5.pdf"
+      "https://www.gdca.com.cn/export/sites/default/customer_service/.content/attachments/GDCACPSV6.6.pdf"
     ],
-    "CPS Effective Date": "2026.03.13",
+    "CPS Effective Date": "2026.06.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ev-ssl-test-1.95105813.cn/",
