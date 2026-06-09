@@ -180,6 +180,10 @@
     "TLS EVG Audit Period End Date": "2019.03.22",
     "CA Document Repository": "https://www.anf.es/en/repositorio-legal/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2026/06/CP-for-SSL-and-Electronic-Headquarters-v.3.3.9.pdf"
+    ],
+    "CP Effective Date": "2026.06.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://anf.es/wp-content/uploads/2026/06/Certification-Practices-Statement-ANF-AC-v.3.13.pdf"
@@ -236,6 +240,10 @@
     "TLS EVG Audit Period End Date": "2024.03.20",
     "CA Document Repository": "https://www.anf.es/en/repositorio-legal/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2026/06/CP-for-SSL-and-Electronic-Headquarters-v.3.3.9.pdf"
+    ],
+    "CP Effective Date": "2026.06.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://anf.es/wp-content/uploads/2026/06/Certification-Practices-Statement-ANF-AC-v.3.13.pdf"
@@ -287,6 +295,10 @@
     "TLS EVG Audit Period End Date": "2025.03.20",
     "CA Document Repository": "https://www.anf.es/en/repositorio-legal/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2026/06/CP-for-SSL-and-Electronic-Headquarters-v.3.3.9.pdf"
+    ],
+    "CP Effective Date": "2026.06.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://anf.es/wp-content/uploads/2026/06/Certification-Practices-Statement-ANF-AC-v.3.13.pdf"
@@ -338,6 +350,10 @@
     "TLS EVG Audit Period End Date": "2025.03.20",
     "CA Document Repository": "https://www.anf.es/en/repositorio-legal/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://anf.es/wp-content/uploads/2026/06/CP-for-SSL-and-Electronic-Headquarters-v.3.3.9.pdf"
+    ],
+    "CP Effective Date": "2026.06.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://anf.es/wp-content/uploads/2026/06/Certification-Practices-Statement-ANF-AC-v.3.13.pdf"

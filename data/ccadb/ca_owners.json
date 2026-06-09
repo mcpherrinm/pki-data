@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10098,
+  "total_records": 10103,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1628,15 +1628,15 @@
     },
     {
       "ca_owner": "Microsec Ltd.",
-      "record_count": 120,
+      "record_count": 125,
       "countries": [
         "Hungary"
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
         "partially_trusted_roots": 2,
-        "untrusted_roots": 8,
-        "intermediates": 109
+        "untrusted_roots": 10,
+        "intermediates": 112
       },
       "output_filename": "Microsec_Ltd.json"
     },
