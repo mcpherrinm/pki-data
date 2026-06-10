@@ -910,11 +910,11 @@
     "TLS EVG Audit Statement Date": "2026.04.02",
     "TLS EVG Audit Period Start Date": "2025.06.07",
     "TLS EVG Audit Period End Date": "2026.03.31",
-    "Code Signing Audit URL": "https://cdn1-www.bureauveritas.it/sites/g/files/zypfnx256/files/media/document/25_CAB-Forum_AAL_Actalis_CS-BR_Audit_E_V3.2.pdf",
+    "Code Signing Audit URL": "https://pceb.tayllorcox.cz/files/2026_Actalis_AAL_CS-BR_Audit_v2_signedTS.pdf",
     "Code Signing Audit Type": "ETSI EN 319 411",
-    "Code Signing Audit Statement Date": "2025.06.16",
-    "Code Signing Audit Period Start Date": "2024.06.07",
-    "Code Signing Audit Period End Date": "2025.06.06",
+    "Code Signing Audit Statement Date": "2026.04.02",
+    "Code Signing Audit Period Start Date": "2025.06.07",
+    "Code Signing Audit Period End Date": "2026.03.31",
     "S/MIME BR Audit URL": "https://pceb.tayllorcox.cz/files/2026_Actalis_AAL_SMIME-BR_Audit_v2_signedTS.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
     "S/MIME BR Audit Statement Date": "2026.04.02",
@@ -1967,9 +1967,10 @@
     "Certificate Practice & Policy Statement": [
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
-      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+      "https://www.actalis.com/cps-for-tsl-server-certificates"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.05.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.ssltest-dv-ecc-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-ecc-2025.actalis.it/",
@@ -2059,9 +2060,10 @@
     "Certificate Practice & Policy Statement": [
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
       "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
-      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
+      "https://www.actalis.com/cps-for-ssl-server-and-code-signing",
+      "https://www.actalis.com/cps-for-tsl-server-certificates"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.05.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.ssltest-dv-rsa-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-rsa-2025.actalis.it/",
