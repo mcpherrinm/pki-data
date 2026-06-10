@@ -172,6 +172,7 @@
     "Subject Key Identifier": "CJC8fM+Nq8Xv7w7MnLJEtugAJ6o=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
+    "Full CRL Issued By This CA": "http://crl.sirar.com.sa/CRL/sirar_tsca.crl",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.sirar.com.sa/repository/",
     "CA Document Repository": "https://www.sirar.com.sa/repository/",

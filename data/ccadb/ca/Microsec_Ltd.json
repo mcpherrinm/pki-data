@@ -3793,7 +3793,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Not Trusted",
+    "Microsoft Status": "Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",

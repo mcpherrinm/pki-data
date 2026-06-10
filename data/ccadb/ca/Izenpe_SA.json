@@ -228,7 +228,7 @@
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
@@ -355,7 +355,7 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.izenpe.com/cgi-bin/crltecnica2",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
+    "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
@@ -682,8 +682,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.8.pdf",
-      "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_2.9.pdf",
       "https://www.izenpe.eus/contenidos/informacion/cps_ssl/en_def/adjuntos/cp_cps_3.0.pdf"
     ],
     "CP/CPS Effective Date": "2026.04.15",

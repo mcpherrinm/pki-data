@@ -55,10 +55,22 @@
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://repo.bjca.cn/global/crl/BJCA_EV_SSL_CA1.crl",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "true",
-    "CPS Same as Parent": "true",
-    "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "true",
+    "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://www.bjca.cn/u4d/%E8%AF%81%E4%B9%A6%E7%AD%96%E7%95%A5%EF%BC%88CP%EF%BC%89/files/BJCA_Global_CP.pdf"
+    ],
+    "CP Effective Date": "2025.11.26",
+    "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_CPS.pdf"
+    ],
+    "CPS Effective Date": "2025.11.26",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.bjca.cn/u4d/%E7%94%B5%E5%AD%90%E8%AE%A4%E8%AF%81%E4%B8%9A%E5%8A%A1%E8%A7%84%E5%88%99%EF%BC%88CPS%EF%BC%89/files/BJCA_Global_SSL_CP&CPS.pdf"
+    ],
+    "CP/CPS Effective Date": "2025.11.26",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
