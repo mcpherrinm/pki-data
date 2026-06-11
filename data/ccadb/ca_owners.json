@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10105,
+  "total_records": 10112,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -186,7 +186,7 @@
     },
     {
       "ca_owner": "Asseco Data Systems S.A.",
-      "record_count": 211,
+      "record_count": 215,
       "countries": [
         "Polska"
       ],
@@ -194,7 +194,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 1,
         "untrusted_roots": 9,
-        "intermediates": 197
+        "intermediates": 201
       },
       "output_filename": "Asseco_Data_Systems_SA.json"
     },
@@ -676,7 +676,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2650,
+      "record_count": 2653,
       "countries": [
         "United States of America"
       ],
@@ -684,7 +684,7 @@
         "trusted_roots": 9,
         "partially_trusted_roots": 34,
         "untrusted_roots": 67,
-        "intermediates": 2540
+        "intermediates": 2543
       },
       "output_filename": "DigiCert.json"
     },
