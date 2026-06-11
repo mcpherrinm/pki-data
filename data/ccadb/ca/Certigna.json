@@ -1100,15 +1100,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
+      "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://valid.servicesca-racine.dhimyotis.com",
     "Test Website URL - Expired": "https://expired.servicesca-racine.dhimyotis.com",
     "Test Website URL - Revoked": "https://revoked.servicesca-racine.dhimyotis.com",
@@ -1527,15 +1529,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
+      "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://valid.servicesca.dhimyotis.com",
     "Test Website URL - Expired": "https://expired.servicesca.dhimyotis.com",
     "Test Website URL - Revoked": "https://revoked.servicesca.dhimyotis.com",
@@ -2006,15 +2010,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
+      "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://valid.certignaserverauthenticationovcpca.certigna.com",
     "Test Website URL - Expired": "https://expired.certignaserverauthenticationovcpca.certigna.com",
     "Test Website URL - Revoked": "https://revoked.certignaserverauthenticationovcpca.certigna.com",
@@ -2292,15 +2298,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
+      "https://cps.certigna.com/DPCCertignaTLSCA.pdf",
       "https://cps.certigna.com/DPCCertignaTLSCA.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.11",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://cps.certigna.com/PCCertignaTLSCA.md",
+      "https://cps.certigna.com/PCCertignaTLSCA.md",
       "https://cps.certigna.com/PCCertignaTLSCA.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.11",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://valid.certignaserverauthenticationovcpeuca.certigna.com",
     "Test Website URL - Expired": "https://expired.certignaserverauthenticationovcpeuca.certigna.com",
     "Test Website URL - Revoked": "https://revoked.certignaserverauthenticationovcpeuca.certigna.com",
