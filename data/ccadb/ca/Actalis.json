@@ -1972,6 +1972,10 @@
     ],
     "CP/CPS Effective Date": "2026.05.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
     "Test Website URL - Valid": "https://active.ssltest-dv-ecc-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-ecc-2025.actalis.it/",
     "Test Website URL - Revoked": "https://revoked.ssltest-dv-ecc-2025.actalis.it/",
@@ -2065,6 +2069,10 @@
     ],
     "CP/CPS Effective Date": "2026.05.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
     "Test Website URL - Valid": "https://active.ssltest-dv-rsa-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-rsa-2025.actalis.it/",
     "Test Website URL - Revoked": "https://revoked.ssltest-dv-rsa-2025.actalis.it/",
