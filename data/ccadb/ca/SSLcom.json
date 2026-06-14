@@ -10952,7 +10952,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
@@ -10985,7 +10985,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
@@ -11018,7 +11018,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
@@ -11051,7 +11051,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "False",
+    "TLS EV Capable": "True",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
