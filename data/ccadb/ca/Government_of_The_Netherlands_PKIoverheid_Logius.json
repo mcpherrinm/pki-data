@@ -3287,7 +3287,7 @@
     "Subject Key Identifier": "I7v534CJE6N3J+nGaUMzjUkHwmo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
-    "Full CRL Issued By This CA": "http://crl.pkioverheid.nl/DomOrganisatiePersoonLatestCRL-G3.crl",
+    "Full CRL Issued By This CA": "https://crls.ca.pkidefensie.nl/mindef-ca-3-latest.crl",
     "Auditor": "Attestic B.V.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://attestic.eu/wp-content/uploads/2026/02/CT-014-Mindef-2026-02-Certificate-ETSI-319-411-1-v1.pdf",

@@ -1607,7 +1607,7 @@
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "70342F6C5E0FD9F9ABE3C1448D033E1A0CAB4CC560409E1C03B626E48B8B16DD",
@@ -1617,7 +1617,6 @@
     "Authority Key Identifier": "pbtKl86zK3+kMd6Xg1mDpm9xy94=",
     "Subject Key Identifier": "YTJQV0vzJmrpyNfGEzfxfhVTs6w=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Secure Email",
     "Full CRL Issued By This CA": "http://crl.wt.trustasia.com/TrustAsiaSecureEmailECCCAG4.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
@@ -1628,7 +1627,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -1882,7 +1881,7 @@
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
-    "Mozilla Status": "Trusted",
+    "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "C84E9EE5225DF7B674A57343C6D48921907E9764010042E40B2C00F944639CA4",
@@ -1892,7 +1891,6 @@
     "Authority Key Identifier": "QOTk8iPvOMqwrld/8iEwFjTbvJI=",
     "Subject Key Identifier": "6xZMfXSKCRxXh8Nbm5j/ITbDsgo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Secure Email",
     "Full CRL Issued By This CA": "http://crl.wt.trustasia.com/TrustAsiaSecureEmailRSACAG3.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
@@ -1903,7 +1901,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -2604,9 +2602,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China",
-    "Trust Bits for Root Cert": "Server Authentication;Secure Email",
+    "Trust Bits for Root Cert": "Server Authentication",
     "EV OIDs for Root Cert": "2.23.140.1.1"
   },
   {
@@ -2679,9 +2677,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China",
-    "Trust Bits for Root Cert": "Server Authentication;Secure Email",
+    "Trust Bits for Root Cert": "Server Authentication",
     "EV OIDs for Root Cert": "2.23.140.1.1"
   },
   {
