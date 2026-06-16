@@ -427,15 +427,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.9.pdf",
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.0.pdf"
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.0.pdf",
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.04",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/NaverCloudTrustServices/PolicyDocument/blob/main/docs/cpcps_1.1.0.md",
+      "https://github.com/NaverCloudTrustServices/PolicyDocument/blob/main/docs/cpcps_1.1.1.md",
       "https://ssl.pstatic.net/static/rootca/CPS/cpcps_1.0.9.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.04",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://test-certificate.naver.com/",
     "Test Website URL - Expired": "https://test2-certificate.naver.com/",
     "Test Website URL - Revoked": "https://test1-certificate.naver.com/",
@@ -551,15 +553,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.9.pdf",
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.0.pdf"
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.0.pdf",
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.04",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/NaverCloudTrustServices/PolicyDocument/blob/main/docs/cpcps_1.1.0.md",
+      "https://github.com/NaverCloudTrustServices/PolicyDocument/blob/main/docs/cpcps_1.1.1.md",
       "https://ssl.pstatic.net/static/rootca/CPS/cpcps_1.0.9.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.04",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://valid.rrg1.demo.navercloudtrust.com/",
     "Test Website URL - Expired": "https://expired.rrg1.demo.navercloudtrust.com/",
     "Test Website URL - Revoked": "https://revoked.rrg1.demo.navercloudtrust.com",
@@ -611,15 +615,17 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.0.9.pdf",
-      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.0.pdf"
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.0.pdf",
+      "https://ssl.pstatic.net/static/rootca/CPS/NAVER_Cloud_Trust_Services_CPS_v1.1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.04",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/NaverCloudTrustServices/PolicyDocument/blob/main/docs/cpcps_1.1.0.md",
+      "https://github.com/NaverCloudTrustServices/PolicyDocument/blob/main/docs/cpcps_1.1.1.md",
       "https://ssl.pstatic.net/static/rootca/CPS/cpcps_1.0.9.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.04",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.11",
     "Test Website URL - Valid": "https://valid.erg1.demo.navercloudtrust.com",
     "Test Website URL - Expired": "https://expired.erg1.demo.navercloudtrust.com/",
     "Test Website URL - Revoked": "https://revoked.erg1.demo.navercloudtrust.com/",
