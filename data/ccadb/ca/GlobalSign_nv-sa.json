@@ -17616,9 +17616,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r1.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r1.roots.globalsign.com",
@@ -19165,14 +19166,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en27.pdf"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en28.pdf"
     ],
-    "CP/CPS Effective Date": "2026.05.15",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en27.md"
+      "https://www.ecert.gov.hk/product/cps/ecert/img/server_cps_en28.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.15",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -20632,9 +20633,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r3.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r3.roots.globalsign.com",
@@ -24703,9 +24705,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r6.roots.globalsign.com/",
     "Test Website URL - Expired": "https://expired.r6.roots.globalsign.com/",
@@ -25727,9 +25730,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r5.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r5.roots.globalsign.com",
@@ -26032,6 +26037,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26064,6 +26073,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26178,9 +26191,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26244,9 +26258,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26311,9 +26326,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26379,9 +26395,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26446,9 +26464,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26514,9 +26533,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26581,9 +26602,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26648,9 +26670,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26715,9 +26738,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26783,9 +26807,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -26850,9 +26876,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.r46.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.r46.roots.globalsign.com",
@@ -26921,9 +26948,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.e46.roots.globalsign.com",
     "Test Website URL - Expired": "https://expired.e46.roots.globalsign.com",
@@ -26993,9 +27021,11 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.0.pdf",
-      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf"
+      "https://www.globalsign.com/en/repository/GlobalSign-Generic-CPCPS-v1.1.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.0.pdf",
+      "https://www.globalsign.com/en/repository/GlobalSign-eIDAS-CPCPS-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.31",
+    "CP/CPS Effective Date": "2026.06.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
