@@ -8,9 +8,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "NotBefore",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "39AE2E6F304A6236BDF9066718DDC69E51AF5ED05A63F2EE8D80CA1D1CC8FE4F",
     "Valid From (GMT)": "2014.09.10",
     "Valid To (GMT)": "2039.09.10",
@@ -41,8 +41,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Greece",
-    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email;Time Stamping"
+    "S/MIME Capable": "False",
+    "Country": "Greece"
   }
 ]

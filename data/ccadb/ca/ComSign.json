@@ -359,7 +359,7 @@
     "Authority Key Identifier": "AkWT2A1IYqxpuq4GWz77qiaRULE=",
     "Subject Key Identifier": "P/4HAqRYbcPlHeoNVPpVenp1SIU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://fedir.comsign.co.il/crl/comsignrootglobalca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -369,7 +369,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel"
   },
   {
@@ -392,7 +392,7 @@
     "Authority Key Identifier": "AkWT2A1IYqxpuq4GWz77qiaRULE=",
     "Subject Key Identifier": "9but6jEjSwBdW0923m+LAuD93/A=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://fedir.comsign.co.il/crl/ComSignGlobalRootCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -402,7 +402,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel"
   },
   {
@@ -559,7 +559,7 @@
     "Authority Key Identifier": "AkWT2A1IYqxpuq4GWz77qiaRULE=",
     "Subject Key Identifier": "H8aXvLGX6ZZPyPsBr2+1av2jTw8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://fedir.comsign.co.il/crl/ComSignGlobalRootCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -569,7 +569,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel"
   },
   {
@@ -592,7 +592,7 @@
     "Authority Key Identifier": "AkWT2A1IYqxpuq4GWz77qiaRULE=",
     "Subject Key Identifier": "E+OQrqSnt2CAGQjhuiIhffPjS6A=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://fedir.comsign.co.il/crl/ComSignGlobalRootCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -602,7 +602,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel"
   },
   {
@@ -625,7 +625,7 @@
     "Authority Key Identifier": "AkWT2A1IYqxpuq4GWz77qiaRULE=",
     "Subject Key Identifier": "GDdwh7ye/yVWGo/JOKyUIEv3EJo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://fedir.comsign.co.il/crl/ComSignGlobalRootCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -635,7 +635,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel"
   },
   {
@@ -658,7 +658,7 @@
     "Authority Key Identifier": "AkWT2A1IYqxpuq4GWz77qiaRULE=",
     "Subject Key Identifier": "cndG6T3P6/zTfwLloi44JVz/D7M=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://fedir.comsign.co.il/crl/ComSignGlobalRootCA.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -668,7 +668,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel"
   },
   {
@@ -714,8 +714,8 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Israel",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Time Stamping"
   }
 ]

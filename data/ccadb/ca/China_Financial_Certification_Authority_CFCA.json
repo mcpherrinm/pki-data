@@ -153,7 +153,7 @@
     "Authority Key Identifier": "4/4t/SjQC7W6tqLEvwaqBYyT+y8=",
     "Subject Key Identifier": "ZrPv+1SVh+mspZZWruZ97TrQQ9E=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl.cfca.com.cn/OVOCA/RSA/allCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -163,7 +163,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -219,7 +219,7 @@
     "Authority Key Identifier": "4/4t/SjQC7W6tqLEvwaqBYyT+y8=",
     "Subject Key Identifier": "VQji3MyVbR9d3rNH6OkWxsBFd8Q=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.cfca.com.cn/evoca/RSA/allCRL.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -229,7 +229,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -324,7 +324,7 @@
     "Authority Key Identifier": "4/4t/SjQC7W6tqLEvwaqBYyT+y8=",
     "Subject Key Identifier": "+1QBExADTFiE4qcGhPliBV0Sibc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -337,7 +337,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -406,9 +406,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Time Stamping",
     "EV OIDs for Root Cert": "2.16.156.112554.3; 2.23.140.1.1"
   },
   {

@@ -80,8 +80,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 5,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 7,
         "intermediates": 0
       },
       "output_filename": "Agencia_Notarial_de_Certificación_ANCERT.json"
@@ -234,8 +234,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 4,
         "intermediates": 3
       },
       "output_filename": "Autoridad_de_Certificación_ANF_AC.json"
@@ -332,8 +332,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
         "intermediates": 0
       },
       "output_filename": "Byte_Computer_SA.json"
@@ -584,8 +584,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 6,
-        "untrusted_roots": 7,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 9,
         "intermediates": 41
       },
       "output_filename": "Cybertrust_Japan__JCSI.json"
@@ -682,8 +682,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 9,
-        "partially_trusted_roots": 34,
-        "untrusted_roots": 67,
+        "partially_trusted_roots": 31,
+        "untrusted_roots": 70,
         "intermediates": 2543
       },
       "output_filename": "DigiCert.json"
@@ -1270,8 +1270,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
-        "partially_trusted_roots": 3,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 4,
         "intermediates": 20
       },
       "output_filename": "Government_of_Spain_Fábrica_Nacional_de_Moneda_y_Timbre_FNMT.json"
@@ -1326,8 +1326,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 1,
+        "untrusted_roots": 4,
         "intermediates": 108
       },
       "output_filename": "Government_of_The_Netherlands_PKIoverheid_Logius.json"
@@ -1424,8 +1424,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
         "intermediates": 0
       },
       "output_filename": "Image-X_Enterprises_Inc.json"
@@ -2152,8 +2152,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 5,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 6,
         "intermediates": 4
       },
       "output_filename": "Skaitmeninio_sertifikavimo_centras_SSC.json"
@@ -2404,8 +2404,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
         "intermediates": 4
       },
       "output_filename": "Trustis.json"

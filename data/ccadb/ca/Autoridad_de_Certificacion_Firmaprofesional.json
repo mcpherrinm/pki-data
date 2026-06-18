@@ -393,7 +393,7 @@
     "Authority Key Identifier": "Zc3rqzUeAD5+1XTAHLRzRw4aZC8=",
     "Subject Key Identifier": "i1BXWsG9kgCmt+WFXcPdtrWGkNI=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "https://crl.firmaprofesional.com/firmaprofesional1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -403,7 +403,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -462,9 +462,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
     "EV OIDs for Root Cert": "2.23.140.1.1; 1.3.6.1.4.1.13177.10.1.3.10"
   },
   {
@@ -1046,7 +1046,7 @@
     "Authority Key Identifier": "Zc3rqzUeAD5+1XTAHLRzRw4aZC8=",
     "Subject Key Identifier": "IjqC5qg/qePqI6Cr9o0ES0h7aMw=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "https://crl.firmaprofesional.com/signe2020.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.signe.es/signe-ac/dpc/",
@@ -1065,7 +1065,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {

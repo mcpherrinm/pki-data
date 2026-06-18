@@ -81,7 +81,7 @@
     "Authority Key Identifier": "5Q1kcZ3JUunAmyppM8CTfPOB9d8=",
     "Subject Key Identifier": "CwOr1KI4NqbtuAPS9IieDProTmk=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication",
+    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "https://www.oaticerts.com/repository/OATIIA2021.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -91,7 +91,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -287,9 +287,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication"
   },
   {
     "CA Owner": "Open Access Technology International, Inc. (OATI)",
