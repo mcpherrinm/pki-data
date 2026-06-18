@@ -8,9 +8,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "Removed",
     "Mozilla Status": "Not Yet Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Yet Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included",
     "SHA-256 Fingerprint": "62B9267266212832A8E22DAB933D91C7011274ACF71703F9CC97833751A6E94F",
     "Valid From (GMT)": "1999.03.18",
     "Valid To (GMT)": "2019.03.18",
@@ -32,12 +32,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
-    "Country": "Spain",
-    "Trust Bits for Root Cert": "Server Authentication;Secure Email"
+    "S/MIME Capable": "False",
+    "Country": "Spain"
   },
   {
     "CA Owner": "Government of Spain, Fábrica Nacional de Moneda y Timbre (FNMT)",

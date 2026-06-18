@@ -10,7 +10,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "9BC4F171FF9AA224F00C799E80490E31010E3475A08FE64DC9A9C4192EB0C0B1",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -41,7 +41,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "F3A9741B867238875E0A3B5598A3BC911D87563AC6EA47CEF85032FF948BEA31",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -227,7 +227,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "8390E70357E9B573CA3DD29DBDDC237ECAF936782CA3389C7943FBC2B7FAA0B6",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -600,7 +600,7 @@
     "Authority Key Identifier": "iZR6y2kbnjBWJMDUEr9eCRfXJ5w=",
     "Subject Key Identifier": "J6a5KiYZHOctQA59Qr4vXyrvqEc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.co/CAMERFIRMA_COLOMBIA_SAS_CERTIFICADOS_002.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://camerfirma.co/practicas-de-certificacion/",
@@ -619,7 +619,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -642,7 +642,7 @@
     "Authority Key Identifier": "iZR6y2kbnjBWJMDUEr9eCRfXJ5w=",
     "Subject Key Identifier": "GaZnF9g+VFDb7fsavRvSZYLw7Tw=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.co/ac_camerfirma_colombia_SAS_001/CRL01.crl",
     "Audits Same as Parent": "true",
     "CA Document Repository": "https://camerfirma.co/practicas-de-certificacion/",
@@ -661,7 +661,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -772,7 +772,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "71987F75F4A18AF9097A45D5458D912C88359386066F63C6FC0A8AABE699C023",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -867,7 +867,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "C7D84381E11F7C5746771AF5B050DC51FC6FDAD6F6F35BB53A3DE913822EA09E",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -899,7 +899,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "8948D65A91A81B8D8D79D7603B42FBA68A690567F0456488339BF4D0937BDAF4",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -930,7 +930,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "DF8307254EE1E3D1379007E2A230D671D952DEFF2409AF202ADCDF8DC4A48B08",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -961,7 +961,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "BEA3BCAC537113187D05BD3924408F60005D8508DFF48328BC06E79A14B8E49A",
     "Parent SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
@@ -1182,9 +1182,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "NotBefore",
+    "Microsoft Status": "Disabled",
     "Mozilla Status": "Removed",
-    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Removed",
+    "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed",
     "SHA-256 Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
     "Valid From (GMT)": "2003.09.30",
     "Valid To (GMT)": "2037.09.30",
@@ -1335,7 +1335,7 @@
     "Authority Key Identifier": "t2oCbSzZsDazK2wFqjReBu2yuZs=",
     "Subject Key Identifier": "tdOSh4oIwH7ECUGJ+Irm6/hSsu8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "https://crls.ca.camerfirma.com/ac_camerfirma_peru_certificados_2023/CRL01.crl",
     "Auditor": "CSQA Certificazioni srl",
     "Audits Same as Parent": "true",
@@ -1346,7 +1346,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2048,7 +2048,7 @@
     "Authority Key Identifier": "t2oCbSzZsDazK2wFqjReBu2yuZs=",
     "Subject Key Identifier": "Om5lGOdW0uTzLd2lfHJt/zDhhic=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/ac_camerfirma_peru_certificados-2016.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2058,7 +2058,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2143,7 +2143,7 @@
     "Authority Key Identifier": "ni5lTz5X9at9lsaL37M1bUronos=",
     "Subject Key Identifier": "wyeFk9cvlsUbrHYz2YaiSn1oFEI=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/ac_camerfirma_legal_persons-2016.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2153,7 +2153,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2207,7 +2207,7 @@
     "Authority Key Identifier": "6JvNfoZim3pNjACXOYXPHHiQcDo=",
     "Subject Key Identifier": "iZR6y2kbnjBWJMDUEr9eCRfXJ5w=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/ac_camerfirma_colombia-2016.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2217,7 +2217,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2273,7 +2273,7 @@
     "Authority Key Identifier": "ni5lTz5X9at9lsaL37M1bUronos=",
     "Subject Key Identifier": "cLj4JMdRys4igJIIycBoL8FHWFE=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/ac_camerfirma_natural_persons-2016.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2283,7 +2283,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2306,7 +2306,7 @@
     "Authority Key Identifier": "6JvNfoZim3pNjACXOYXPHHiQcDo=",
     "Subject Key Identifier": "t2oCbSzZsDazK2wFqjReBu2yuZs=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/ac_camerfirma_peru-2016.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -2316,7 +2316,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2415,7 +2415,7 @@
     "Authority Key Identifier": "6JvNfoZim3pNjACXOYXPHHiQcDo=",
     "Subject Key Identifier": "bhrzE1a43pQ+6NjVTahBBXHXeTE=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
@@ -2424,7 +2424,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -2476,9 +2476,9 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain",
-    "Trust Bits for Root Cert": "Client Authentication;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Time Stamping"
   },
   {
     "CA Owner": "AC Camerfirma, S.A.",
@@ -2526,8 +2526,8 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain",
-    "Trust Bits for Root Cert": "Client Authentication;Secure Email"
+    "Trust Bits for Root Cert": "Client Authentication"
   }
 ]
