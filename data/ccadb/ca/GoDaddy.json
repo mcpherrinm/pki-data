@@ -1985,9 +1985,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
     "EV OIDs for Root Cert": "2.16.840.1.114414.1.7.23.3; 2.23.140.1.1"
   },
   {

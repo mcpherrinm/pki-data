@@ -62,7 +62,7 @@
     "Authority Key Identifier": "PLacOFrstdQiC0C+Yw8IiyjuDBk=",
     "Subject Key Identifier": "meZv9ge7bd7WukE6rtWed6mzet8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
+    "Derived Trust Bits": "Client Authentication;Document Signing",
     "Full CRL Issued By This CA": "https://www.trustfactory.net/crl/tf-client-subscriber.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
@@ -83,7 +83,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "South Africa"
   },
   {
@@ -174,8 +174,8 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "South Africa",
-    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email"
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing"
   }
 ]

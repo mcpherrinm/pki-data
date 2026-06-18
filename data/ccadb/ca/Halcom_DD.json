@@ -156,7 +156,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "SUh2UHcKsQw=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://domina.halcom.si/crls/halcom_ca_po_e-seal_1.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -167,7 +167,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -190,7 +190,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "Q4+LVp9EHtc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "https://domina.halcom.si/crls/halcom_ca_TSA_1.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -201,7 +201,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -224,7 +224,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "SEILF+2unnA=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "https://domina.halcom.si/crls/halcom_ca_web_1.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -235,7 +235,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -302,7 +302,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "Q00ydRYDyXU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://domina.halcom.si/crls/halcom_ca_po_e-signature_2.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -313,7 +313,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -336,7 +336,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "RzXIvGHiXZ4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://domina.halcom.si/crls/halcom_ca_po_e-seal_2.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -347,7 +347,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -370,7 +370,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "SMQnpm9u8C4=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://domina.halcom.si/crls/halcom_ca_fo_e-signature_2.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -381,7 +381,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -404,7 +404,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "T+DhqSFuG74=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://domina.halcom.si/crls/halcom_ca_TSA_2.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -415,7 +415,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -438,7 +438,7 @@
     "Authority Key Identifier": "Qq6mQ8eYKLA=",
     "Subject Key Identifier": "QIysycvHTB8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://domina.halcom.si/crls/halcom_ca_web_2.crl",
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
@@ -449,7 +449,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia"
   },
   {
@@ -498,8 +498,8 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Slovenia",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Encrypting File System;Time Stamping"
   }
 ]

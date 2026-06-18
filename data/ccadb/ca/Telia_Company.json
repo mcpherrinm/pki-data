@@ -2487,7 +2487,7 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Sweden",
-    "Trust Bits for Root Cert": "Secure Email"
+    "Trust Bits for Root Cert": "Client Authentication;Secure Email"
   },
   {
     "CA Owner": "Telia Company",
@@ -2534,7 +2534,7 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Sweden",
-    "Trust Bits for Root Cert": "Secure Email"
+    "Trust Bits for Root Cert": "Client Authentication;Secure Email"
   },
   {
     "CA Owner": "Telia Company",
