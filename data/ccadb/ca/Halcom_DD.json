@@ -409,8 +409,12 @@
     "Auditor": "Bureau Veritas d.o.o.",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
+    "Certificate Policy (CP) URL": [
+      "https://support.halcom.com/app/uploads/2026/06/Halcom-CA-TS-v.2.pdf"
+    ],
+    "CP Effective Date": "2026.06.15",
+    "CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
