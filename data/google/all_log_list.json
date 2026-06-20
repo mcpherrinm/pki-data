@@ -651,8 +651,8 @@
           "monitoring_url": "https://storage.googleapis.com/parcelyard2026h2.prod.certificate.transparency.goog/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-04-21T00:00:00Z"
+            "qualified": {
+              "timestamp": "2026-06-19T19:00:00Z"
             }
           },
           "temporal_interval": {
@@ -668,8 +668,8 @@
           "monitoring_url": "https://storage.googleapis.com/parcelyard2027h1.prod.certificate.transparency.goog/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-04-21T00:00:00Z"
+            "qualified": {
+              "timestamp": "2026-06-19T19:00:00Z"
             }
           },
           "temporal_interval": {
@@ -685,8 +685,8 @@
           "monitoring_url": "https://storage.googleapis.com/parcelyard2027h2.prod.certificate.transparency.goog/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-04-21T00:00:00Z"
+            "qualified": {
+              "timestamp": "2026-06-19T19:00:00Z"
             }
           },
           "temporal_interval": {
@@ -702,8 +702,8 @@
           "monitoring_url": "https://storage.googleapis.com/plumbersarms2026h2.prod.certificate.transparency.goog/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-04-21T00:00:00Z"
+            "qualified": {
+              "timestamp": "2026-06-19T19:00:00Z"
             }
           },
           "temporal_interval": {
@@ -719,8 +719,8 @@
           "monitoring_url": "https://storage.googleapis.com/plumbersarms2027h1.prod.certificate.transparency.goog/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-04-21T00:00:00Z"
+            "qualified": {
+              "timestamp": "2026-06-19T19:00:00Z"
             }
           },
           "temporal_interval": {
@@ -736,8 +736,8 @@
           "monitoring_url": "https://storage.googleapis.com/plumbersarms2027h2.prod.certificate.transparency.goog/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-04-21T00:00:00Z"
+            "qualified": {
+              "timestamp": "2026-06-19T19:00:00Z"
             }
           },
           "temporal_interval": {
