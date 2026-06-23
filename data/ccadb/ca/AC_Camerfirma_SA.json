@@ -1754,11 +1754,11 @@
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/chambersroot-2008.crl",
     "Auditor": "CSQA Certificazioni srl",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.csqa.it/getattachment/97226809-ae9f-4992-ac96-eb70937bd8d7/Attestation-Letter_Camerfirma_2025-(1)-(1)-(1)-signed.pdf",
+    "Standard Audit URL": "https://www.csqa.it/getattachment/ae440214-f56b-4cf4-b824-8ed4cebe201d/Attestation-Letter-AC-Camerfirma-SA_2026_rev-1-1-signed.pdf",
     "Standard Audit Type": "ETSI EN 319 411",
-    "Standard Audit Statement Date": "2025.05.27",
-    "Standard Audit Period Start Date": "2024.03.01",
-    "Standard Audit Period End Date": "2025.03.01",
+    "Standard Audit Statement Date": "2026.05.29",
+    "Standard Audit Period Start Date": "2025.03.02",
+    "Standard Audit Period End Date": "2026.03.01",
     "TLS BR Audit URL": "https://www.csqa.it/getattachment/08b8b146-b597-486f-a49b-8b748b4ada1e/Attestation-Letter_Camerfirma_2024-Final-Version-(1)-signed.pdf",
     "TLS BR Audit Type": "ETSI EN 319 411",
     "TLS BR Audit Statement Date": "2024.05.13",
@@ -1772,14 +1772,16 @@
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/08/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf"
     ],
     "CP Effective Date": "2025.05.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/10/CPS_CAMERFIRMA_EN_v2.1.pdf"
     ],
-    "CPS Effective Date": "2025.05.29",
+    "CPS Effective Date": "2025.09.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://server3ok.camerfirma.com",
@@ -2447,11 +2449,11 @@
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/chambersofcommerceroot-2016.crl",
     "Auditor": "CSQA Certificazioni srl",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.csqa.it/getattachment/97226809-ae9f-4992-ac96-eb70937bd8d7/Attestation-Letter_Camerfirma_2025-(1)-(1)-(1)-signed.pdf",
+    "Standard Audit URL": "https://www.csqa.it/getattachment/ae440214-f56b-4cf4-b824-8ed4cebe201d/Attestation-Letter-AC-Camerfirma-SA_2026_rev-1-1-signed.pdf",
     "Standard Audit Type": "ETSI EN 319 411",
-    "Standard Audit Statement Date": "2025.05.27",
-    "Standard Audit Period Start Date": "2024.03.01",
-    "Standard Audit Period End Date": "2025.03.01",
+    "Standard Audit Statement Date": "2026.05.29",
+    "Standard Audit Period Start Date": "2025.03.02",
+    "Standard Audit Period End Date": "2026.03.01",
     "TLS BR Audit URL": "https://www.csqa.it/getattachment/08b8b146-b597-486f-a49b-8b748b4ada1e/Attestation-Letter_Camerfirma_2024-Final-Version-(1)-signed.pdf",
     "TLS BR Audit Type": "ETSI EN 319 411",
     "TLS BR Audit Statement Date": "2024.05.13",
@@ -2460,14 +2462,16 @@
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/08/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf"
     ],
     "CP Effective Date": "2025.05.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/10/CPS_CAMERFIRMA_EN_v2.1.pdf"
     ],
-    "CPS Effective Date": "2025.05.29",
+    "CPS Effective Date": "2025.09.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://cevok.camerfirma.com",
@@ -2500,11 +2504,11 @@
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/globalchambersignroot-2016.crl",
     "Auditor": "CSQA Certificazioni srl",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://www.csqa.it/getattachment/97226809-ae9f-4992-ac96-eb70937bd8d7/Attestation-Letter_Camerfirma_2025-(1)-(1)-(1)-signed.pdf",
+    "Standard Audit URL": "https://www.csqa.it/getattachment/ae440214-f56b-4cf4-b824-8ed4cebe201d/Attestation-Letter-AC-Camerfirma-SA_2026_rev-1-1-signed.pdf",
     "Standard Audit Type": "ETSI EN 319 411",
-    "Standard Audit Statement Date": "2025.05.27",
-    "Standard Audit Period Start Date": "2024.03.01",
-    "Standard Audit Period End Date": "2025.03.01",
+    "Standard Audit Statement Date": "2026.05.29",
+    "Standard Audit Period Start Date": "2025.03.02",
+    "Standard Audit Period End Date": "2026.03.01",
     "TLS BR Audit URL": "https://www.csqa.it/getattachment/08b8b146-b597-486f-a49b-8b748b4ada1e/Attestation-Letter_Camerfirma_2024-Final-Version-(1)-signed.pdf",
     "TLS BR Audit Type": "ETSI EN 319 411",
     "TLS BR Audit Statement Date": "2024.05.13",
@@ -2513,14 +2517,16 @@
     "CA Document Repository": "https://www.camerfirma.com/practicas-de-certificacion-ac-camerfirma-cps-dpc/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf https://www.camerfirma.com/wp-content/uploads/2025/05/PUB-2025-18-14-CP_CAMERFIRMA_CERTIFICADOS_NO_PERSONALES_EN_v1.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/08/PUB-2025-18-12-CP_CAMERFIRMA_CERTIFICADOS_PERSONALES_EN_v1.0.pdf"
     ],
     "CP Effective Date": "2025.05.29",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf"
+      "https://www.camerfirma.com/wp-content/uploads/2025/05/CPS_CAMERFIRMA_EN_v2.0.pdf",
+      "https://www.camerfirma.com/wp-content/uploads/2025/10/CPS_CAMERFIRMA_EN_v2.1.pdf"
     ],
-    "CPS Effective Date": "2025.05.29",
+    "CPS Effective Date": "2025.09.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

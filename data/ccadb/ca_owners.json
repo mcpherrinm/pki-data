@@ -213,6 +213,20 @@
       "output_filename": "Athens_Exchange_SA_Athex.json"
     },
     {
+      "ca_owner": "Atos",
+      "record_count": 70,
+      "countries": [
+        "Germany"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 3,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 0,
+        "intermediates": 65
+      },
+      "output_filename": "Atos.json"
+    },
+    {
       "ca_owner": "Autoridad de Certificacion Firmaprofesional",
       "record_count": 40,
       "countries": [
@@ -939,20 +953,6 @@
         "intermediates": 0
       },
       "output_filename": "European_Agency_of_Digital_Trust.json"
-    },
-    {
-      "ca_owner": "Eviden",
-      "record_count": 70,
-      "countries": [
-        "Germany"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 3,
-        "partially_trusted_roots": 2,
-        "untrusted_roots": 0,
-        "intermediates": 65
-      },
-      "output_filename": "Eviden.json"
     },
     {
       "ca_owner": "Evrotrust Technologies AD",
