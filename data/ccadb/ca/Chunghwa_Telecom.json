@@ -660,9 +660,9 @@
     "CP Effective Date": "2025.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4.1-en.pdf"
     ],
-    "CPS Effective Date": "2026.04.21",
+    "CPS Effective Date": "2026.06.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.epkiov.hinet.net",
@@ -888,9 +888,9 @@
     "CP Effective Date": "2025.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4.1-en.pdf"
     ],
-    "CPS Effective Date": "2026.04.21",
+    "CPS Effective Date": "2026.06.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.epkig2ov.hinet.net",
@@ -1060,9 +1060,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.1-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.2-en.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.06",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.hipkig1ov.hinet.net",
     "Test Website URL - Expired": "https://expired.hipkig1ov.hinet.net",
@@ -1150,9 +1150,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.1-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/HiPKICA-CP_CPS-v1.2-en.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.06",
+    "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://good.trustg1ov.hinet.net",
     "Test Website URL - Expired": "https://expired.trustg1ov.hinet.net",
@@ -1246,9 +1246,9 @@
     "CP Effective Date": "2025.08.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4.1-en.pdf"
     ],
-    "CPS Effective Date": "2026.04.21",
+    "CPS Effective Date": "2026.06.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

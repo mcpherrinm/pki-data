@@ -691,10 +691,11 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_Cloud_PKI_CPS_v4.3.pdf",
       "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.5.pdf"
     ],
-    "CPS Effective Date": "2026.05.13",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1440,9 +1441,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.ssl.d-trust.net/",
@@ -1699,9 +1701,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.ssl.d-trust.net/",
@@ -1760,9 +1763,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.tls.d-trust.net/",
@@ -2043,9 +2047,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.tls.d-trust.net/",
@@ -2322,9 +2327,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2572,9 +2578,10 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf",
       "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.5.pdf"
     ],
-    "CPS Effective Date": "2026.05.11",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2669,9 +2676,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-dv-valid-rsa.tls.d-trust.net/",
@@ -2875,9 +2883,10 @@
     "CP Effective Date": "2026.05.13",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf"
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
+      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
     ],
-    "CPS Effective Date": "2026.04.20",
+    "CPS Effective Date": "2026.06.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid-rsa.tls.d-trust.net/",
