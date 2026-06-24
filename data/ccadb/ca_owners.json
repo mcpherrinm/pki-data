@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10134,
+  "total_records": 10135,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -46,7 +46,7 @@
     },
     {
       "ca_owner": "Actalis",
-      "record_count": 61,
+      "record_count": 62,
       "countries": [
         "Italy"
       ],
@@ -54,7 +54,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
         "untrusted_roots": 9,
-        "intermediates": 51
+        "intermediates": 52
       },
       "output_filename": "Actalis.json"
     },
