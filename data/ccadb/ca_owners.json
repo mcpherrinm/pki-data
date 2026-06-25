@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10135,
+  "total_records": 10140,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1026,7 +1026,7 @@
     },
     {
       "ca_owner": "GlobalSign nv-sa",
-      "record_count": 819,
+      "record_count": 824,
       "countries": [
         "Belgium"
       ],
@@ -1034,7 +1034,7 @@
         "trusted_roots": 5,
         "partially_trusted_roots": 11,
         "untrusted_roots": 3,
-        "intermediates": 800
+        "intermediates": 805
       },
       "output_filename": "GlobalSign_nv-sa.json"
     },
