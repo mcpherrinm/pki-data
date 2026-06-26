@@ -1106,6 +1106,7 @@
     "Subject Key Identifier": "eAcFUguj2MhLQT1PzzhjBnjwp/M=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
+    "Full CRL Issued By This CA": "http://crl09.actalis.it/Repository/AUTHCS-G2/getLastCRL",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
