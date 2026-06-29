@@ -219,8 +219,8 @@
         "Germany"
       ],
       "aggregated_counts": {
-        "trusted_roots": 3,
-        "partially_trusted_roots": 2,
+        "trusted_roots": 2,
+        "partially_trusted_roots": 3,
         "untrusted_roots": 0,
         "intermediates": 65
       },
