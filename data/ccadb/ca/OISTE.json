@@ -1778,7 +1778,8 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Switzerland",
-    "Trust Bits for Root Cert": "Server Authentication"
+    "Trust Bits for Root Cert": "Server Authentication",
+    "EV OIDs for Root Cert": "2.23.140.1.1"
   },
   {
     "CA Owner": "OISTE",
@@ -1948,6 +1949,7 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Switzerland",
-    "Trust Bits for Root Cert": "Server Authentication"
+    "Trust Bits for Root Cert": "Server Authentication",
+    "EV OIDs for Root Cert": "2.23.140.1.1"
   }
 ]
