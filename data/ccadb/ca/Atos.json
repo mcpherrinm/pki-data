@@ -511,7 +511,7 @@
     "Parent Certificate Name": "Atos TrustedRoot 2011",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Trusted",
-    "Chrome Status": "Trusted",
+    "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
     "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
