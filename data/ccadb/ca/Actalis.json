@@ -693,7 +693,6 @@
     "Authority Key Identifier": "UtiIOsifeGbtifN7OHCUyQICNtA=",
     "Subject Key Identifier": "gTkHNCYASURFz0l0l8icK4ylSZ0=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl09.actalis.it/Repository/AUTHCS-G1/getLastCRL",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -702,7 +701,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Italy"
   },
