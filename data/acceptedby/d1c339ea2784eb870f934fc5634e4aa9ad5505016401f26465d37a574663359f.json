@@ -1,6 +1,5 @@
 {
   "logs": [
-    "arche2026h1.staging.ct.transparency.dev",
     "ct.cloudflare.com/logs/nimbus2026",
     "ct.cloudflare.com/logs/nimbus2027",
     "log.sycamore.ct.letsencrypt.org/2026h2",
