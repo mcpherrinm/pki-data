@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Fetch Data
         run: python3 fetch.py
       - name: Commit and push if it changed
