@@ -1,10 +1,8 @@
 {
   "logs": [
-    "coachandhorses2026h1.staging.certificate.transparency.goog",
     "coachandhorses2026h2.staging.certificate.transparency.goog",
     "coachandhorses2027h1.staging.certificate.transparency.goog",
     "coachandhorses2027h2.staging.certificate.transparency.goog",
-    "rennet2026h1.log.ct.ipng.ch",
     "rennet2026h2.log.ct.ipng.ch",
     "rennet2027h1.log.ct.ipng.ch",
     "rennet2027h2.log.ct.ipng.ch"
