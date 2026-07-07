@@ -839,20 +839,20 @@
     "Subject Key Identifier": "YR8M9odr17/b7idupf3i8kT9TnQ=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://pkipro.certsign.ro/certsign-webcag4ev.crl",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.4.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.15",
+    "CP/CPS Effective Date": "2026.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.4.md"
+      "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -880,20 +880,20 @@
     "Subject Key Identifier": "lejCg/XLhbsQelmIwPmS8vnVS3g=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://pkipro.certsign.ro/certsign-webcag4ov.crl",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.4.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.15",
+    "CP/CPS Effective Date": "2026.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.4.md"
+      "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -921,20 +921,20 @@
     "Subject Key Identifier": "O14TGQUDPBrBoLB7eEV8S/jlgjM=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://pkipro.certsign.ro/certsign-webcag4dv.crl",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "CA Document Repository": "https://www.certsign.ro/en/repository",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.4.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
-    "CP/CPS Effective Date": "2026.01.15",
+    "CP/CPS Effective Date": "2026.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.4.md"
+      "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
