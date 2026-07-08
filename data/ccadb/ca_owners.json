@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10143,
+  "total_records": 10146,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -690,14 +690,14 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2653,
+      "record_count": 2655,
       "countries": [
         "United States of America"
       ],
       "aggregated_counts": {
         "trusted_roots": 9,
         "partially_trusted_roots": 31,
-        "untrusted_roots": 70,
+        "untrusted_roots": 72,
         "intermediates": 2543
       },
       "output_filename": "DigiCert.json"
@@ -1404,7 +1404,7 @@
     },
     {
       "ca_owner": "IdenTrust Services, LLC",
-      "record_count": 115,
+      "record_count": 116,
       "countries": [
         "United States of America"
       ],
@@ -1412,7 +1412,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 10,
         "untrusted_roots": 18,
-        "intermediates": 86
+        "intermediates": 87
       },
       "output_filename": "IdenTrust_Services_LLC.json"
     },

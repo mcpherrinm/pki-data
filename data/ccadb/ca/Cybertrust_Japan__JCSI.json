@@ -1952,7 +1952,6 @@
     "Valid To (GMT)": "2050.11.11",
     "Subject Key Identifier": "sOPmAlAOG8lna1GqL/1itc9+d/Q=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://rtcrl.cybertrust.ne.jp/vmc/vmcrtca2025/cdp.crl",
     "Audits Same as Parent": "false",
     "Policy Documentation": "CP/CPS for TLS  in Japanese: https://www.cybertrust.ne.jp/ssl/repository_rt/TLS_CTJCPCPS.pdf CP/CPS for S/MIME in Japanese: https://www.cybertrust.ne.jp/ssl/repository_rt/SMIME_CTJCPCPS.pdf",
     "CA Document Repository": "https://www.cybertrust.ne.jp/ssl/repository_rt/",
