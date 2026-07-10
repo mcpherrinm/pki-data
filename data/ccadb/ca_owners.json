@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10146,
+  "total_records": 10150,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -690,7 +690,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2655,
+      "record_count": 2657,
       "countries": [
         "United States of America"
       ],
@@ -698,7 +698,7 @@
         "trusted_roots": 9,
         "partially_trusted_roots": 31,
         "untrusted_roots": 72,
-        "intermediates": 2543
+        "intermediates": 2545
       },
       "output_filename": "DigiCert.json"
     },
@@ -2174,7 +2174,7 @@
     },
     {
       "ca_owner": "SSL.com",
-      "record_count": 383,
+      "record_count": 385,
       "countries": [
         "United States of America"
       ],
@@ -2182,7 +2182,7 @@
         "trusted_roots": 6,
         "partially_trusted_roots": 12,
         "untrusted_roots": 5,
-        "intermediates": 360
+        "intermediates": 362
       },
       "output_filename": "SSLcom.json"
     },
