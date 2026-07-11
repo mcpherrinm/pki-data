@@ -7345,6 +7345,9 @@
     "Valid To (GMT)": "2048.01.26",
     "Subject Key Identifier": "Pt4Omgd8CmRasGx7HaglSvSOrHg=",
     "Technically Constrained": "false",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=84a61b66-db2a-4a62-a227-ea3624e52f3e",
@@ -7390,6 +7393,9 @@
     "Valid To (GMT)": "2048.01.26",
     "Subject Key Identifier": "Gw/gkcD9rTgnnaEEqfnmXspxYs4=",
     "Technically Constrained": "false",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=84a61b66-db2a-4a62-a227-ea3624e52f3e",
@@ -7498,6 +7504,9 @@
     "Valid To (GMT)": "2048.01.26",
     "Subject Key Identifier": "pHOyxeXNwAr7GH7KRpt7VRHsKRE=",
     "Technically Constrained": "false",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=84a61b66-db2a-4a62-a227-ea3624e52f3e",
@@ -7543,6 +7552,9 @@
     "Valid To (GMT)": "2048.01.26",
     "Subject Key Identifier": "MeyKskCJtSxWUPykvnROzmQJhMQ=",
     "Technically Constrained": "false",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=84a61b66-db2a-4a62-a227-ea3624e52f3e",
@@ -7583,6 +7595,9 @@
     "Valid To (GMT)": "2048.01.26",
     "Subject Key Identifier": "bSS3JEVfCfVeWO4YRAS/I6GtEQ0=",
     "Technically Constrained": "false",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=84a61b66-db2a-4a62-a227-ea3624e52f3e",
@@ -7691,6 +7706,9 @@
     "Valid To (GMT)": "2048.01.26",
     "Subject Key Identifier": "FOiJkGbyR/swIbQ3+u0dK+3wvb8=",
     "Technically Constrained": "false",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Auditor": "Ernst & Young, LLP",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=84a61b66-db2a-4a62-a227-ea3624e52f3e",
