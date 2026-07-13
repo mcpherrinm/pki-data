@@ -71,14 +71,14 @@
     "CA Document Repository": "https://ca.nic.gov.sa",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NIC%20Government-CA%202%20CP%20v1.5.pdf"
+      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NICGovernment-CA2CPv1.6.pdf"
     ],
-    "CP Effective Date": "2025.06.27",
+    "CP Effective Date": "2026.06.30",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NIC%20Government-CA%202%20CPS%20v1.5.pdf"
+      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/NICGovernment-CA2CPSv1.6.pdf"
     ],
-    "CPS Effective Date": "2025.06.27",
+    "CPS Effective Date": "2026.06.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
