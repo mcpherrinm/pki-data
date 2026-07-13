@@ -1002,6 +1002,11 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://repository.tls.hinet.net/crl/OVCA-complete.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://repository.tls.hinet.net/crl/OVCA-3000-1.crl",
+      "http://repository.tls.hinet.net/crl/OVCA-6000-1.crl",
+      "http://repository.tls.hinet.net/crl/OVCA-8000-1.crl"
+    ],
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
