@@ -78674,7 +78674,17 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl",
-      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl"
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-6.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-7.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-6.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-7.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -84927,7 +84937,14 @@
     "Subject Key Identifier": "qUjLqNjCJ4wzL9pm7hvdwMPLB0M=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-1.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-2.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-3.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-4.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-5.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",

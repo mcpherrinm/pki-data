@@ -1064,11 +1064,9 @@
     "Subject Key Identifier": "N5L81aRhYOQabA4hVCiBSjB0Yvw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/d-trust_wr4096_ca_2-23-12_2026.crl",
     "Auditor": "TÜV NORD CERT GmbH",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CPSs. The order and distribution process determines which product-specific CPS applies to the selected product.    Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
     "CP Same as Parent": "true",
@@ -1102,11 +1100,9 @@
     "Subject Key Identifier": "U50zKfHJpWfNrp76E0He9BMKluo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/d-trust_wr4096_ca_2-23-22_2026.crl",
     "Auditor": "TÜV NORD CERT GmbH",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CPSs. The order and distribution process determines which product-specific CPS applies to the selected product.    Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
     "CP Same as Parent": "true",
