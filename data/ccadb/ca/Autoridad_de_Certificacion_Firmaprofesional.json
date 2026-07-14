@@ -1053,14 +1053,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v3.7.pdf?api=v2"
+      "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v4.1.pdf?api=v2"
     ],
-    "CPS Effective Date": "2024.07.04",
+    "CPS Effective Date": "2026.06.11",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://gruposigne.atlassian.net/wiki/download/attachments/26673905/SIGNE-ES-AC-DPC-01%20Declaraci%C3%B3n%20de%20Pr%C3%A1cticas%20de%20Certificaci%C3%B3n%20v3.7.pdf?api=v2"
-    ],
-    "CP/CPS Effective Date": "2024.07.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
