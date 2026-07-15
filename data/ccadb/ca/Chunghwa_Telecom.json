@@ -1189,7 +1189,11 @@
     "Subject Key Identifier": "/pocALjDS9AZDXWS3spPzMzedFQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "Full CRL Issued By This CA": "https://publicca.hinet.net/crl/PubCAG4/complete.crl",
+    "Full CRL Issued By This CA": "http://repository.publicca.hinet.net/crl/PubCAG4/complete.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://repository.publicca.hinet.net/crl/PubCAG4/1000-1/complete.crl",
+      "http://repository.publicca.hinet.net/crl/PubCAG4/1066-1/complete.crl"
+    ],
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",

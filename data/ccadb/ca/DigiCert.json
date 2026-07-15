@@ -72792,7 +72792,10 @@
     "Subject Key Identifier": "Ey+n6G5xUfbiDJhHg55/nXh5NPM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertQVEVTLSICAG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertQVEVTLSICAG1.crl",
+      "http://crl4.digicert.com/DigiCertQVEVTLSICAG1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
@@ -72833,7 +72836,10 @@
     "Subject Key Identifier": "yGA9Ed0GVhDgqaHI+LFwKudMTGk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertQVTLSICAG1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertQVTLSICAG1.crl",
+      "http://crl4.digicert.com/DigiCertQVTLSICAG1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
@@ -76905,7 +76911,10 @@
     "Subject Key Identifier": "z5LTMFSrg1pTz+1GGrYMqzz+w2A=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQuoVadisRootCA2.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQuoVadisRootCA2.crl",
+      "http://crl4.digicert.com/DigiCertQuoVadisTLSICAQuoVadisRootCA2.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
@@ -76946,7 +76955,10 @@
     "Subject Key Identifier": "M2b7L5EFzLNiUu/NPPV+HM6nF5Y=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQVRootCA3G3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQVRootCA3G3.crl",
+      "http://crl4.digicert.com/DigiCertQuoVadisTLSICAQVRootCA3G3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
@@ -76987,7 +76999,10 @@
     "Subject Key Identifier": "mRF96bCtLWJacNM8jYcgrdraLkE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQVRootCA1G3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQVRootCA1G3.crl",
+      "http://crl4.digicert.com/DigiCertQuoVadisTLSICAQVRootCA1G3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.digicert.com/legal-repository/",
@@ -77028,7 +77043,10 @@
     "Subject Key Identifier": "IzlUcvrV+WRljx07Zw9C2c7mSJE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQVRootCA3.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertQuoVadisTLSICAQVRootCA3.crl",
+      "http://crl4.digicert.com/DigiCertQuoVadisTLSICAQVRootCA3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "Policy Documentation": "https://www.digicert.com/legal-repository/",

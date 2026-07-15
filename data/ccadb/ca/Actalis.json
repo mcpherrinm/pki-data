@@ -524,16 +524,7 @@
     "Policy Documentation": "We have two certificates policies (CPs), as separate documents, whose links are reported below.   Both refer to a common CPS (shared with our SSL and Code Signing certificates) whose link is reported below.",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.actalis.com/caact-free-s-mime-certificates-policy-en",
-      "https://www.actalis.com/corporate-s-mime-certificates-policy-en"
-    ],
-    "CP Effective Date": "2024.07.09",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
-    ],
-    "CPS Effective Date": "2024.07.09",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1340,16 +1331,7 @@
     "Full CRL Issued By This CA": "http://crl09.actalis.it/Repository/AUTHCL-G3/getLastCRL",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.actalis.com/caact-free-s-mime-certificates-policy-en",
-      "https://www.actalis.com/corporate-s-mime-certificates-policy-en"
-    ],
-    "CP Effective Date": "2024.07.09",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.actalis.com/cps-for-ssl-server-and-code-signing"
-    ],
-    "CPS Effective Date": "2024.07.09",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
@@ -1572,11 +1554,11 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
     "Full CRL Issued By This CA": "http://crl15.actalis.it/Repository/tls-subca-ecc-smime-2025/getLastCRL",
-    "Audits Same as Parent": "false",
+    "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "true",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1703,6 +1685,7 @@
     "Subject Key Identifier": "RVm1/ENpJWA9tTc2tBqqXcv6MfQ=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
+    "Full CRL Issued By This CA": "http://crl15.actalis.it/Repository/codesign-subca-rsa-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -1768,6 +1751,7 @@
     "Subject Key Identifier": "xGAEfhqGeHSuu0iOK8Wyt0aP2To=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Code Signing",
+    "Full CRL Issued By This CA": "http://crl15.actalis.it/Repository/codesign-subca-ecc-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
