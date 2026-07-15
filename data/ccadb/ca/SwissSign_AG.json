@@ -2118,6 +2118,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.swisssign.ch/cdp-96b62f5a-6b73-4da4-87f7-ce4002c1cd34",
+    "Auditor": "TÜV Austria",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
