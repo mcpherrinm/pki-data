@@ -513,8 +513,8 @@
         "Taiwan, Republic of China"
       ],
       "aggregated_counts": {
-        "trusted_roots": 2,
-        "partially_trusted_roots": 2,
+        "trusted_roots": 1,
+        "partially_trusted_roots": 3,
         "untrusted_roots": 2,
         "intermediates": 27
       },

@@ -946,6 +946,7 @@
     "Authority Key Identifier": "+gufRQ2q1S49D/kYYfYEkuvydsg=",
     "Subject Key Identifier": "u3/o4LmDMHGMryh0iKoD/JF/GjQ=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://evcrl.cybertrust.ne.jp/tls/eveccca2025/cdp.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",

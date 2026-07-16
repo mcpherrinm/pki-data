@@ -1883,7 +1883,7 @@
     "Subject Key Identifier": "aRAObEQ6pO4mRJz5diB68gEX9Zw=",
     "Technically Constrained": "true",
     "Derived Trust Bits": "Time Stamping",
-    "Full CRL Issued By This CA": "http://crl15.actalis.it/Repository/timestamping-subca-ecc-2025/getLastCRL",
+    "Full CRL Issued By This CA": "http://crl15.actalis.it/Repository/timestamp-subca-ecc-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
