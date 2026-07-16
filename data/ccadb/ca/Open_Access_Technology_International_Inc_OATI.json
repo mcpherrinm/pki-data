@@ -181,6 +181,7 @@
     "Subject Key Identifier": "9lKjYd1Zbu/8s0r5bwOad6HW1ww=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "Full CRL Issued By This CA": "http://certs.oaticerts.com/repository/OATIWebCaresServerRoot.crl",
     "Auditor": "Schellman & Company, LLC.",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
