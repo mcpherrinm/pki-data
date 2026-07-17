@@ -354,10 +354,6 @@
     ],
     "CP Effective Date": "2026.01.12",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/3/13/6a226145ee6688ae69b6b7d4135f4743/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_26_20260314_sig.pdf"
-    ],
-    "CPS Effective Date": "2026.03.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl.elektronicznypodpis.pl/",
@@ -410,15 +406,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/6/2/232f25825ac9a6eaa4a5c312179f3ce6/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_1_20260602_sig.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.02",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/6/5/9fc7cd052a00a3ac551a22929d7db252/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_1.md"
-    ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.02",
     "Test Website URL - Valid": "https://ssl2.elektronicznypodpis.pl",
     "Test Website URL - Expired": "https://expired2.elektronicznypodpis.pl",
     "Test Website URL - Revoked": "https://revoked2.elektronicznypodpis.pl",
