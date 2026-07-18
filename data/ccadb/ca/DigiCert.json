@@ -91336,6 +91336,10 @@
     "Subject Key Identifier": "0sOOXpDzjeWjvuLPldCGB7SR3yg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/VerokeyHighAssuranceVerifiedBusinessG3.crl",
+      "http://crl4.digicert.com/VerokeyHighAssuranceVerifiedBusinessG3.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
