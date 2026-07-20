@@ -633,7 +633,7 @@
     "Subject Key Identifier": "kozUNtFbR1PEcQ2E3WQq9TZkQOc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email;Server Authentication;Time Stamping",
-    "Full CRL Issued By This CA": "http://rootca.twca.com.tw/TWCARCA/global_rootg2_revoke_2022.crl",
+    "Full CRL Issued By This CA": "http://RootCA.twca.com.tw/TWCARCA/global_rootg2_revoke_2022.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
     "CPS Same as Parent": "true",
