@@ -1033,10 +1033,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v9.0_en_redlined_20250710.pdf"
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v10.0_en_20260716.pdf"
     ],
-    "CP/CPS Effective Date": "2025.07.10",
+    "CP/CPS Effective Date": "2026.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/AgID/ca-agid-ca1/refs/heads/master/ICSPC-SIA-SPKI-Manuale%20Operativo%20AgID%20CA%20v10.0_EN_20260716.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -1103,10 +1107,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_ca_v9.0_en_redlined_20250710.pdf"
+      "https://www.agid.gov.it/sites/default/files/repository_files/icspc-sia-spki-manuale_operativo_agid_tls_v1.0_en_20260717.pdf"
     ],
-    "CP/CPS Effective Date": "2025.07.10",
+    "CP/CPS Effective Date": "2026.07.10",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/AgID/ca-agid-ca1/refs/heads/master/ICSPC-SIA-SPKI-Manuale%20Operativo%20AgID%20TLS_EN_20260717.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
