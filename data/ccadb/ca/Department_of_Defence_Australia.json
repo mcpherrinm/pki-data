@@ -81,14 +81,16 @@
     "CA Document Repository": "https://crl.defence.gov.au/pki/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://crl.defence.gov.au/pki/_lib/doc_pdf/Defence-ADPRCA-CP.pdf",
       "https://crl.defence.gov.au/pki/_lib/doc_pdf/Defence-ADPRCA-CP.pdf"
     ],
-    "CP Effective Date": "2024.12.20",
+    "CP Effective Date": "2026.04.30",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
+      "https://crl.defence.gov.au/pki/cps/Defence-CPS.pdf",
       "https://crl.defence.gov.au/pki/cps/Defence-CPS.pdf"
     ],
-    "CPS Effective Date": "2024.12.20",
+    "CPS Effective Date": "2026.04.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://www1.defence.gov.au/",
