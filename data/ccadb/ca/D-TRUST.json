@@ -684,18 +684,18 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf",
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_Cloud_PKI_CPS_v4.3.pdf",
-      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.5.pdf"
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -1192,6 +1192,78 @@
     "Country": "Germany"
   },
   {
+    "CA Owner": "D-Trust",
+    "Salesforce Record ID": "001TO00000oq9C5YAI",
+    "Certificate Name": "D-TRUST WE384 CA 1-20-12 2026",
+    "Parent Salesforce Record ID": "0014o00001l02xVAAQ",
+    "Parent Certificate Name": "D-TRUST EV Root CA 1 2020",
+    "Certificate Record Type": "Intermediate Certificate",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Revocation Status": "Not Revoked",
+    "SHA-256 Fingerprint": "498F683D2BA40AC20A43E80C5B7D267F443E15EB896B616B3A50B70BFBE4E440",
+    "Parent SHA-256 Fingerprint": "08170D1AA36453901A2F959245E347DB0C8D37ABAABC56B81AA100DC958970DB",
+    "Valid From (GMT)": "2026.07.17",
+    "Valid To (GMT)": "2029.07.16",
+    "Authority Key Identifier": "fxABFjc6pCjkUPik9+xrMrb+6Ys=",
+    "Subject Key Identifier": "y0mt+VEj0Ebv82mS/bps4ICmnNY=",
+    "Technically Constrained": "false",
+    "Derived Trust Bits": "Server Authentication",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
+    "Auditor": "TÜV NORD CERT GmbH",
+    "Audits Same as Parent": "true",
+    "CP Same as Parent": "true",
+    "CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "True",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Germany"
+  },
+  {
+    "CA Owner": "D-Trust",
+    "Salesforce Record ID": "001TO00000oq16UYAQ",
+    "Certificate Name": "D-TRUST WE384 CA 1-20-22 2026",
+    "Parent Salesforce Record ID": "0014o00001l02xVAAQ",
+    "Parent Certificate Name": "D-TRUST EV Root CA 1 2020",
+    "Certificate Record Type": "Intermediate Certificate",
+    "Apple Status": "Trusted",
+    "Chrome Status": "Trusted",
+    "Microsoft Status": "Trusted",
+    "Mozilla Status": "Trusted",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Revocation Status": "Not Revoked",
+    "SHA-256 Fingerprint": "F67C55BF9341E6C55043AC6B6C784C69C21AB8CF15D538F5372701792B0192FF",
+    "Parent SHA-256 Fingerprint": "08170D1AA36453901A2F959245E347DB0C8D37ABAABC56B81AA100DC958970DB",
+    "Valid From (GMT)": "2026.07.17",
+    "Valid To (GMT)": "2029.07.16",
+    "Authority Key Identifier": "fxABFjc6pCjkUPik9+xrMrb+6Ys=",
+    "Subject Key Identifier": "OQQHM0Q+nczHB0WaDxauOCufif4=",
+    "Technically Constrained": "false",
+    "Derived Trust Bits": "Server Authentication",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
+    "Auditor": "TÜV NORD CERT GmbH",
+    "Audits Same as Parent": "true",
+    "CP Same as Parent": "true",
+    "CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "True",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Germany"
+  },
+  {
     "CA Owner": "D-TRUST",
     "Salesforce Record ID": "0011J00001XcruEQAR",
     "Certificate Name": "VR IDENT SSL CA 2020",
@@ -1432,15 +1504,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.ssl.d-trust.net/",
@@ -1692,15 +1764,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.ssl.d-trust.net/",
@@ -1754,15 +1826,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid.tls.d-trust.net/",
@@ -2038,15 +2110,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ov-valid.tls.d-trust.net/",
@@ -2318,15 +2390,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2567,17 +2639,17 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf",
-      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.5.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf",
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2667,15 +2739,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-dv-valid-rsa.tls.d-trust.net/",
@@ -2874,15 +2946,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CP_v5.8.pdf",
-      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v5.9.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CP_v6.0.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
-      "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.2.pdf"
+      "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf"
     ],
-    "CPS Effective Date": "2026.06.14",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://certdemo-ev-valid-rsa.tls.d-trust.net/",

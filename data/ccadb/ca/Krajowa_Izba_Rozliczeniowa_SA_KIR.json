@@ -387,6 +387,10 @@
     ],
     "CP Effective Date": "2026.01.12",
     "CPS Same as Parent": "false",
+    "Certificate Practice Statement (CPS) URL": [
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/7/17/c14f844a706999e05bcab5d2fdb7c6eb/Certification_Practice_Statement_KIR_Trusted_nq_certificates_1_27_20260717_sig.pdf"
+    ],
+    "CPS Effective Date": "2026.07.17",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ssl.elektronicznypodpis.pl/",
@@ -439,7 +443,17 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/7/17/c2ded29e571155a6cbdbbc893d05e263/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_2_20260717_sig.pdf",
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/7/21/40b5bffc94778a2b8ac381f04fdf8842/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_2_1_20260721_sig.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.07.21",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/7/17/e7f40ad85e8c6cd8a78be5901b760490/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_2_20260717.md",
+      "https://www.elektronicznypodpis.pl/storage/file/core_files/2026/7/21/f8997bb0de4b7f253a48f05eee5d9fea/Certification_Practice_Statement_and_Certification_Policy_KIR_Trusted_nq_TLS_certificates_1_2_1_20260721.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.21",
     "Test Website URL - Valid": "https://ssl2.elektronicznypodpis.pl",
     "Test Website URL - Expired": "https://expired2.elektronicznypodpis.pl",
     "Test Website URL - Revoked": "https://revoked2.elektronicznypodpis.pl",

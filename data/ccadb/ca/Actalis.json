@@ -950,13 +950,15 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.actalis.com/cp-cps-code-signing-certificates",
-      "https://www.actalis.com/cp-cps-smime-certificates"
+      "https://www.actalis.com/cp-cps-smime-certificates",
+      "https://www.actalis.com/cps-for-tsl-server-certificates"
     ],
     "CP/CPS Effective Date": "2026.06.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/Actalis-CA/CP-CPS/raw/refs/heads/main/CPS/CodeSigning_CP_CPS_v1.0.md",
-      "https://github.com/Actalis-CA/CP-CPS/raw/refs/heads/main/CPS/SMIME_CP_CPS_v1.0.md"
+      "https://github.com/Actalis-CA/CP-CPS/raw/refs/heads/main/CPS/SMIME_CP_CPS_v1.0.md",
+      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.06.22",
     "Test Website URL - Valid": "https://ssltest-active.actalis.it/",
@@ -2074,6 +2076,7 @@
     "Authority Key Identifier": "GIwqYHsCy0pAmwOGeXdudK1Qga4=",
     "Subject Key Identifier": "GIwqYHsCy0pAmwOGeXdudK1Qga4=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl13.actalis.it/Repository/timestamp-root-ecc-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "Policy Documentation": "https://www.actalis.com/legal-repository",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
@@ -2215,6 +2218,7 @@
     "Authority Key Identifier": "6NMOTbF2QSKAGU1QSITyLzWQnY4=",
     "Subject Key Identifier": "6NMOTbF2QSKAGU1QSITyLzWQnY4=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://crl13.actalis.it/Repository/timestamp-root-rsa-2025/getLastCRL",
     "Audits Same as Parent": "false",
     "Policy Documentation": "https://www.actalis.com/legal-repository",
     "CA Document Repository": "https://www.actalis.com/legal-repository",
