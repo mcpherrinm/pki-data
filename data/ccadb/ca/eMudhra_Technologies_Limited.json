@@ -3334,9 +3334,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "Test Website URL - Valid": "https://testevc1.emsign.com",
     "Test Website URL - Expired": "https://testevc1e.emsign.com",
     "Test Website URL - Revoked": "https://testevc1r.emsign.com",
@@ -3393,6 +3394,10 @@
     ],
     "CP/CPS Effective Date": "2026.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -3452,9 +3457,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "Test Website URL - Valid": "https://testevg1.emSign.com",
     "Test Website URL - Expired": "https://testevg1e.emsign.com",
     "Test Website URL - Revoked": "https://testevg1r.emsign.com",
@@ -3511,6 +3517,10 @@
     ],
     "CP/CPS Effective Date": "2026.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -3575,9 +3585,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "Test Website URL - Valid": "https://testevg3.emsign.com",
     "Test Website URL - Expired": "https://testevg3e.emsign.com",
     "Test Website URL - Revoked": "https://testevg3r.emsign.com",
@@ -3646,9 +3657,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "Test Website URL - Valid": "https://testevc3.emsign.com",
     "Test Website URL - Expired": "https://testevc3e.emsign.com",
     "Test Website URL - Revoked": "https://testevc3r.emsign.com",
@@ -3752,6 +3764,10 @@
     ],
     "CP/CPS Effective Date": "2026.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3801,9 +3817,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3851,6 +3868,10 @@
     ],
     "CP/CPS Effective Date": "2026.02.28",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -3905,9 +3926,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md"
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md",
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "Test Website URL - Valid": "https://testevg3-cr.emsign.com",
     "Test Website URL - Expired": "https://testevg3e-cr.emsign.com",
     "Test Website URL - Revoked": "https://testevg3r-cr.emsign.com",
@@ -3955,9 +3977,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -4002,9 +4025,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -4059,9 +4083,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md"
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.05.md",
+      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.21",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "Test Website URL - Valid": "https://testevg1-cr.emsign.com",
     "Test Website URL - Expired": "https://testevg1e-cr.emsign.com",
     "Test Website URL - Revoked": "https://testevg1r-cr.emsign.com",
@@ -4166,9 +4191,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/CP-CPS-v1.23.md"
+      "https://repository.emsign.com/cps/CP-CPS-v1.23.md",
+      "https://repository.emsign.com/cps/CP-CPS-v1.24.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.11.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

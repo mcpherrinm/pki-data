@@ -2761,12 +2761,15 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://repository.swisssign.com/SwissSign_CP_LCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_LCP.pdf",
       "https://repository.swisssign.com/SwissSign_CP_NCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_NCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_NCP_extended.pdf",
       "https://repository.swisssign.com/SwissSign_CP_NCP_extended.pdf",
       "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf",
       "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
@@ -2775,10 +2778,9 @@
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
-      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
     ],
-    "CPS Effective Date": "2026.06.12",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.swisssign.com/SwissSign_CPCPS_TLS.pdf?_gl=1*b7k2k4*_gcl_au*NDc0OTQ3OTYwLjE3Nzg1NzMzODY."
@@ -3138,10 +3140,9 @@
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
-      "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf",
       "https://repository.swisssign.com/SwissSign_CPS_TLS.pdf"
     ],
-    "CPS Effective Date": "2026.06.12",
+    "CPS Effective Date": "2026.03.13",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://repository.swisssign.com/SwissSign_CPCPS_TLS.pdf?_gl=1*b7k2k4*_gcl_au*NDc0OTQ3OTYwLjE3Nzg1NzMzODY."
@@ -3240,10 +3241,13 @@
     "CA Document Repository": "https://www.swisssign.com/en/support/repository.html",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://repository.swisssign.com/SwissSign_CP_LCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_NCP.pdf",
+      "https://repository.swisssign.com/SwissSign_CP_NCP_extended.pdf",
       "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf",
       "https://repository.swisssign.com/SwissSign_CP_SMIME_OV.pdf"
     ],
-    "CP Effective Date": "2026.05.13",
+    "CP Effective Date": "2026.07.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://repository.swisssign.com/SwissSign_CPS_SMIME.pdf",
