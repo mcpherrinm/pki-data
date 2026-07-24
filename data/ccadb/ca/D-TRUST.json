@@ -110,7 +110,7 @@
     "Subject Key Identifier": "R6cLBqzVeiWScvWQFp9kbQ9bYjM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxiii.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxiii.crl",
     "Auditor": "TÜViT - TÜV Informationstechnik GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -253,7 +253,7 @@
     "Subject Key Identifier": "HWvYSzFXk9B57X46HuFhMxqPMyc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxi.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxi.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
@@ -301,9 +301,9 @@
     "CP Effective Date": "2024.07.26",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "http://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.22",
+    "CPS Effective Date": "2025.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -333,7 +333,7 @@
     "Subject Key Identifier": "HWvYSzFXk9B57X46HuFhMxqPMyc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxi.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxi.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
@@ -369,7 +369,7 @@
     "Subject Key Identifier": "R6cLBqzVeiWScvWQFp9kbQ9bYjM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxiii.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxiii.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
@@ -518,7 +518,7 @@
     "Subject Key Identifier": "HWvYSzFXk9B57X46HuFhMxqPMyc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxi.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxi.crl",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
@@ -598,7 +598,7 @@
     "Subject Key Identifier": "R6cLBqzVeiWScvWQFp9kbQ9bYjM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxiii.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxiii.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
@@ -634,7 +634,7 @@
     "Subject Key Identifier": "6oRqjsi31jrVzOkcffH2D4NFt4A=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/partner_ca_2_2013_xxiv.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/partner_ca_2_2013_xxiv.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
@@ -689,7 +689,6 @@
     "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_Cloud_PKI_CPS_v4.3.pdf",
@@ -768,7 +767,7 @@
     "Subject Key Identifier": "dOjKi6wNCmhF5NcNc8tJk15CA6w=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://www.d-trust.net/crl/eon_ca_2_2013_xxii.crl",
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/eon_ca_2_2013_xxii.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "Policy Documentation": "Documents are provided in both English and German.",
@@ -1977,9 +1976,7 @@
     "Subject Key Identifier": "ELLWW8ng45uRqmmhwWvIIyoZ3Rk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/d-trust_sce384_ca_1-20-31_2026.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "false",
     "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CPSs. The order and distribution process determines which product-specific CPS applies to the selected product.    Documents are provided in both English and German.",
@@ -2160,9 +2157,9 @@
     "CP Same as Parent": "true",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "http://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.22",
+    "CPS Effective Date": "2025.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2200,9 +2197,9 @@
     "CP Same as Parent": "true",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "http://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf"
+      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.22",
+    "CPS Effective Date": "2025.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2644,7 +2641,6 @@
     "CP Effective Date": "2026.07.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/internet/files/EON_SE_PKI_CPS.pdf",
       "https://www.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.1.pdf",
       "https://www1.d-trust.net/pdf-download/D-TRUST_CSM_PKI_CPS_v5.3.pdf",
       "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
@@ -2781,9 +2777,7 @@
     "Subject Key Identifier": "rEcZ9yi98BnsM6R4x903rBxPKy8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/d-trust_scr4096_ca_2-23-31_2026.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "false",
     "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CPSs. The order and distribution process determines which product-specific CPS applies to the selected product.    Documents are provided in both English and German.",
@@ -2846,7 +2840,7 @@
     "Microsoft Status": "Trusted",
     "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "5FF9F5A1C0ED7401E1C529F6D50C4ABB00B17B593358BD2D61DC0DD887DDD92F",
     "Parent SHA-256 Fingerprint": "8E8221B2E7D4007836A1672F0DCC299C33BC07D316F132FA1A206D587150F1CE",
     "Valid From (GMT)": "2023.05.11",
