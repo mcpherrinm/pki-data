@@ -656,8 +656,16 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cp-cps-smime-certificates"
+    ],
+    "CP/CPS Effective Date": "2026.06.19",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/SMIME_CP_CPS_v1.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.19",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -858,8 +866,16 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-tsl-server-certificates"
+    ],
+    "CP/CPS Effective Date": "2026.05.29",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -1214,8 +1230,16 @@
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "CP/CPS Same as Parent": "true",
-    "MD/AsciiDoc CP/CPS Same as Parent": "true",
+    "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-tsl-server-certificates"
+    ],
+    "CP/CPS Effective Date": "2026.05.29",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
