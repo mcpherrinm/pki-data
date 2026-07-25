@@ -41694,19 +41694,19 @@
   },
   {
     "CA Owner": "DigiCert",
-    "Salesforce Record ID": "0018Z00002eGfbVQAS",
+    "Salesforce Record ID": "0018Z00002eGgsPQAS",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "0011J00001kW1FOQA0",
-    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
+    "Parent Salesforce Record ID": "001o000000HshFTAAZ",
+    "Parent Certificate Name": "QuoVadis Root CA 3",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
+    "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -41756,19 +41756,19 @@
   },
   {
     "CA Owner": "DigiCert",
-    "Salesforce Record ID": "0018Z00002eGgsPQAS",
+    "Salesforce Record ID": "0018Z00002eGfbVQAS",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "001o000000HshFTAAZ",
-    "Parent Certificate Name": "QuoVadis Root CA 3",
+    "Parent Salesforce Record ID": "0011J00001kW1FOQA0",
+    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
+    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -77703,9 +77703,7 @@
     "Subject Key Identifier": "G7vVSKK7lU5M7CxBOwSPhGun5dE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "http://crl.digicert.eu/BTIndigoTLSCA2.crl"
-    ],
+    "Full CRL Issued By This CA": "http://crl.digicert.eu/BTIndigoTLSCA2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -77738,9 +77736,7 @@
     "Subject Key Identifier": "y+382ugwmM7JiHHW9jz47HwOQgQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      "http://crl.digicert.eu/BTIndigoTLSCA1.crl"
-    ],
+    "Full CRL Issued By This CA": "http://crl.digicert.eu/BTIndigoTLSCA1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -86331,7 +86327,9 @@
     "Subject Key Identifier": "GgY9VBDkhF+KTe9BkYHENnF1teQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertQuoVadisG4SMIMEECCP384SHA3842023CA1-1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG4SMIMEECCP384SHA3842023CA1-1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86399,7 +86397,9 @@
     "Subject Key Identifier": "XauDlSkteP1ixSU4soqZerD7jzk=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
-    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertQuoVadisG4SMIMERSA4096SHA3842023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertQuoVadisG4SMIMERSA4096SHA3842023CA1-1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -89190,6 +89190,7 @@
     "Subject Key Identifier": "pWIgUNy7W1eXrSOPNeJUbKl++U4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2-Master.crl",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2.crl",
       "http://crl4.digicert.com/DigiCertAssuredIDClientCAG2.crl"
@@ -91437,7 +91438,10 @@
     "Authority Key Identifier": "7G8ipLME4sFjh+Z3Y+pGaU7u/Os=",
     "Subject Key Identifier": "vp+9jVdtlbWtY8OXTquohF06B/U=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertVerifiedMarkRSA4096SHA2562021CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertVerifiedMarkRSA4096SHA2562021CA1.crl",
+      "http://crl4.digicert.com/DigiCertVerifiedMarkRSA4096SHA2562021CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -93832,7 +93836,9 @@
     "Authority Key Identifier": "7G8ipLME4sFjh+Z3Y+pGaU7u/Os=",
     "Subject Key Identifier": "FMq17OkU6pdORyL8FXy8t2M7RC8=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertVerifiedMarkEuropeRSA4096SHA2562023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertVerifiedMarkEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
