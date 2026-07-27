@@ -740,8 +740,8 @@
           "url": "https://oak.ct.letsencrypt.org/2026h1/",
           "mmd": 86400,
           "state": {
-            "retired": {
-              "timestamp": "2026-02-28T00:00:00Z"
+            "rejected": {
+              "timestamp": "2026-07-27T13:40:00Z"
             }
           },
           "temporal_interval": {
