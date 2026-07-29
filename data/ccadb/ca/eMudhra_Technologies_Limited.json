@@ -3238,7 +3238,7 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -3455,7 +3455,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.07.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.24",
@@ -3585,7 +3584,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.07.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.24",
@@ -3936,7 +3934,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.07.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.24",
@@ -4093,7 +4090,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.06.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.07.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.24",
