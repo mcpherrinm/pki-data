@@ -586,13 +586,11 @@
     "CA Document Repository": "https://ssl.gov.sa/repository;https://ca.nic.gov.sa",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CP%20v3.6.pdf",
       "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/SaudiNationalRoot-CA-CPv3.7.pdf"
     ],
     "CP Effective Date": "2026.06.30",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/Saudi%20National%20Root-CA%20CPS%20v3.6.pdf",
       "https://sdaia.gov.sa/en/Sectors/Nic/ca/Documents/SaudiNationalRoot-CA-CPSv3.7.pdf"
     ],
     "CPS Effective Date": "2026.06.30",
