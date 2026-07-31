@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Korea Information Security Agency (KISA)",
-    "Salesforce Record ID": "0018Z00002iKhcfQAC",
+    "Salesforce Record ID": "A010479",
     "Certificate Name": "CertRSA01",
-    "Parent Salesforce Record ID": "001o000000Hsrw1AAB",
+    "Parent Salesforce Record ID": "A000250",
     "Parent Certificate Name": "Korea Information Security Agency (KISA)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -31,9 +31,9 @@
   },
   {
     "CA Owner": "Korea Information Security Agency (KISA)",
-    "Salesforce Record ID": "0018Z00002iKhfiQAC",
+    "Salesforce Record ID": "A010480",
     "Certificate Name": "KISA RootCA 3",
-    "Parent Salesforce Record ID": "001o000000Hsrw1AAB",
+    "Parent Salesforce Record ID": "A000250",
     "Parent Certificate Name": "Korea Information Security Agency (KISA)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -61,9 +61,9 @@
   },
   {
     "CA Owner": "Korea Information Security Agency (KISA)",
-    "Salesforce Record ID": "001o000000rGWVQAA4",
+    "Salesforce Record ID": "A002391",
     "Certificate Name": "KISA RootCA 1",
-    "Parent Salesforce Record ID": "001o000000Hsrw1AAB",
+    "Parent Salesforce Record ID": "A000250",
     "Parent Certificate Name": "Korea Information Security Agency (KISA)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",
@@ -109,9 +109,9 @@
   },
   {
     "CA Owner": "Korea Information Security Agency (KISA)",
-    "Salesforce Record ID": "001o00000172Ke8AAE",
+    "Salesforce Record ID": "A004358",
     "Certificate Name": "KISA RootCA 4",
-    "Parent Salesforce Record ID": "001o000000Hsrw1AAB",
+    "Parent Salesforce Record ID": "A000250",
     "Parent Certificate Name": "Korea Information Security Agency (KISA)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

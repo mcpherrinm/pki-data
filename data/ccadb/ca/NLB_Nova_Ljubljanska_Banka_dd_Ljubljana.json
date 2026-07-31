@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "NLB Nova Ljubljanska Banka d.d. Ljubljana",
-    "Salesforce Record ID": "001o000000rGWVaAAO",
+    "Salesforce Record ID": "A002393",
     "Certificate Name": "ACNLB",
-    "Parent Salesforce Record ID": "001o000000rGWkuAAG",
+    "Parent Salesforce Record ID": "A002581",
     "Parent Certificate Name": "NLB Nova Ljubljanska Banka d.d. Ljubljana",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

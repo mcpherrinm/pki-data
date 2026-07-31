@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Swisskey AG",
-    "Salesforce Record ID": "0018Z00002iKhk9QAC",
+    "Salesforce Record ID": "A010498",
     "Certificate Name": "Swisskey Root CA",
-    "Parent Salesforce Record ID": "0018Z00002Y0c5NQAR",
+    "Parent Salesforce Record ID": "A010216",
     "Parent Certificate Name": "Swisskey AG",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

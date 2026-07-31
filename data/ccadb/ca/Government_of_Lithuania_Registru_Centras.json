@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Government of Lithuania, Registru Centras",
-    "Salesforce Record ID": "001o000000rGWdFAAW",
+    "Salesforce Record ID": "A002486",
     "Certificate Name": "VI Registru Centras RCSC (RootCA)",
-    "Parent Salesforce Record ID": "001o000000rGWlYAAW",
+    "Parent Salesforce Record ID": "A002589",
     "Parent Certificate Name": "Government of Lithuania, Registru Centras",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -40,9 +40,9 @@
   },
   {
     "CA Owner": "Government of Lithuania, Registru Centras",
-    "Salesforce Record ID": "0011J00001MlgvLQAR",
+    "Salesforce Record ID": "A006184",
     "Certificate Name": "RCSC RootCA",
-    "Parent Salesforce Record ID": "001o000000rGWlYAAW",
+    "Parent Salesforce Record ID": "A002589",
     "Parent Certificate Name": "Government of Lithuania, Registru Centras",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Collegio de Registradores Mercantile (Spanish Property & Commerce Registry)",
-    "Salesforce Record ID": "0018Z00002iKhiSQAS",
+    "Salesforce Record ID": "A010492",
     "Certificate Name": "Certificado de la Clave Principal",
-    "Parent Salesforce Record ID": "001o000000rGWjcAAG",
+    "Parent Salesforce Record ID": "A002566",
     "Parent Certificate Name": "Collegio de Registradores Mercantile (Spanish Property & Commerce Registry)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -28,9 +28,9 @@
   },
   {
     "CA Owner": "Collegio de Registradores Mercantile (Spanish Property & Commerce Registry)",
-    "Salesforce Record ID": "001o000000rGWWsAAO",
+    "Salesforce Record ID": "A002407",
     "Certificate Name": "Registradores de España - CA Raíz",
-    "Parent Salesforce Record ID": "001o000000rGWjcAAG",
+    "Parent Salesforce Record ID": "A002566",
     "Parent Certificate Name": "Collegio de Registradores Mercantile (Spanish Property & Commerce Registry)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

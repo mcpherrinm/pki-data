@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Gestión de Seguridad Electrónica S.A.",
-    "Salesforce Record ID": "0014o00001p3LYBAA2",
+    "Salesforce Record ID": "A009997",
     "Certificate Name": "Autoridad Subordinada 01 GSE",
-    "Parent Salesforce Record ID": "0014o00001oAWasAAG",
+    "Parent Salesforce Record ID": "A007925",
     "Parent Certificate Name": "Autoridad Raiz GSE",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -32,9 +32,9 @@
   },
   {
     "CA Owner": "Gestión de Seguridad Electrónica S.A.",
-    "Salesforce Record ID": "0014o00001p3LYfAAM",
+    "Salesforce Record ID": "A009998",
     "Certificate Name": "GSE ECDSA SUBORDINADA",
-    "Parent Salesforce Record ID": "0014o00001oAWzAAAW",
+    "Parent Salesforce Record ID": "A007926",
     "Parent Certificate Name": "GSE ECDSA RAIZ",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -63,9 +63,9 @@
   },
   {
     "CA Owner": "GESTIÓN DE SEGURIDAD ELECTRÓNICA S.A.",
-    "Salesforce Record ID": "0014o00001oAWzAAAW",
+    "Salesforce Record ID": "A007926",
     "Certificate Name": "GSE ECDSA RAIZ",
-    "Parent Salesforce Record ID": "0014o00001nR57wAAC",
+    "Parent Salesforce Record ID": "A007839",
     "Parent Certificate Name": "Gestión de Seguridad Electrónica S.A.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -104,9 +104,9 @@
   },
   {
     "CA Owner": "GESTIÓN DE SEGURIDAD ELECTRÓNICA S.A.",
-    "Salesforce Record ID": "0014o00001oAWasAAG",
+    "Salesforce Record ID": "A007925",
     "Certificate Name": "Autoridad Raiz GSE",
-    "Parent Salesforce Record ID": "0014o00001nR57wAAC",
+    "Parent Salesforce Record ID": "A007839",
     "Parent Certificate Name": "Gestión de Seguridad Electrónica S.A.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

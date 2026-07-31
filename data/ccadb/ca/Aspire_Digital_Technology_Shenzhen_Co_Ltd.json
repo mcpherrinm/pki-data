@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
-    "Salesforce Record ID": "0018Z00002Y13AaQAJ",
+    "Salesforce Record ID": "A010225",
     "Certificate Name": "CMCA EV SSL CA",
-    "Parent Salesforce Record ID": "0018Z00002Y12sqQAB",
+    "Parent Salesforce Record ID": "A010221",
     "Parent Certificate Name": "CMCA GLOBAL TRUST ROOT CA",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -34,9 +34,9 @@
   },
   {
     "CA Owner": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
-    "Salesforce Record ID": "0018Z00002Y13AVQAZ",
+    "Salesforce Record ID": "A010224",
     "Certificate Name": "CMCA SSL CA",
-    "Parent Salesforce Record ID": "0018Z00002Y12sqQAB",
+    "Parent Salesforce Record ID": "A010221",
     "Parent Certificate Name": "CMCA GLOBAL TRUST ROOT CA",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -66,9 +66,9 @@
   },
   {
     "CA Owner": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
-    "Salesforce Record ID": "0018Z00002Y12sqQAB",
+    "Salesforce Record ID": "A010221",
     "Certificate Name": "CMCA GLOBAL TRUST ROOT CA",
-    "Parent Salesforce Record ID": "0014o00001p5E5SAAU",
+    "Parent Salesforce Record ID": "A010033",
     "Parent Certificate Name": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

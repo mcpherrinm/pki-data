@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Cisco",
-    "Salesforce Record ID": "001o000000rGWgiAAG",
+    "Salesforce Record ID": "A002530",
     "Certificate Name": "Cisco Root CA 2048",
-    "Parent Salesforce Record ID": "001o000000rGWjXAAW",
+    "Parent Salesforce Record ID": "A002565",
     "Parent Certificate Name": "Cisco",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Blocked",
@@ -44,9 +44,9 @@
   },
   {
     "CA Owner": "Cisco",
-    "Salesforce Record ID": "001o000000rGWXWAA4",
+    "Salesforce Record ID": "A002413",
     "Certificate Name": "Cisco RXC-R2",
-    "Parent Salesforce Record ID": "001o000000rGWjXAAW",
+    "Parent Salesforce Record ID": "A002565",
     "Parent Certificate Name": "Cisco",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -95,9 +95,9 @@
   },
   {
     "CA Owner": "Cisco",
-    "Salesforce Record ID": "001o0000010dFepAAE",
+    "Salesforce Record ID": "A004114",
     "Certificate Name": "Cisco XSSL-R2",
-    "Parent Salesforce Record ID": "001o000000rGWXWAA4",
+    "Parent Salesforce Record ID": "A002413",
     "Parent Certificate Name": "Cisco RXC-R2",
     "Certificate Record Type": "Intermediate Certificate",
     "Subordinate CA Owner": "Cisco",

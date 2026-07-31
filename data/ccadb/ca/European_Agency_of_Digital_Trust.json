@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "European Agency of Digital Trust",
-    "Salesforce Record ID": "0014o00001oAWROAA4",
+    "Salesforce Record ID": "A007924",
     "Certificate Name": "EADTrust ECC 256 Root CA For Qualified Web DV/OV Cert 2019",
-    "Parent Salesforce Record ID": "0014o00001npX74AAE",
+    "Parent Salesforce Record ID": "A007881",
     "Parent Certificate Name": "European Agency of Digital Trust",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Government of South Africa, Post Office Trust Centre",
-    "Salesforce Record ID": "001o000000rGWXvAAO",
+    "Salesforce Record ID": "A002418",
     "Certificate Name": "SAPO Class 3 Root CA",
-    "Parent Salesforce Record ID": "001o000000rGWl4AAG",
+    "Parent Salesforce Record ID": "A002583",
     "Parent Certificate Name": "Government of South Africa, Post Office Trust Centre",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -39,9 +39,9 @@
   },
   {
     "CA Owner": "Government of South Africa, Post Office Trust Centre",
-    "Salesforce Record ID": "001o000000rGWWnAAO",
+    "Salesforce Record ID": "A002406",
     "Certificate Name": "SAPO Class 4 Root CA",
-    "Parent Salesforce Record ID": "001o000000rGWl4AAG",
+    "Parent Salesforce Record ID": "A002583",
     "Parent Certificate Name": "Government of South Africa, Post Office Trust Centre",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -77,9 +77,9 @@
   },
   {
     "CA Owner": "Government of South Africa, Post Office Trust Centre",
-    "Salesforce Record ID": "001o000000rGWgxAAG",
+    "Salesforce Record ID": "A002534",
     "Certificate Name": "SAPO Class 2 Root CA",
-    "Parent Salesforce Record ID": "001o000000rGWl4AAG",
+    "Parent Salesforce Record ID": "A002583",
     "Parent Certificate Name": "Government of South Africa, Post Office Trust Centre",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
-    "Salesforce Record ID": "0011J000018Kw8VQAS",
+    "Salesforce Record ID": "A004434",
     "Certificate Name": "Correo Uruguayo - CA",
-    "Parent Salesforce Record ID": "001o000000rGWbdAAG",
+    "Parent Salesforce Record ID": "A002463",
     "Parent Certificate Name": "Autoridad Certificadora Raíz Nacional de Uruguay",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -32,9 +32,9 @@
   },
   {
     "CA Owner": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
-    "Salesforce Record ID": "0011J000018Nfi9QAC",
+    "Salesforce Record ID": "A004497",
     "Certificate Name": "Abitab",
-    "Parent Salesforce Record ID": "001o000000rGWbdAAG",
+    "Parent Salesforce Record ID": "A002463",
     "Parent Certificate Name": "Autoridad Certificadora Raíz Nacional de Uruguay",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -63,9 +63,9 @@
   },
   {
     "CA Owner": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
-    "Salesforce Record ID": "0011J000018NfhQQAS",
+    "Salesforce Record ID": "A004496",
     "Certificate Name": "Autoridad Certificadora del Ministerio del Interior",
-    "Parent Salesforce Record ID": "001o000000rGWbdAAG",
+    "Parent Salesforce Record ID": "A002463",
     "Parent Certificate Name": "Autoridad Certificadora Raíz Nacional de Uruguay",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -94,9 +94,9 @@
   },
   {
     "CA Owner": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
-    "Salesforce Record ID": "001o000000rGWbdAAG",
+    "Salesforce Record ID": "A002463",
     "Certificate Name": "Autoridad Certificadora Raíz Nacional de Uruguay",
-    "Parent Salesforce Record ID": "001o000000HsryoAAB",
+    "Parent Salesforce Record ID": "A000271",
     "Parent Certificate Name": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

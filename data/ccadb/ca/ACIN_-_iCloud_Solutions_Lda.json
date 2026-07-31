@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "ACIN - iCloud Solutions, Lda",
-    "Salesforce Record ID": "0011J00001Rd5lSQAR",
+    "Salesforce Record ID": "A006614",
     "Certificate Name": "Global Trusted Sign Certification Authority 01",
-    "Parent Salesforce Record ID": "0011J00001QWWCSQA5",
+    "Parent Salesforce Record ID": "A006541",
     "Parent Certificate Name": "Global Trusted Sign Root Certification Authority 01",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -32,9 +32,9 @@
   },
   {
     "CA Owner": "ACIN - iCloud Solutions, Lda",
-    "Salesforce Record ID": "0011J00001QWWCSQA5",
+    "Salesforce Record ID": "A006541",
     "Certificate Name": "Global Trusted Sign Root Certification Authority 01",
-    "Parent Salesforce Record ID": "0011J00001P3Od5QAF",
+    "Parent Salesforce Record ID": "A006400",
     "Parent Certificate Name": "ACIN - iCloud Solutions, Lda",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

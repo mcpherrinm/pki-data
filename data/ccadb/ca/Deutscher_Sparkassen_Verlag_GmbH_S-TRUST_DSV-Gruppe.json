@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
-    "Salesforce Record ID": "001o000000HshFzAAJ",
+    "Salesforce Record ID": "A000208",
     "Certificate Name": "TC TrustCenter Class 3 CA II",
-    "Parent Salesforce Record ID": "001o000000HsfovAAB",
+    "Parent Salesforce Record ID": "A000020",
     "Parent Certificate Name": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -40,9 +40,9 @@
   },
   {
     "CA Owner": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
-    "Salesforce Record ID": "001o000000HshFqAAJ",
+    "Salesforce Record ID": "A000199",
     "Certificate Name": "S-TRUST Authentication and Encryption Root CA 2005:PN",
-    "Parent Salesforce Record ID": "001o000000HsfovAAB",
+    "Parent Salesforce Record ID": "A000020",
     "Parent Certificate Name": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -85,9 +85,9 @@
   },
   {
     "CA Owner": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
-    "Salesforce Record ID": "001o000000TNZexAAH",
+    "Salesforce Record ID": "A000292",
     "Certificate Name": "S-TRUST Universal Root CA",
-    "Parent Salesforce Record ID": "001o000000HsfovAAB",
+    "Parent Salesforce Record ID": "A000020",
     "Parent Certificate Name": "Deutscher Sparkassen Verlag GmbH (S-TRUST, DSV-Gruppe)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

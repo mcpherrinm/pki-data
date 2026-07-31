@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "brainit.sk, s. r. o.",
-    "Salesforce Record ID": "001TO00000G5PhKYAV",
+    "Salesforce Record ID": "A011842",
     "Certificate Name": "CA Signing Certificate",
-    "Parent Salesforce Record ID": "001TO00000F1pPeYAJ",
+    "Parent Salesforce Record ID": "A011809",
     "Parent Certificate Name": "brainit.sk, s. r. o.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

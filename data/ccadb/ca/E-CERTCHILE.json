@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "E-CERTCHILE",
-    "Salesforce Record ID": "0018Z00002iKhWbQAK",
+    "Salesforce Record ID": "A010467",
     "Certificate Name": "E-CERT ROOT CA",
-    "Parent Salesforce Record ID": "0018Z00002Y0c3VQAR",
+    "Parent Salesforce Record ID": "A010209",
     "Parent Certificate Name": "E-CERTCHILE",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

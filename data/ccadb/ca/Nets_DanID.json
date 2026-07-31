@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Nets DanID",
-    "Salesforce Record ID": "001o000000HshG2AAJ",
+    "Salesforce Record ID": "A000211",
     "Certificate Name": "TDC Internet Root CA",
-    "Parent Salesforce Record ID": "001o000000HsfpFAAR",
+    "Parent Salesforce Record ID": "A000040",
     "Parent Certificate Name": "Nets DanID",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -40,9 +40,9 @@
   },
   {
     "CA Owner": "Nets DanID",
-    "Salesforce Record ID": "0018Z00002iKhheQAC",
+    "Salesforce Record ID": "A010488",
     "Certificate Name": "TDC OCES CA",
-    "Parent Salesforce Record ID": "001o000000HsfpFAAR",
+    "Parent Salesforce Record ID": "A000040",
     "Parent Certificate Name": "Nets DanID",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -71,9 +71,9 @@
   },
   {
     "CA Owner": "Nets DanID",
-    "Salesforce Record ID": "001o000000rGWXhAAO",
+    "Salesforce Record ID": "A002444",
     "Certificate Name": "TRUST2408 OCES Primary CA",
-    "Parent Salesforce Record ID": "001o000000HsfpFAAR",
+    "Parent Salesforce Record ID": "A000040",
     "Parent Certificate Name": "Nets DanID",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",

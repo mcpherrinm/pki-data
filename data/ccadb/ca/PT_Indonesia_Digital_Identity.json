@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "PT Indonesia Digital Identity",
-    "Salesforce Record ID": "001TO00000SX2kYYAT",
+    "Salesforce Record ID": "A012475",
     "Certificate Name": "VIDA Root CA",
-    "Parent Salesforce Record ID": "001TO00000OjnzeYAB",
+    "Parent Salesforce Record ID": "A012214",
     "Parent Certificate Name": "PT Indonesia Digital Identity",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

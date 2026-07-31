@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
-    "Salesforce Record ID": "0014o00001mHqJzAAK",
+    "Salesforce Record ID": "A007632",
     "Certificate Name": "National Certification Authority of Sri Lanka - G1",
-    "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
+    "Parent Salesforce Record ID": "A007507",
     "Parent Certificate Name": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -31,9 +31,9 @@
   },
   {
     "CA Owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
-    "Salesforce Record ID": "001TO00000ijHzSYAU",
+    "Salesforce Record ID": "A013081",
     "Certificate Name": "National Certification Authority of Sri Lanka TLS Root CA - G1",
-    "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
+    "Parent Salesforce Record ID": "A007507",
     "Parent Certificate Name": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -82,9 +82,9 @@
   },
   {
     "CA Owner": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
-    "Salesforce Record ID": "001TO00000ijKSgYAM",
+    "Salesforce Record ID": "A013080",
     "Certificate Name": "National Certification Authority of Sri Lanka DS Root CA - G1",
-    "Parent Salesforce Record ID": "0014o00001lR4UIAA0",
+    "Parent Salesforce Record ID": "A007507",
     "Parent Certificate Name": "National Certification Authority of Sri Lanka (NCA of Sri Lanka)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

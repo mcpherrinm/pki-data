@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Evrotrust Technologies AD",
-    "Salesforce Record ID": "0014o00001nqlHUAAY",
+    "Salesforce Record ID": "A007904",
     "Certificate Name": "Evrotrust RSA Root CA",
-    "Parent Salesforce Record ID": "0014o00001nQXiBAAW",
+    "Parent Salesforce Record ID": "A007835",
     "Parent Certificate Name": "Evrotrust Technologies AD",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

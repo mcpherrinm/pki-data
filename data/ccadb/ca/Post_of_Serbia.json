@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Post of Serbia",
-    "Salesforce Record ID": "001o000000rGWgOAAW",
+    "Salesforce Record ID": "A002525",
     "Certificate Name": "Posta CA Root",
-    "Parent Salesforce Record ID": "0011J00001M4DbfQAF",
+    "Parent Salesforce Record ID": "A006080",
     "Parent Certificate Name": "Post of Serbia",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
