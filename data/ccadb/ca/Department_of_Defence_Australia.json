@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Department of Defence Australia",
-    "Salesforce Record ID": "001o000000rGWcMAAW",
+    "Salesforce Record ID": "A002473",
     "Certificate Name": "ADOCA02",
-    "Parent Salesforce Record ID": "001o000000rGWioAAG",
+    "Parent Salesforce Record ID": "A002556",
     "Parent Certificate Name": "Department of Defence Australia",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -43,9 +43,9 @@
   },
   {
     "CA Owner": "Department of Defence Australia",
-    "Salesforce Record ID": "001o000000zXSCGAA4",
+    "Salesforce Record ID": "A004097",
     "Certificate Name": "Australian Defence Public Root CA",
-    "Parent Salesforce Record ID": "001o000000rGWioAAG",
+    "Parent Salesforce Record ID": "A002556",
     "Parent Certificate Name": "Department of Defence Australia",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

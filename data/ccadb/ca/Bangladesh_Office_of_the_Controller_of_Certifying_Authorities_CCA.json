@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
-    "Salesforce Record ID": "0014o00001mHkZHAA0",
+    "Salesforce Record ID": "A007630",
     "Certificate Name": "Root CA Bangladesh 2018",
-    "Parent Salesforce Record ID": "0014o00001mG8v2AAC",
+    "Parent Salesforce Record ID": "A007603",
     "Parent Certificate Name": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -31,9 +31,9 @@
   },
   {
     "CA Owner": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
-    "Salesforce Record ID": "0014o00001mHkZRAA0",
+    "Salesforce Record ID": "A007631",
     "Certificate Name": "Root CA Bangladesh 2020",
-    "Parent Salesforce Record ID": "0014o00001mG8v2AAC",
+    "Parent Salesforce Record ID": "A007603",
     "Parent Certificate Name": "Bangladesh Office of the Controller of Certifying Authorities (“CCA”)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

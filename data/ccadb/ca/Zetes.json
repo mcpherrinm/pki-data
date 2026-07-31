@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Zetes",
-    "Salesforce Record ID": "0011J00001LSfcvQAD",
+    "Salesforce Record ID": "A006027",
     "Certificate Name": "ZETES TSP QUALIFIED CA 001",
-    "Parent Salesforce Record ID": "0011J00001KPVJ1QAP",
+    "Parent Salesforce Record ID": "A005968",
     "Parent Certificate Name": "ZETES TSP ROOT CA 001",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -34,9 +34,9 @@
   },
   {
     "CA Owner": "Zetes",
-    "Salesforce Record ID": "0014o00001npqT8AAI",
+    "Salesforce Record ID": "A007882",
     "Certificate Name": "ZetesConfidens - Signature Creation Service - Issuing CA 001",
-    "Parent Salesforce Record ID": "0011J00001KPVJ1QAP",
+    "Parent Salesforce Record ID": "A005968",
     "Parent Certificate Name": "ZETES TSP ROOT CA 001",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -68,9 +68,9 @@
   },
   {
     "CA Owner": "Zetes",
-    "Salesforce Record ID": "0011J00001R0E4uQAF",
+    "Salesforce Record ID": "A006557",
     "Certificate Name": "ZETES TSP CA FOR TSA 001",
-    "Parent Salesforce Record ID": "0011J00001KPVJ1QAP",
+    "Parent Salesforce Record ID": "A005968",
     "Parent Certificate Name": "ZETES TSP ROOT CA 001",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -102,9 +102,9 @@
   },
   {
     "CA Owner": "Zetes",
-    "Salesforce Record ID": "0011J00001KPVJ1QAP",
+    "Salesforce Record ID": "A005968",
     "Certificate Name": "ZETES TSP ROOT CA 001",
-    "Parent Salesforce Record ID": "0011J00001KPVHtQAP",
+    "Parent Salesforce Record ID": "A005967",
     "Parent Certificate Name": "Zetes",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

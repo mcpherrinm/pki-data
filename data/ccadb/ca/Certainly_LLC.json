@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Certainly LLC",
-    "Salesforce Record ID": "0014o00001nqjBfAAI",
+    "Salesforce Record ID": "A007899",
     "Certificate Name": "Certainly Intermediate R1",
-    "Parent Salesforce Record ID": "0014o00001nqAm8AAE",
+    "Parent Salesforce Record ID": "A007889",
     "Parent Certificate Name": "Certainly Root R1",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Trusted",
@@ -46,9 +46,9 @@
   },
   {
     "CA Owner": "Certainly LLC",
-    "Salesforce Record ID": "0014o00001nqjB6AAI",
+    "Salesforce Record ID": "A007898",
     "Certificate Name": "Certainly Intermediate E1",
-    "Parent Salesforce Record ID": "0014o00001nqAnVAAU",
+    "Parent Salesforce Record ID": "A007890",
     "Parent Certificate Name": "Certainly Root E1",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Trusted",
@@ -91,9 +91,9 @@
   },
   {
     "CA Owner": "Certainly LLC",
-    "Salesforce Record ID": "0014o00001nqAm8AAE",
+    "Salesforce Record ID": "A007889",
     "Certificate Name": "Certainly Root R1",
-    "Parent Salesforce Record ID": "0014o00001npRDDAA2",
+    "Parent Salesforce Record ID": "A007878",
     "Parent Certificate Name": "Certainly LLC",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Included",
@@ -149,9 +149,9 @@
   },
   {
     "CA Owner": "Certainly LLC",
-    "Salesforce Record ID": "0014o00001nqAnVAAU",
+    "Salesforce Record ID": "A007890",
     "Certificate Name": "Certainly Root E1",
-    "Parent Salesforce Record ID": "0014o00001npRDDAA2",
+    "Parent Salesforce Record ID": "A007878",
     "Parent Certificate Name": "Certainly LLC",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Included",

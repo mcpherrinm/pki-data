@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Telekom-Control-Kommission",
-    "Salesforce Record ID": "0018Z00002iKhihQAC",
+    "Salesforce Record ID": "A010494",
     "Certificate Name": "Telekom-Control-Kommission Top 1",
-    "Parent Salesforce Record ID": "0018Z00002Y0c7bQAB",
+    "Parent Salesforce Record ID": "A010217",
     "Parent Certificate Name": "Telekom-Control-Kommission",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

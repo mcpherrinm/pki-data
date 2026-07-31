@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Serviço Federal de Processamento de Dados",
-    "Salesforce Record ID": "0014o00001lPvEjAAK",
+    "Salesforce Record ID": "A007497",
     "Certificate Name": "Autoridade Certificadora do SERPRO SSLv1",
-    "Parent Salesforce Record ID": "0011J00001kWRqFQAW",
+    "Parent Salesforce Record ID": "A007387",
     "Parent Certificate Name": "Serviço Federal de Processamento de Dados",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -54,9 +54,9 @@
   },
   {
     "CA Owner": "Serviço Federal de Processamento de Dados",
-    "Salesforce Record ID": "0014o00001kykXJAAY",
+    "Salesforce Record ID": "A007466",
     "Certificate Name": "Autoridade Certificadora do SERPRO SSL",
-    "Parent Salesforce Record ID": "0011J00001kWRqFQAW",
+    "Parent Salesforce Record ID": "A007387",
     "Parent Certificate Name": "Serviço Federal de Processamento de Dados",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

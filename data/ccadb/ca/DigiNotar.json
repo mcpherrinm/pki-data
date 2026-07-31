@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "DigiNotar",
-    "Salesforce Record ID": "0018Z00002iKmdVQAS",
+    "Salesforce Record ID": "A010553",
     "Certificate Name": "DigiNotar Root CA",
-    "Parent Salesforce Record ID": "0018Z00002iKmR5QAK",
+    "Parent Salesforce Record ID": "A010548",
     "Parent Certificate Name": "DigiNotar",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",
@@ -29,9 +29,9 @@
   },
   {
     "CA Owner": "DigiNotar",
-    "Salesforce Record ID": "0018Z00002iKmd1QAC",
+    "Salesforce Record ID": "A010552",
     "Certificate Name": "DigiNotar Root CA",
-    "Parent Salesforce Record ID": "0018Z00002iKmR5QAK",
+    "Parent Salesforce Record ID": "A010548",
     "Parent Certificate Name": "DigiNotar",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -57,9 +57,9 @@
   },
   {
     "CA Owner": "DigiNotar",
-    "Salesforce Record ID": "0018Z00002iKmShQAK",
+    "Salesforce Record ID": "A010549",
     "Certificate Name": "DigiNotar Root CA",
-    "Parent Salesforce Record ID": "0018Z00002iKmR5QAK",
+    "Parent Salesforce Record ID": "A010548",
     "Parent Certificate Name": "DigiNotar",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",
@@ -85,9 +85,9 @@
   },
   {
     "CA Owner": "DigiNotar",
-    "Salesforce Record ID": "0018Z00002iKmboQAC",
+    "Salesforce Record ID": "A010551",
     "Certificate Name": "DigiNotar Root CA G2",
-    "Parent Salesforce Record ID": "0018Z00002iKmR5QAK",
+    "Parent Salesforce Record ID": "A010548",
     "Parent Certificate Name": "DigiNotar",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Removed",

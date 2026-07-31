@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "JIPDEC",
-    "Salesforce Record ID": "001o000000rGWedAAG",
+    "Salesforce Record ID": "A002510",
     "Certificate Name": "JCAN Root CA1",
-    "Parent Salesforce Record ID": "001o000000rGWkaAAG",
+    "Parent Salesforce Record ID": "A002578",
     "Parent Certificate Name": "JIPDEC",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

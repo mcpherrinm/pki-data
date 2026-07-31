@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Government of Latvia, Latvian State Radio & Television Centre (LVRTC)",
-    "Salesforce Record ID": "001o000000rGWVpAAO",
+    "Salesforce Record ID": "A002396",
     "Certificate Name": "VAS Latvijas Pasts SSI(RCA)",
-    "Parent Salesforce Record ID": "001o000000rGWk1AAG",
+    "Parent Salesforce Record ID": "A002571",
     "Parent Certificate Name": "Government of Latvia, Latvian State Radio & Television Centre (LVRTC)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -35,9 +35,9 @@
   },
   {
     "CA Owner": "Government of Latvia, Latvian State Radio & Television Centre (LVRTC)",
-    "Salesforce Record ID": "001o000000rGWfuAAG",
+    "Salesforce Record ID": "A002517",
     "Certificate Name": "E-ME SSI (RCA)",
-    "Parent Salesforce Record ID": "001o000000rGWk1AAG",
+    "Parent Salesforce Record ID": "A002571",
     "Parent Certificate Name": "Government of Latvia, Latvian State Radio & Television Centre (LVRTC)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "RSA the Security Division of EMC",
-    "Salesforce Record ID": "0018Z00002iKhl7QAC",
+    "Salesforce Record ID": "A010510",
     "Certificate Name": "Secure Server Certification Authority",
-    "Parent Salesforce Record ID": "001o000000HsfpJAAR",
+    "Parent Salesforce Record ID": "A000044",
     "Parent Certificate Name": "RSA the Security Division of EMC",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -28,9 +28,9 @@
   },
   {
     "CA Owner": "RSA the Security Division of EMC",
-    "Salesforce Record ID": "001o000000HshFAAAZ",
+    "Salesforce Record ID": "A000157",
     "Certificate Name": "http://www.valicert.com/",
-    "Parent Salesforce Record ID": "001o000000HsfpJAAR",
+    "Parent Salesforce Record ID": "A000044",
     "Parent Certificate Name": "RSA the Security Division of EMC",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -67,9 +67,9 @@
   },
   {
     "CA Owner": "RSA the Security Division of EMC",
-    "Salesforce Record ID": "001o000000HshFXAAZ",
+    "Salesforce Record ID": "A000180",
     "Certificate Name": "RSA Security 2048 V3",
-    "Parent Salesforce Record ID": "001o000000HsfpJAAR",
+    "Parent Salesforce Record ID": "A000044",
     "Parent Certificate Name": "RSA the Security Division of EMC",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

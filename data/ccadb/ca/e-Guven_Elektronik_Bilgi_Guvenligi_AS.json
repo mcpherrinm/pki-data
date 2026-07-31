@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "e-Guven Elektronik Bilgi Guvenligi A.S.",
-    "Salesforce Record ID": "001o000000HshEkAAJ",
+    "Salesforce Record ID": "A000131",
     "Certificate Name": "e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi",
-    "Parent Salesforce Record ID": "001o000000HsfozAAB",
+    "Parent Salesforce Record ID": "A000024",
     "Parent Certificate Name": "e-Guven Elektronik Bilgi Guvenligi A.S.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -37,9 +37,9 @@
   },
   {
     "CA Owner": "e-Guven Elektronik Bilgi Guvenligi A.S.",
-    "Salesforce Record ID": "001o000000rGWgsAAG",
+    "Salesforce Record ID": "A002532",
     "Certificate Name": "E-GUVEN Kok Elektronik Sertifika Hizmet Saglayicisi S2",
-    "Parent Salesforce Record ID": "001o000000HsfozAAB",
+    "Parent Salesforce Record ID": "A000024",
     "Parent Certificate Name": "e-Guven Elektronik Bilgi Guvenligi A.S.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -69,9 +69,9 @@
   },
   {
     "CA Owner": "e-Guven Elektronik Bilgi Guvenligi A.S.",
-    "Salesforce Record ID": "001o000000rGWakAAG",
+    "Salesforce Record ID": "A002453",
     "Certificate Name": "E-GUVEN Kok Elektronik Sertifika Hizmet Saglayicisi S3",
-    "Parent Salesforce Record ID": "001o000000HsfozAAB",
+    "Parent Salesforce Record ID": "A000024",
     "Parent Certificate Name": "e-Guven Elektronik Bilgi Guvenligi A.S.",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

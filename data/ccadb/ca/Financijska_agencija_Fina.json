@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Financijska agencija (Fina)",
-    "Salesforce Record ID": "0011J00001J0qjtQAB",
+    "Salesforce Record ID": "A005830",
     "Certificate Name": "Fina Root CA",
-    "Parent Salesforce Record ID": "0011J00001HlVxGQAV",
+    "Parent Salesforce Record ID": "A005748",
     "Parent Certificate Name": "Financijska agencija (Fina)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

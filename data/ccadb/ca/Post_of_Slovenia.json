@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Post of Slovenia",
-    "Salesforce Record ID": "001o000000rGWemAAG",
+    "Salesforce Record ID": "A002504",
     "Certificate Name": "POSTArCA",
-    "Parent Salesforce Record ID": "001o0000015LpHkAAK",
+    "Parent Salesforce Record ID": "A004162",
     "Parent Certificate Name": "Post of Slovenia",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

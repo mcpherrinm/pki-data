@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Athens Exchange S.A. (Athex)",
-    "Salesforce Record ID": "001o000000rGWe4AAG",
+    "Salesforce Record ID": "A002528",
     "Certificate Name": "ATHEX Root CA",
-    "Parent Salesforce Record ID": "001o000000HsrynAAB",
+    "Parent Salesforce Record ID": "A000270",
     "Parent Certificate Name": "Athens Exchange S.A. (Athex)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -38,9 +38,9 @@
   },
   {
     "CA Owner": "Athens Exchange S.A. (Athex)",
-    "Salesforce Record ID": "0011J00001BgyxxQAB",
+    "Salesforce Record ID": "A004706",
     "Certificate Name": "ATHEX Root CA G2",
-    "Parent Salesforce Record ID": "001o000000HsrynAAB",
+    "Parent Salesforce Record ID": "A000270",
     "Parent Certificate Name": "Athens Exchange S.A. (Athex)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

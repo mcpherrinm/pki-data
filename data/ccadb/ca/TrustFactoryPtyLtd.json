@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "TrustFactory(Pty)Ltd",
-    "Salesforce Record ID": "0011J00001SD9U4QAL",
+    "Salesforce Record ID": "A006691",
     "Certificate Name": "TrustFactory SSL Issuing Certificate Authority",
-    "Parent Salesforce Record ID": "0011J00001QTdnxQAD",
+    "Parent Salesforce Record ID": "A006520",
     "Parent Certificate Name": "TrustFactory SSL Root Certificate Authority",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -44,9 +44,9 @@
   },
   {
     "CA Owner": "TrustFactory(Pty)Ltd",
-    "Salesforce Record ID": "0011J00001SD9QCQA1",
+    "Salesforce Record ID": "A006690",
     "Certificate Name": "TrustFactory Client Issuing Certificate Authority",
-    "Parent Salesforce Record ID": "0011J00001QTdoCQAT",
+    "Parent Salesforce Record ID": "A006521",
     "Parent Certificate Name": "TrustFactory Client Root Certificate Authority",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -88,9 +88,9 @@
   },
   {
     "CA Owner": "TrustFactory(Pty)Ltd",
-    "Salesforce Record ID": "0011J00001QTdnxQAD",
+    "Salesforce Record ID": "A006520",
     "Certificate Name": "TrustFactory SSL Root Certificate Authority",
-    "Parent Salesforce Record ID": "0011J00001QTdkPQAT",
+    "Parent Salesforce Record ID": "A006519",
     "Parent Certificate Name": "TrustFactory(Pty)Ltd",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -133,9 +133,9 @@
   },
   {
     "CA Owner": "TrustFactory(Pty)Ltd",
-    "Salesforce Record ID": "0011J00001QTdoCQAT",
+    "Salesforce Record ID": "A006521",
     "Certificate Name": "TrustFactory Client Root Certificate Authority",
-    "Parent Salesforce Record ID": "0011J00001QTdkPQAT",
+    "Parent Salesforce Record ID": "A006519",
     "Parent Certificate Name": "TrustFactory(Pty)Ltd",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

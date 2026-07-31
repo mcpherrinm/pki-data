@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Balai Besar Sertifikasi Elektronik (BSrE)",
-    "Salesforce Record ID": "001TO00000jJFCjYAO",
+    "Salesforce Record ID": "A013093",
     "Certificate Name": "BSRE CA SSL G1",
-    "Parent Salesforce Record ID": "001TO00000jAn8vYAC",
+    "Parent Salesforce Record ID": "A013089",
     "Parent Certificate Name": "Balai Besar Sertifikasi Elektronik (BSrE)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -32,9 +32,9 @@
   },
   {
     "CA Owner": "Balai Besar Sertifikasi Elektronik (BSrE)",
-    "Salesforce Record ID": "001TO00000jFotrYAC",
+    "Salesforce Record ID": "A013092",
     "Certificate Name": "Root BSRE CA SSL/TLS",
-    "Parent Salesforce Record ID": "001TO00000jAn8vYAC",
+    "Parent Salesforce Record ID": "A013089",
     "Parent Certificate Name": "Balai Besar Sertifikasi Elektronik (BSrE)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
