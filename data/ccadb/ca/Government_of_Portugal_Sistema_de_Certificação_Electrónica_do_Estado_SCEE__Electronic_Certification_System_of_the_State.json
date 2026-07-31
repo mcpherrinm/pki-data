@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Government of Portugal, Sistema de Certificação Electrónica do Estado (SCEE) / Electronic Certification System of the State",
-    "Salesforce Record ID": "001o000000rGWY5AAO",
+    "Salesforce Record ID": "A002419",
     "Certificate Name": "ECRaizEstado",
-    "Parent Salesforce Record ID": "001o000000rGWjwAAG",
+    "Parent Salesforce Record ID": "A002570",
     "Parent Certificate Name": "Government of Portugal, Sistema de Certificação Electrónica do Estado (SCEE) / Electronic Certification System of the State",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

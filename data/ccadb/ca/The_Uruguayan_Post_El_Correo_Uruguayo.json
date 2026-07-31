@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "The Uruguayan Post, “El Correo Uruguayo”",
-    "Salesforce Record ID": "0018Z00002iKhnrQAC",
+    "Salesforce Record ID": "A010525",
     "Certificate Name": "SERVICIOS DE CERTIFICACION - A.N.C.",
-    "Parent Salesforce Record ID": "001o000000rGWjhAAG",
+    "Parent Salesforce Record ID": "A002567",
     "Parent Certificate Name": "The Uruguayan Post, “El Correo Uruguayo”",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -28,9 +28,9 @@
   },
   {
     "CA Owner": "The Uruguayan Post, “El Correo Uruguayo”",
-    "Salesforce Record ID": "001o000000rGWhRAAW",
+    "Salesforce Record ID": "A002541",
     "Certificate Name": "Correo Uruguayo - Root CA",
-    "Parent Salesforce Record ID": "001o000000rGWjhAAG",
+    "Parent Salesforce Record ID": "A002567",
     "Parent Certificate Name": "The Uruguayan Post, “El Correo Uruguayo”",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

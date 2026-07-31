@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Telekom Applied Business Malaysia (TMCA)",
-    "Salesforce Record ID": "001o000000rGWdKAAW",
+    "Salesforce Record ID": "A002487",
     "Certificate Name": "TM Applied Business Root Certificate",
-    "Parent Salesforce Record ID": "001o000000HsrwIAAR",
+    "Parent Salesforce Record ID": "A000267",
     "Parent Certificate Name": "Telekom Applied Business Malaysia (TMCA)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

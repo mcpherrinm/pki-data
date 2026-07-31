@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Pos Digicert Sdn. Bhd (Malaysia)",
-    "Salesforce Record ID": "0011J000017bwnSQAQ",
+    "Salesforce Record ID": "A004385",
     "Certificate Name": "PosDigicert Server ID G2",
-    "Parent Salesforce Record ID": "001o0000016zOhpAAE",
+    "Parent Salesforce Record ID": "A004314",
     "Parent Certificate Name": "PosDigicert Class 2 Root CA G2",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
@@ -32,9 +32,9 @@
   },
   {
     "CA Owner": "Pos Digicert Sdn. Bhd (Malaysia)",
-    "Salesforce Record ID": "001o0000016zOhpAAE",
+    "Salesforce Record ID": "A004314",
     "Certificate Name": "PosDigicert Class 2 Root CA G2",
-    "Parent Salesforce Record ID": "001o0000016zOY4AAM",
+    "Parent Salesforce Record ID": "A004313",
     "Parent Certificate Name": "Pos Digicert Sdn. Bhd (Malaysia)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -81,9 +81,9 @@
   },
   {
     "CA Owner": "Pos Digicert Sdn. Bhd (Malaysia)",
-    "Salesforce Record ID": "0011J00001hqg14QAA",
+    "Salesforce Record ID": "A007318",
     "Certificate Name": "Pos Digicert Class 2 Root CA G4",
-    "Parent Salesforce Record ID": "001o0000016zOY4AAM",
+    "Parent Salesforce Record ID": "A004313",
     "Parent Certificate Name": "Pos Digicert Sdn. Bhd (Malaysia)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

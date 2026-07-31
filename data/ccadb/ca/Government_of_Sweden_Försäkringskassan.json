@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "Government of Sweden (Försäkringskassan)",
-    "Salesforce Record ID": "001o000000rGWWJAA4",
+    "Salesforce Record ID": "A002400",
     "Certificate Name": "Swedish Government Root Authority v1",
-    "Parent Salesforce Record ID": "001o000000rGc42AAC",
+    "Parent Salesforce Record ID": "A002590",
     "Parent Certificate Name": "Government of Sweden (Försäkringskassan)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -41,9 +41,9 @@
   },
   {
     "CA Owner": "Government of Sweden (Försäkringskassan)",
-    "Salesforce Record ID": "001o000000rGWT5AAO",
+    "Salesforce Record ID": "A002362",
     "Certificate Name": "Swedish Government Root Authority v2",
-    "Parent Salesforce Record ID": "001o000000rGc42AAC",
+    "Parent Salesforce Record ID": "A002590",
     "Parent Certificate Name": "Government of Sweden (Försäkringskassan)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -81,9 +81,9 @@
   },
   {
     "CA Owner": "Government of Sweden (Försäkringskassan)",
-    "Salesforce Record ID": "001o000000rGWTkAAO",
+    "Salesforce Record ID": "A002372",
     "Certificate Name": "Swedish Government Root Authority v3",
-    "Parent Salesforce Record ID": "001o000000rGc42AAC",
+    "Parent Salesforce Record ID": "A002590",
     "Parent Certificate Name": "Government of Sweden (Försäkringskassan)",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",

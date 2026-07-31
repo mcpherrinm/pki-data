@@ -1,9 +1,9 @@
 [
   {
     "CA Owner": "IPS Certification Authority s.l. ipsCA",
-    "Salesforce Record ID": "0018Z00002iKhQxQAK",
+    "Salesforce Record ID": "A010464",
     "Certificate Name": "ipsCA Global CA Root",
-    "Parent Salesforce Record ID": "0018Z00002Y0c5bQAB",
+    "Parent Salesforce Record ID": "A010212",
     "Parent Certificate Name": "IPS Certification Authority s.l. ipsCA",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
@@ -30,9 +30,9 @@
   },
   {
     "CA Owner": "IPS Certification Authority s.l. ipsCA",
-    "Salesforce Record ID": "0018Z00002iKhR2QAK",
+    "Salesforce Record ID": "A010465",
     "Certificate Name": "ipsCA Main CA Root",
-    "Parent Salesforce Record ID": "0018Z00002Y0c5bQAB",
+    "Parent Salesforce Record ID": "A010212",
     "Parent Certificate Name": "IPS Certification Authority s.l. ipsCA",
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
