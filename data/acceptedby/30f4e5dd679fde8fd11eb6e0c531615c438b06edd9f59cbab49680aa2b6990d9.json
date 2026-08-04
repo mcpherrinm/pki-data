@@ -28,9 +28,16 @@
     "log.willow.ct.letsencrypt.org/2026h2",
     "log.willow.ct.letsencrypt.org/2027h1",
     "log.willow.ct.letsencrypt.org/2027h2",
+    "loreto2026h2.sunlight.geomys.org",
+    "loreto2027h1.sunlight.geomys.org",
+    "loreto2027h2.sunlight.geomys.org",
+    "loreto2028h1.sunlight.geomys.org",
+    "loreto2028h2.sunlight.geomys.org",
     "navigli2026h2.sunlight.geomys.org",
     "navigli2027h1.sunlight.geomys.org",
     "navigli2027h2.sunlight.geomys.org",
+    "navigli2028h1.sunlight.geomys.org",
+    "navigli2028h2.sunlight.geomys.org",
     "parcelyard2026h2.prod.certificate.transparency.goog",
     "parcelyard2027h1.prod.certificate.transparency.goog",
     "parcelyard2027h2.prod.certificate.transparency.goog",
@@ -40,8 +47,15 @@
     "rennet2026h2.log.ct.ipng.ch",
     "rennet2027h1.log.ct.ipng.ch",
     "rennet2027h2.log.ct.ipng.ch",
+    "trastevere2026h2.sunlight.geomys.org",
+    "trastevere2027h1.sunlight.geomys.org",
+    "trastevere2027h2.sunlight.geomys.org",
+    "trastevere2028h1.sunlight.geomys.org",
+    "trastevere2028h2.sunlight.geomys.org",
     "tuscolo2026h2.sunlight.geomys.org",
     "tuscolo2027h1.sunlight.geomys.org",
-    "tuscolo2027h2.sunlight.geomys.org"
+    "tuscolo2027h2.sunlight.geomys.org",
+    "tuscolo2028h1.sunlight.geomys.org",
+    "tuscolo2028h2.sunlight.geomys.org"
   ]
 }
