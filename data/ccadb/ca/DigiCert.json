@@ -85940,7 +85940,9 @@
     "Authority Key Identifier": "s9tIpPmhxdiuNkHMEWNpYim8S8Y=",
     "Subject Key Identifier": "9bRWHqaLerSVkMYm/NiATEUZn80=",
     "Technically Constrained": "true",
-    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertGlobalG3CodeSigningEuropeECCP-384SHA3842023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertGlobalG3CodeSigningEuropeECCP-384SHA3842023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86432,7 +86434,9 @@
     "Authority Key Identifier": "zsNKuZlV8rjbYL+pfr1WtZc2p9Y=",
     "Subject Key Identifier": "R/LaEbRzWG6qw1i8IF+NWNnXQYM=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertAssuredIDG2AATLEuropeRSA4096SHA2562023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredIDG2AATLEuropeRSA4096SHA2562023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -86607,7 +86611,9 @@
     "Authority Key Identifier": "zsNKuZlV8rjbYL+pfr1WtZc2p9Y=",
     "Subject Key Identifier": "+WgXo71lwGeiUuqszo6bHqWGthc=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://crl.digicert.eu/DigiCertAssuredG2MultiDocSignEURRSA4096SHA3842023CA1.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.digicert.eu/DigiCertAssuredG2MultiDocSignEURRSA4096SHA3842023CA1.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
