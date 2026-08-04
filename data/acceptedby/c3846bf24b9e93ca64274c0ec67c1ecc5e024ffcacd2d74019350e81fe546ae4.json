@@ -40,8 +40,15 @@
     "plumbersarms2026h2.prod.certificate.transparency.goog",
     "plumbersarms2027h1.prod.certificate.transparency.goog",
     "plumbersarms2027h2.prod.certificate.transparency.goog",
+    "trastevere2026h2.sunlight.geomys.org",
+    "trastevere2027h1.sunlight.geomys.org",
+    "trastevere2027h2.sunlight.geomys.org",
+    "trastevere2028h1.sunlight.geomys.org",
+    "trastevere2028h2.sunlight.geomys.org",
     "tuscolo2026h2.sunlight.geomys.org",
     "tuscolo2027h1.sunlight.geomys.org",
-    "tuscolo2027h2.sunlight.geomys.org"
+    "tuscolo2027h2.sunlight.geomys.org",
+    "tuscolo2028h1.sunlight.geomys.org",
+    "tuscolo2028h2.sunlight.geomys.org"
   ]
 }
