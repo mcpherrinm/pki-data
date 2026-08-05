@@ -4264,9 +4264,10 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.02.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.05",
     "Test Website URL - Valid": "https://cross-ovrsa2024v.secomtrust-verification.com/",
     "Test Website URL - Expired": "https://cross-ovrsa2024e.secomtrust-verification.com/",
     "Test Website URL - Revoked": "https://cross-ovrsa2024r.secomtrust-verification.com/",
@@ -4488,7 +4489,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/JPRS-CPCPS-en.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.04",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -4625,7 +4626,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://repo1.secomtrust.net/sppca/ff/fnetcac/Fnet_CA-C_CP-CPS_EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.05",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5407,7 +5408,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/JPRS-CPCPS-en.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.04",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5893,7 +5894,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/JPRS-CPCPS-en.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.04",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -5949,7 +5950,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/JPRS-CPCPS-en.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.04",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -6281,9 +6282,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.02.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.05",
     "Test Website URL - Valid": "https://cross-ovecc2024v.secomtrust-verification.com/",
     "Test Website URL - Expired": "https://cross-ovecc2024e.secomtrust-verification.com/",
     "Test Website URL - Revoked": "https://cross-ovecc2024r.secomtrust-verification.com/",
@@ -6487,7 +6489,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/JPRS-CPCPS-en.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.04",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -6543,7 +6545,7 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://jprs.jp/pubcert/info/repository/JPRS-CPCPS-en.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.31",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.04",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -6972,9 +6974,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.02.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.05",
     "Test Website URL - Valid": "https://ovrsa2024v.secomtrust-verification.com",
     "Test Website URL - Expired": "https://ovrsa2024e.secomtrust-verification.com",
     "Test Website URL - Revoked": "https://ovrsa2024r.secomtrust-verification.com",
@@ -7085,9 +7088,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.02.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.05",
     "Test Website URL - Valid": "https://ovecc2024v.secomtrust-verification.com",
     "Test Website URL - Expired": "https://ovecc2024e.secomtrust-verification.com",
     "Test Website URL - Revoked": "https://ovecc2024r.secomtrust-verification.com",
