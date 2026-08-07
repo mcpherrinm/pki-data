@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10223,
+  "total_records": 10230,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -46,7 +46,7 @@
     },
     {
       "ca_owner": "Actalis",
-      "record_count": 63,
+      "record_count": 65,
       "countries": [
         "Italy"
       ],
@@ -54,7 +54,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 8,
         "untrusted_roots": 1,
-        "intermediates": 53
+        "intermediates": 55
       },
       "output_filename": "Actalis.json"
     },
@@ -2020,7 +2020,7 @@
     },
     {
       "ca_owner": "SECOM Trust Systems Co., Ltd.",
-      "record_count": 188,
+      "record_count": 193,
       "countries": [
         "Japan"
       ],
@@ -2028,7 +2028,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 7,
         "untrusted_roots": 4,
-        "intermediates": 176
+        "intermediates": 181
       },
       "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
     },
