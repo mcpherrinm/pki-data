@@ -55370,7 +55370,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -55381,7 +55381,6 @@
     "Authority Key Identifier": "tnf6aUhHn1MS1cLqBzJ2B9GXBxk=",
     "Subject Key Identifier": "3qQwrOQ/9ScrMXyvkGcdriKe7GQ=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
