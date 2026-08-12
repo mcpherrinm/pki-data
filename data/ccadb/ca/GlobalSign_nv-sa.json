@@ -26642,9 +26642,7 @@
     "Subject Key Identifier": "F9NTNtLpWo/DGzdw6lhh2jh7ImQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/gse45aatltrustedca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -26712,9 +26710,7 @@
     "Subject Key Identifier": "yx/FFYI2DKZSuZIqLPK2mUHHLmg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Document Signing",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/gsr45aatltrustedca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
