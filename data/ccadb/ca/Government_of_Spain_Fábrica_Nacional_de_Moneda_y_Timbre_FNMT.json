@@ -853,9 +853,7 @@
     "Subject Key Identifier": "Qko36ESs7DltNZjhqhYv2Ain2jE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crlsservseguros/CRLT2G2E.crl",
     "Auditor": "AENOR CONFIA, S.A. (Unipersonal)",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -889,9 +887,7 @@
     "Subject Key Identifier": "c5qVHDGJMFuMNxiscr1AdpLF37c=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://www.cert.fnmt.es/crlsservseguros/CRLT1G2E.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
