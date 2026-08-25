@@ -7036,6 +7036,7 @@
     "Authority Key Identifier": "Ad2xJDCJLMgDg14QrnEeSfLuSwc=",
     "Subject Key Identifier": "ZNMGMlnxGXIKm8GEjOOWC9bsa9s=",
     "Technically Constrained": "true",
+    "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://repo1.secomtrust.net/spcpp/ts/aatltsrsaca2024/aatltsrsaca2024.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
@@ -7136,7 +7137,7 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Japan",
-    "Trust Bits for Root Cert": "Document Signing"
+    "Trust Bits for Root Cert": "Document Signing;Time Stamping"
   },
   {
     "CA Owner": "SECOM Trust Systems CO., LTD.",

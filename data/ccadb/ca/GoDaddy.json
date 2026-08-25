@@ -2422,9 +2422,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/MarkCPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/MarkCPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.28",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.31",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2464,7 +2465,8 @@
       "http://crl.godaddy.com/gdr1v1dv_s1-9.crl",
       "http://crl.godaddy.com/gdr1v1dv_s1-10.crl",
       "http://crl.godaddy.com/gdr1v1dv_s1-11.crl",
-      "http://crl.godaddy.com/gdr1v1dv_s1-12.crl"
+      "http://crl.godaddy.com/gdr1v1dv_s1-12.crl",
+      "http://crl.godaddy.com/gdr1v1dv_s1-13.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
