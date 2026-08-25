@@ -655,9 +655,10 @@
     "CA Document Repository": "https://chtca.hinet.net/en/repository.html",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.4-en.pdf"
     ],
-    "CP Effective Date": "2025.08.18",
+    "CP Effective Date": "2026.08.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4.1-en.pdf"
@@ -883,9 +884,10 @@
     "CA Document Repository": "https://chtca.hinet.net/en/repository.html",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.4-en.pdf"
     ],
-    "CP Effective Date": "2025.08.18",
+    "CP Effective Date": "2026.08.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4.1-en.pdf"
@@ -1250,9 +1252,10 @@
     "CA Document Repository": "https://chtca.hinet.net/en/repository.html",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf"
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.3-en.pdf",
+      "https://chtca.hinet.net/assets/en/file/TLS/ePKI-CP-v2.4-en.pdf"
     ],
-    "CP Effective Date": "2025.08.18",
+    "CP Effective Date": "2026.08.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://chtca.hinet.net/assets/en/file/TLS/CHTCA-CPS-v1.4.1-en.pdf"

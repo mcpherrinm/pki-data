@@ -7292,6 +7292,7 @@
     "Authority Key Identifier": "iEEg/D+lV89khiKrJjchbhj8b7Q=",
     "Subject Key Identifier": "FHWHRUtZL76zgV0obOBu7bsJPAE=",
     "Technically Constrained": "false",
+    "Derived Trust Bits": "Document Signing",
     "Full CRL Issued By This CA": "http://crls.ssl.com/ZoTrus-docSigning-I-R1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -7620,6 +7621,7 @@
     "Authority Key Identifier": "iEEg/D+lV89khiKrJjchbhj8b7Q=",
     "Subject Key Identifier": "F1d3zmRzhfjjCAVbyA9nEWlmjNY=",
     "Technically Constrained": "false",
+    "Derived Trust Bits": "Document Signing",
     "Full CRL Issued By This CA": "http://crls.ssl.com/Securepeak-docSigning-I-R1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -11506,6 +11508,7 @@
     "Authority Key Identifier": "MvvVm8ttnP2BrhN92gzDNPU6TTU=",
     "Subject Key Identifier": "43RuAakNFpruCPW88zfdv8pDB4c=",
     "Technically Constrained": "true",
+    "Derived Trust Bits": "Client Authentication;Document Signing",
     "Full CRL Issued By This CA": "http://crls.ssl.com/SSL.com-docSigning-T-ECC-R2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -11604,6 +11607,7 @@
     "Authority Key Identifier": "WF4Wwy2z5uqjSbOlvtbernmVa40=",
     "Subject Key Identifier": "xhTDB8WPtoCklLdCNakWnVQeXXI=",
     "Technically Constrained": "true",
+    "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crls.ssl.com/SSL.com-CodeSigning-T-ECC-R2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -11612,7 +11616,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
@@ -11669,6 +11673,7 @@
     "Authority Key Identifier": "BMYeeWKMmtCnhLN7d5uxwIbzSB8=",
     "Subject Key Identifier": "iEEg/D+lV89khiKrJjchbhj8b7Q=",
     "Technically Constrained": "true",
+    "Derived Trust Bits": "Client Authentication;Document Signing",
     "Full CRL Issued By This CA": "http://crls.ssl.com/SSL.com-docSigning-T-RSA-R2.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -13176,7 +13181,8 @@
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
-    "Country": "United States of America"
+    "Country": "United States of America",
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing"
   },
   {
     "CA Owner": "SSL.com",
@@ -13408,9 +13414,10 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "False",
-    "Country": "United States of America"
+    "Country": "United States of America",
+    "Trust Bits for Root Cert": "Client Authentication;Code Signing;Time Stamping"
   },
   {
     "CA Owner": "SSL.com",
@@ -13457,7 +13464,8 @@
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
-    "Country": "United States of America"
+    "Country": "United States of America",
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing"
   },
   {
     "CA Owner": "SSL.com",
