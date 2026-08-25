@@ -7610,9 +7610,10 @@
     "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.5.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.5.pdf",
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.21",
+    "CPS Effective Date": "2026.08.05",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

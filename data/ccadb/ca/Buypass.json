@@ -800,6 +800,7 @@
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
-    "Country": "Norway"
+    "Country": "Norway",
+    "Trust Bits for Root Cert": "Document Signing"
   }
 ]
