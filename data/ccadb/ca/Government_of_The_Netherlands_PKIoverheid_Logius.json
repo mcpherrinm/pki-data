@@ -2637,23 +2637,23 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
     "Full CRL Issued By This CA": "http://crl.quovadisglobal.com/pkiopersong3.crl",
-    "Auditor": "BSI",
+    "Auditor": "TayllorCox PCEB",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://verifeyedirectoryprod.blob.core.windows.net/pas7000docs/qv_hol-0047309378-000/ets_030.pdf",
+    "Standard Audit URL": "https://pceb.tayllorcox.cz/files/DIGICERT_AAL_2025_SMIME-BR_Audit_rev2_signed.pdf",
     "Standard Audit Type": "ETSI EN 319 411",
-    "Standard Audit Statement Date": "2025.07.09",
-    "Standard Audit Period Start Date": "2024.06.01",
-    "Standard Audit Period End Date": "2025.05.31",
-    "S/MIME BR Audit URL": "https://verifeyedirectoryprod.blob.core.windows.net/pas7000docs/qv_hol-0047309378-000/ets_030.pdf",
+    "Standard Audit Statement Date": "2026.03.31",
+    "Standard Audit Period Start Date": "2025.01.01",
+    "Standard Audit Period End Date": "2025.12.31",
+    "S/MIME BR Audit URL": "https://pceb.tayllorcox.cz/files/DIGICERT_AAL_2025_SMIME-BR_Audit_rev2_signed.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2025.07.09",
-    "S/MIME BR Audit Period Start Date": "2024.06.01",
-    "S/MIME BR Audit Period End Date": "2025.05.31",
+    "S/MIME BR Audit Statement Date": "2026.03.31",
+    "S/MIME BR Audit Period Start Date": "2025.01.01",
+    "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.3.pdf"
     ],
-    "CP Effective Date": "2024.03.01",
+    "CP Effective Date": "2026.01.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
@@ -3301,10 +3301,6 @@
     "S/MIME BR Audit Period End Date": "2025.11.15",
     "CA Document Repository": "http://cps.dp.ca.mindef.nl/ips/cps-en.jsp",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.3.pdf"
-    ],
-    "CP Effective Date": "2026.01.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cps.ca.pkidefensie.nl/cps-mindef.pdf",
@@ -3358,10 +3354,9 @@
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
       "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf",
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.3.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
     ],
-    "CP Effective Date": "2026.01.01",
+    "CP Effective Date": "2025.07.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
@@ -3412,10 +3407,9 @@
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf",
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.3.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
     ],
-    "CP Effective Date": "2026.01.01",
+    "CP Effective Date": "2025.07.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
@@ -3981,23 +3975,23 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
     "Full CRL Issued By This CA": "http://crl.quovadisglobal.com/quovadispkioverheidorganisatieservicesca2022.crl",
-    "Auditor": "BSI",
+    "Auditor": "TayllorCox PCEB",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://verifeyedirectoryprod.blob.core.windows.net/pas7000docs/qv_hol-0047309378-000/ets_030.pdf",
+    "Standard Audit URL": "https://pceb.tayllorcox.cz/files/DIGICERT_AAL_2025_SMIME-BR_Audit_rev2_signed.pdf",
     "Standard Audit Type": "ETSI EN 319 411",
-    "Standard Audit Statement Date": "2025.07.09",
-    "Standard Audit Period Start Date": "2024.06.01",
-    "Standard Audit Period End Date": "2025.05.31",
-    "S/MIME BR Audit URL": "https://verifeyedirectoryprod.blob.core.windows.net/pas7000docs/qv_hol-0047309378-000/ets_030.pdf",
+    "Standard Audit Statement Date": "2026.03.31",
+    "Standard Audit Period Start Date": "2025.01.01",
+    "Standard Audit Period End Date": "2025.12.31",
+    "S/MIME BR Audit URL": "https://pceb.tayllorcox.cz/files/DIGICERT_AAL_2025_SMIME-BR_Audit_rev2_signed.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2025.07.09",
-    "S/MIME BR Audit Period Start Date": "2024.06.01",
-    "S/MIME BR Audit Period End Date": "2025.05.31",
+    "S/MIME BR Audit Statement Date": "2026.03.31",
+    "S/MIME BR Audit Period Start Date": "2025.01.01",
+    "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.03.01",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
@@ -4035,23 +4029,23 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
     "Full CRL Issued By This CA": "http://crl.quovadisglobal.com/pkioservicg3.crl",
-    "Auditor": "BSI",
+    "Auditor": "TayllorCox PCEB",
     "Audits Same as Parent": "false",
-    "Standard Audit URL": "https://verifeyedirectoryprod.blob.core.windows.net/pas7000docs/qv_hol-0047309378-000/ets_030.pdf",
+    "Standard Audit URL": "https://pceb.tayllorcox.cz/files/DIGICERT_AAL_2025_SMIME-BR_Audit_rev2_signed.pdf",
     "Standard Audit Type": "ETSI EN 319 411",
-    "Standard Audit Statement Date": "2025.07.09",
-    "Standard Audit Period Start Date": "2024.06.01",
-    "Standard Audit Period End Date": "2025.05.31",
-    "S/MIME BR Audit URL": "https://verifeyedirectoryprod.blob.core.windows.net/pas7000docs/qv_hol-0047309378-000/ets_030.pdf",
+    "Standard Audit Statement Date": "2026.03.31",
+    "Standard Audit Period Start Date": "2025.01.01",
+    "Standard Audit Period End Date": "2025.12.31",
+    "S/MIME BR Audit URL": "https://pceb.tayllorcox.cz/files/DIGICERT_AAL_2025_SMIME-BR_Audit_rev2_signed.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2025.07.09",
-    "S/MIME BR Audit Period Start Date": "2024.06.01",
-    "S/MIME BR Audit Period End Date": "2025.05.31",
+    "S/MIME BR Audit Statement Date": "2026.03.31",
+    "S/MIME BR Audit Period Start Date": "2025.01.01",
+    "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.03.01",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
@@ -4199,10 +4193,9 @@
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf",
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.3.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
     ],
-    "CP Effective Date": "2026.01.01",
+    "CP Effective Date": "2025.07.08",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
