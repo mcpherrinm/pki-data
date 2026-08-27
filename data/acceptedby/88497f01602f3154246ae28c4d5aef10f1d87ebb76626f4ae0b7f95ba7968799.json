@@ -1,5 +1,10 @@
 {
   "logs": [
+    "ct-log-api.godaddy.com/aquamarine2026h2",
+    "ct-log-api.godaddy.com/aquamarine2027h1",
+    "ct-log-api.godaddy.com/aquamarine2027h2",
+    "ct-log-api.godaddy.com/aquamarine2028h1",
+    "ct-log-api.godaddy.com/aquamarine2028h2",
     "ct.cloudflare.com/logs/nimbus2026",
     "ct.cloudflare.com/logs/nimbus2027",
     "ct.cloudflare.com/logs/raio2026h2a",
