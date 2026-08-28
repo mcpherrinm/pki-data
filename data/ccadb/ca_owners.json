@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 180,
-  "total_records": 10244,
+  "total_records": 10246,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -480,7 +480,7 @@
     },
     {
       "ca_owner": "China Financial Certification Authority (CFCA)",
-      "record_count": 21,
+      "record_count": 22,
       "countries": [
         "China"
       ],
@@ -488,7 +488,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 1,
         "untrusted_roots": 7,
-        "intermediates": 12
+        "intermediates": 13
       },
       "output_filename": "China_Financial_Certification_Authority_CFCA.json"
     },
@@ -2174,7 +2174,7 @@
     },
     {
       "ca_owner": "SSL.com",
-      "record_count": 385,
+      "record_count": 386,
       "countries": [
         "United States of America"
       ],
@@ -2182,7 +2182,7 @@
         "trusted_roots": 6,
         "partially_trusted_roots": 12,
         "untrusted_roots": 5,
-        "intermediates": 362
+        "intermediates": 363
       },
       "output_filename": "SSLcom.json"
     },
