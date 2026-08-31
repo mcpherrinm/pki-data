@@ -60,7 +60,7 @@
     "Authority Key Identifier": "4/4t/SjQC7W6tqLEvwaqBYyT+y8=",
     "Subject Key Identifier": "+1QBExADTFiE4qcGhPliBV0Sibc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
       ""
     ],
@@ -346,7 +346,7 @@
     "Microsoft Status": "Trusted",
     "Mozilla Status": "Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
-    "Revocation Status": "Not Revoked",
+    "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "FAA4FA0EF7056D6953BBDFB36461E3F7CDF33352AF724FD8254B184D3E2C941F",
     "Parent SHA-256 Fingerprint": "5CC3D78E4E1D5E45547A04E6873E64F90CF9536D1CCC2EF800F355C4C5FD70FD",
     "Valid From (GMT)": "2026.06.12",
