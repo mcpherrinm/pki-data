@@ -853,7 +853,7 @@
       "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -894,7 +894,7 @@
       "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -935,7 +935,7 @@
       "https://www.certsign.ro/wp-content/uploads/2026/07/certSIGN-Web-CA-G4-Certification-Practice-Statement-v1.5.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.07.10",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",

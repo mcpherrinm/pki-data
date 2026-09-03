@@ -636,7 +636,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "Taiwan (Republic of China)"
   },
   {

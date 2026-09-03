@@ -16961,8 +16961,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "Belgium"
   },
   {
@@ -17022,7 +17022,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -17180,7 +17180,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Belgium"
   },
   {
@@ -17307,8 +17307,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "Belgium"
   },
   {
@@ -17637,7 +17637,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -19525,8 +19525,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "Belgium"
   },
   {
@@ -19793,7 +19793,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -20573,8 +20573,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "Belgium"
   },
   {
@@ -21544,7 +21544,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -25144,7 +25144,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -25250,7 +25250,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "Belgium"
   },
   {
@@ -25414,7 +25414,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -25447,7 +25447,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -25480,7 +25480,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Belgium"
   },
@@ -26134,7 +26134,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "False",
     "Country": "Belgium"
   },
@@ -26201,7 +26201,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "Belgium"
   },
   {

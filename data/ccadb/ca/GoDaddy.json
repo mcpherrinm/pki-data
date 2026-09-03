@@ -1181,7 +1181,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -1653,7 +1653,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -1688,7 +1688,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
