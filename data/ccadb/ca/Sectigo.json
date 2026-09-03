@@ -16133,7 +16133,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United Kingdom"
   },
   {
@@ -30705,8 +30705,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "United Kingdom"
   },
   {
@@ -50676,10 +50676,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "United Kingdom"
   },
   {

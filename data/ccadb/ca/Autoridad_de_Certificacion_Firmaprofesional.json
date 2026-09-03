@@ -571,7 +571,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -749,7 +749,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {

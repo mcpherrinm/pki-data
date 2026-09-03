@@ -4297,8 +4297,8 @@
     "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
     "Country": "Polska"
   },
   {
@@ -4367,8 +4367,8 @@
     "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
     "Country": "Polska"
   },
   {
@@ -4994,9 +4994,7 @@
     "Subject Key Identifier": "qcveam2fDkpgn7t1jPOnCBzyqoo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://zycatrustovtlsg3r31ca.crl.certum.pl/zycatrustovtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5029,9 +5027,7 @@
     "Subject Key Identifier": "5ppVnmcdjxvJ/zJD5Ggbie6OyKE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://xcctrustevtlsg3r31ca.crl.certum.pl/xcctrustevtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5064,9 +5060,7 @@
     "Subject Key Identifier": "tXLaCzuuZwYH5At273bQ4cpif44=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://xcctrustdvtlsg3r31ca.crl.certum.pl/xcctrustdvtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5099,9 +5093,7 @@
     "Subject Key Identifier": "iGpB4cvh7cVjCwI8Kh9PeK1kopo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://xcctrustovtlsg3r31ca.crl.certum.pl/xcctrustovtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5134,9 +5126,7 @@
     "Subject Key Identifier": "KCQ4yR7lurRQhq4Rnx43yeLSAtA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://zycatrustdvtlsg3r31ca.crl.certum.pl/zycatrustdvtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5169,9 +5159,7 @@
     "Subject Key Identifier": "8qer6a5wHwtxE2bb3vOPiWp5Ubo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://zycatrustevtlsg3r31ca.crl.certum.pl/zycatrustevtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

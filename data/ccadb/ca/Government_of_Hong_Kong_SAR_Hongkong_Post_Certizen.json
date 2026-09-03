@@ -312,10 +312,10 @@
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "China"
   },
   {
@@ -348,7 +348,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -615,7 +615,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {
@@ -682,7 +682,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "China"
   },
   {

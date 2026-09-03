@@ -63490,10 +63490,10 @@
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "United States of America"
   },
   {
@@ -75217,7 +75217,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "United States of America"
   },
   {
@@ -77913,10 +77913,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -79598,7 +79598,7 @@
     "CPS Effective Date": "2021.04.30",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "False",
+    "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -80754,7 +80754,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
@@ -81063,7 +81063,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -81096,7 +81096,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "True",
     "Country": "United States of America"
   },
@@ -81205,7 +81205,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "United States of America"
   },
   {
@@ -81453,10 +81453,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -81814,7 +81814,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "S/MIME Capable": "True",
     "Country": "United States of America"
   },
   {
@@ -81961,8 +81961,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
-    "Code Signing Capable": "False",
-    "S/MIME Capable": "False",
+    "Code Signing Capable": "True",
+    "S/MIME Capable": "True",
     "Country": "United States of America"
   },
   {
@@ -82137,10 +82137,10 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "True",
     "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "United States of America"
   },
   {
@@ -91105,7 +91105,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "False",
+    "Code Signing Capable": "True",
     "S/MIME Capable": "False",
     "Country": "United States of America"
   },
