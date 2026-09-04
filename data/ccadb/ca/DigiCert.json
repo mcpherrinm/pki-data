@@ -41694,19 +41694,19 @@
   },
   {
     "CA Owner": "DigiCert",
-    "Salesforce Record ID": "A010343",
+    "Salesforce Record ID": "A010345",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "A007346",
-    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
+    "Parent Salesforce Record ID": "A000176",
+    "Parent Certificate Name": "QuoVadis Root CA 3",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
+    "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -41725,19 +41725,19 @@
   },
   {
     "CA Owner": "DigiCert",
-    "Salesforce Record ID": "A010345",
+    "Salesforce Record ID": "A010343",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "A000176",
-    "Parent Certificate Name": "QuoVadis Root CA 3",
+    "Parent Salesforce Record ID": "A007346",
+    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
+    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -72803,9 +72803,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -72847,9 +72847,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -76930,9 +76930,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -76974,9 +76974,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -77018,9 +77018,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -77062,9 +77062,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -79360,10 +79360,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -82236,10 +82232,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://assured-id-root-ca.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://assured-id-root-ca-expired.chain-demos.digicert.com/",
@@ -82308,10 +82300,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://global-root-ca.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://global-root-ca-expired.chain-demos.digicert.com",
@@ -82380,10 +82368,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://ev-root.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://ev-root-expired.chain-demos.digicert.com",
@@ -87106,9 +87090,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -87149,9 +87133,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.27",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -88874,10 +88858,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://verizon-global-root-ca.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://verizon-global-root-ca-expired.chain-demos.digicert.com",
@@ -91649,10 +91629,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -91766,10 +91742,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -92696,10 +92668,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -92869,10 +92837,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -93038,10 +93002,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -93291,10 +93251,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://global-root-g3.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://global-root-g3-expired.chain-demos.digicert.com",
@@ -93362,10 +93318,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://trusted-root-g4.chain-demos.digicert.com/",
     "Test Website URL - Expired": "https://trusted-root-g4-expired.chain-demos.digicert.com/",
@@ -93433,10 +93385,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://assured-id-root-g2.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://assured-id-root-g2-expired.chain-demos.digicert.com/",
@@ -93504,10 +93452,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://assured-id-root-g3.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://assured-id-root-g3-expired.chain-demos.digicert.com/",
@@ -93575,10 +93519,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://global-root-g2.chain-demos.digicert.com",
     "Test Website URL - Expired": "https://global-root-g2-expired.chain-demos.digicert.com",
@@ -94352,10 +94292,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://digicert-tls-ecc-p384-root-g5.chain-demos.digicert.com/",
     "Test Website URL - Expired": "https://digicert-tls-ecc-p384-root-g5-expired.chain-demos.digicert.com/",
@@ -94423,10 +94359,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -94490,10 +94422,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://digicert-tls-rsa4096-root-g5.chain-demos.digicert.com/",
     "Test Website URL - Expired": "https://digicert-tls-rsa4096-root-g5-expired.chain-demos.digicert.com/",
@@ -94561,10 +94489,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -94628,10 +94552,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -94695,10 +94615,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -94762,10 +94678,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://digicert-ecc-p384-root-g5.chain-demos.digicert.com/",
     "Test Website URL - Expired": "https://digicert-ecc-p384-root-g5-expired.chain-demos.digicert.com/",
@@ -94833,10 +94745,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -94900,10 +94808,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://digicert-rsa4096-root-g5.chain-demos.digicert.com/",
     "Test Website URL - Expired": "https://digicert-rsa4096-root-g5-expired.chain-demos.digicert.com/",
@@ -94970,10 +94874,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-08.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.02.27",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
