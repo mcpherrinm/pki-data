@@ -119,12 +119,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_1_0.pdf",
-      "http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_1_0.pdf",
-      "http://www.pki.admin.ch/cps/CPS_2_16_756_1_17_3_1_0.pdf"
-    ],
-    "CP/CPS Effective Date": "2025.05.06",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
