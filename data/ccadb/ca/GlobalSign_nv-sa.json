@@ -18658,9 +18658,7 @@
     "Subject Key Identifier": "gehuPNivHcer6DpFEn2Oaf5nWZo=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlasr46ovtlsca2026q4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -18693,9 +18691,7 @@
     "Subject Key Identifier": "OfoTZc0CXi0IND6gWFxQZqEIX6U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlasr46evtlsca2026q4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -18728,9 +18724,7 @@
     "Subject Key Identifier": "u4VOMMvT1f1YjeTHMKMETGmImRQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlase46evtlsca2026q4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -18763,9 +18757,7 @@
     "Subject Key Identifier": "z+XHuVTAXHseprvcn2JXNNbWrIs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlasr46dvtlsca2026q4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -18798,9 +18790,7 @@
     "Subject Key Identifier": "WaI0GXsVi4l4y/ri1Wi2x/mCcpY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlase46dvtlsca2026q4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -18833,9 +18823,7 @@
     "Subject Key Identifier": "Bs1pRoLZYFSfmfTxYfKUvujML1Y=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlase46ovtlsca2026q4.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -19583,9 +19571,7 @@
     "Subject Key Identifier": "WurskCibP8DhJuQkBWWqPCRifmg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlasr3ovtlsca2026lt.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -19684,9 +19670,7 @@
     "Subject Key Identifier": "2FlRVzCmLBhirBy39GNznjgUUIY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlasr3dvtlsca2026lt.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -21901,9 +21885,7 @@
     "Subject Key Identifier": "Wj9501zDNHnoinzxXwpjI1sF7iY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlasr6evtlsca2026lt.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -21936,9 +21918,7 @@
     "Subject Key Identifier": "zrqAMenG3ao64RsbE8taCULqMdQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlaseccr5ovtlsca2026lt.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -21971,9 +21951,7 @@
     "Subject Key Identifier": "a1Sp0Mij3zBT71GNdCeGCagJjD4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/gsatlaseccr5dvtlsca2026lt.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -22107,9 +22085,7 @@
     "Subject Key Identifier": "MBHXzsNWaMq9uMxATNG8WlyYYDs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/alibabacloudatlasr46dvtlsca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
