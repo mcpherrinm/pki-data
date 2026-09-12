@@ -18852,9 +18852,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -18908,9 +18908,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -18964,9 +18964,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -19433,7 +19433,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19583,7 +19583,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -19675,7 +19675,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19735,7 +19735,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19795,7 +19795,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19921,7 +19921,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -20455,7 +20455,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21133,7 +21133,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21539,7 +21539,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21778,7 +21778,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21961,7 +21961,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22021,7 +22021,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22220,7 +22220,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22437,7 +22437,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22556,7 +22556,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22867,7 +22867,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -23017,7 +23017,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -23491,7 +23491,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -28806,9 +28806,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -28862,9 +28862,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -28918,9 +28918,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -28975,9 +28975,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -29031,9 +29031,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -30209,9 +30209,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -30266,9 +30266,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -30554,9 +30554,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -30610,9 +30610,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30666,9 +30666,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30826,7 +30826,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -34024,9 +34024,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -34079,9 +34079,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.2.pdf"
+      "https://www.apple.com/certificateauthority/pdf/Apple_Public_CA_CPCPS_v7.3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.03.15",
+    "CP/CPS Effective Date": "2026.09.01",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
