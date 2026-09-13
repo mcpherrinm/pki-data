@@ -215,7 +215,9 @@
           for (const log of allLogs) {
             const flatLog = { ...log };
             flatLog.operator = opName;
-            flatLog.name = logName(opName, log.description);
+            if (typeof log.description === "string") {
+              flatLog.name = logName(opName, log.description);
+            }
 
             // Handle state
             if (log.state) {
@@ -341,6 +343,10 @@
             appleMap[url] || null,
             googleMap[url] || null,
           );
+          if (!merged.name) {
+            // Neither list had a description; show the URL instead.
+            merged.name = url.replace(/^https?:\/\//, "").replace(/\/$/, "");
+          }
           result.push(merged);
         }
 
