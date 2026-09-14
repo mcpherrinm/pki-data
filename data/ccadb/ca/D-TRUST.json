@@ -1211,9 +1211,7 @@
     "Subject Key Identifier": "y0mt+VEj0Ebv82mS/bps4ICmnNY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/d-trust_we384_ca_1-20-12_2026.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -1247,9 +1245,7 @@
     "Subject Key Identifier": "OQQHM0Q+nczHB0WaDxauOCufif4=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.d-trust.net/crl/d-trust_we384_ca_1-20-22_2026.crl",
     "Auditor": "TÜV NORD CERT GmbH",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
