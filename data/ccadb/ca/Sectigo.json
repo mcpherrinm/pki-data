@@ -16186,12 +16186,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "Test Website URL - Valid": "https://entrustrootcertificationauthority.sectigo.com",
     "Test Website URL - Expired": "https://entrustrootcertificationauthority.sectigo.com:442",
     "Test Website URL - Revoked": "https://entrustrootcertificationauthority.sectigo.com:444",
@@ -19968,14 +19968,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -20834,10 +20834,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21221,10 +21217,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21476,10 +21468,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -21845,10 +21833,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -22122,14 +22106,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -22618,14 +22602,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://aaacertificateservices.comodoca.com/",
     "Test Website URL - Expired": "https://aaacertificateservices.comodoca.com:442/",
     "Test Website URL - Revoked": "https://aaacertificateservices.comodoca.com:444/",
@@ -25685,13 +25669,13 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "Test Website URL - Valid": "https://entrustnetcertificationauthority2048.sectigo.com",
     "Test Website URL - Expired": "https://entrustnetcertificationauthority2048.sectigo.com:442",
     "Test Website URL - Revoked": "https://entrustnetcertificationauthority2048.sectigo.com:444",
@@ -27132,14 +27116,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://comodocertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodocertificationauthority-ev.comodoca.com:442/",
     "Test Website URL - Revoked": "https://comodocertificationauthority-ev.comodoca.com:444/",
@@ -30987,13 +30971,13 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "Test Website URL - Valid": "https://entrustrootcertificationauthorityg2.sectigo.com",
     "Test Website URL - Expired": "https://entrustrootcertificationauthorityg2.sectigo.com:442",
     "Test Website URL - Revoked": "https://entrustrootcertificationauthorityg2.sectigo.com:444",
@@ -31223,14 +31207,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://comodocertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodocertificationauthority-ev.comodoca.com:442/",
     "Test Website URL - Revoked": "https://comodocertificationauthority-ev.comodoca.com:444/",
@@ -50330,12 +50314,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "Test Website URL - Valid": "https://entrustrootcertificationauthorityec1.sectigo.com",
     "Test Website URL - Expired": "https://entrustrootcertificationauthorityec1.sectigo.com:442",
     "Test Website URL - Revoked": "https://entrustrootcertificationauthorityec1.sectigo.com:444",
@@ -50566,13 +50550,13 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -50640,10 +50624,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -50736,14 +50716,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://comodoecccertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodoecccertificationauthority-ev.comodoca.com:442/",
     "Test Website URL - Revoked": "https://comodoecccertificationauthority-ev.comodoca.com:444/",
@@ -50875,14 +50855,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://usertrustecccertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://usertrustecccertificationauthority-ev.comodoca.com:442/",
     "Test Website URL - Revoked": "https://usertrustecccertificationauthority-ev.comodoca.com:444/",
@@ -50948,14 +50928,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://comodorsacertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://comodorsacertificationauthority-ev.comodoca.com:442/",
     "Test Website URL - Revoked": "https://comodorsacertificationauthority-ev.comodoca.com:444/",
@@ -51026,10 +51006,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -51063,10 +51039,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -51199,10 +51171,6 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "true",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -51363,14 +51331,14 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf",
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "Test Website URL - Valid": "https://usertrustrsacertificationauthority-ev.comodoca.com/",
     "Test Website URL - Expired": "https://usertrustrsacertificationauthority-ev.comodoca.com:442/",
     "Test Website URL - Revoked": "https://usertrustrsacertificationauthority-ev.comodoca.com:444/",
@@ -52435,11 +52403,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/BIMI/Sectigo_Mark_Certificates_CP-CPS_-_v1.0.1.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.07.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Mark%20Certificates%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -52490,11 +52458,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -52541,11 +52509,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -52652,11 +52620,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -52703,11 +52671,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -52749,11 +52717,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.01.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -52800,12 +52768,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -52857,11 +52825,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.03",
     "Test Website URL - Valid": "https://sectigopublicserverauthenticationrootr46-ev.sectigo.com/",
     "Test Website URL - Expired": "https://sectigopublicserverauthenticationrootr46-ev.sectigo.com:442/",
     "Test Website URL - Revoked": "https://sectigopublicserverauthenticationrootr46-ev.sectigo.com:444/",
@@ -52912,11 +52880,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -52963,11 +52931,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "True",
@@ -53019,11 +52987,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/TLS-Combined-CP-CPS-v6.2.3.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.06.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20TLS%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.03",
     "Test Website URL - Valid": "https://sectigopublicserverauthenticationroote46-ev.sectigo.com/",
     "Test Website URL - Expired": "https://sectigopublicserverauthenticationroote46-ev.sectigo.com:442/",
     "Test Website URL - Revoked": "https://sectigopublicserverauthenticationroote46-ev.sectigo.com:444/",
@@ -53074,11 +53042,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -53125,12 +53093,12 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/Code-Signing-CPCPS-1.0.7.pdf",
-      "https://www.sectigo.com/uploads/legal/Sectigo_CP-CPS_Document_Signing_v1_0_7.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Code%20Signing%20CP%20CPS.md",
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Document%20Signing%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -53178,11 +53146,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/SMIME_CPCPS_1.0.8.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.03.26",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20SMIME%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -53229,11 +53197,11 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://www.sectigo.com/uploads/legal/BIMI/Sectigo_Mark_Certificates_CP-CPS_-_v1.0.1.pdf"
-    ],
-    "CP/CPS Effective Date": "2026.07.07",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://raw.githubusercontent.com/sectigo/policy-documentation/refs/heads/main/Sectigo%20Mark%20Certificates%20CP%20CPS.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.10",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

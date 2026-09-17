@@ -965,11 +965,16 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.08.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.md",
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.24",
     "Test Website URL - Valid": "https://g2rovactive.testssl.cert.fnmt.es",
     "Test Website URL - Expired": "https://g2rovexpired.testssl.cert.fnmt.es",
     "Test Website URL - Revoked": "https://g2rovrevoked.testssl.cert.fnmt.es",
@@ -1020,11 +1025,16 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.08.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.md",
       "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_ss_english.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.03.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.24",
     "Test Website URL - Valid": "https://testactivetipo1.cert.fnmt.es/",
     "Test Website URL - Expired": "https://testexpiredtipo1.cert.fnmt.es/",
     "Test Website URL - Revoked": "https://testrevokedtipo1.cert.fnmt.es/",

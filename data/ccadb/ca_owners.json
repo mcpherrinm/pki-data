@@ -1,6 +1,6 @@
 {
-  "total_ca_owners": 180,
-  "total_records": 10260,
+  "total_ca_owners": 181,
+  "total_records": 10266,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1026,7 +1026,7 @@
     },
     {
       "ca_owner": "GlobalSign nv-sa",
-      "record_count": 841,
+      "record_count": 846,
       "countries": [
         "Belgium"
       ],
@@ -1034,7 +1034,7 @@
         "trusted_roots": 5,
         "partially_trusted_roots": 11,
         "untrusted_roots": 3,
-        "intermediates": 822
+        "intermediates": 827
       },
       "output_filename": "GlobalSign_nv-sa.json"
     },
@@ -1401,6 +1401,20 @@
         "intermediates": 211
       },
       "output_filename": "HARICA.json"
+    },
+    {
+      "ca_owner": "Hong Kong Certification Authority",
+      "record_count": 1,
+      "countries": [
+        "Hong Kong Special Administrative Region of the People's Republic of China"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 1,
+        "intermediates": 0
+      },
+      "output_filename": "Hong_Kong_Certification_Authority.json"
     },
     {
       "ca_owner": "IdenTrust Services, LLC",

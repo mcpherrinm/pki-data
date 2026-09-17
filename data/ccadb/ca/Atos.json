@@ -1780,9 +1780,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.pdf"
+      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.11",
+    "CP/CPS Effective Date": "2026.09.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://pki-valid.atos.net",
     "Test Website URL - Expired": "https://pki-expired.atos.net",
@@ -2239,9 +2239,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.pdf"
+      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.11",
+    "CP/CPS Effective Date": "2026.09.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2302,9 +2302,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.pdf"
+      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.11",
+    "CP/CPS Effective Date": "2026.09.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2359,9 +2359,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.pdf"
+      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.11",
+    "CP/CPS Effective Date": "2026.09.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-rsa-root-2021-pki-valid.atos.net",
     "Test Website URL - Expired": "https://tls-rsa-root-2021-pki-expired.atos.net",
@@ -2419,9 +2419,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.pdf"
+      "https://pki.atos.net/Download/Atos_TrustedRoot_CPS_v3.3.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.11",
+    "CP/CPS Effective Date": "2026.09.04",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://tls-ecc-root-2021-pki-valid.atos.net",
     "Test Website URL - Expired": "https://tls-ecc-root-2021-pki-expired.atos.net",

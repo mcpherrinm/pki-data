@@ -1261,9 +1261,9 @@
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://cps.trust.telia.com/TLSv68/teliacatlscpcps.html",
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.1.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10443/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10445/",
@@ -2042,9 +2042,9 @@
     "Certificate Practice & Policy Statement": [
       "https://cps.trust.telia.com/SMIMEv12/teliacasmimecpcps.html",
       "https://cps.trust.telia.com/TLSv68/teliacatlscpcps.html",
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.1.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.03",
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10600/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10602/",
@@ -2431,9 +2431,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.1.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.23",
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2567,9 +2567,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.1.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.23",
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2909,9 +2909,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.1.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.23",
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2951,9 +2951,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.1.pdf"
+      "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.23",
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

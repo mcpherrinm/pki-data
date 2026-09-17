@@ -1,0 +1,31 @@
+[
+  {
+    "CA Owner": "Hong Kong Certification Authority",
+    "Salesforce Record ID": "A013369",
+    "Certificate Name": "HKCA Root CA 1",
+    "Parent Salesforce Record ID": "A012889",
+    "Parent Certificate Name": "Hong Kong Certification Authority",
+    "Certificate Record Type": "Root Certificate",
+    "Apple Status": "Not Included",
+    "Chrome Status": "Not Included",
+    "Microsoft Status": "Not Included",
+    "Mozilla Status": "Not Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Not Included",
+    "SHA-256 Fingerprint": "0C1A04C62C98677AA9FE55A79086165E36474EA35E7A4024A54640A22F377E64",
+    "Valid From (GMT)": "2025.10.20",
+    "Valid To (GMT)": "2050.10.14",
+    "Authority Key Identifier": "6seQOTZfBCdYQAnyvBFRF43CbEk=",
+    "Subject Key Identifier": "6seQOTZfBCdYQAnyvBFRF43CbEk=",
+    "Technically Constrained": "false",
+    "Audits Same as Parent": "false",
+    "CP Same as Parent": "false",
+    "CPS Same as Parent": "false",
+    "CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "TLS Capable": "False",
+    "TLS EV Capable": "False",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
+    "Country": "Hong Kong Special Administrative Region of the People's Republic of China"
+  }
+]

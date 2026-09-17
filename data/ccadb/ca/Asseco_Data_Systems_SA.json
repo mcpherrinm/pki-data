@@ -5192,9 +5192,7 @@
     "Subject Key Identifier": "lcMlDNDkeN4TvqrKRe/RTDEdL7s=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://gdcatrustauthevtlsg3r31ca.crl.certum.pl/gdcatrustauthevtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5227,9 +5225,7 @@
     "Subject Key Identifier": "gSxBmijHXTS71Y3wUcnqxaYApIM=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://gdcatrustauthovtlsg3r31ca.crl.certum.pl/gdcatrustauthovtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5262,9 +5258,7 @@
     "Subject Key Identifier": "F40FoDSpiMuIS4RxWMlS1D7Oylc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://gdcatrustauthdvtlsg3r31ca.crl.certum.pl/gdcatrustauthdvtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5297,9 +5291,7 @@
     "Subject Key Identifier": "AihdOkXWtw4wC/RFSE6eZTiOhOY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://vtrusdvtlsg3r31ca.crl.certum.pl/vtrusdvtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -5332,9 +5324,7 @@
     "Subject Key Identifier": "J207ycq575E/G0z1TE7Loy0IWc8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://vtrusovtlsg3r31ca.crl.certum.pl/vtrusovtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

@@ -7198,9 +7198,9 @@
     "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.7.pdf"
     ],
-    "CPS Effective Date": "2026.04.13",
+    "CPS Effective Date": "2026.09.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://acteccroot2017.pki.microsoft.com/",
@@ -7306,9 +7306,9 @@
     "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.6.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_public_tls_CPS_v3.3.7.pdf"
     ],
-    "CPS Effective Date": "2026.04.13",
+    "CPS Effective Date": "2026.09.11",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://actrsaroot2017.pki.microsoft.com/",
@@ -7610,7 +7610,6 @@
     "CP Effective Date": "2026.04.20",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.5.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.6.pdf"
     ],
     "CPS Effective Date": "2026.08.05",
