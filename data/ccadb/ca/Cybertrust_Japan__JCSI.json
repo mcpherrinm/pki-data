@@ -1717,6 +1717,10 @@
     ],
     "CPS Effective Date": "2026.05.11",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -1954,6 +1958,10 @@
     ],
     "CPS Effective Date": "2026.05.11",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.09.15",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

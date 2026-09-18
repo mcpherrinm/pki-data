@@ -1069,6 +1069,10 @@
     ],
     "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/Tsung-MinKuo/CHTRepository/blob/main/HiPKICA%20CPS_En.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.14",
     "Test Website URL - Valid": "https://good.hipkig1ov.hinet.net",
     "Test Website URL - Expired": "https://expired.hipkig1ov.hinet.net",
     "Test Website URL - Revoked": "https://revoked.hipkig1ov.hinet.net",
@@ -1159,6 +1163,10 @@
     ],
     "CP/CPS Effective Date": "2026.06.11",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/Tsung-MinKuo/CHTRepository/blob/main/HiPKICA%20CPS_En.md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.14",
     "Test Website URL - Valid": "https://good.trustg1ov.hinet.net",
     "Test Website URL - Expired": "https://expired.trustg1ov.hinet.net",
     "Test Website URL - Revoked": "https://revoked.trustg1ov.hinet.net",
