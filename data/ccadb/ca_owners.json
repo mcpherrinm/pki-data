@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 10266,
+  "total_records": 10270,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -88,14 +88,14 @@
     },
     {
       "ca_owner": "Amazon Trust Services",
-      "record_count": 139,
+      "record_count": 143,
       "countries": [
         "United States of America"
       ],
       "aggregated_counts": {
         "trusted_roots": 4,
         "partially_trusted_roots": 1,
-        "untrusted_roots": 3,
+        "untrusted_roots": 7,
         "intermediates": 131
       },
       "output_filename": "Amazon_Trust_Services.json"
