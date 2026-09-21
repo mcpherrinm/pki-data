@@ -7193,7 +7193,6 @@
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.0.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.1.pdf"
     ],
     "CP Effective Date": "2026.09.11",
@@ -7302,7 +7301,6 @@
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.0.pdf",
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.1.pdf"
     ],
     "CP Effective Date": "2026.09.11",
@@ -7607,9 +7605,9 @@
     "CA Document Repository": "https://www.microsoft.com/pkiops/docs/repository.htm",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.0.pdf"
+      "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_Services_CP_v3.2.1.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.09.11",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.microsoft.com/pkiops/Docs/Content/policy/Microsoft_PKI_ThirdParty_CPS_v1.0.6.pdf"

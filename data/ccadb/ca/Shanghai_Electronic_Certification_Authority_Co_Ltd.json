@@ -3374,9 +3374,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.4.md"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.20",
     "Test Website URL - Valid": "https://rsaevg3.good.sheca.com/",
     "Test Website URL - Expired": "https://rsaevg3.expired.sheca.com/",
     "Test Website URL - Revoked": "https://rsaevg3.revoked.sheca.com/",
@@ -3467,9 +3467,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.4.md"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.20",
     "Test Website URL - Valid": "https://rsaev1a.good.sheca.com",
     "Test Website URL - Expired": "https://rsaev1a.expired.sheca.com",
     "Test Website URL - Revoked": "https://rsaev1a.revoked.sheca.com",
@@ -3557,9 +3557,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.4.md"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.20",
     "Test Website URL - Valid": "https://eccev2a.good.sheca.com",
     "Test Website URL - Expired": "https://eccev2a.expired.sheca.com",
     "Test Website URL - Revoked": "https://eccev2a.revoked.sheca.com",
@@ -3885,9 +3885,9 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.4.md"
+      "https://assets-cdn.sheca.com/documents/CP-CPS-TLS-v1.5.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.25",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.09.20",
     "Test Website URL - Valid": "https://rsaovg5.good.sheca.com/",
     "Test Website URL - Expired": "https://rsaovg5.expired.sheca.com/",
     "Test Website URL - Revoked": "https://rsaovg5.revoked.sheca.com/",
