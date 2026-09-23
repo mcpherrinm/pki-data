@@ -24805,14 +24805,14 @@
     "CA Document Repository": "https://www.pki.dfn.de/policies/informationen/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v16-en.pdf"
+      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cp_v17.pdf"
     ],
-    "CP Effective Date": "2025.11.26",
+    "CP Effective Date": "2026.09.18",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v16-en.pdf"
+      "https://doku.tid.dfn.de/_media/de:dfnpki:doc:archiv:dfn-pki_cps_v17.pdf"
     ],
-    "CPS Effective Date": "2025.11.26",
+    "CPS Effective Date": "2026.09.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
