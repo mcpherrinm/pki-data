@@ -292,9 +292,7 @@
     "Subject Key Identifier": "jRTHl8GW28YpR5egtRlZaVH+qRI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/AutoCertTLSRSACA2026.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -328,9 +326,7 @@
     "Subject Key Identifier": "v12Ju5iSTWKLP6Y04u+qym/Sbso=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/iTrustTLSECCCA2026.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -364,9 +360,7 @@
     "Subject Key Identifier": "2fnCwxIFhTSVOTPVaQSFpn4CuHI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/AutoCertTLSECCCA2026.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
@@ -400,9 +394,7 @@
     "Subject Key Identifier": "z+c/BtYmc+ECqi8fXcxH4KbRJrE=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.oem.trustca.net/iTrustTLSRSACA2026.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
