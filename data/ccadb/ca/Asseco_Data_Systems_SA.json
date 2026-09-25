@@ -5357,9 +5357,7 @@
     "Subject Key Identifier": "NBQxsB0dzMGwMYIoZIHJCXfwFs0=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://soomadvtlsg3r31ca.crl.certum.pl/soomadvtlsg3r31ca.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

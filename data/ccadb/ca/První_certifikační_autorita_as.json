@@ -720,9 +720,10 @@
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_1v174_en.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_1v174_en.pdf",
+      "https://www.ica.cz/sites/default/files/docs/2026/09/cp_root_rsa_1v175_en.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.09.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.ica.cz/sites/default/files/docs/2026/04/cps_rsa_1v75_en.pdf"
@@ -815,9 +816,10 @@
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_ecc_1v054_en.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_ecc_1v054_en.pdf",
+      "https://www.ica.cz/sites/default/files/docs/2026/09/cp_root_ecc_1v055_en.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.09.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.ica.cz/sites/default/files/docs/2026/04/cps_ecc_1v08.pdf"
@@ -870,9 +872,10 @@
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_1v174_en.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_1v174_en.pdf",
+      "https://www.ica.cz/sites/default/files/docs/2026/09/cp_root_rsa_1v175_en.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.09.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.ica.cz/sites/default/files/docs/2026/04/cps_rsa_1v75_en.pdf"
@@ -930,9 +933,10 @@
     "CA Document Repository": "www.ica.cz",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_tls_1v004_en.pdf"
+      "https://www.ica.cz/sites/default/files/docs/2026/04/cp_root_rsa_tls_1v004_en.pdf",
+      "https://www.ica.cz/sites/default/files/docs/2026/09/cp_root_rsa_tls_1v005_en.pdf"
     ],
-    "CP Effective Date": "2026.04.20",
+    "CP Effective Date": "2026.09.12",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.ica.cz/sites/default/files/docs/2026/04/cps_rsa_1v75_en.pdf"
