@@ -118,6 +118,9 @@
     "Subject Key Identifier": "kY2DYl6lshIkcsMT2/wOhOCs75E=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -150,6 +153,9 @@
     "Subject Key Identifier": "OBlAJGBICRmKIeQAwoWeo/CL+U8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
+    "JSON Array of Partitioned CRLs": [
+      ""
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

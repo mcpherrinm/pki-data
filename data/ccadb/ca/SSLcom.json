@@ -10592,7 +10592,7 @@
     "Subject Key Identifier": "FLgrAxyxYGRWDau7QP+rYViSEi8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crls.ssl.com/Euronet-TLS-I-R1.crl",
+    "Full CRL Issued By This CA": "http://crl.ssl.com/Euronet-TLS-I-R1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

@@ -2919,7 +2919,8 @@
       "http://crl.r4001.amazontrust.com/e3s17/Ly8W8RAvq1H.crl",
       "http://crl.r4001.amazontrust.com/e3s17/3tEWR21JjPW.crl",
       "http://crl.r4001.amazontrust.com/e3s17/9lBEEPz2OVH.crl",
-      "http://crl.r4001.amazontrust.com/e3s17/6unfp3ghQvZ.crl"
+      "http://crl.r4001.amazontrust.com/e3s17/6unfp3ghQvZ.crl",
+      "http://crl.r4001.amazontrust.com/e3s17/6Qu69PS6u1r.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -4084,7 +4085,8 @@
       "http://crl.r3001.amazontrust.com/e3s21/9EqFvtMfPXJ.crl",
       "http://crl.r3001.amazontrust.com/e3s21/4dJ1oxnJE7Y.crl",
       "http://crl.r3001.amazontrust.com/e3s21/A0iGPTEqW8K.crl",
-      "http://crl.r3001.amazontrust.com/e3s21/Hkwel9YK0al.crl"
+      "http://crl.r3001.amazontrust.com/e3s21/Hkwel9YK0al.crl",
+      "http://crl.r3001.amazontrust.com/e3s21/JXFOoWjOKeW.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -4316,7 +4318,8 @@
       "http://crl.r4001.amazontrust.com/e3s15/BQyM1qEpuXV.crl",
       "http://crl.r4001.amazontrust.com/e3s15/H7N1aA69ypz.crl",
       "http://crl.r4001.amazontrust.com/e3s15/HSYRzMuqvyd.crl",
-      "http://crl.r4001.amazontrust.com/e3s15/JiqsE8evj9H.crl"
+      "http://crl.r4001.amazontrust.com/e3s15/JiqsE8evj9H.crl",
+      "http://crl.r4001.amazontrust.com/e3s15/EM2Mk3bOzDY.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -5606,7 +5609,8 @@
       "http://crl.r4001.amazontrust.com/e3s14/1DVRs140LlF.crl",
       "http://crl.r4001.amazontrust.com/e3s14/BlkIXTVFeNR.crl",
       "http://crl.r4001.amazontrust.com/e3s14/KY2w6yibrLx.crl",
-      "http://crl.r4001.amazontrust.com/e3s14/Kd4cPpInbZ2.crl"
+      "http://crl.r4001.amazontrust.com/e3s14/Kd4cPpInbZ2.crl",
+      "http://crl.r4001.amazontrust.com/e3s14/2rOVL3NoXT1.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9483,6 +9487,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -9549,6 +9557,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -9615,6 +9627,10 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
+    "Certificate Practice & Policy Statement": [
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-public-trust-cp-cps-v7-09.pdf"
+    ],
+    "CP/CPS Effective Date": "2026.09.03",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
