@@ -258,7 +258,6 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://depo.kamusm.gov.tr/ssl/SSLKOKSIL.S2.crl",
-    "JSON Array of Partitioned CRLs": "\"\"",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
