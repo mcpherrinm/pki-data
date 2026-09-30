@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 10290,
+  "total_records": 10316,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -88,7 +88,7 @@
     },
     {
       "ca_owner": "Amazon Trust Services",
-      "record_count": 143,
+      "record_count": 170,
       "countries": [
         "United States of America"
       ],
@@ -96,7 +96,7 @@
         "trusted_roots": 4,
         "partially_trusted_roots": 1,
         "untrusted_roots": 7,
-        "intermediates": 131
+        "intermediates": 158
       },
       "output_filename": "Amazon_Trust_Services.json"
     },
@@ -2188,14 +2188,14 @@
     },
     {
       "ca_owner": "SSL.com",
-      "record_count": 393,
+      "record_count": 392,
       "countries": [
         "United States of America"
       ],
       "aggregated_counts": {
         "trusted_roots": 6,
         "partially_trusted_roots": 12,
-        "untrusted_roots": 5,
+        "untrusted_roots": 4,
         "intermediates": 370
       },
       "output_filename": "SSLcom.json"

@@ -1711,11 +1711,6 @@
     "CA Document Repository": "https://www.cybertrust.ne.jp/ssl/repository_rt/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
-      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
-    ],
-    "CPS Effective Date": "2026.05.11",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
@@ -1952,11 +1947,6 @@
     "CA Document Repository": "https://www.cybertrust.ne.jp/ssl/repository_rt/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf",
-      "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"
-    ],
-    "CPS Effective Date": "2026.05.11",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
       "https://www.cybertrust.ne.jp/itrust/repository/iTrustDigitalSignatureCertificate_CPS_En.pdf"

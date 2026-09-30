@@ -303,7 +303,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.15",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -488,7 +488,7 @@
     "Policy Documentation": "The CP of D-Trust GmbH describes the Certificate Policy of the trust services operated by D-Trust GmbH. The CP is the superior document. The D-TRUST TSPS describes the product-independent implementation of the requirements of the CP and takes precedence over the product-specific CPSs. The order and distribution process determines which product-specific CPS applies to the selected product.    Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2155,7 +2155,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.15",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2195,7 +2195,7 @@
     "Certificate Practice Statement (CPS) URL": [
       "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
     ],
-    "CPS Effective Date": "2025.07.15",
+    "CPS Effective Date": "2026.07.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2468,7 +2468,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2025.11.13",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2508,7 +2508,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2025.11.13",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2548,7 +2548,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2025.11.13",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2588,7 +2588,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2025.11.13",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2682,7 +2682,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2025.11.13",
-    "CPS Same as Parent": "false",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
