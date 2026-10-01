@@ -1655,9 +1655,6 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/keeptrustdvtlscag1.crl",
-    "JSON Array of Partitioned CRLs": [
-      "http://crl.global.sheca.com/keeptrustdvtlscag1.crl/89ec4353/d274/1285/9b9d4262/9fefa1fbbd5763cf.crl"
-    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -2615,10 +2612,6 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "Full CRL Issued By This CA": "http://crl.global.sheca.com/ct2ovtlsrsacag2.crl",
-    "JSON Array of Partitioned CRLs": [
-      "http://crl.global.sheca.com/ct2ovtlsrsacag2.crl/a19646b8/5e83/ad50/ed114c0e/aa9a317cf6c2d657.crl",
-      "http://crl.global.sheca.com/ct2ovtlsrsacag2.crl/a19646b8/b01a/08c0/e4c04469/937090a5476449d2.crl"
-    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

@@ -158,11 +158,11 @@
     "Standard Audit Statement Date": "2026.08.18",
     "Standard Audit Period Start Date": "2025.06.27",
     "Standard Audit Period End Date": "2026.06.26",
-    "S/MIME BR Audit URL": "https://www.csqa.it/getattachment/08aee528-bb03-4ce4-ad26-73d0a1777b8e/Attestation-Letter-Digitalsign-2025-Revision-20251006-signed.pdf",
+    "S/MIME BR Audit URL": "https://www.csqa.it/getattachment/1f250a44-10ca-4555-9e7c-e1c7bf1a0a1e/CSQA_AAL_DigitalSign_2026-revision-20260908-signed.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2025.09.22",
-    "S/MIME BR Audit Period Start Date": "2024.06.27",
-    "S/MIME BR Audit Period End Date": "2025.06.26",
+    "S/MIME BR Audit Statement Date": "2026.08.18",
+    "S/MIME BR Audit Period Start Date": "2025.06.27",
+    "S/MIME BR Audit Period End Date": "2026.06.26",
     "CA Document Repository": "http://pki.digitalsign.pt/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
@@ -171,15 +171,15 @@
     "CP Effective Date": "2025.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V2.0.pdf"
     ],
-    "CPS Effective Date": "2025.07.16",
+    "CPS Effective Date": "2026.06.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V2.0.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.07.16",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.15",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -277,11 +277,11 @@
     "Standard Audit Statement Date": "2026.08.18",
     "Standard Audit Period Start Date": "2025.06.27",
     "Standard Audit Period End Date": "2026.06.26",
-    "S/MIME BR Audit URL": "https://www.csqa.it/getattachment/08aee528-bb03-4ce4-ad26-73d0a1777b8e/Attestation-Letter-Digitalsign-2025-Revision-20251006-signed.pdf",
+    "S/MIME BR Audit URL": "https://www.csqa.it/getattachment/1f250a44-10ca-4555-9e7c-e1c7bf1a0a1e/CSQA_AAL_DigitalSign_2026-revision-20260908-signed.pdf",
     "S/MIME BR Audit Type": "ETSI EN 319 411",
-    "S/MIME BR Audit Statement Date": "2025.09.22",
-    "S/MIME BR Audit Period Start Date": "2024.06.27",
-    "S/MIME BR Audit Period End Date": "2025.06.26",
+    "S/MIME BR Audit Statement Date": "2026.08.18",
+    "S/MIME BR Audit Period Start Date": "2025.06.27",
+    "S/MIME BR Audit Period End Date": "2026.06.26",
     "CA Document Repository": "http://pki.digitalsign.pt/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
@@ -290,15 +290,15 @@
     "CP Effective Date": "2025.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V2.0.pdf"
     ],
-    "CPS Effective Date": "2025.07.16",
+    "CPS Effective Date": "2026.06.15",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V1.11.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V2.0.pdf"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2025.07.16",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.07.15",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
