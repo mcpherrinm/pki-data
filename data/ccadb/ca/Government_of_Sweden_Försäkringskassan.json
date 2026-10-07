@@ -122,11 +122,11 @@
     "Test Website URL - Valid": "https://mcacert.myndighetsca.se/",
     "Test Website URL - Expired": "https://mcacertexpired.myndighetsca.se/",
     "Test Website URL - Revoked": "https://mcacertrevoked.myndighetsca.se/",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Sweden",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Encrypting File System;Time Stamping"
   }
 ]

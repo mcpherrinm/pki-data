@@ -2951,7 +2951,7 @@
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Included",
     "Revocation Status": "Not Revoked",
     "SHA-256 Fingerprint": "06F0ED21179D448A218897948542473DDAD57129A74151C3B241F857438D4E5C",
     "Parent SHA-256 Fingerprint": "7BA2E6514976AF28A6001CDA8EADE532F7A1AAAF25E4731DF8A04DB00E7801CA",
@@ -4130,9 +4130,9 @@
     "Certificate Record Type": "Root Certificate",
     "Apple Status": "Not Included",
     "Chrome Status": "Not Included",
-    "Microsoft Status": "Included",
+    "Microsoft Status": "NotBefore",
     "Mozilla Status": "Not Included",
-    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Included",
+    "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: NotBefore; Mozilla: Not Included",
     "SHA-256 Fingerprint": "7BA2E6514976AF28A6001CDA8EADE532F7A1AAAF25E4731DF8A04DB00E7801CA",
     "Valid From (GMT)": "2024.04.11",
     "Valid To (GMT)": "2044.04.10",
@@ -4174,8 +4174,7 @@
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
-    "Country": "United States of America",
-    "Trust Bits for Root Cert": "Time Stamping"
+    "Country": "United States of America"
   },
   {
     "CA Owner": "IdenTrust Services, LLC",

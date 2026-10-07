@@ -825,7 +825,6 @@
     "Authority Key Identifier": "clu6qnI47iWQJLWUIvoJiMqLCvs=",
     "Subject Key Identifier": "1pai1ZZuLT5AsaOybYh3e/bW9Mo=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Time Stamping",
     "Full CRL Issued By This CA": "http://repository.tsaca.hinet.net/crl/TSA-complete.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
@@ -896,12 +895,12 @@
     "Test Website URL - Valid": "https://good.epkig2ov.hinet.net",
     "Test Website URL - Expired": "https://expired.epkig2ov.hinet.net",
     "Test Website URL - Revoked": "https://revoked.epkig2ov.hinet.net",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Taiwan, Republic of China",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Document Signing"
   },
   {
     "CA Owner": "Chunghwa Telecom",
@@ -1263,8 +1262,8 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Taiwan, Republic of China",
-    "Trust Bits for Root Cert": "Document Signing;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Document Signing"
   }
 ]

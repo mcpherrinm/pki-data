@@ -60,7 +60,7 @@
     "Authority Key Identifier": "fyN2t4Mqcfcs0YgP3UxfMgpou38=",
     "Subject Key Identifier": "R3wLSxAX4n2AkdXBQKpTCyi3L0g=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://www.thaidigitalid.com/tdidcag3.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
@@ -114,7 +114,7 @@
     "Authority Key Identifier": "fyN2t4Mqcfcs0YgP3UxfMgpou38=",
     "Subject Key Identifier": "t9LEJaZ3JQiWVpyfrxjMKs8reM8=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Secure Email;Server Authentication;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Document Signing;Encrypting File System;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "https://ca.inet.co.th/repository/crl/inetca/complete.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "false",
@@ -257,9 +257,9 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Thailand",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Encrypting File System;Time Stamping"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Encrypting File System;Time Stamping"
   },
   {
     "CA Owner": "Thailand National Root Certificate Authority (Electronic Transactions Development Agency)",

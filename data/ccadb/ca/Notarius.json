@@ -41,9 +41,9 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Canada",
-    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email"
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing"
   },
   {
     "CA Owner": "Notarius",
@@ -65,7 +65,7 @@
     "Authority Key Identifier": "X80oX9vlkfgKE6eoaGzFGBzHWK8=",
     "Subject Key Identifier": "zW+l09txr3yZBx/GzC0IPPNSWKU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
+    "Derived Trust Bits": "Client Authentication;Document Signing",
     "Full CRL Issued By This CA": "http://crl1.notarius.com/crl1-ca3/crl/notarius_certificate_authority_3_2022-2036_crlfull.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -98,7 +98,7 @@
     "Authority Key Identifier": "X80oX9vlkfgKE6eoaGzFGBzHWK8=",
     "Subject Key Identifier": "cQvgpREYFP9npcFPotzD1I++18Y=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
+    "Derived Trust Bits": "Client Authentication;Document Signing",
     "Full CRL Issued By This CA": "https://crl1.notarius.com/crl1-ca1/crl/notarius_certificate_authority_crlfull.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -131,7 +131,7 @@
     "Authority Key Identifier": "X80oX9vlkfgKE6eoaGzFGBzHWK8=",
     "Subject Key Identifier": "vD1yJjThTQSFpW8umODLX7C01+E=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Document Signing;Secure Email",
+    "Derived Trust Bits": "Client Authentication;Document Signing",
     "Full CRL Issued By This CA": "http://crl1.notarius.com/crl1-ca2/crl/notarius_certificate_authority_2_crlfull.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -186,8 +186,8 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Canada",
-    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Secure Email;Time Stamping"
+    "Trust Bits for Root Cert": "Client Authentication;Document Signing;Time Stamping"
   }
 ]

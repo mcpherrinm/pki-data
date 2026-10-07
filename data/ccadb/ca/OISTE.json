@@ -1718,7 +1718,7 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "Switzerland",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Document Signing;Secure Email;Time Stamping",
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email",
     "EV OIDs for Root Cert": "2.23.140.1.1"
   },
   {

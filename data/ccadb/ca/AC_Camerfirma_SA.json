@@ -1789,10 +1789,10 @@
     "Test Website URL - Revoked": "https://server3rv.camerfirma.com",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
     "Country": "Spain",
-    "Trust Bits for Root Cert": "Client Authentication;Code Signing;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User"
+    "Trust Bits for Root Cert": "Client Authentication;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User"
   },
   {
     "CA Owner": "AC Camerfirma, S.A.",
@@ -1860,7 +1860,7 @@
     "Authority Key Identifier": "+SSsD7K1+HnA+mCIG8TZTQKeFxk=",
     "Subject Key Identifier": "+SSsD7K1+HnA+mCIG8TZTQKeFxk=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Time Stamping",
+    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/chambersroot-2008.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",

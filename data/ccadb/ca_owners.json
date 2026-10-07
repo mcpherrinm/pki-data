@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 181,
-  "total_records": 10327,
+  "total_records": 10328,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -360,8 +360,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 1,
-        "untrusted_roots": 1,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
         "intermediates": 0
       },
       "output_filename": "Carillon_Information_Security_Inc.json"
@@ -690,15 +690,15 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2661,
+      "record_count": 2662,
       "countries": [
         "United States of America"
       ],
       "aggregated_counts": {
         "trusted_roots": 9,
-        "partially_trusted_roots": 31,
-        "untrusted_roots": 72,
-        "intermediates": 2549
+        "partially_trusted_roots": 29,
+        "untrusted_roots": 74,
+        "intermediates": 2550
       },
       "output_filename": "DigiCert.json"
     },
@@ -920,8 +920,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 9,
-        "untrusted_roots": 3,
+        "partially_trusted_roots": 4,
+        "untrusted_roots": 8,
         "intermediates": 33
       },
       "output_filename": "Entrust.json"
@@ -1424,8 +1424,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 1,
-        "partially_trusted_roots": 10,
-        "untrusted_roots": 18,
+        "partially_trusted_roots": 9,
+        "untrusted_roots": 19,
         "intermediates": 89
       },
       "output_filename": "IdenTrust_Services_LLC.json"
@@ -2488,8 +2488,8 @@
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
-        "partially_trusted_roots": 3,
-        "untrusted_roots": 2,
+        "partially_trusted_roots": 2,
+        "untrusted_roots": 3,
         "intermediates": 10
       },
       "output_filename": "Visa.json"
