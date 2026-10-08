@@ -90,7 +90,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Thailand"
   },
   {
@@ -143,7 +143,7 @@
     "TLS Capable": "True",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Thailand"
   },
   {

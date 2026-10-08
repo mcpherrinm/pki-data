@@ -1571,7 +1571,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Blocked; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -1582,7 +1582,6 @@
     "Authority Key Identifier": "+SSsD7K1+HnA+mCIG8TZTQKeFxk=",
     "Subject Key Identifier": "xKPT6mM9SWHakckZ2RszNXh1OJ8=",
     "Technically Constrained": "true",
-    "Derived Trust Bits": "Code Signing",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/camerfirma_codesignii-2014.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -1591,7 +1590,7 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
+    "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "Spain"
   },
@@ -1648,7 +1647,7 @@
     "Authority Key Identifier": "+SSsD7K1+HnA+mCIG8TZTQKeFxk=",
     "Subject Key Identifier": "Y+nw8FYAaGWwIWwOXNcZCJ0INGU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/camerfirma_cserverii-2015.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -1658,7 +1657,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -1681,7 +1680,7 @@
     "Authority Key Identifier": "+SSsD7K1+HnA+mCIG8TZTQKeFxk=",
     "Subject Key Identifier": "XaFVpNxKrIMR+ao45fdoSv4VFUw=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email",
+    "Derived Trust Bits": "Client Authentication",
     "Full CRL Issued By This CA": "http://crl.camerfirma.com/camerfirma_aappii-2014.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",
@@ -1691,7 +1690,7 @@
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
-    "S/MIME Capable": "True",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {
@@ -1869,8 +1868,8 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
-    "Code Signing Capable": "True",
-    "S/MIME Capable": "True",
+    "Code Signing Capable": "False",
+    "S/MIME Capable": "False",
     "Country": "Spain"
   },
   {

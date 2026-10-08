@@ -814,7 +814,7 @@
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Not Included",
     "Revocation Status": "Not Revoked",

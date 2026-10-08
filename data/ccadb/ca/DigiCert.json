@@ -62317,7 +62317,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "BK9Pbgo2psIngg6c/rkCQkk79bk=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdp.thawte.com/ThawteECCCA2018.crl"
     ],
@@ -62353,7 +62352,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "kFj/sJx1qFFUd7Ht8qNDFjiebMU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdp.geotrust.com/GeoTrustRSACA2018.crl"
     ],
@@ -62425,7 +62423,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "o8heZVTlMHjBBeoHCmpZzLn+3lo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdp.thawte.com/ThawteRSACA2018.crl"
     ],
@@ -62461,7 +62458,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "QmC1s0lOutdDqD1o59WaJCX5ZtM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdp.rapidssl.com/RapidSSLECCCA2018.crl"
     ],
@@ -62533,7 +62529,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "U8oXWfxrwAMhLxqu5KqoHIJW2nU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdp.rapidssl.com/RapidSSLRSACA2018.crl"
     ],
@@ -62569,7 +62564,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "7pouRvDC2jxcx4zWpHWY3qgZCmU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdp.geotrust.com/GeoTrustECCCA2018.crl"
     ],
@@ -62719,7 +62713,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "VXRPsnJP9WC6UNHX5lFcmgGHGtc=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1-1.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1.crl",
@@ -62905,7 +62898,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "EoZEZiYIVCaPZTeyKU4mIeCTvts=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdpf.digitalcertvalidation.com/TrustAsiaTLSECCCA.crl"
     ],
@@ -62941,7 +62933,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "f9OZ86BHDjEAVlYijrfMnt3KAYo=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA-1.crl",
       "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA.crl"
@@ -63180,7 +63171,6 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "1pHQJ8f3GFZoolL9cnSkmztnlMk=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/WoTrusEVSSLProCA.crl",
       "http://crl4.digicert.com/WoTrusEVSSLProCA.crl"
@@ -63217,7 +63207,6 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "TAdb3novZ4r5go1NAA/6+8aXGUQ=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/WoTrusOVSSLProCA.crl",
       "http://crl4.digicert.com/WoTrusOVSSLProCA.crl"
@@ -63642,7 +63631,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "T4X8m1nTxlOXj7weg/MegiUUvHk=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl.digicert-cn.com/TrustAsiaOVTLSProCA.crl"
     ],
@@ -63897,7 +63885,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "RUHjk1RwuOmlt5a8JrFYdUKXPvM=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl.digicert-cn.com/SecureSiteProCA.crl"
     ],
@@ -67396,7 +67383,6 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "LXPoaPMAH3IPlzbAQBpSkeH3VUY=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/GeoTrustSupremeSSLEV1CA.crl",
       "http://crl4.digicert.com/GeoTrustSupremeSSLEV1CA.crl"
@@ -67433,7 +67419,6 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "q9SIVzuXBMIcz3dHg9sJK72DPYY=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl",
       "http://crl4.digicert.com/GeoTrustSupremeSSLEV1ECCCA.crl"
@@ -67470,7 +67455,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "8S+1dxz0gOuXhfRoEOjEp55HslU=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/GeoTrustSupremeSSL1CA.crl",
       "http://crl4.digicert.com/GeoTrustSupremeSSL1CA.crl"
@@ -73471,7 +73455,6 @@
     "Authority Key Identifier": "A95QNVbRTLtm8KPiGxvDl7I90VU=",
     "Subject Key Identifier": "xBF+iECGwkG/ZfMa4bRTQKOr7H0=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl.digicert-cn.com/SecureSiteCA-1.crl"
     ],
@@ -82615,7 +82598,6 @@
     "Authority Key Identifier": "sT7DaQP4v0cB1JgmGggC72NkK8M=",
     "Subject Key Identifier": "inctIzd+4nH45L9K0PIGoZYqFOI=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/CybertrustJapanExtendedValidationServerCA.crl",
       "http://crl4.digicert.com/CybertrustJapanExtendedValidationServerCA.crl"
