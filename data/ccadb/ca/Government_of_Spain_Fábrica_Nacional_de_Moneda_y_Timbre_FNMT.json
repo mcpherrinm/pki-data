@@ -512,10 +512,6 @@
     "Policy Documentation": "dgpc_english.pdf = General Certification Practices Statement; dpc_unidades_sellado_tiempo_english.pdf = Certification Policy and Practice Statement For Electronic Time  Stamp Creation Certificates",
     "CA Document Repository": "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_unidades_sellado_tiempo_english.pdf",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://www.sede.fnmt.gob.es/documents/10445900/10536309/dpc_unidades_sellado_tiempo_english.pdf"
-    ],
-    "CP Effective Date": "2025.10.07",
     "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",

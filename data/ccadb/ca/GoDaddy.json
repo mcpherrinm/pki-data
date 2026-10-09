@@ -144,9 +144,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfi.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
@@ -1742,9 +1743,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.sfi.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfi.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfi.catest.starfieldtech.com/",
@@ -1808,9 +1810,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.gdi.catest.godaddy.com/",
     "Test Website URL - Expired": "https://expired.gdi.catest.godaddy.com/",
     "Test Website URL - Revoked": "https://revoked.gdi.catest.godaddy.com/",
@@ -1974,9 +1977,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.sfig2.catest.starfieldtech.com/",
     "Test Website URL - Expired": "https://expired.sfig2.catest.starfieldtech.com/",
     "Test Website URL - Revoked": "https://revoked.sfig2.catest.starfieldtech.com/",
@@ -2039,9 +2043,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.gdig2.catest.godaddy.com/",
     "Test Website URL - Expired": "https://expired.gdig2.catest.godaddy.com/",
     "Test Website URL - Revoked": "https://revoked.gdig2.catest.godaddy.com/",
@@ -2168,9 +2173,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.sf-tls-issuing-dv-r1v1.catest.starfieldtech.com",
     "Test Website URL - Expired": "https://expired.sf-tls-issuing-dv-r1v1.catest.starfieldtech.com",
     "Test Website URL - Revoked": "https://revoked.sf-tls-issuing-dv-r1v1.catest.starfieldtech.com",
@@ -2332,9 +2338,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "Test Website URL - Valid": "https://valid.gd-tls-issuing-dv-r1v1.catest.godaddy.com",
     "Test Website URL - Expired": "https://expired.gd-tls-issuing-dv-r1v1.catest.godaddy.com",
     "Test Website URL - Revoked": "https://revoked.gd-tls-issuing-dv-r1v1.catest.godaddy.com",
@@ -2594,9 +2601,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2680,9 +2688,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2734,9 +2743,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -2788,9 +2798,10 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/TLS_CPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.04.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.07",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

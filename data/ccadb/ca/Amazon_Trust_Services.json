@@ -5771,7 +5771,9 @@
       "http://crl.r3001.amazontrust.com/e3s20/ApVAgX1lfPT.crl",
       "http://crl.r3001.amazontrust.com/e3s20/JotLhKzHADr.crl",
       "http://crl.r3001.amazontrust.com/e3s20/Kw64iTmThuO.crl",
-      "http://crl.r3001.amazontrust.com/e3s20/4OUKAYqbt7K.crl"
+      "http://crl.r3001.amazontrust.com/e3s20/4OUKAYqbt7K.crl",
+      "http://crl.r3001.amazontrust.com/e3s20/AYeIOnBCXJ2.crl",
+      "http://crl.r3001.amazontrust.com/e3s20/GzcG8iPt79j.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -6028,7 +6030,8 @@
       "http://crl.r4001.amazontrust.com/e3s14/4gbSV30henq.crl",
       "http://crl.r4001.amazontrust.com/e3s14/BsjzPcft1Qw.crl",
       "http://crl.r4001.amazontrust.com/e3s14/4O7FYIJbk7p.crl",
-      "http://crl.r4001.amazontrust.com/e3s14/4sjRYXKdLhP.crl"
+      "http://crl.r4001.amazontrust.com/e3s14/4sjRYXKdLhP.crl",
+      "http://crl.r4001.amazontrust.com/e3s14/AtACnJFNcEV.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
