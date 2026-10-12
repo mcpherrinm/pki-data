@@ -1,6 +1,6 @@
 {
-  "total_ca_owners": 181,
-  "total_records": 10333,
+  "total_ca_owners": 182,
+  "total_records": 10336,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2328,7 +2328,7 @@
     },
     {
       "ca_owner": "Telia Company",
-      "record_count": 87,
+      "record_count": 88,
       "countries": [
         "Sweden"
       ],
@@ -2336,7 +2336,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 9,
         "untrusted_roots": 2,
-        "intermediates": 75
+        "intermediates": 76
       },
       "output_filename": "Telia_Company.json"
     },
@@ -2521,6 +2521,20 @@
         "intermediates": 43
       },
       "output_filename": "WoSign_CA_Limited.json"
+    },
+    {
+      "ca_owner": "X9 Financial PKI",
+      "record_count": 2,
+      "countries": [
+        "USA"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
+      },
+      "output_filename": "X9_Financial_PKI.json"
     },
     {
       "ca_owner": "Zetes",

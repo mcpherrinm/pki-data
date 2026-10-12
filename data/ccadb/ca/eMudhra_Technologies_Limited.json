@@ -3751,13 +3751,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md"
-    ],
-    "CP/CPS Effective Date": "2026.08.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.09.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.10.05",
@@ -3884,13 +3879,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md"
-    ],
-    "CP/CPS Effective Date": "2026.08.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.09.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.10.05",
@@ -3961,14 +3951,12 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.emsign.com/cps/codesigning/Code-Signing-CP-CPS-v1.02.pdf",
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md"
+      "https://repository.emsign.com/cps/codesigning/Code-Signing-CP-CPS-v1.02.pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.13",
+    "CP/CPS Effective Date": "2026.07.24",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repository.emsign.com/cps/CP-CPS-v1.25.md",
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.09.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.10.05",
@@ -4238,13 +4226,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md"
-    ],
-    "CP/CPS Effective Date": "2026.08.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.09.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.10.05",
@@ -4397,13 +4380,8 @@
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
-    "Certificate Practice & Policy Statement": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md"
-    ],
-    "CP/CPS Effective Date": "2026.08.13",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.08.md",
       "https://repository.emsign.com/cps/ssl/SSL-TLS-CP-CPS-v1.09.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.10.05",

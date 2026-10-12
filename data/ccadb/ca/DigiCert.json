@@ -41694,19 +41694,19 @@
   },
   {
     "CA Owner": "DigiCert",
-    "Salesforce Record ID": "A010343",
+    "Salesforce Record ID": "A010345",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "A007346",
-    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
+    "Parent Salesforce Record ID": "A000176",
+    "Parent Certificate Name": "QuoVadis Root CA 3",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
+    "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -41725,19 +41725,19 @@
   },
   {
     "CA Owner": "DigiCert",
-    "Salesforce Record ID": "A010345",
+    "Salesforce Record ID": "A010343",
     "Certificate Name": "Bayerische SSL-CA-2014-01",
-    "Parent Salesforce Record ID": "A000176",
-    "Parent Certificate Name": "QuoVadis Root CA 3",
+    "Parent Salesforce Record ID": "A007346",
+    "Parent Certificate Name": "QuoVadis Enterprise Trust CA 2 G3",
     "Certificate Record Type": "Intermediate Certificate",
     "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
     "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
-    "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included",
+    "Status of Root Cert": "Apple: Included; Google Chrome: Included; Microsoft: Included; Mozilla: Included",
     "Revocation Status": "Revoked",
     "SHA-256 Fingerprint": "01FD614879394B3AE149252FC15698674159CE5550669FF912892E19835A1E4C",
-    "Parent SHA-256 Fingerprint": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
+    "Parent SHA-256 Fingerprint": "B6F6559BBCE0A2CC91E507B5D7319E32487EDAE28A063BC73B6405E6C44665B6",
     "Valid From (GMT)": "2014.05.06",
     "Valid To (GMT)": "2024.05.06",
     "Authority Key Identifier": "8sAT4IJDPvvuL2cyljVc27jLAtA=",
@@ -61221,6 +61221,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://cdpd.digitalcertvalidation.com/TrustProviderBVTLSRSACAG1-1.crl",
       "http://cdpd.digitalcertvalidation.com/TrustProviderBVTLSRSACAG1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -61489,6 +61490,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://cdp.rapidssl.com/RapidSSLTLSRSACAG1-1.crl",
       "http://cdp.rapidssl.com/RapidSSLTLSRSACAG1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -61618,6 +61620,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://cdp.thawte.com/ThawteTLSRSACAG1-1.crl",
       "http://cdp.thawte.com/ThawteTLSRSACAG1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62082,6 +62085,7 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://cdp.geotrust.com/GeoTrustTLSRSACAG1-1.crl",
       "http://cdp.geotrust.com/GeoTrustTLSRSACAG1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62353,6 +62357,7 @@
     "Subject Key Identifier": "kFj/sJx1qFFUd7Ht8qNDFjiebMU=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
+      "http://cdp.geotrust.com/GeoTrustRSACA2018-1.crl",
       "http://cdp.geotrust.com/GeoTrustRSACA2018.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62424,6 +62429,7 @@
     "Subject Key Identifier": "o8heZVTlMHjBBeoHCmpZzLn+3lo=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
+      "http://cdp.thawte.com/ThawteRSACA2018-1.crl",
       "http://cdp.thawte.com/ThawteRSACA2018.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62530,6 +62536,7 @@
     "Subject Key Identifier": "U8oXWfxrwAMhLxqu5KqoHIJW2nU=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
+      "http://cdp.rapidssl.com/RapidSSLRSACA2018-1.crl",
       "http://cdp.rapidssl.com/RapidSSLRSACA2018.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62715,9 +62722,11 @@
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1-1.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1-2.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G1.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G3.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G1-1.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G1-2.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G3.crl"
     ],
@@ -62755,7 +62764,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-1.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62935,6 +62946,7 @@
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
       "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA-1.crl",
+      "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA-2.crl",
       "http://cdpe.digitalcertvalidation.com/TrustAsiaTLSRSACA.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -65960,12 +65972,14 @@
       "http://crl3.digicert.com/sha2-ha-server-g3.crl",
       "http://crl3.digicert.com/sha2-ha-server-g4.crl",
       "http://crl3.digicert.com/sha2-ha-server-g5.crl",
+      "http://crl3.digicert.com/sha2-ha-server-g6-1.crl",
       "http://crl3.digicert.com/sha2-ha-server-g6.crl",
       "http://crl4.digicert.com/sha2-ha-server-g1.crl",
       "http://crl4.digicert.com/sha2-ha-server-g2.crl",
       "http://crl4.digicert.com/sha2-ha-server-g3.crl",
       "http://crl4.digicert.com/sha2-ha-server-g4.crl",
       "http://crl4.digicert.com/sha2-ha-server-g5.crl",
+      "http://crl4.digicert.com/sha2-ha-server-g6-1.crl",
       "http://crl4.digicert.com/sha2-ha-server-g6.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -66005,9 +66019,11 @@
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/sha2-ev-server-g1.crl",
       "http://crl3.digicert.com/sha2-ev-server-g2.crl",
+      "http://crl3.digicert.com/sha2-ev-server-g3-1.crl",
       "http://crl3.digicert.com/sha2-ev-server-g3.crl",
       "http://crl4.digicert.com/sha2-ev-server-g1.crl",
       "http://crl4.digicert.com/sha2-ev-server-g2.crl",
+      "http://crl4.digicert.com/sha2-ev-server-g3-1.crl",
       "http://crl4.digicert.com/sha2-ev-server-g3.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -66748,7 +66764,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertSecureSiteECCCA-1.crl",
-      "http://crl4.digicert.com/DigiCertSecureSiteECCCA-1.crl"
+      "http://crl3.digicert.com/DigiCertSecureSiteECCCA-2.crl",
+      "http://crl4.digicert.com/DigiCertSecureSiteECCCA-1.crl",
+      "http://crl4.digicert.com/DigiCertSecureSiteECCCA-2.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -74778,7 +74796,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertEVRSACAG2-master.crl",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertEVRSACAG2-1.crl",
       "http://crl3.digicert.com/DigiCertEVRSACAG2.crl",
+      "http://crl4.digicert.com/DigiCertEVRSACAG2-1.crl",
       "http://crl4.digicert.com/DigiCertEVRSACAG2.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -75349,8 +75369,10 @@
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertSHA2SecureServerCA.crl",
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-1.crl",
+      "http://crl3.digicert.com/DigicertSHA2SecureServerCA-2.crl",
       "http://crl4.digicert.com/DigiCertSHA2SecureServerCA.crl",
-      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl"
+      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl",
+      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-2.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -75386,7 +75408,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-6.crl",
       "http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl",
+      "http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-6.crl",
       "http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -75425,8 +75449,10 @@
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-master.crl",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-2.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-8.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-2.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-8.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -75464,7 +75490,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1.crl",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-10.crl",
       "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-2.crl",
+      "http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-10.crl",
       "http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-2.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -76252,7 +76280,9 @@
     "Subject Key Identifier": "fdKonNYRBz+sf86SuD8nOynBBL8=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/NetflixPublicSHA2RSACA3-1.crl",
       "http://crl3.digicert.com/NetflixPublicSHA2RSACA3.crl",
+      "http://crl4.digicert.com/NetflixPublicSHA2RSACA3-1.crl",
       "http://crl4.digicert.com/NetflixPublicSHA2RSACA3.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -77621,7 +77651,7 @@
     "Subject Key Identifier": "YdwUAAB03tglZ2aK/Umh6rgOOYs=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/CiscoMerakiCA3.crl",
+    "Full CRL Issued By This CA": "http://crl3.digicert.com/CiscoMerakiCA3-1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -78690,12 +78720,14 @@
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-6.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-7.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-9.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-6.crl",
-      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-7.crl"
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-7.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-9.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -78849,12 +78881,14 @@
       "http://crl3.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-5.crl",
       "http://crl3.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-6.crl",
       "http://crl3.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-7.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-8.crl",
       "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-2.crl",
       "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-3.crl",
       "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-4.crl",
       "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-5.crl",
       "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-6.crl",
-      "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-7.crl"
+      "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-7.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG3TLSECCSHA3842020CA1-8.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -79087,7 +79121,9 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-1.crl",
-      "http://crl4.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-1.crl"
+      "http://crl3.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-2.crl",
+      "http://crl4.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-1.crl",
+      "http://crl4.digicert.com/DigiCertG5TLSRSA4096SHA3842021CA1-2.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -81777,7 +81813,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/RapidSSLGlobalTLSRSA4096SHA2562022CA1-1.crl",
       "http://crl3.digicert.com/RapidSSLGlobalTLSRSA4096SHA2562022CA1.crl",
+      "http://crl4.digicert.com/RapidSSLGlobalTLSRSA4096SHA2562022CA1-1.crl",
       "http://crl4.digicert.com/RapidSSLGlobalTLSRSA4096SHA2562022CA1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -85044,6 +85082,7 @@
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-3.crl",
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-4.crl",
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-5.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-6.crl",
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -85877,7 +85916,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/EncryptionEverywhereG3TLSECCP384SHA3842023CA1-1.crl",
       "http://crl3.digicert.com/EncryptionEverywhereG3TLSECCP384SHA3842023CA1.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereG3TLSECCP384SHA3842023CA1-1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereG3TLSECCP384SHA3842023CA1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -87769,7 +87810,9 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1-master.crl",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1-1.crl",
       "http://crl3.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl",
+      "http://crl4.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1-1.crl",
       "http://crl4.digicert.com/DigiCertAssuredG2SMIMERSA4096SHA3842024CA1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -88113,7 +88156,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/GandiCert-1.crl",
       "http://crl3.digicert.com/GandiCert.crl",
+      "http://crl4.digicert.com/GandiCert-1.crl",
       "http://crl4.digicert.com/GandiCert.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -89241,7 +89286,9 @@
     "Derived Trust Bits": "Client Authentication;Secure Email",
     "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2-Master.crl",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2-1.crl",
       "http://crl3.digicert.com/DigiCertAssuredIDClientCAG2.crl",
+      "http://crl4.digicert.com/DigiCertAssuredIDClientCAG2-1.crl",
       "http://crl4.digicert.com/DigiCertAssuredIDClientCAG2.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -89807,7 +89854,9 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
+      "http://crl3.digicert.com/TrustAsiaDVTLSRSACA2025-1.crl",
       "http://crl3.digicert.com/TrustAsiaDVTLSRSACA2025.crl",
+      "http://crl4.digicert.com/TrustAsiaDVTLSRSACA2025-1.crl",
       "http://crl4.digicert.com/TrustAsiaDVTLSRSACA2025.crl"
     ],
     "Auditor": "BDO International Limited",
