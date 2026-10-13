@@ -2286,8 +2286,8 @@
           "monitoring_url": "https://selene.mon.ct.harica.eu/selene2027h1/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-09-09T18:30:00Z"
+            "qualified": {
+              "timestamp": "2026-10-13T13:55:00Z"
             }
           },
           "temporal_interval": {
@@ -2302,8 +2302,8 @@
           "monitoring_url": "https://selene.mon.ct.harica.eu/selene2027h2/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-09-09T18:30:00Z"
+            "qualified": {
+              "timestamp": "2026-10-13T13:55:00Z"
             }
           },
           "temporal_interval": {
@@ -2318,8 +2318,8 @@
           "monitoring_url": "https://selene.mon.ct.harica.eu/selene2028h1/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-09-09T18:30:00Z"
+            "qualified": {
+              "timestamp": "2026-10-13T13:55:00Z"
             }
           },
           "temporal_interval": {
@@ -2334,8 +2334,8 @@
           "monitoring_url": "https://selene.mon.ct.harica.eu/selene2028h2/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-09-09T18:30:00Z"
+            "qualified": {
+              "timestamp": "2026-10-13T13:55:00Z"
             }
           },
           "temporal_interval": {
