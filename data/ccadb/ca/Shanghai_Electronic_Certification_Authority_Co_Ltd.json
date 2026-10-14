@@ -3484,9 +3484,7 @@
     "Authority Key Identifier": "rlgo2ixcoTsgA28wi7gREuUsKro=",
     "Subject Key Identifier": "F1iMy43KMf8fpQhKPzlIkhb31m8=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.global.sheca.com/gevcsca2a.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -3628,9 +3626,7 @@
     "Authority Key Identifier": "rlgo2ixcoTsgA28wi7gREuUsKro=",
     "Subject Key Identifier": "MCaKNYU4HA6pLZDtlJNl54nrJn4=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.global.sheca.com/gcsca2a.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -3713,9 +3709,7 @@
     "Authority Key Identifier": "BnpLZK60Db1ACCkifUHrEV9dGrY=",
     "Subject Key Identifier": "BG3tHEpEyCdVjNF9exfMDFOVed4=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.global.sheca.com/gcsca1b.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -3779,9 +3773,7 @@
     "Authority Key Identifier": "BnpLZK60Db1ACCkifUHrEV9dGrY=",
     "Subject Key Identifier": "fiVhdxZyruBj8cB7fKxvOq5EzcM=",
     "Technically Constrained": "true",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.global.sheca.com/gevcsca1b.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
