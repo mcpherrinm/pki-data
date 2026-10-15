@@ -22114,9 +22114,7 @@
     "Subject Key Identifier": "1wbZkxgoQfrgXad9W+uh92l4/No=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/acprodespsiteseguroar46ovtlsca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -26171,9 +26169,7 @@
     "Subject Key Identifier": "L3tuOcED2yd+Lzvqu+FH67GP4ts=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Secure Email",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/ca/eudaatlasr45smimeca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
