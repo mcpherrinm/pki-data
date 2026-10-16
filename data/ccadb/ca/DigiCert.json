@@ -78715,6 +78715,7 @@
     "Derived Trust Bits": "Client Authentication;Server Authentication",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-10.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
@@ -78722,6 +78723,7 @@
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-7.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-9.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-10.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",

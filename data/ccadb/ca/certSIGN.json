@@ -598,14 +598,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-DV-Certification-Practice-Statement-v2.1.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2026/10/certSIGN-Web-CA-DV-Certification-Practice-Statement-v2.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.15",
+    "CP/CPS Effective Date": "2026.10.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-DV-Certification-Practice-Statement-v2.1.md"
+      "https://www.certsign.ro/wp-content/uploads/2026/10/certSIGN-Web-CA-DV-Certification-Practice-Statement-v2.2.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.15",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.16",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -1002,14 +1002,14 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G2-Certification-Practice-Statement-v1.0.pdf"
+      "https://www.certsign.ro/wp-content/uploads/2026/10/certSIGN-Web-CA-G2-Certification-Practice-Statement-v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.01.22",
+    "CP/CPS Effective Date": "2026.10.16",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.certsign.ro/wp-content/uploads/2026/01/certSIGN-Web-CA-G2-Certification-Practice-Statement-v1.0.md"
+      "https://www.certsign.ro/wp-content/uploads/2026/10/certSIGN-Web-CA-G2-Certification-Practice-Statement-v1.1.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.01.22",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.16",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
