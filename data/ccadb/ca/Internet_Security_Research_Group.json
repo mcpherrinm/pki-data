@@ -3557,14 +3557,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/",
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.1/",
       "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
     ],
     "CP/CPS Effective Date": "2026.08.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md",
       "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
@@ -3618,14 +3615,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/",
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.1/",
       "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
     ],
     "CP/CPS Effective Date": "2026.08.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md",
       "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
@@ -3663,14 +3657,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/",
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.1/",
       "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
     ],
     "CP/CPS Effective Date": "2026.08.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md",
       "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
@@ -3707,14 +3698,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.0/",
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.1/",
       "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
     ],
     "CP/CPS Effective Date": "2026.08.12",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://github.com/letsencrypt/cp-cps/blob/v6.0/CP-CPS.md",
       "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",

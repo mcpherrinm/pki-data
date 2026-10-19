@@ -2651,15 +2651,14 @@
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.3.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2026.01.01",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
     ],
-    "CPS Effective Date": "2026.03.23",
+    "CPS Effective Date": "2026.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2835,14 +2834,14 @@
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.07.08",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.zorgcsp.nl/documents/20251111%20CPS%20UZI-register%20V12.1%20ENG.pdf"
+      "https://www.zorgcsp.nl/documents/Certification_Practice_Statement_UZI-register-EN.pdf"
     ],
-    "CPS Effective Date": "2025.11.11",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2935,14 +2934,14 @@
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2023.03.01",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.zorgcsp.nl/documents/20251111%20CPS%20UZI-register%20V12.1%20ENG.pdf"
+      "https://www.zorgcsp.nl/documents/Certification_Practice_Statement_UZI-register-EN.pdf"
     ],
-    "CPS Effective Date": "2023.03.01",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3052,14 +3051,14 @@
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.12.11",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.zorgcsp.nl/documents/20251111%20CPS%20UZI-register%20V12.1%20ENG.pdf"
+      "https://www.zorgcsp.nl/documents/Certification_Practice_Statement_UZI-register-EN.pdf"
     ],
-    "CPS Effective Date": "2025.01.10",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3106,11 +3105,15 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/   https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digidentity.eu/api/media/file/2025-v1_CPS_PKIoverheid_(sealed).pdf"
+      "https://www.digidentity.eu/api/media/file/2026-v1%20CPS%20PKIoverheid%20(sealed).pdf"
     ],
-    "CPS Effective Date": "2025.10.15",
+    "CPS Effective Date": "2026.03.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3301,6 +3304,10 @@
     "S/MIME BR Audit Period End Date": "2025.11.15",
     "CA Document Repository": "http://cps.dp.ca.mindef.nl/ips/cps-en.jsp",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://cps.ca.pkidefensie.nl/cps-mindef.pdf",
@@ -3353,15 +3360,14 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.pdf",
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2025.07.08",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
     ],
-    "CPS Effective Date": "2026.03.23",
+    "CPS Effective Date": "2026.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3407,14 +3413,14 @@
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2025.07.08",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
     ],
-    "CPS Effective Date": "2026.03.23",
+    "CPS Effective Date": "2026.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3600,11 +3606,15 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/  https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digidentity.eu/api/media/file/2025-v1_CPS_PKIoverheid_(sealed).pdf"
+      "https://www.digidentity.eu/api/media/file/2026-v1%20CPS%20PKIoverheid%20(sealed).pdf"
     ],
-    "CPS Effective Date": "2025.10.15",
+    "CPS Effective Date": "2026.03.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3750,14 +3760,14 @@
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.12.11",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.zorgcsp.nl/documents/20251111%20CPS%20UZI-register%20V12.1%20ENG.pdf"
+      "https://www.zorgcsp.nl/documents/Certification_Practice_Statement_UZI-register-EN.pdf"
     ],
-    "CPS Effective Date": "2025.01.10",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3804,11 +3814,15 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://www.digidentity.eu/cps_en_pds/  https://www.digidentity.eu/en/home/#downloads  https://www.digidentity.eu/en/documentation/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digidentity.eu/api/media/file/2025-v1_CPS_PKIoverheid_(sealed).pdf"
+      "https://www.digidentity.eu/api/media/file/2026-v1%20CPS%20PKIoverheid%20(sealed).pdf"
     ],
-    "CPS Effective Date": "2025.10.15",
+    "CPS Effective Date": "2026.03.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3856,14 +3870,14 @@
     "CA Document Repository": "https://certificaat.kpn.com/support/downloads/repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.1.html"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.12.11",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.13.pdf"
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.17.pdf"
     ],
-    "CPS Effective Date": "2024.12.19",
+    "CPS Effective Date": "2026.10.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -3988,16 +4002,11 @@
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
-    ],
-    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
     ],
-    "CPS Effective Date": "2026.03.23",
+    "CPS Effective Date": "2026.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4042,16 +4051,11 @@
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
-    ],
-    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf",
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/quovadis/digicert-pkioverheid-cps-v2-02-en.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
     ],
-    "CPS Effective Date": "2026.03.23",
+    "CPS Effective Date": "2026.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4193,14 +4197,14 @@
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2025.07.08",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicert-pkioverheid-cps-v2.05.pdf"
+      "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
     ],
-    "CPS Effective Date": "2026.03.23",
+    "CPS Effective Date": "2026.10.14",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4299,14 +4303,14 @@
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2024.12.11",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.zorgcsp.nl/documents/20251111%20CPS%20UZI-register%20V12.1%20ENG.pdf"
+      "https://www.zorgcsp.nl/documents/Certification_Practice_Statement_UZI-register-EN.pdf"
     ],
-    "CPS Effective Date": "2025.01.10",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4431,14 +4435,14 @@
     "CA Document Repository": "https://www.logius.nl/languages/english/pkioverheid/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://cp.pkioverheid.nl/pkioverheid-por-v5.2.pdf"
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
     ],
-    "CP Effective Date": "2025.07.08",
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.zorgcsp.nl/documents/20251111%20CPS%20UZI-register%20V12.1%20ENG.pdf"
+      "https://www.zorgcsp.nl/documents/Certification_Practice_Statement_UZI-register-EN.pdf"
     ],
-    "CPS Effective Date": "2025.11.11",
+    "CPS Effective Date": "2026.04.01",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4516,11 +4520,15 @@
     "S/MIME BR Audit Period Start Date": "2025.03.05",
     "S/MIME BR Audit Period End Date": "2026.02.10",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.cleverbase.com/cps.pdf"
     ],
-    "CPS Effective Date": "2025.06.03",
+    "CPS Effective Date": "2026.10.09",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -4745,11 +4753,15 @@
     "Policy Documentation": "https://www.logius.nl/languages/english/pkioverheid/",
     "CA Document Repository": "https://certificaat.kpn.com/support/downloads/repository/",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.13.pdf"
+      "https://certificaat.kpn.com/files/CPS/KPN_PKIoverheid_CPS_v5.17.pdf"
     ],
-    "CPS Effective Date": "2024.12.19",
+    "CPS Effective Date": "2026.10.19",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
