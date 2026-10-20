@@ -10,9 +10,6 @@
     "ct-log-api.godaddy.com/aquamarine2028h2",
     "ct.cloudflare.com/logs/nimbus2026",
     "ct.cloudflare.com/logs/nimbus2027",
-    "ct.cloudflare.com/logs/raio2026h2a",
-    "ct.cloudflare.com/logs/raio2027h1a",
-    "ct.cloudflare.com/logs/raio2027h2a",
     "ct.googleapis.com/logs/eu1/solera2026h2",
     "ct.googleapis.com/logs/eu1/solera2027h1",
     "ct.googleapis.com/logs/eu1/xenon2026h2",
@@ -79,6 +76,8 @@
     "tuscolo2026h2.sunlight.geomys.org",
     "tuscolo2027h1.sunlight.geomys.org",
     "tuscolo2027h2.sunlight.geomys.org",
+    "tuscolo2028h1.sunlight.geomys.org",
+    "tuscolo2028h2.sunlight.geomys.org",
     "wyvern.ct.digicert.com/2026h2",
     "wyvern.ct.digicert.com/2027h1",
     "wyvern.ct.digicert.com/2027h2"
