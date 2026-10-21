@@ -171,6 +171,20 @@
       "output_filename": "ARRIS_Technology_Inc.json"
     },
     {
+      "ca_owner": "ASC X9 Financial PKI",
+      "record_count": 2,
+      "countries": [
+        "USA"
+      ],
+      "aggregated_counts": {
+        "trusted_roots": 0,
+        "partially_trusted_roots": 0,
+        "untrusted_roots": 2,
+        "intermediates": 0
+      },
+      "output_filename": "ASC_X9_Financial_PKI.json"
+    },
+    {
       "ca_owner": "Aspire Digital Technology (Shenzhen) Co., Ltd.",
       "record_count": 3,
       "countries": [
@@ -2521,20 +2535,6 @@
         "intermediates": 43
       },
       "output_filename": "WoSign_CA_Limited.json"
-    },
-    {
-      "ca_owner": "X9 Financial PKI",
-      "record_count": 2,
-      "countries": [
-        "USA"
-      ],
-      "aggregated_counts": {
-        "trusted_roots": 0,
-        "partially_trusted_roots": 0,
-        "untrusted_roots": 2,
-        "intermediates": 0
-      },
-      "output_filename": "X9_Financial_PKI.json"
     },
     {
       "ca_owner": "Zetes",

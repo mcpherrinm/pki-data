@@ -305,9 +305,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "http://depo.kamusm.gov.tr/ilke/KamuSM_CP_CPS_EN_3.11.0.pdf"
+      "http://depo.kamusm.gov.tr/ilke/KamuSM_CP_CPS_EN_3.11.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.15",
+    "CP/CPS Effective Date": "2026.10.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -350,10 +350,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "http://depo.kamusm.gov.tr/ilke/KamuSM_CPS/KamuSM_CP_CPS_EN_3.10.1.pdf",
-      "http://depo.kamusm.gov.tr/ilke/KamuSM_CP_CPS_EN_3.11.0.pdf"
+      "http://depo.kamusm.gov.tr/ilke/KamuSM_CP_CPS_EN_3.11.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.04.15",
+    "CP/CPS Effective Date": "2026.10.14",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://testssl.kamusm.gov.tr/",
     "Test Website URL - Expired": "https://testsslexpired.kamusm.gov.tr/",
