@@ -2040,11 +2040,11 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/SMIMEv12/teliacasmimecpcps.html",
+      "https://cps.trust.telia.com/SMIMEv13/teliacasmimecpcps.html",
       "https://cps.trust.telia.com/TLSv70/teliacatlscpcps.html",
       "https://cps.trust.telia.com/Telia_Client_Certificate_CPS_v5.2.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.12",
+    "CP/CPS Effective Date": "2026.10.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://juolukka.cover.telia.fi:10600/",
     "Test Website URL - Expired": "https://juolukka.cover.telia.fi:10602/",
@@ -2511,9 +2511,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/SMIMEv12/teliacasmimecpcps.html"
+      "https://cps.trust.telia.com/SMIMEv13/teliacasmimecpcps.html"
     ],
-    "CP/CPS Effective Date": "2026.06.04",
+    "CP/CPS Effective Date": "2026.10.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -2558,9 +2558,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://cps.trust.telia.com/SMIMEv12/teliacasmimecpcps.html"
+      "https://cps.trust.telia.com/SMIMEv13/teliacasmimecpcps.html"
     ],
-    "CP/CPS Effective Date": "2026.06.04",
+    "CP/CPS Effective Date": "2026.10.19",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

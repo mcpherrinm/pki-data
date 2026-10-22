@@ -218,12 +218,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2024.07.26",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
-      "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
-    ],
-    "CPS Effective Date": "2024.07.26",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -295,11 +290,7 @@
     "Policy Documentation": "Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
-    ],
-    "CPS Effective Date": "2026.07.15",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -411,12 +402,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2024.05.23",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "http://www.d-trust.net/internet/files/D-TRUST_Cloud_PKI_CPS.pdf",
-      "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
-    ],
-    "CPS Effective Date": "2024.05.23",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -559,12 +545,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2024.07.26",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
-      "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
-    ],
-    "CPS Effective Date": "2024.07.26",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -881,13 +862,7 @@
       "https://www.d-trust.net/internet/files/D-TRUST_CP.pdf"
     ],
     "CP Effective Date": "2024.07.26",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www.d-trust.net/internet/files/D-TRUST_CSM_PKI_CPS.pdf",
-      "https://www.d-trust.net/internet/files/D-TRUST_Root_PKI_CPS.pdf",
-      "https://www.d-trust.net/internet/files/D-TRUST_TSPS.pdf"
-    ],
-    "CPS Effective Date": "2024.07.26",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2125,11 +2100,7 @@
     "Policy Documentation": "Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
-    ],
-    "CPS Effective Date": "2026.07.15",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -2165,11 +2136,7 @@
     "Policy Documentation": "Documents are provided in both English and German.",
     "CA Document Repository": "https://www.d-trust.net/en/support/repository",
     "CP Same as Parent": "true",
-    "CPS Same as Parent": "false",
-    "Certificate Practice Statement (CPS) URL": [
-      "https://www1.d-trust.net/pdf-download/EON_SE_PKI_CPS_v3.6.pdf"
-    ],
-    "CPS Effective Date": "2026.07.15",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",

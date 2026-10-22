@@ -25669,9 +25669,10 @@
     "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
     ],
-    "CPS Effective Date": "2026.03.15",
+    "CPS Effective Date": "2026.10.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-class2.test.telesec.de/",
@@ -25773,9 +25774,10 @@
     "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
     ],
-    "CPS Effective Date": "2026.03.15",
+    "CPS Effective Date": "2026.10.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-class3.test.telesec.de/",
@@ -26458,9 +26460,10 @@
     "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
     ],
-    "CPS Effective Date": "2026.03.15",
+    "CPS Effective Date": "2026.10.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.tstlser20.test.telesec.de/",
@@ -26523,9 +26526,10 @@
     "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
     ],
-    "CPS Effective Date": "2026.03.15",
+    "CPS Effective Date": "2026.10.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -26585,9 +26589,10 @@
     "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
     ],
-    "CPS Effective Date": "2026.03.15",
+    "CPS Effective Date": "2026.10.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -26647,9 +26652,10 @@
     "CP Effective Date": "2026.03.15",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
     ],
-    "CPS Effective Date": "2026.03.15",
+    "CPS Effective Date": "2026.10.16",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.tstlsrr23.test.telesec.de/",
