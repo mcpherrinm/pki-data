@@ -393,7 +393,6 @@
     "Authority Key Identifier": "Zc3rqzUeAD5+1XTAHLRzRw4aZC8=",
     "Subject Key Identifier": "i1BXWsG9kgCmt+WFXcPdtrWGkNI=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Encrypting File System;IP Security Tunnel Termination;IP Security User;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "https://crl.firmaprofesional.com/firmaprofesional1.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "true",

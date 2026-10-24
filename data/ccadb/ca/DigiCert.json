@@ -78939,7 +78939,6 @@
     "Subject Key Identifier": "t2ui6qiqhIx56rTaD5iyxZV2ufQ=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl",
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-3.crl",
       "http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl",
