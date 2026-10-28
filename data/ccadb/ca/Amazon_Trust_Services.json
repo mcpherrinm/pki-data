@@ -2950,7 +2950,9 @@
       "http://crl.r4001.amazontrust.com/e3s17/GMsdHsLEbrU.crl",
       "http://crl.r4001.amazontrust.com/e3s17/DcomFwaqa9X.crl",
       "http://crl.r4001.amazontrust.com/e3s17/KLW9stPSM8M.crl",
-      "http://crl.r4001.amazontrust.com/e3s17/jWpzoz9XZk.crl"
+      "http://crl.r4001.amazontrust.com/e3s17/jWpzoz9XZk.crl",
+      "http://crl.r4001.amazontrust.com/e3s17/2yQZusrrirb.crl",
+      "http://crl.r4001.amazontrust.com/e3s17/H3MpDf0tFX1.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -5908,7 +5910,8 @@
       "http://crl.r3001.amazontrust.com/e3s20/KapIVetryQ9.crl",
       "http://crl.r3001.amazontrust.com/e3s20/JwtERccpMKc.crl",
       "http://crl.r3001.amazontrust.com/e3s20/1VvRZW919cs.crl",
-      "http://crl.r3001.amazontrust.com/e3s20/LjKU3l5b7RN.crl"
+      "http://crl.r3001.amazontrust.com/e3s20/LjKU3l5b7RN.crl",
+      "http://crl.r3001.amazontrust.com/e3s20/4RaqO9VbAgo.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -6175,7 +6178,8 @@
       "http://crl.r4001.amazontrust.com/e3s14/B7AzNLNSGjp.crl",
       "http://crl.r4001.amazontrust.com/e3s14/DBwU9YbSKDh.crl",
       "http://crl.r4001.amazontrust.com/e3s14/DFapPVIhUy.crl",
-      "http://crl.r4001.amazontrust.com/e3s14/K2OHm5ohYva.crl"
+      "http://crl.r4001.amazontrust.com/e3s14/K2OHm5ohYva.crl",
+      "http://crl.r4001.amazontrust.com/e3s14/G477Y3MmsQ4.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -7657,7 +7661,8 @@
       "http://crl.r3001.amazontrust.com/e3s18/70eO9GMtlXk.crl",
       "http://crl.r3001.amazontrust.com/e3s18/Ay6fFZcFMwO.crl",
       "http://crl.r3001.amazontrust.com/e3s18/4nHy9H77mwL.crl",
-      "http://crl.r3001.amazontrust.com/e3s18/I6oswMEFs8S.crl"
+      "http://crl.r3001.amazontrust.com/e3s18/I6oswMEFs8S.crl",
+      "http://crl.r3001.amazontrust.com/e3s18/CKm7hZEqjsZ.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9721,7 +9726,8 @@
     "Subject Key Identifier": "Q9eu9Y9RWXgKeYebnJ88Udcg5C8=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r3002.amazontrust.com/n2xir2m011/ee983340-64bc-4b59-8d96-6e8c17872a0b.crl",
+      "http://crl.r3002.amazontrust.com/n2xir2m011/CYShtVMspIb.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9896,7 +9902,8 @@
     "Subject Key Identifier": "r3jtD7XOj5DgT21u20/koQoxC9M=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r3002.amazontrust.com/n2xie2m012/47a6fc83-60f6-4479-94c9-9e66546b6e34.crl",
+      "http://crl.r3002.amazontrust.com/n2xie2m012/5bgrS4v7JzF.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9931,7 +9938,8 @@
     "Subject Key Identifier": "NswFvDHk78tAekj1CjDTS0JqXRc=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r3002.amazontrust.com/n2xir2m012/0b034834-c701-4f3b-935c-d6d4d782ff3f.crl",
+      "http://crl.r3002.amazontrust.com/n2xir2m012/FENHkQ8Cby4.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10036,7 +10044,8 @@
     "Subject Key Identifier": "VcofuQN9dQCxh433NMBLVtmRFuE=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r3002.amazontrust.com/n2xie3m011/8324f3d2-d780-4596-b837-700873afc38a.crl",
+      "http://crl.r3002.amazontrust.com/n2xie3m011/AP9J0DL5XBQ.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10071,7 +10080,8 @@
     "Subject Key Identifier": "/5K+KJIDxZuNL1y0AskDDwdrBQ0=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r3002.amazontrust.com/n2xie3m012/c80306ca-458a-4370-b040-150e3e7b960e.crl",
+      "http://crl.r3002.amazontrust.com/n2xie3m012/LdwsK6c5NOM.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10526,7 +10536,8 @@
     "Subject Key Identifier": "kzfoAtHDQycvFOyTUJ3WE1n51vE=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r3002.amazontrust.com/n2xie2m011/1eee6b7b-ef8b-4825-a4c7-937671e18d60.crl",
+      "http://crl.r3002.amazontrust.com/n2xie2m011/76elDN5l3Gm.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10562,7 +10573,9 @@
     "Subject Key Identifier": "H1KSYVaCVH+BZtgdPQqqMlyH3Qg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.r2m04.amazontrust.com/r2m04.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r2m04.amazontrust.com/r2m04.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -10633,7 +10646,9 @@
     "Subject Key Identifier": "nnEfGh2TqdktjsxIUz8DVPOe5mY=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.r4m02.amazontrust.com/r4m02.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r4m02.amazontrust.com/r4m02.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -10704,7 +10719,9 @@
     "Subject Key Identifier": "T1n8vAYWKL+iyNsI+88TJLppQlw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e2m01.amazontrust.com/e2m01.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e2m01.amazontrust.com/e2m01.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -10775,7 +10792,9 @@
     "Subject Key Identifier": "RjMIkIW5tSD2go6kzGrk1dGSAsw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.r4m04.amazontrust.com/r4m04.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r4m04.amazontrust.com/r4m04.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -10846,7 +10865,9 @@
     "Subject Key Identifier": "Jzu4RHaT8TwXw02zvSEdZJlnfrw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.r4m01.amazontrust.com/r4m01.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r4m01.amazontrust.com/r4m01.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -10917,7 +10938,9 @@
     "Subject Key Identifier": "EBQBuwDTvbSG+nvvse6Wv0pE5QI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.r4m03.amazontrust.com/r4m03.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r4m03.amazontrust.com/r4m03.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -10988,7 +11011,9 @@
     "Subject Key Identifier": "UvDSUIA81BkRyINvDgK+qEoXTcc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e3m04.amazontrust.com/e3m04.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e3m04.amazontrust.com/e3m04.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11059,7 +11084,9 @@
     "Subject Key Identifier": "yyPD8wJzb7rBpK34ccYQKBbf7L8=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e2m03.amazontrust.com/e2m03.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e2m03.amazontrust.com/e2m03.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11204,7 +11231,9 @@
     "Subject Key Identifier": "ptmrO4eZM//oaPiLYYNs0LK6r70=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e3m02.amazontrust.com/e3m02.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e3m02.amazontrust.com/e3m02.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11275,7 +11304,9 @@
     "Subject Key Identifier": "wDFSzVpQw4J8dHHOy+mc+XrrguI=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.r2m02.amazontrust.com/r2m02.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.r2m02.amazontrust.com/r2m02.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11420,7 +11451,9 @@
     "Subject Key Identifier": "IHag4Vkm7UW0AnIZwk2udze0G0k=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e2m04.amazontrust.com/e2m04.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e2m04.amazontrust.com/e2m04.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11491,7 +11524,9 @@
     "Subject Key Identifier": "A+SkBI4Ff5oSl4QE/xF3MIy6Kqc=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e3m01.amazontrust.com/e3m01.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e3m01.amazontrust.com/e3m01.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11562,7 +11597,9 @@
     "Subject Key Identifier": "qOXjpfpJKL7Gff4i3IL6DC2GRxg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e3m03.amazontrust.com/e3m03.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e3m03.amazontrust.com/e3m03.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",
@@ -11633,7 +11670,9 @@
     "Subject Key Identifier": "u3ia12gzMp0au2z9sTRMAd7L0HU=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "http://crl.e2m02.amazontrust.com/e2m02.crl",
+    "JSON Array of Partitioned CRLs": [
+      "http://crl.e2m02.amazontrust.com/e2m02.crl"
+    ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d960de8d-58e1-49cd-b021-b81d840df468",

@@ -4266,9 +4266,9 @@
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.08.05",
-    "Test Website URL - Valid": "https://cross-ovrsa2024v.secomtrust-verification.com/",
-    "Test Website URL - Expired": "https://cross-ovrsa2024e.secomtrust-verification.com/",
-    "Test Website URL - Revoked": "https://cross-ovrsa2024r.secomtrust-verification.com/",
+    "Test Website URL - Valid": "https://cross-evrsa2024v.secomtrust-verification.com",
+    "Test Website URL - Expired": "https://cross-evrsa2024e.secomtrust-verification.com",
+    "Test Website URL - Revoked": "https://cross-evrsa2024r.secomtrust-verification.com",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",

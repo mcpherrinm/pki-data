@@ -22102,9 +22102,7 @@
     "Subject Key Identifier": "LJ/kSYiYN8Bl3hccU0j7onKbYsw=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/alibabacloudgccr46ovtlsca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -22236,9 +22234,7 @@
     "Subject Key Identifier": "LAERfbcjZlzq4X/vq/De1RzspQA=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://crl.globalsign.com/gsgccr46ovtlsca2026.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

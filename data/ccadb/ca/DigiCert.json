@@ -62086,6 +62086,7 @@
     "JSON Array of Partitioned CRLs": [
       "http://cdp.geotrust.com/GeoTrustTLSRSACAG1-1.crl",
       "http://cdp.geotrust.com/GeoTrustTLSRSACAG1-2.crl",
+      "http://cdp.geotrust.com/GeoTrustTLSRSACAG1-3.crl",
       "http://cdp.geotrust.com/GeoTrustTLSRSACAG1.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -62768,11 +62769,13 @@
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-2.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-3.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-4.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-5.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-2.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-3.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-4.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-5.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -78732,6 +78735,7 @@
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-11.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-12.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-13.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-14.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
@@ -78743,6 +78747,7 @@
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-11.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-12.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-13.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-14.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
