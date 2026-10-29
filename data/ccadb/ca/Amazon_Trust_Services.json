@@ -3896,7 +3896,8 @@
       "http://crl.r3001.amazontrust.com/e3s19/91wRxuYLkYG.crl",
       "http://crl.r3001.amazontrust.com/e3s19/FD5RnYXrfug.crl",
       "http://crl.r3001.amazontrust.com/e3s19/4qA2NqtvqaL.crl",
-      "http://crl.r3001.amazontrust.com/e3s19/Dv6nZV1LWKT.crl"
+      "http://crl.r3001.amazontrust.com/e3s19/Dv6nZV1LWKT.crl",
+      "http://crl.r3001.amazontrust.com/e3s19/ESbN5VCDxt3.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -7662,7 +7663,9 @@
       "http://crl.r3001.amazontrust.com/e3s18/Ay6fFZcFMwO.crl",
       "http://crl.r3001.amazontrust.com/e3s18/4nHy9H77mwL.crl",
       "http://crl.r3001.amazontrust.com/e3s18/I6oswMEFs8S.crl",
-      "http://crl.r3001.amazontrust.com/e3s18/CKm7hZEqjsZ.crl"
+      "http://crl.r3001.amazontrust.com/e3s18/CKm7hZEqjsZ.crl",
+      "http://crl.r3001.amazontrust.com/e3s18/CZ1GFJTdOuV.crl",
+      "http://crl.r3001.amazontrust.com/e3s18/Hn74XpzYrk8.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9762,7 +9765,7 @@
     "Subject Key Identifier": "912Z/SFoVb9wnKsPvOWSeSiA9js=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1002.amazontrust.com/n2xie2m008/a6335b01-4a04-4460-a048-92ecaa55076a.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9797,7 +9800,8 @@
     "Subject Key Identifier": "amLRKeksY4A+tmipQ181EdCV/aM=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2002.amazontrust.com/n2xir2m009/238496d8-07e0-46da-bb27-86ce3c7ed785.crl",
+      "http://crl.r2002.amazontrust.com/n2xir2m009/fGItM8xhPC.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9832,7 +9836,8 @@
     "Subject Key Identifier": "Z+I9g5m7puYthwLghF0S+JgNIw8=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2002.amazontrust.com/n2xie2m009/99b1bfb2-d5da-4c59-bfa5-bf5ea367d103.crl",
+      "http://crl.r2002.amazontrust.com/n2xie2m009/Jb8NnTVDI6q.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9867,7 +9872,8 @@
     "Subject Key Identifier": "Yr23jWjZrubGQAGgHKTbxvvW9r0=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r4002.amazontrust.com/n2xie2m013/888159db-672f-4d32-9b1b-277954e4d271.crl",
+      "http://crl.r4002.amazontrust.com/n2xie2m013/1ionLdWZWIG.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -9974,7 +9980,8 @@
     "Subject Key Identifier": "RiSHXUvF4OG5fFHJrvb6CyrLGH0=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r4002.amazontrust.com/n2xir2m014/7a25cb39-06a3-4fea-a08d-695e0f9c1657.crl",
+      "http://crl.r4002.amazontrust.com/n2xir2m014/73rOn7cxiUD.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10009,7 +10016,7 @@
     "Subject Key Identifier": "4/q2o+RLkbjXuqW7hQNsd6gNd24=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1002.amazontrust.com/n2xie2m007/9aae0735-4994-4386-8a20-274c750957d6.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10116,7 +10123,8 @@
     "Subject Key Identifier": "nAN37bqhFa1U18Q2MoelvSMylxU=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2002.amazontrust.com/n2xie2m010/929aa375-7e2d-4d8a-8a78-4d7f58fe3365.crl",
+      "http://crl.r2002.amazontrust.com/n2xie2m010/I9sWd5IQnqE.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10151,7 +10159,7 @@
     "Subject Key Identifier": "uWoBR4bReeUb8cW9G0Zd1RuR4aA=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1002.amazontrust.com/n2xie3m008/97f4eba1-9cc8-488c-a951-d53c8e7c003c.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10186,7 +10194,8 @@
     "Subject Key Identifier": "XFxJXcHeWScKHwkiTokyzFwrHa8=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r4002.amazontrust.com/n2xie3m013/3d0d667e-15d7-4b6f-ae63-547dc4815c01.crl",
+      "http://crl.r4002.amazontrust.com/n2xie3m013/3q43Si2IHKg.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10221,7 +10230,8 @@
     "Subject Key Identifier": "JqDmzlyoz9CTBbjC0feiIn2SGDc=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r4002.amazontrust.com/n2xir2m013/9bdc9f32-db55-4939-a239-38bcccdc7050.crl",
+      "http://crl.r4002.amazontrust.com/n2xir2m013/BEbZPFS8Dba.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10256,7 +10266,8 @@
     "Subject Key Identifier": "neDsdvQlvPssTvnM88pVHs1N8nQ=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2002.amazontrust.com/n2xir2m010/5134f98e-cad7-47a3-b0c3-6823e1af88f5.crl",
+      "http://crl.r2002.amazontrust.com/n2xir2m010/EP4rcclVMGC.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10291,7 +10302,7 @@
     "Subject Key Identifier": "4AUOUCrDNoM/jS84s6/5cj7auFI=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1002.amazontrust.com/n2xir2m007/7685e863-3c19-49e0-88ec-47fda0b5006a.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10326,7 +10337,7 @@
     "Subject Key Identifier": "yrhcmEiNDfPz2DN6WY6Ql4tMYYQ=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1002.amazontrust.com/n2xie3m007/ff2d3d85-199f-439b-aa9d-3266d70cb1c6.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10361,7 +10372,8 @@
     "Subject Key Identifier": "Ujnu+o3DOY/n5LzmZgWybZNBRks=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2002.amazontrust.com/n2xie3m010/fa4ca4ac-dfb0-49e0-8d5e-46c598302a54.crl",
+      "http://crl.r2002.amazontrust.com/n2xie3m010/HE8gdZHISvO.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10396,7 +10408,8 @@
     "Subject Key Identifier": "z4kzVJhrzlU7Zqdr9qDTw37EW/Y=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r4002.amazontrust.com/n2xie3m014/83d81234-6d8c-4861-b81d-0c593050f5ba.crl",
+      "http://crl.r4002.amazontrust.com/n2xie3m014/1I9BDx6ynvx.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10431,7 +10444,8 @@
     "Subject Key Identifier": "/WCJtNcW3avjT2Fgoy66UjDyqZ8=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r4002.amazontrust.com/n2xie2m014/44c0b1c2-c2f6-4c41-aca2-73c52f870da5.crl",
+      "http://crl.r4002.amazontrust.com/n2xie2m014/8TpeitW3a15.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10466,7 +10480,7 @@
     "Subject Key Identifier": "Qzy1+Y3vLqEwvHqurP/8EC9pMgk=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r1002.amazontrust.com/n2xir2m008/d014a478-e763-4446-b57a-6f8a0189ad42.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10501,7 +10515,8 @@
     "Subject Key Identifier": "ktj05OI03x/ioPl7zzTYsNP+2qw=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      ""
+      "http://crl.r2002.amazontrust.com/n2xie3m009/e9c3b338-1f6e-42ee-9c08-aeaca5a1299e.crl",
+      "http://crl.r2002.amazontrust.com/n2xie3m009/7GOY8TxedDj.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -13817,7 +13832,38 @@
     "Subject Key Identifier": "jbFJFazCEXKFfvq5FSK5pv7ojbY=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.n2xr2m1.amazontrust.com/n2xr2m1.crl",
+    "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ac521beb-0497-4d0e-879e-84e68c22f8f3",
+    "Standard Audit Type": "WebTrust",
+    "Standard Audit Statement Date": "2026.04.07",
+    "Standard Audit Period Start Date": "2025.01.16",
+    "Standard Audit Period End Date": "2026.01.15",
+    "NetSec Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=f460b52c-0d95-4a89-87be-c80c66658868",
+    "NetSec Audit Type": "WebTrust",
+    "NetSec Audit Statement Date": "2026.04.07",
+    "NetSec Audit Period Start Date": "2025.01.16",
+    "NetSec Audit Period End Date": "2026.01.15",
+    "TLS BR Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2b7a4fd7-be28-4dd3-93c2-18491f1ff5b3",
+    "TLS BR Audit Type": "WebTrust",
+    "TLS BR Audit Statement Date": "2026.04.07",
+    "TLS BR Audit Period Start Date": "2025.01.16",
+    "TLS BR Audit Period End Date": "2026.01.15",
+    "TLS EVG Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bae8d562-52fd-4dfe-a9fb-d661c4c2dd0d",
+    "TLS EVG Audit Type": "WebTrust",
+    "TLS EVG Audit Statement Date": "2026.04.07",
+    "TLS EVG Audit Period Start Date": "2025.01.16",
+    "TLS EVG Audit Period End Date": "2026.01.15",
+    "Code Signing Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569893",
+    "Code Signing Audit Type": "WebTrust",
+    "Code Signing Audit Statement Date": "2026.04.07",
+    "Code Signing Audit Period Start Date": "2025.01.16",
+    "Code Signing Audit Period End Date": "2026.01.15",
+    "S/MIME BR Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569890",
+    "S/MIME BR Audit Type": "WebTrust",
+    "S/MIME BR Audit Statement Date": "2026.04.07",
+    "S/MIME BR Audit Period Start Date": "2025.01.16",
+    "S/MIME BR Audit Period End Date": "2026.01.15",
     "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -13848,7 +13894,38 @@
     "Subject Key Identifier": "muYUvPrIFzity7nL/BEQGJIfSGY=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.n2xe2m1.amazontrust.com/n2xe2m1.crl",
+    "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ac521beb-0497-4d0e-879e-84e68c22f8f3",
+    "Standard Audit Type": "WebTrust",
+    "Standard Audit Statement Date": "2026.04.07",
+    "Standard Audit Period Start Date": "2025.01.16",
+    "Standard Audit Period End Date": "2026.01.15",
+    "NetSec Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=f460b52c-0d95-4a89-87be-c80c66658868",
+    "NetSec Audit Type": "WebTrust",
+    "NetSec Audit Statement Date": "2026.04.07",
+    "NetSec Audit Period Start Date": "2025.01.16",
+    "NetSec Audit Period End Date": "2026.01.15",
+    "TLS BR Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2b7a4fd7-be28-4dd3-93c2-18491f1ff5b3",
+    "TLS BR Audit Type": "WebTrust",
+    "TLS BR Audit Statement Date": "2026.04.07",
+    "TLS BR Audit Period Start Date": "2025.01.16",
+    "TLS BR Audit Period End Date": "2026.01.15",
+    "TLS EVG Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bae8d562-52fd-4dfe-a9fb-d661c4c2dd0d",
+    "TLS EVG Audit Type": "WebTrust",
+    "TLS EVG Audit Statement Date": "2026.04.07",
+    "TLS EVG Audit Period Start Date": "2025.01.16",
+    "TLS EVG Audit Period End Date": "2026.01.15",
+    "Code Signing Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569893",
+    "Code Signing Audit Type": "WebTrust",
+    "Code Signing Audit Statement Date": "2026.04.07",
+    "Code Signing Audit Period Start Date": "2025.01.16",
+    "Code Signing Audit Period End Date": "2026.01.15",
+    "S/MIME BR Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569890",
+    "S/MIME BR Audit Type": "WebTrust",
+    "S/MIME BR Audit Statement Date": "2026.04.07",
+    "S/MIME BR Audit Period Start Date": "2025.01.16",
+    "S/MIME BR Audit Period End Date": "2026.01.15",
     "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -13879,7 +13956,38 @@
     "Subject Key Identifier": "RCQ/o/qQCpP68PWyeJrkKWCsHOs=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.n2r4m1.amazontrust.com/n2r4m1.crl",
+    "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ac521beb-0497-4d0e-879e-84e68c22f8f3",
+    "Standard Audit Type": "WebTrust",
+    "Standard Audit Statement Date": "2026.04.07",
+    "Standard Audit Period Start Date": "2025.01.16",
+    "Standard Audit Period End Date": "2026.01.15",
+    "NetSec Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=f460b52c-0d95-4a89-87be-c80c66658868",
+    "NetSec Audit Type": "WebTrust",
+    "NetSec Audit Statement Date": "2026.04.07",
+    "NetSec Audit Period Start Date": "2025.01.16",
+    "NetSec Audit Period End Date": "2026.01.15",
+    "TLS BR Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2b7a4fd7-be28-4dd3-93c2-18491f1ff5b3",
+    "TLS BR Audit Type": "WebTrust",
+    "TLS BR Audit Statement Date": "2026.04.07",
+    "TLS BR Audit Period Start Date": "2025.01.16",
+    "TLS BR Audit Period End Date": "2026.01.15",
+    "TLS EVG Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bae8d562-52fd-4dfe-a9fb-d661c4c2dd0d",
+    "TLS EVG Audit Type": "WebTrust",
+    "TLS EVG Audit Statement Date": "2026.04.07",
+    "TLS EVG Audit Period Start Date": "2025.01.16",
+    "TLS EVG Audit Period End Date": "2026.01.15",
+    "Code Signing Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569893",
+    "Code Signing Audit Type": "WebTrust",
+    "Code Signing Audit Statement Date": "2026.04.07",
+    "Code Signing Audit Period Start Date": "2025.01.16",
+    "Code Signing Audit Period End Date": "2026.01.15",
+    "S/MIME BR Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569890",
+    "S/MIME BR Audit Type": "WebTrust",
+    "S/MIME BR Audit Statement Date": "2026.04.07",
+    "S/MIME BR Audit Period Start Date": "2025.01.16",
+    "S/MIME BR Audit Period End Date": "2026.01.15",
     "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -13910,7 +14018,38 @@
     "Subject Key Identifier": "uwUHrfHosGbuEeZh4C5i/o6ga/8=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "http://crl.n2xe3m1.amazontrust.com/n2xe3m1.crl",
+    "Auditor": "BDO International Limited",
     "Audits Same as Parent": "false",
+    "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=ac521beb-0497-4d0e-879e-84e68c22f8f3",
+    "Standard Audit Type": "WebTrust",
+    "Standard Audit Statement Date": "2026.04.07",
+    "Standard Audit Period Start Date": "2025.01.16",
+    "Standard Audit Period End Date": "2026.01.15",
+    "NetSec Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=f460b52c-0d95-4a89-87be-c80c66658868",
+    "NetSec Audit Type": "WebTrust",
+    "NetSec Audit Statement Date": "2026.04.07",
+    "NetSec Audit Period Start Date": "2025.01.16",
+    "NetSec Audit Period End Date": "2026.01.15",
+    "TLS BR Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=2b7a4fd7-be28-4dd3-93c2-18491f1ff5b3",
+    "TLS BR Audit Type": "WebTrust",
+    "TLS BR Audit Statement Date": "2026.04.07",
+    "TLS BR Audit Period Start Date": "2025.01.16",
+    "TLS BR Audit Period End Date": "2026.01.15",
+    "TLS EVG Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=bae8d562-52fd-4dfe-a9fb-d661c4c2dd0d",
+    "TLS EVG Audit Type": "WebTrust",
+    "TLS EVG Audit Statement Date": "2026.04.07",
+    "TLS EVG Audit Period Start Date": "2025.01.16",
+    "TLS EVG Audit Period End Date": "2026.01.15",
+    "Code Signing Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569893",
+    "Code Signing Audit Type": "WebTrust",
+    "Code Signing Audit Statement Date": "2026.04.07",
+    "Code Signing Audit Period Start Date": "2025.01.16",
+    "Code Signing Audit Period End Date": "2026.01.15",
+    "S/MIME BR Audit URL": "https://bugzilla.mozilla.org/attachment.cgi?id=9569890",
+    "S/MIME BR Audit Type": "WebTrust",
+    "S/MIME BR Audit Statement Date": "2026.04.07",
+    "S/MIME BR Audit Period Start Date": "2025.01.16",
+    "S/MIME BR Audit Period End Date": "2026.01.15",
     "CA Document Repository": "https://www.amazontrust.com/repository/",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

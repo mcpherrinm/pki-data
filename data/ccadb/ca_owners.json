@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 10365,
+  "total_records": 10376,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -690,7 +690,7 @@
     },
     {
       "ca_owner": "DigiCert",
-      "record_count": 2666,
+      "record_count": 2670,
       "countries": [
         "United States of America"
       ],
@@ -698,7 +698,7 @@
         "trusted_roots": 9,
         "partially_trusted_roots": 29,
         "untrusted_roots": 74,
-        "intermediates": 2554
+        "intermediates": 2558
       },
       "output_filename": "DigiCert.json"
     },
@@ -1404,7 +1404,7 @@
     },
     {
       "ca_owner": "Hong Kong Certification Authority",
-      "record_count": 6,
+      "record_count": 9,
       "countries": [
         "Hong Kong Special Administrative Region of the People's Republic of China"
       ],
@@ -1412,7 +1412,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
         "untrusted_roots": 3,
-        "intermediates": 3
+        "intermediates": 6
       },
       "output_filename": "Hong_Kong_Certification_Authority.json"
     },
@@ -2370,15 +2370,15 @@
     },
     {
       "ca_owner": "TrustAsia Technologies, Inc.",
-      "record_count": 79,
+      "record_count": 83,
       "countries": [
         "China"
       ],
       "aggregated_counts": {
         "trusted_roots": 0,
         "partially_trusted_roots": 6,
-        "untrusted_roots": 6,
-        "intermediates": 67
+        "untrusted_roots": 8,
+        "intermediates": 69
       },
       "output_filename": "TrustAsia_Technologies_Inc.json"
     },
