@@ -9765,7 +9765,8 @@
     "Subject Key Identifier": "912Z/SFoVb9wnKsPvOWSeSiA9js=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1002.amazontrust.com/n2xie2m008/a6335b01-4a04-4460-a048-92ecaa55076a.crl"
+      "http://crl.r1002.amazontrust.com/n2xie2m008/a6335b01-4a04-4460-a048-92ecaa55076a.crl",
+      "http://crl.r1002.amazontrust.com/n2xie2m008/ERZI1oEuF5m.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10016,7 +10017,8 @@
     "Subject Key Identifier": "4/q2o+RLkbjXuqW7hQNsd6gNd24=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1002.amazontrust.com/n2xie2m007/9aae0735-4994-4386-8a20-274c750957d6.crl"
+      "http://crl.r1002.amazontrust.com/n2xie2m007/9aae0735-4994-4386-8a20-274c750957d6.crl",
+      "http://crl.r1002.amazontrust.com/n2xie2m007/KgWVRhatD6Z.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10159,7 +10161,8 @@
     "Subject Key Identifier": "uWoBR4bReeUb8cW9G0Zd1RuR4aA=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1002.amazontrust.com/n2xie3m008/97f4eba1-9cc8-488c-a951-d53c8e7c003c.crl"
+      "http://crl.r1002.amazontrust.com/n2xie3m008/97f4eba1-9cc8-488c-a951-d53c8e7c003c.crl",
+      "http://crl.r1002.amazontrust.com/n2xie3m008/641Ma41Z639.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10302,7 +10305,8 @@
     "Subject Key Identifier": "4AUOUCrDNoM/jS84s6/5cj7auFI=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1002.amazontrust.com/n2xir2m007/7685e863-3c19-49e0-88ec-47fda0b5006a.crl"
+      "http://crl.r1002.amazontrust.com/n2xir2m007/7685e863-3c19-49e0-88ec-47fda0b5006a.crl",
+      "http://crl.r1002.amazontrust.com/n2xir2m007/CGWmF7pYMzI.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10337,7 +10341,8 @@
     "Subject Key Identifier": "yrhcmEiNDfPz2DN6WY6Ql4tMYYQ=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1002.amazontrust.com/n2xie3m007/ff2d3d85-199f-439b-aa9d-3266d70cb1c6.crl"
+      "http://crl.r1002.amazontrust.com/n2xie3m007/ff2d3d85-199f-439b-aa9d-3266d70cb1c6.crl",
+      "http://crl.r1002.amazontrust.com/n2xie3m007/4qzTXbzpmax.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -10480,7 +10485,8 @@
     "Subject Key Identifier": "Qzy1+Y3vLqEwvHqurP/8EC9pMgk=",
     "Technically Constrained": "false",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.r1002.amazontrust.com/n2xir2m008/d014a478-e763-4446-b57a-6f8a0189ad42.crl"
+      "http://crl.r1002.amazontrust.com/n2xir2m008/d014a478-e763-4446-b57a-6f8a0189ad42.crl",
+      "http://crl.r1002.amazontrust.com/n2xir2m008/6gYRISR9sY5.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
