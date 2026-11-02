@@ -57267,7 +57267,7 @@
     "CP/CPS Same as Parent": "true",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
     "Country": "United States of America"
@@ -62770,12 +62770,14 @@
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-3.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-4.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-5.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-6.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-2.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-3.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-4.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-5.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-6.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl"
     ],
     "Auditor": "BDO International Limited",
