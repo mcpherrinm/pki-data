@@ -8443,7 +8443,8 @@
       "http://crl.r4001.amazontrust.com/e3s16/AAdyeZMbHBV.crl",
       "http://crl.r4001.amazontrust.com/e3s16/6JCdOaODGed.crl",
       "http://crl.r4001.amazontrust.com/e3s16/3eK2cX1HwGl.crl",
-      "http://crl.r4001.amazontrust.com/e3s16/6z8SsVtgPk2.crl"
+      "http://crl.r4001.amazontrust.com/e3s16/6z8SsVtgPk2.crl",
+      "http://crl.r4001.amazontrust.com/e3s16/COpXATJ9MWP.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
