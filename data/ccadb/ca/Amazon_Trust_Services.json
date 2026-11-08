@@ -8043,7 +8043,9 @@
       "http://crl.r2s22.amazontrust.com/BpZMN.crl",
       "http://crl.r2s22.amazontrust.com/Dsk8W.crl",
       "http://crl.r2s22.amazontrust.com/58zSd.crl",
-      "http://crl.r2s22.amazontrust.com/Gf5yR.crl"
+      "http://crl.r2s22.amazontrust.com/Gf5yR.crl",
+      "http://crl.r2s22.amazontrust.com/4voqp.crl",
+      "http://crl.r2s22.amazontrust.com/3qdIa.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
