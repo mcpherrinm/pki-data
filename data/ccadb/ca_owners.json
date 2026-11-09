@@ -331,8 +331,8 @@
         "Norway"
       ],
       "aggregated_counts": {
-        "trusted_roots": 2,
-        "partially_trusted_roots": 1,
+        "trusted_roots": 0,
+        "partially_trusted_roots": 3,
         "untrusted_roots": 2,
         "intermediates": 18
       },
