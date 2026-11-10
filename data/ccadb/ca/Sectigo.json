@@ -16064,7 +16064,7 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
     "TLS Capable": "True",
-    "TLS EV Capable": "True",
+    "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United Kingdom"
@@ -19430,7 +19430,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19580,7 +19580,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -19672,7 +19672,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19732,7 +19732,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19792,7 +19792,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -19918,7 +19918,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -20452,7 +20452,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21122,7 +21122,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21518,7 +21518,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -21755,7 +21755,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21934,7 +21934,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -21994,7 +21994,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22196,7 +22196,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22413,7 +22413,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22531,7 +22531,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
@@ -22845,7 +22845,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -22995,7 +22995,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -23465,7 +23465,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",
@@ -30806,7 +30806,7 @@
     "Certificate Practice & Policy Statement": [
       "https://legal.ssl.com/documents/SSLcom-CP-CPS.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.05",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "True",
     "TLS EV Capable": "False",

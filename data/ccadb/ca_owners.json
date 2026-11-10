@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 10392,
+  "total_records": 10403,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -298,7 +298,7 @@
     },
     {
       "ca_owner": "BEIJING CERTIFICATE AUTHORITY Co., Ltd.",
-      "record_count": 42,
+      "record_count": 50,
       "countries": [
         "China"
       ],
@@ -306,7 +306,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 4,
-        "intermediates": 36
+        "intermediates": 44
       },
       "output_filename": "BEIJING_CERTIFICATE_AUTHORITY_Co_Ltd.json"
     },
@@ -2034,7 +2034,7 @@
     },
     {
       "ca_owner": "SECOM Trust Systems Co., Ltd.",
-      "record_count": 193,
+      "record_count": 196,
       "countries": [
         "Japan"
       ],
@@ -2042,7 +2042,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 7,
         "untrusted_roots": 4,
-        "intermediates": 181
+        "intermediates": 184
       },
       "output_filename": "SECOM_Trust_Systems_Co_Ltd.json"
     },

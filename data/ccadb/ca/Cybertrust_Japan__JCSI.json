@@ -1153,6 +1153,7 @@
     "Authority Key Identifier": "sOPmAlAOG8lna1GqL/1itc9+d/Q=",
     "Subject Key Identifier": "aGlfj0K0Wa8q4Sr0S6iEUJw1DNc=",
     "Technically Constrained": "false",
+    "Full CRL Issued By This CA": "http://vmccrl.cybertrust.ne.jp/vmc/vmcca2025/cdp.crl",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",

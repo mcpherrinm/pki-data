@@ -3557,14 +3557,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/",
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.3/"
     ],
-    "CP/CPS Effective Date": "2026.08.12",
+    "CP/CPS Effective Date": "2026.10.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
+      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.3/CP-CPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.29",
     "Test Website URL - Valid": "https://valid.x1.test-certs.letsencrypt.org/",
     "Test Website URL - Expired": "https://expired.x1.test-certs.letsencrypt.org/",
     "Test Website URL - Revoked": "https://revoked.x1.test-certs.letsencrypt.org/",
@@ -3615,14 +3616,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/",
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.3/"
     ],
-    "CP/CPS Effective Date": "2026.08.12",
+    "CP/CPS Effective Date": "2026.10.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
+      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.3/CP-CPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.29",
     "Test Website URL - Valid": "https://valid.x2.test-certs.letsencrypt.org/",
     "Test Website URL - Expired": "https://expired.x2.test-certs.letsencrypt.org/",
     "Test Website URL - Revoked": "https://revoked.x2.test-certs.letsencrypt.org/",
@@ -3657,14 +3659,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/",
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.3/"
     ],
-    "CP/CPS Effective Date": "2026.08.12",
+    "CP/CPS Effective Date": "2026.10.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
+      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.3/CP-CPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.29",
     "Test Website URL - Valid": "https://valid.ye.test-certs.letsencrypt.org/",
     "Test Website URL - Expired": "https://expired.ye.test-certs.letsencrypt.org/",
     "Test Website URL - Revoked": "https://revoked.ye.test-certs.letsencrypt.org/",
@@ -3698,14 +3701,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/"
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.2/",
+      "https://letsencrypt.org/documents/isrg-cp-cps-v6.3/"
     ],
-    "CP/CPS Effective Date": "2026.08.12",
+    "CP/CPS Effective Date": "2026.10.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.2/CP-CPS.md"
+      "https://raw.githubusercontent.com/letsencrypt/cp-cps/refs/tags/v6.3/CP-CPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.12",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.29",
     "Test Website URL - Valid": "https://valid.yr.test-certs.letsencrypt.org/",
     "Test Website URL - Expired": "https://expired.yr.test-certs.letsencrypt.org/",
     "Test Website URL - Revoked": "https://revoked.yr.test-certs.letsencrypt.org/",

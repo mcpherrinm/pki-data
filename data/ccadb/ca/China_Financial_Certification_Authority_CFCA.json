@@ -450,14 +450,16 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=9677829",
       "https://www.cfca.com.cn/upload/resources/file/2026/10/16/QY4XQ2VYLE6KCPPKEQ3XKQ3X.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.16",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cfca.com.cn/upload/cp-cps-en-4.16.md"
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.16.md",
+      "https://www.cfca.com.cn/upload/resources/file/2026/11/09/cp-cps-en-4.17.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.16",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
     "Test Website URL - Valid": "https://www.anxinsign.com/Web/login",
     "Test Website URL - Expired": "https://exp.cebnet.com.cn/",
     "Test Website URL - Revoked": "https://rev.cebnet.com.cn/",
@@ -785,14 +787,16 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=9677829",
       "https://www.cfca.com.cn/upload/resources/file/2026/10/16/QY4XQ2VYLE6KCPPKEQ3XKQ3X.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.16",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cfca.com.cn/upload/cp-cps-en-4.16.md"
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.16.md",
+      "https://www.cfca.com.cn/upload/resources/file/2026/11/09/cp-cps-en-4.17.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.16",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
@@ -845,14 +849,16 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://bugzilla.mozilla.org/attachment.cgi?id=9677829",
       "https://www.cfca.com.cn/upload/resources/file/2026/10/16/QY4XQ2VYLE6KCPPKEQ3XKQ3X.pdf"
     ],
-    "CP/CPS Effective Date": "2026.10.16",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://www.cfca.com.cn/upload/cp-cps-en-4.16.md"
+      "https://www.cfca.com.cn/upload/cp-cps-en-4.16.md",
+      "https://www.cfca.com.cn/upload/resources/file/2026/11/09/cp-cps-en-4.17.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.16",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
     "Test Website URL - Valid": "https://g2rsa.valid.cfca.com.cn",
     "Test Website URL - Expired": "https://g2rsa.exp.cfca.com.cn",
     "Test Website URL - Revoked": "https://g2rsa.rev.cfca.com.cn",

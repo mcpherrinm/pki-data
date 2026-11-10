@@ -2118,7 +2118,8 @@
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
     "JSON Array of Partitioned CRLs": [
-      "http://crl.starfieldtech.com/sfr1v1dv_s1-1.crl"
+      "http://crl.starfieldtech.com/sfr1v1dv_s1-1.crl",
+      "http://crl.starfieldtech.com/sfr1v1dv_s1-2.crl"
     ],
     "Auditor": "Schellman & Company, LLC.",
     "Audits Same as Parent": "true",

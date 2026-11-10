@@ -215,10 +215,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://ssl.gpki.go.kr/legal/cps/cps_v2.2_(ENG).pdf"
+      "https://ssl.gpki.go.kr/legal/cps/cps_v2.2_(ENG).pdf",
+      "https://ssl.gpki.go.kr/legal/cps/cps_v2.3_(ENG).pdf"
     ],
-    "CP/CPS Effective Date": "2026.08.25",
+    "CP/CPS Effective Date": "2026.10.30",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
+    "MD/AsciiDoc CP/CPS URL": [
+      "https://ssl.gpki.go.kr/legal/cps/cps_v2.3_(ENG).md"
+    ],
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.10.30",
     "Test Website URL - Valid": "https://ssl-valid.gpki.go.kr",
     "Test Website URL - Expired": "https://ssl-expired.gpki.go.kr",
     "Test Website URL - Revoked": "https://ssl-revoked.gpki.go.kr",
