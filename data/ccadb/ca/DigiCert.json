@@ -75386,10 +75386,12 @@
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-1.crl",
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-2.crl",
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-3.crl",
+      "http://crl3.digicert.com/DigicertSHA2SecureServerCA-4.crl",
       "http://crl4.digicert.com/DigiCertSHA2SecureServerCA.crl",
       "http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl",
       "http://crl4.digicert.com/DigicertSHA2SecureServerCA-2.crl",
-      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-3.crl"
+      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-3.crl",
+      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-4.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
