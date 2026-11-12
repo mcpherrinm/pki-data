@@ -30,6 +30,15 @@
         "mmd"
       ],
       "properties": {
+        "name": {
+          "title": "Name of the CT log",
+          "description": "Single-word unique name for the log, formatted roughly as <operator_name>_<log_name>.",
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+          "examples": [
+            "google_aviator"
+          ]
+        },
         "description": {
           "title": "Description of the CT log",
           "description": "A human-readable description that can be used to identify this log.",
