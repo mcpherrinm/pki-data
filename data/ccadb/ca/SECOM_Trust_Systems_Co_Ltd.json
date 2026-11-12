@@ -4330,7 +4330,6 @@
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_CP-CPS_EN.md",
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
@@ -6582,7 +6581,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
@@ -7272,7 +7270,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
@@ -7386,7 +7383,6 @@
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md",
       "https://repo1.secomtrust.net/spcpp/publicly-trusted-cpcps/SECOM_Publicly_Trusted_TLS_CP-CPS_EN.md"
     ],
     "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",

@@ -170,9 +170,9 @@
     "CA Document Repository": "http://pki.digitalsign.pt/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.9.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.10.pdf"
     ],
-    "CP Effective Date": "2025.11.17",
+    "CP Effective Date": "2026.11.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V2.1.pdf"
@@ -291,9 +291,9 @@
     "CA Document Repository": "http://pki.digitalsign.pt/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.9.pdf"
+      "https://pki.digitalsign.pt/ROOT%20CA%20-%20CP_V1.10.pdf"
     ],
-    "CP Effective Date": "2025.11.17",
+    "CP Effective Date": "2026.11.10",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://pki.digitalsign.pt/ROOT%20CA%20-%20CPS_V2.1.pdf"

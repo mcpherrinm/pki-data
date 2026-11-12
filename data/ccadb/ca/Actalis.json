@@ -954,10 +954,6 @@
     ],
     "CP/CPS Effective Date": "2026.05.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
-    ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -1049,16 +1045,17 @@
     "Certificate Practice & Policy Statement": [
       "https://www.actalis.com/cp-cps-code-signing-certificates",
       "https://www.actalis.com/cp-cps-smime-certificates",
+      "https://www.actalis.com/cps-for-tsl-server-certificates",
       "https://www.actalis.com/cps-for-tsl-server-certificates"
     ],
-    "CP/CPS Effective Date": "2026.06.22",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
+      "https://github.com/Actalis-CA/CP-CPS/blob/main/CPS/TLS_CP_CPS_v6.1.md",
       "https://github.com/Actalis-CA/CP-CPS/raw/refs/heads/main/CPS/CodeSigning_CP_CPS_v1.0.md",
-      "https://github.com/Actalis-CA/CP-CPS/raw/refs/heads/main/CPS/SMIME_CP_CPS_v1.0.md",
-      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+      "https://github.com/Actalis-CA/CP-CPS/raw/refs/heads/main/CPS/SMIME_CP_CPS_v1.0.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.06.22",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
     "Test Website URL - Valid": "https://ssltest-active.actalis.it/",
     "Test Website URL - Expired": "https://ssltest-expired.actalis.it/",
     "Test Website URL - Revoked": "https://ssltest-revoked.actalis.it/",
@@ -1318,10 +1315,6 @@
     ],
     "CP/CPS Effective Date": "2026.05.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
-    "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
-    ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
     "TLS Capable": "True",
     "TLS EV Capable": "True",
     "Code Signing Capable": "False",
@@ -2157,14 +2150,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-tsl-server-certificates",
       "https://www.actalis.com/cps-for-tsl-server-certificates"
     ],
-    "CP/CPS Effective Date": "2026.05.29",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+      "https://github.com/Actalis-CA/CP-CPS/blob/main/CPS/TLS_CP_CPS_v6.1.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
     "Test Website URL - Valid": "https://active.ssltest-dv-ecc-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-ecc-2025.actalis.it/",
     "Test Website URL - Revoked": "https://revoked.ssltest-dv-ecc-2025.actalis.it/",
@@ -2269,14 +2263,15 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
+      "https://www.actalis.com/cps-for-tsl-server-certificates",
       "https://www.actalis.com/cps-for-tsl-server-certificates"
     ],
-    "CP/CPS Effective Date": "2026.05.29",
+    "CP/CPS Effective Date": "2026.11.09",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [
-      "https://raw.githubusercontent.com/Actalis-CA/CP-CPS/refs/heads/main/CPS/TLS_CP_CPS_v6.0.md"
+      "https://github.com/Actalis-CA/CP-CPS/blob/main/CPS/TLS_CP_CPS_v6.1.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.05.29",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.09",
     "Test Website URL - Valid": "https://active.ssltest-dv-rsa-2025.actalis.it",
     "Test Website URL - Expired": "https://expired.ssltest-dv-rsa-2025.actalis.it/",
     "Test Website URL - Revoked": "https://revoked.ssltest-dv-rsa-2025.actalis.it/",
