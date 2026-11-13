@@ -2486,7 +2486,8 @@
       "http://crl.godaddy.com/gdr1v1dv_s1-16.crl",
       "http://crl.godaddy.com/gdr1v1dv_s1-17.crl",
       "http://crl.godaddy.com/gdr1v1dv_s1-18.crl",
-      "http://crl.godaddy.com/gdr1v1dv_s1-19.crl"
+      "http://crl.godaddy.com/gdr1v1dv_s1-19.crl",
+      "http://crl.godaddy.com/gdr1v1dv_s1-20.crl"
     ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
