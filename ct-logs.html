@@ -208,14 +208,17 @@
         const result = [];
         for (const operator of logs.operators) {
           const opName = normalizeOperatorName(operator.name);
+          // RFC 6962 logs live in "logs"; static-ct-api (tiled) logs live
+          // in "tiled_logs". Record which so it survives flattening.
           const allLogs = [
-            ...(operator.logs || []),
-            ...(operator.tiled_logs || []),
+            ...(operator.logs || []).map((log) => [log, "RFC 6962"]),
+            ...(operator.tiled_logs || []).map((log) => [log, "static-ct"]),
           ];
 
-          for (const log of allLogs) {
+          for (const [log, api] of allLogs) {
             const flatLog = { ...log };
             flatLog.operator = opName;
+            flatLog.api = api;
             if (typeof log.description === "string") {
               flatLog.name = logName(opName, log.description);
             }
@@ -456,6 +459,7 @@
       function appendLogDetailRows(table, log) {
         const keys = [
           "description",
+          "api",
           "state",
           "log_type",
           "url",
