@@ -34,17 +34,6 @@
         font-weight: bold;
         text-align: left;
       }
-      label {
-        background: lightsteelblue;
-        padding: 0.3rem 1rem;
-        border-radius: 0.5rem;
-        margin: 1rem 0;
-        cursor: pointer;
-        user-select: none;
-      }
-      input#hideNotCurrent {
-        display: none;
-      }
       tbody#logs td:has(> button.row-trigger) {
         padding: 0;
       }
@@ -93,19 +82,6 @@
       [popover].log-popover table {
         width: 100%;
       }
-      input#hideNotCurrent:not(:checked)
-        ~ table
-        tbody#logs
-        > tr:not(.current):not(.operator-header) {
-        display: none;
-      }
-      input#hideNotCurrent:not(:checked)
-        ~ table
-        tbody#logs
-        > tr.operator-header.no-current-logs {
-        display: none;
-      }
-
       tbody#logs > tr:not(.current):not(.operator-header) {
         color: #888;
       }
@@ -113,13 +89,6 @@
         tbody#logs
         > tr:not(.operator-header):hover {
         background-color: #eef3fb;
-      }
-
-      input#hideNotCurrent ~ label::before {
-        content: "hide ";
-      }
-      input#hideNotCurrent:not(:checked) ~ label::before {
-        content: "show ";
       }
 
       .conflict-value {
@@ -139,28 +108,258 @@
         border-top: 2px solid #6c757d;
         border-bottom: 1px solid #dee2e6;
       }
+
+      /* ---- Layout: filter sidebar + table ---- */
+      .layout {
+        display: grid;
+        grid-template-columns: 17rem minmax(0, 1fr);
+        gap: 1.5rem;
+        align-items: start;
+      }
+      #sidebar {
+        position: sticky;
+        top: 1rem;
+        max-height: calc(100vh - 2rem);
+        overflow-y: auto;
+        box-sizing: border-box;
+        padding: 0.75rem;
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 0.5rem;
+        font-size: 0.95em;
+      }
+      #sidebar fieldset {
+        border: 0;
+        border-top: 1px solid #dee2e6;
+        margin: 0.75rem 0 0;
+        padding: 0.5rem 0 0;
+        min-width: 0;
+      }
+      #sidebar legend {
+        font-weight: bold;
+        font-size: 0.8em;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: #495057;
+        padding: 0 0.25rem 0 0;
+        display: flex;
+        gap: 0.5rem;
+        width: 100%;
+      }
+      #sidebar .opt {
+        display: flex;
+        align-items: baseline;
+        gap: 0.4rem;
+        padding: 0.1rem 0;
+        cursor: pointer;
+      }
+      #sidebar .opt .label {
+        flex: 1;
+        min-width: 0;
+        overflow-wrap: anywhere;
+      }
+      #sidebar .opt .count {
+        color: #6c757d;
+        font-variant-numeric: tabular-nums;
+        font-size: 0.9em;
+      }
+      #sidebar .opt.empty {
+        color: #adb5bd;
+      }
+      #sidebar input[type="search"],
+      #sidebar input[type="date"] {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0.35rem 0.5rem;
+        font: inherit;
+      }
+      #sidebar .radios {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.1rem 0.75rem;
+        margin: 0.35rem 0;
+      }
+      #sidebar .radios .opt {
+        display: inline-flex;
+      }
+      #sidebar .radios-label {
+        font-size: 0.9em;
+        color: #495057;
+        margin-top: 0.4rem;
+      }
+      #sidebar .hint {
+        font-size: 0.85em;
+        color: #6c757d;
+        margin: 0.25rem 0;
+      }
+      #sidebar .row {
+        display: flex;
+        gap: 0.4rem;
+        margin-top: 0.35rem;
+      }
+      #sidebar .linkish {
+        all: unset;
+        cursor: pointer;
+        color: #0b5ed7;
+        font-weight: normal;
+        text-transform: none;
+        letter-spacing: normal;
+        font-size: 1.1em;
+      }
+      #sidebar .linkish:hover,
+      #sidebar .linkish:focus-visible {
+        text-decoration: underline;
+      }
+      #sidebar .legend-actions {
+        margin-left: auto;
+      }
+      #operatorOptions {
+        max-height: 16rem;
+        overflow-y: auto;
+      }
+      #sidebar button.reset {
+        margin-top: 1rem;
+        width: 100%;
+        padding: 0.4rem;
+        font: inherit;
+        cursor: pointer;
+      }
+      #resultSummary {
+        max-width: 60rem;
+        margin: 0 auto 0.5rem;
+        color: #495057;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+      }
+      #filtersToggle,
+      #filtersClose {
+        display: none;
+        font: inherit;
+        padding: 0.3rem 0.9rem;
+        cursor: pointer;
+      }
+      #filtersBackdrop {
+        display: none;
+      }
+
+      /* Narrow screens: sidebar becomes a slide-in drawer. */
+      @media (max-width: 50rem) {
+        .layout {
+          grid-template-columns: minmax(0, 1fr);
+        }
+        #sidebar {
+          position: fixed;
+          z-index: 10;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          width: min(20rem, 85vw);
+          max-height: none;
+          border-radius: 0;
+          transform: translateX(-105%);
+          transition: transform 0.15s ease-out;
+        }
+        body.filters-open #sidebar {
+          transform: none;
+          box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.3);
+        }
+        body.filters-open #filtersBackdrop {
+          display: block;
+          position: fixed;
+          inset: 0;
+          z-index: 9;
+          background: rgba(200, 200, 200, 0.4);
+        }
+        #filtersToggle,
+        #filtersClose {
+          display: inline-block;
+        }
+        #filtersClose {
+          float: right;
+        }
+      }
     </style>
   </head>
   <body>
     <h1>CT Logs</h1>
 
-    <input type="checkbox" id="hideNotCurrent" />
-    <!-- CSS adds a "show" or "hide" ::before this label -->
-    <label for="hideNotCurrent">not-current logs</label>
-
     <div id="loading">Loading CT log data...</div>
     <div id="error" style="display: none; color: red"></div>
 
-    <table id="logTable" style="display: none">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Apple</th>
-          <th>Google</th>
-        </tr>
-      </thead>
-      <tbody id="logs"></tbody>
-    </table>
+    <div class="layout">
+      <aside id="sidebar" aria-label="Filters" hidden>
+        <button type="button" id="filtersClose">Done</button>
+        <input
+          type="search"
+          id="filterSearch"
+          placeholder="Search name, URL, log ID…"
+          aria-label="Search logs"
+        />
+
+        <fieldset>
+          <legend>State</legend>
+          <div id="stateOptions"></div>
+          <div class="radios-label">State must match in:</div>
+          <div class="radios" id="stateInOptions"></div>
+          <label class="opt" id="diffOpt">
+            <input type="checkbox" id="filterDiff" />
+            <span class="label">Apple ≠ Google</span>
+            <span class="count"></span>
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend>API</legend>
+          <div id="apiOptions"></div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Accepts expiry date</legend>
+          <input type="date" id="filterDate" aria-label="Certificate expiry date" />
+          <div class="row">
+            <button type="button" class="linkish" id="dateToday">today</button>
+            <button type="button" class="linkish" id="dateClear">clear</button>
+          </div>
+          <p class="hint">
+            Logs whose temporal interval contains this date. Logs without an
+            interval always match.
+          </p>
+        </fieldset>
+
+        <fieldset>
+          <legend>
+            Operator
+            <span class="legend-actions">
+              <button type="button" class="linkish" id="opsAll">all</button>
+              ·
+              <button type="button" class="linkish" id="opsNone">none</button>
+            </span>
+          </legend>
+          <div id="operatorOptions"></div>
+        </fieldset>
+
+        <button type="button" class="reset" id="filtersReset">Reset filters</button>
+      </aside>
+      <div id="filtersBackdrop"></div>
+
+      <main>
+        <div id="resultSummary" style="display: none">
+          <button type="button" id="filtersToggle">Filters</button>
+          <span id="resultCount"></span>
+        </div>
+        <table id="logTable" style="display: none">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Apple</th>
+              <th>Google</th>
+            </tr>
+          </thead>
+          <tbody id="logs"></tbody>
+        </table>
+      </main>
+    </div>
     <div id="popovers"></div>
 
     <script>
@@ -365,20 +564,13 @@
           return (a.name || "").localeCompare(b.name || "");
         });
 
-        // First pass: determine which operators have current logs
-        const operatorsWithCurrentLogs = new Set();
-        logs.forEach((log) => {
-          if (isCurrentState(log.apple_state) || isCurrentState(log.google_state)) {
-            operatorsWithCurrentLogs.add(log.operator);
-          }
-        });
-
         const tbody = document.getElementById("logs");
         tbody.replaceChildren();
         const popoversContainer = document.getElementById("popovers");
         popoversContainer.replaceChildren();
 
         let currentOperator = "";
+        let currentHeader = null;
         let logIndex = 0;
 
         logs.forEach((log) => {
@@ -389,16 +581,12 @@
             const operatorRow = document.createElement("tr");
             operatorRow.classList.add("operator-header");
 
-            // Add class if operator has no current logs
-            if (!operatorsWithCurrentLogs.has(log.operator)) {
-              operatorRow.classList.add("no-current-logs");
-            }
-
             const operatorCell = document.createElement("td");
             operatorCell.colSpan = 3;
             operatorCell.textContent = log.operator || "Unknown Operator";
             operatorRow.appendChild(operatorCell);
             tbody.appendChild(operatorRow);
+            currentHeader = operatorRow;
           }
 
           logIndex++;
@@ -432,6 +620,8 @@
           );
 
           tbody.appendChild(tr);
+          log._row = tr;
+          log._header = currentHeader;
 
           const popover = document.createElement("div");
           popover.id = popoverId;
@@ -520,6 +710,422 @@
         }
       }
 
+      // ---- Filters ----
+      //
+      // Each filter group is a predicate over a merged log. Groups are ANDed;
+      // checked options within a group are ORed. The DOM controls are the
+      // source of truth, mirrored into the URL hash so views can be shared.
+
+      const STATE_OPTIONS = [
+        ["usable", "usable"],
+        ["qualified", "qualified"],
+        ["pending", "pending"],
+        ["readonly", "readonly"],
+        ["retired", "retired"],
+        ["rejected", "rejected"],
+        ["other", "no state (test / monitoring)"],
+        ["notlisted", "not listed"],
+      ];
+      const KNOWN_STATES = new Set([
+        "usable",
+        "qualified",
+        "pending",
+        "readonly",
+        "retired",
+        "rejected",
+      ]);
+      const DEFAULT_STATES = ["usable", "qualified", "pending"];
+      const STATE_IN_OPTIONS = [
+        ["either", "either"],
+        ["both", "both"],
+        ["apple", "Apple"],
+        ["google", "Google"],
+      ];
+      const API_OPTIONS = [
+        ["RFC 6962", "RFC 6962"],
+        ["static-ct", "static-ct"],
+      ];
+      const SEARCH_KEYS = [
+        "name",
+        "operator",
+        "description",
+        "url",
+        "submission_url",
+        "monitoring_url",
+        "log_id",
+        "log_id_hex",
+      ];
+
+      let allLogs = [];
+      let allOperators = [];
+
+      // Which bucket of the State filter a log falls in for one program.
+      function stateBucket(log, program) {
+        if (!log[program]) return "notlisted";
+        const s = log[program + "_state"];
+        return KNOWN_STATES.has(s) ? s : "other";
+      }
+
+      // Values of a field, whether merged or split into apple_/google_.
+      function fieldValues(log, key) {
+        return [log[key], log["apple_" + key], log["google_" + key]].filter(
+          (v) => v !== null && v !== undefined,
+        );
+      }
+
+      function searchHaystack(log) {
+        const parts = [];
+        for (const key of SEARCH_KEYS) {
+          for (const v of fieldValues(log, key)) parts.push(String(v));
+        }
+        return parts.join("\n").toLowerCase();
+      }
+
+      function parseQuery(q) {
+        q = q.trim().toLowerCase();
+        if (!q) return [];
+        // Hex log IDs are often shown as "ab:cd:ef" or "ab cd ef".
+        if (/^[0-9a-f]{2}([:\s][0-9a-f]{2})+$/.test(q)) {
+          return [q.replace(/[:\s]/g, "")];
+        }
+        return q.split(/\s+/);
+      }
+
+      function intervals(log) {
+        const result = [];
+        for (const prefix of ["", "apple_", "google_"]) {
+          const start = log[prefix + "start"];
+          const end = log[prefix + "end"];
+          if (start && end) {
+            result.push([Date.parse(start), Date.parse(end)]);
+          }
+        }
+        return result;
+      }
+
+      const GROUPS = {
+        search(log, f) {
+          return f.terms.every((t) => log._haystack.includes(t));
+        },
+        state(log, f) {
+          const a = f.states.has(stateBucket(log, "apple"));
+          const g = f.states.has(stateBucket(log, "google"));
+          switch (f.stateIn) {
+            case "both":
+              return a && g;
+            case "apple":
+              return a;
+            case "google":
+              return g;
+            default:
+              return a || g;
+          }
+        },
+        diff(log, f) {
+          return !f.diff || isStateDiff(log);
+        },
+        api(log, f) {
+          return fieldValues(log, "api").some((v) => f.apis.has(v));
+        },
+        date(log, f) {
+          if (f.date === null) return true;
+          const ivs = intervals(log);
+          if (ivs.length === 0) return true;
+          return ivs.some(([start, end]) => start <= f.date && f.date < end);
+        },
+        operator(log, f) {
+          return f.operators.has(log.operator);
+        },
+      };
+
+      function isStateDiff(log) {
+        return (
+          log.apple &&
+          log.google &&
+          (log.apple_state || "") !== (log.google_state || "")
+        );
+      }
+
+      function passes(log, f, skipGroup) {
+        for (const [name, pred] of Object.entries(GROUPS)) {
+          if (name !== skipGroup && !pred(log, f)) return false;
+        }
+        return true;
+      }
+
+      // ---- Controls ----
+
+      function makeOption(type, name, value, label) {
+        const wrapper = document.createElement("label");
+        wrapper.className = "opt";
+        const input = document.createElement("input");
+        input.type = type;
+        input.name = name;
+        input.value = value;
+        const text = document.createElement("span");
+        text.className = "label";
+        text.textContent = label;
+        wrapper.append(input, text);
+        if (type === "checkbox") {
+          const count = document.createElement("span");
+          count.className = "count";
+          wrapper.append(count);
+        }
+        return wrapper;
+      }
+
+      function buildOptions(containerId, type, name, options) {
+        const container = document.getElementById(containerId);
+        container.replaceChildren();
+        for (const [value, label] of options) {
+          container.appendChild(makeOption(type, name, value, label));
+        }
+      }
+
+      function checkedValues(name) {
+        return [
+          ...document.querySelectorAll(`#sidebar input[name="${name}"]:checked`),
+        ].map((i) => i.value);
+      }
+
+      function setChecked(name, values) {
+        const set = new Set(values);
+        for (const input of document.querySelectorAll(
+          `#sidebar input[name="${name}"]`,
+        )) {
+          input.checked = set.has(input.value);
+        }
+      }
+
+      function readControls() {
+        const dateStr = document.getElementById("filterDate").value;
+        return {
+          query: document.getElementById("filterSearch").value,
+          terms: parseQuery(document.getElementById("filterSearch").value),
+          states: new Set(checkedValues("state")),
+          stateIn: checkedValues("stateIn")[0] || "either",
+          diff: document.getElementById("filterDiff").checked,
+          apis: new Set(checkedValues("api")),
+          dateStr,
+          date: dateStr ? Date.parse(dateStr + "T00:00:00Z") : null,
+          operators: new Set(checkedValues("operator")),
+        };
+      }
+
+      function defaultFilters() {
+        return {
+          query: "",
+          states: DEFAULT_STATES,
+          stateIn: "either",
+          diff: false,
+          apis: API_OPTIONS.map(([v]) => v),
+          dateStr: "",
+          operators: allOperators,
+        };
+      }
+
+      function writeControls(f) {
+        document.getElementById("filterSearch").value = f.query;
+        setChecked("state", f.states);
+        setChecked("stateIn", [f.stateIn]);
+        document.getElementById("filterDiff").checked = f.diff;
+        setChecked("api", f.apis);
+        document.getElementById("filterDate").value = f.dateStr;
+        setChecked("operator", f.operators);
+      }
+
+      // ---- URL hash ----
+      // Only non-default values are written. A list param present but empty
+      // (e.g. "api=") means nothing is checked in that group.
+
+      function sameSet(a, b) {
+        const sa = new Set(a);
+        const sb = new Set(b);
+        return sa.size === sb.size && [...sa].every((v) => sb.has(v));
+      }
+
+      function filtersToHash(f) {
+        const d = defaultFilters();
+        const params = new URLSearchParams();
+        if (f.query.trim()) params.set("q", f.query.trim());
+        const lists = [
+          ["state", [...f.states], d.states],
+          ["api", [...f.apis], d.apis],
+          ["op", [...f.operators], d.operators],
+        ];
+        for (const [key, values, defaults] of lists) {
+          if (sameSet(values, defaults)) continue;
+          if (values.length === 0) params.set(key, "");
+          for (const v of values) params.append(key, v);
+        }
+        if (f.stateIn !== d.stateIn) params.set("in", f.stateIn);
+        if (f.diff) params.set("diff", "1");
+        if (f.dateStr) params.set("date", f.dateStr);
+        return params.toString();
+      }
+
+      function hashToFilters(hash) {
+        const params = new URLSearchParams(hash.replace(/^#/, ""));
+        const f = defaultFilters();
+        const list = (key) => params.getAll(key).filter((v) => v !== "");
+        if (params.has("q")) f.query = params.get("q");
+        if (params.has("state")) f.states = list("state");
+        if (params.has("api")) f.apis = list("api");
+        if (params.has("op")) f.operators = list("op");
+        if (STATE_IN_OPTIONS.some(([v]) => v === params.get("in"))) {
+          f.stateIn = params.get("in");
+        }
+        f.diff = params.get("diff") === "1";
+        if (/^\d{4}-\d{2}-\d{2}$/.test(params.get("date") || "")) {
+          f.dateStr = params.get("date");
+        }
+        return f;
+      }
+
+      function syncHash(f, push) {
+        const hash = filtersToHash(f);
+        const url =
+          location.pathname + location.search + (hash ? "#" + hash : "");
+        if (url === location.pathname + location.search + location.hash) {
+          return;
+        }
+        if (push) history.pushState(null, "", url);
+        else history.replaceState(null, "", url);
+      }
+
+      // ---- Apply ----
+
+      function setCount(input, n) {
+        const wrapper = input.closest(".opt");
+        wrapper.querySelector(".count").textContent = String(n);
+        wrapper.classList.toggle("empty", n === 0);
+      }
+
+      // Count of logs matching all other groups plus just this one option.
+      function updateCounts(f) {
+        const facets = [
+          ["state", "state", (v) => ({ states: new Set([v]) })],
+          ["api", "api", (v) => ({ apis: new Set([v]) })],
+          ["operator", "operator", (v) => ({ operators: new Set([v]) })],
+        ];
+        for (const [name, group, override] of facets) {
+          const base = allLogs.filter((log) => passes(log, f, group));
+          for (const input of document.querySelectorAll(
+            `#sidebar input[name="${name}"]`,
+          )) {
+            const g = { ...f, ...override(input.value) };
+            setCount(
+              input,
+              base.filter((log) => GROUPS[group](log, g)).length,
+            );
+          }
+        }
+        setCount(
+          document.getElementById("filterDiff"),
+          allLogs.filter((log) => passes(log, f, "diff") && isStateDiff(log))
+            .length,
+        );
+      }
+
+      function applyFilters({ push = false, writeHash = true } = {}) {
+        const f = readControls();
+        const visibleHeaders = new Set();
+        let shown = 0;
+        for (const log of allLogs) {
+          const visible = passes(log, f);
+          log._row.hidden = !visible;
+          if (visible) {
+            shown++;
+            visibleHeaders.add(log._header);
+          }
+        }
+        for (const header of document.querySelectorAll(
+          "tbody#logs > tr.operator-header",
+        )) {
+          header.hidden = !visibleHeaders.has(header);
+        }
+        document.getElementById("resultCount").textContent =
+          `${shown} of ${allLogs.length} logs`;
+        updateCounts(f);
+        if (writeHash) syncHash(f, push);
+      }
+
+      function initFilters(logs) {
+        allLogs = logs;
+        for (const log of logs) log._haystack = searchHaystack(log);
+        allOperators = [...new Set(logs.map((l) => l.operator))].sort((a, b) =>
+          a.localeCompare(b),
+        );
+
+        buildOptions("stateOptions", "checkbox", "state", STATE_OPTIONS);
+        buildOptions("stateInOptions", "radio", "stateIn", STATE_IN_OPTIONS);
+        buildOptions("apiOptions", "checkbox", "api", API_OPTIONS);
+        buildOptions(
+          "operatorOptions",
+          "checkbox",
+          "operator",
+          allOperators.map((op) => [op, op]),
+        );
+        document.querySelector("#diffOpt input").name = "diff";
+
+        const sidebar = document.getElementById("sidebar");
+        sidebar.hidden = false;
+
+        // Checkbox/radio/date changes are discrete steps: give each a history
+        // entry. Typing in search just replaces the current entry.
+        sidebar.addEventListener("change", (e) => {
+          if (e.target.id !== "filterSearch") applyFilters({ push: true });
+        });
+        document
+          .getElementById("filterSearch")
+          .addEventListener("input", () => applyFilters());
+
+        document.getElementById("dateToday").addEventListener("click", () => {
+          document.getElementById("filterDate").value = new Date()
+            .toISOString()
+            .slice(0, 10);
+          applyFilters({ push: true });
+        });
+        document.getElementById("dateClear").addEventListener("click", () => {
+          document.getElementById("filterDate").value = "";
+          applyFilters({ push: true });
+        });
+        document.getElementById("opsAll").addEventListener("click", () => {
+          setChecked("operator", allOperators);
+          applyFilters({ push: true });
+        });
+        document.getElementById("opsNone").addEventListener("click", () => {
+          setChecked("operator", []);
+          applyFilters({ push: true });
+        });
+        document
+          .getElementById("filtersReset")
+          .addEventListener("click", () => {
+            writeControls(defaultFilters());
+            applyFilters({ push: true });
+          });
+
+        const setDrawer = (open) =>
+          document.body.classList.toggle("filters-open", open);
+        document
+          .getElementById("filtersToggle")
+          .addEventListener("click", () => setDrawer(true));
+        document
+          .getElementById("filtersClose")
+          .addEventListener("click", () => setDrawer(false));
+        document
+          .getElementById("filtersBackdrop")
+          .addEventListener("click", () => setDrawer(false));
+
+        window.addEventListener("popstate", () => {
+          writeControls(hashToFilters(location.hash));
+          applyFilters({ writeHash: false });
+        });
+
+        writeControls(hashToFilters(location.hash));
+        applyFilters({ writeHash: false });
+      }
+
       async function loadData() {
         try {
           const [appleResponse, googleResponse] = await Promise.all([
@@ -540,8 +1146,10 @@
 
           document.getElementById("loading").style.display = "none";
           document.getElementById("logTable").style.display = "table";
+          document.getElementById("resultSummary").style.display = "";
 
           renderLogTable(mergedLogs);
+          initFilters(mergedLogs);
         } catch (error) {
           document.getElementById("loading").style.display = "none";
           document.getElementById("error").style.display = "block";
