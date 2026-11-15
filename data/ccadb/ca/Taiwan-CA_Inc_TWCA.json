@@ -748,8 +748,9 @@
     "Full CRL Issued By This CA": "http://itax.twca.com.tw/crl/TWCA_InfoSec_UCA_2026_sha2.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
-    "CP Same as Parent": "false",
-    "CPS Same as Parent": "false",
+    "Policy Documentation": "Subscriber certificates issued by this CA do not contain id-kp-emailProtection or an rfc822Name, and are governed by the TWCA CP and the TWCA GLOBAL CA CPS (disclosed above). This CA certificate itself contains id-kp-emailProtection; it is therefore also listed in Section 7.1.4.3.1 of the TWCA S/MIME CP/CPS Version 1.1 (https://raw.githubusercontent.com/TWCA-official/policy-documentation/smime-1.1/TWCA%20SMIME%20CP%20CPS.md) and remains within the scope of the S/MIME BR audit. This CA does not issue S/MIME certificates.",
+    "CP Same as Parent": "true",
+    "CPS Same as Parent": "true",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS URL": [

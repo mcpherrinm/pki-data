@@ -663,9 +663,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://dts.tamkeentech.sa/repository/cps/Tamkeen_DTS_CP_CPS_V1.0.pdf"
+      "https://dts.tamkeentech.sa/repository/cps/Tamkeen_DTS_CP_CPS_V2.0.pdf"
     ],
-    "CP/CPS Effective Date": "2026.02.12",
+    "CP/CPS Effective Date": "2026.09.22",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
@@ -791,9 +791,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.pki.signit.sa/cp_cps/SignIt_CPCPS_v1.0.pdf"
+      "https://repository.pki.signit.sa/cp_cps/SignIt_CPCPS_v1.1.pdf"
     ],
-    "CP/CPS Effective Date": "2026.07.27",
+    "CP/CPS Effective Date": "2026.09.29",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
     "TLS EV Capable": "False",

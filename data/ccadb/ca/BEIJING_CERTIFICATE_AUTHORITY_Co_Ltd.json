@@ -671,7 +671,7 @@
     "Subject Key Identifier": "8GBp5mCYFSmzg2TFGFiPYtd5fxg=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Server Authentication",
-    "Full CRL Issued By This CA": "http://repo.bjca.cn/global/crl/BJCA_DV_SSL_CA1_G3.crl",
+    "Full CRL Issued By This CA": "http://repo.bjca.cn/global/crl/BJCA_DV_SSL_CA2_G3.crl",
     "Auditor": "SunRise CPAs / DFK International",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
