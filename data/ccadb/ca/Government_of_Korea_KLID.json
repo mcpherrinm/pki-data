@@ -162,7 +162,9 @@
     "Subject Key Identifier": "Wy+TCDvIsT0RH19BGfSnVMDGh8U=",
     "Technically Constrained": "false",
     "Derived Trust Bits": "Client Authentication;Server Authentication",
-    "Full CRL Issued By This CA": "https://ssl.gpki.go.kr/crl/ca/full-crl.json",
+    "JSON Array of Partitioned CRLs": [
+      "http://ssl.gpki.go.kr/crl/ca/Crl001p1Dp1.crl"
+    ],
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",
     "CPS Same as Parent": "false",
@@ -191,7 +193,7 @@
     "Valid To (GMT)": "2043.02.22",
     "Subject Key Identifier": "N1oJ+84k4ednx74HaMzcKB+EMQ0=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://ssl.gpki.go.kr/crl/ca/Crl001p1Dp1.crl",
+    "Full CRL Issued By This CA": "http://ssl.gpki.go.kr/arl/SSL-RootCA.crl",
     "Auditor": "Deloitte",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=d98431cb-ae8f-43d4-a062-8dc6d2f1804e",

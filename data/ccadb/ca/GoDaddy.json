@@ -2437,9 +2437,10 @@
     "MD/AsciiDoc CP/CPS URL": [
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/MarkCPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/MarkCPCPS.md",
+      "https://github.com/godaddy/cp-cps/blob/main/cpcps/MarkCPCPS.md",
       "https://github.com/godaddy/cp-cps/blob/main/cpcps/MarkCPCPS.md"
     ],
-    "MD/AsciiDoc CP/CPS Effective Date": "2026.08.26",
+    "MD/AsciiDoc CP/CPS Effective Date": "2026.11.11",
     "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",

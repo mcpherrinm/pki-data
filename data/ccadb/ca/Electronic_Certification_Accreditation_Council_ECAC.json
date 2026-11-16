@@ -144,6 +144,7 @@
     "Subject Key Identifier": "IgUanXsx5BhR+uiraDqJUf6eAjc=",
     "Technically Constrained": "false",
     "Full CRL Issued By This CA": "https://ecac.pki.gov.pk/repository/crl/ov_tls_ca.crl",
+    "Auditor": "Crowe FST Audit Ltd",
     "Audits Same as Parent": "true",
     "Policy Documentation": "This CA has its own dedicated CPS document available in the CA document repository. The CPS document is produced in English language.",
     "CA Document Repository": "https://ecac.pki.gov.pk/repository/index.html",
