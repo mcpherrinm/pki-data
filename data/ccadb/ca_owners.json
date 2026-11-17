@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 10413,
+  "total_records": 10417,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -298,7 +298,7 @@
     },
     {
       "ca_owner": "BEIJING CERTIFICATE AUTHORITY Co., Ltd.",
-      "record_count": 50,
+      "record_count": 51,
       "countries": [
         "China"
       ],
@@ -306,7 +306,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 4,
-        "intermediates": 44
+        "intermediates": 45
       },
       "output_filename": "BEIJING_CERTIFICATE_AUTHORITY_Co_Ltd.json"
     },
@@ -2342,7 +2342,7 @@
     },
     {
       "ca_owner": "Thailand National Root Certificate Authority (Electronic Transactions Development Agency)",
-      "record_count": 10,
+      "record_count": 13,
       "countries": [
         "Thailand"
       ],
@@ -2350,7 +2350,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 1,
-        "intermediates": 7
+        "intermediates": 10
       },
       "output_filename": "Thailand_National_Root_Certificate_Authority_Electronic_Transactions_Development_Agency.json"
     },

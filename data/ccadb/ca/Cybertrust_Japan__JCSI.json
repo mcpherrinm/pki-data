@@ -1575,9 +1575,7 @@
     "Authority Key Identifier": "bZHji3PjsyrWX06zx2in+7TlUTc=",
     "Subject Key Identifier": "NkLGw6prlpYUI5YtAxnP+wzQAkI=",
     "Technically Constrained": "false",
-    "JSON Array of Partitioned CRLs": [
-      ""
-    ],
+    "Full CRL Issued By This CA": "http://esealcrl.itrust.ne.jp/CybertrustiTrustSignatureforMICAccreditedeSealCAG1/cdp.crl",
     "Auditor": "KPMG",
     "Audits Same as Parent": "true",
     "CP Same as Parent": "false",

@@ -252,7 +252,7 @@
     "Valid To (GMT)": "2038.06.03",
     "Subject Key Identifier": "5Q1kcZ3JUunAmyppM8CTfPOB9d8=",
     "Technically Constrained": "false",
-    "Full CRL Issued By This CA": "http://certs.oaticerts.com/repository/OATIIA2021.crl",
+    "Full CRL Issued By This CA": "http://certs.oaticerts.com/repository/OATICA2.crl",
     "Auditor": "Schellman & Company, LLC.",
     "Audits Same as Parent": "false",
     "Standard Audit URL": "https://www.cpacanada.ca/api/getPDFWebTrust?attachmentId=e4537596-11e3-44db-9462-f26cc56b88e6",
