@@ -25732,15 +25732,16 @@
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V10.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Effective Date": "2026.03.15",
+    "CP Effective Date": "2026.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V14.0.pdf"
     ],
-    "CPS Effective Date": "2026.10.16",
+    "CPS Effective Date": "2026.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-class2.test.telesec.de/",
@@ -25837,15 +25838,16 @@
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V10.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Effective Date": "2026.03.15",
+    "CP Effective Date": "2026.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V14.0.pdf"
     ],
-    "CPS Effective Date": "2026.10.16",
+    "CPS Effective Date": "2026.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://root-class3.test.telesec.de/",
@@ -26523,15 +26525,16 @@
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V10.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Effective Date": "2026.03.15",
+    "CP Effective Date": "2026.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V14.0.pdf"
     ],
-    "CPS Effective Date": "2026.10.16",
+    "CPS Effective Date": "2026.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.tstlser20.test.telesec.de/",
@@ -26589,15 +26592,16 @@
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V10.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Effective Date": "2026.03.15",
+    "CP Effective Date": "2026.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V14.0.pdf"
     ],
-    "CPS Effective Date": "2026.10.16",
+    "CPS Effective Date": "2026.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -26652,15 +26656,16 @@
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V10.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Effective Date": "2026.03.15",
+    "CP Effective Date": "2026.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V14.0.pdf"
     ],
-    "CPS Effective Date": "2026.10.16",
+    "CPS Effective Date": "2026.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "TLS Capable": "False",
@@ -26715,15 +26720,16 @@
     "CA Document Repository": "https://www.telesec.de/de/service/downloads/pki-repository/",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V10.pdf",
       "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CP-EN-DE-V9.0.pdf"
     ],
-    "CP Effective Date": "2026.03.15",
+    "CP Effective Date": "2026.11.17",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V12.0.pdf",
-      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf"
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V13.0.pdf",
+      "https://www.telesec.de/assets/downloads/PKI-Repository/Telekom-Security-CPS-Public-EN-V14.0.pdf"
     ],
-    "CPS Effective Date": "2026.10.16",
+    "CPS Effective Date": "2026.11.18",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://active.tstlsrr23.test.telesec.de/",
