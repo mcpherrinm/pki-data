@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 10428,
+  "total_records": 10435,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -1012,7 +1012,7 @@
     },
     {
       "ca_owner": "Global Digital Cybersecurity Authority Co., Ltd. (Formerly Guang Dong Certificate Authority (GDCA))",
-      "record_count": 23,
+      "record_count": 26,
       "countries": [
         "China"
       ],
@@ -1020,7 +1020,7 @@
         "trusted_roots": 1,
         "partially_trusted_roots": 0,
         "untrusted_roots": 0,
-        "intermediates": 22
+        "intermediates": 25
       },
       "output_filename": "Global_Digital_Cybersecurity_Authority_Co_Ltd_Formerly_Guang_Dong_Certificate_Authority_GDCA.json"
     },
@@ -1082,7 +1082,7 @@
     },
     {
       "ca_owner": "Government of Finland, Population Register Centre’s (Väestörekisterikeskus, VRK)",
-      "record_count": 10,
+      "record_count": 14,
       "countries": [
         "Finland"
       ],
@@ -1090,7 +1090,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 3,
         "untrusted_roots": 1,
-        "intermediates": 6
+        "intermediates": 10
       },
       "output_filename": "Government_of_Finland_Population_Register_Centres_Väestörekisterikeskus_VRK.json"
     },

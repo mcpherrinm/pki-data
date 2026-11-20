@@ -4002,6 +4002,10 @@
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
@@ -4051,6 +4055,10 @@
     "S/MIME BR Audit Period Start Date": "2025.01.01",
     "S/MIME BR Audit Period End Date": "2025.12.31",
     "CP Same as Parent": "false",
+    "Certificate Policy (CP) URL": [
+      "https://cp.pkioverheid.nl/pkioverheid-por-v5.4.pdf"
+    ],
+    "CP Effective Date": "2026.07.01",
     "CPS Same as Parent": "false",
     "Certificate Practice Statement (CPS) URL": [
       "https://www.digicert.com/content/dam/digicert/pdfs/legal/digicertpki-overheid-cps-v2-06.pdf"
