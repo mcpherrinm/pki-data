@@ -513,8 +513,8 @@
         "Taiwan, Republic of China"
       ],
       "aggregated_counts": {
-        "trusted_roots": 1,
-        "partially_trusted_roots": 3,
+        "trusted_roots": 0,
+        "partially_trusted_roots": 4,
         "untrusted_roots": 2,
         "intermediates": 27
       },
@@ -1151,7 +1151,7 @@
       "output_filename": "Government_of_Japan_Digital_Agency.json"
     },
     {
-      "ca_owner": "Government of Korea, KLID",
+      "ca_owner": "Government of Korea",
       "record_count": 6,
       "countries": [
         "Republic of Korea (South Korea)"
@@ -1162,7 +1162,7 @@
         "untrusted_roots": 4,
         "intermediates": 1
       },
-      "output_filename": "Government_of_Korea_KLID.json"
+      "output_filename": "Government_of_Korea.json"
     },
     {
       "ca_owner": "Government of Latvia, Latvian State Radio & Television Centre (LVRTC)",

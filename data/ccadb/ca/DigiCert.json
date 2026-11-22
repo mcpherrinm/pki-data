@@ -79022,6 +79022,7 @@
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-22.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-23.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-24.crl",
+      "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-25.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
@@ -79044,6 +79045,7 @@
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-22.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-23.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-24.crl",
+      "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-25.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-3.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-4.crl",
       "http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-5.crl",
@@ -85196,9 +85198,11 @@
     "JSON Array of Partitioned CRLs": [
       "http://crl3.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1-1.crl",
       "http://crl3.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1-2.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1-3.crl",
       "http://crl3.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1-1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1-2.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1-3.crl",
       "http://crl4.digicert.com/EncryptionEverywhereG5TLSRSA4096SHA3842022CA1.crl"
     ],
     "Auditor": "BDO International Limited",
