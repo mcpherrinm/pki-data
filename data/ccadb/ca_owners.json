@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 10435,
+  "total_records": 10436,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -191,8 +191,8 @@
         "Polska"
       ],
       "aggregated_counts": {
-        "trusted_roots": 4,
-        "partially_trusted_roots": 3,
+        "trusted_roots": 3,
+        "partially_trusted_roots": 4,
         "untrusted_roots": 7,
         "intermediates": 221
       },
@@ -1404,7 +1404,7 @@
     },
     {
       "ca_owner": "Hong Kong Certification Authority",
-      "record_count": 9,
+      "record_count": 10,
       "countries": [
         "Hong Kong Special Administrative Region of the People's Republic of China"
       ],
@@ -1412,7 +1412,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 0,
         "untrusted_roots": 3,
-        "intermediates": 6
+        "intermediates": 7
       },
       "output_filename": "Hong_Kong_Certification_Authority.json"
     },
