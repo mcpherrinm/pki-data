@@ -2690,8 +2690,8 @@
           "monitoring_url": "https://ct-2027h2-bucket.sheca.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-11-12T20:30:00Z"
+            "rejected": {
+              "timestamp": "2026-11-24T16:00:00Z"
             }
           },
           "temporal_interval": {
@@ -2708,8 +2708,8 @@
           "monitoring_url": "https://ct-2028h1-bucket.sheca.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-11-12T20:30:00Z"
+            "rejected": {
+              "timestamp": "2026-11-24T16:00:00Z"
             }
           },
           "temporal_interval": {
@@ -2726,8 +2726,8 @@
           "monitoring_url": "https://ct-2028h2-bucket.sheca.com/",
           "mmd": 60,
           "state": {
-            "pending": {
-              "timestamp": "2026-11-12T20:30:00Z"
+            "rejected": {
+              "timestamp": "2026-11-24T16:00:00Z"
             }
           },
           "temporal_interval": {
