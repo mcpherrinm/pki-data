@@ -62916,6 +62916,7 @@
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-6.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-7.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-8.crl",
+      "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2-9.crl",
       "http://crl3.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-1.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-2.crl",
@@ -62925,6 +62926,7 @@
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-6.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-7.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-8.crl",
+      "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2-9.crl",
       "http://crl4.digicert.com/EncryptionEverywhereDVTLSCA-G2.crl"
     ],
     "Auditor": "BDO International Limited",
@@ -75662,11 +75664,13 @@
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-2.crl",
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-3.crl",
       "http://crl3.digicert.com/DigicertSHA2SecureServerCA-4.crl",
+      "http://crl3.digicert.com/DigicertSHA2SecureServerCA-5.crl",
       "http://crl4.digicert.com/DigiCertSHA2SecureServerCA.crl",
       "http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl",
       "http://crl4.digicert.com/DigicertSHA2SecureServerCA-2.crl",
       "http://crl4.digicert.com/DigicertSHA2SecureServerCA-3.crl",
-      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-4.crl"
+      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-4.crl",
+      "http://crl4.digicert.com/DigicertSHA2SecureServerCA-5.crl"
     ],
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -85563,6 +85567,7 @@
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-4.crl",
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-5.crl",
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-6.crl",
+      "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1-7.crl",
       "http://crl.digicert.cn/DigiCertBasicOVG2TLSCNRSA4096SHA2562022CA1.crl"
     ],
     "Auditor": "BDO International Limited",
