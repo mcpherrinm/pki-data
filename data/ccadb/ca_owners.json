@@ -1,6 +1,6 @@
 {
   "total_ca_owners": 182,
-  "total_records": 10436,
+  "total_records": 10438,
   "ca_owners": [
     {
       "ca_owner": "A-Trust",
@@ -2104,7 +2104,7 @@
     },
     {
       "ca_owner": "Shanghai Electronic Certification Authority Co., Ltd.",
-      "record_count": 118,
+      "record_count": 120,
       "countries": [
         "China"
       ],
@@ -2112,7 +2112,7 @@
         "trusted_roots": 0,
         "partially_trusted_roots": 2,
         "untrusted_roots": 10,
-        "intermediates": 106
+        "intermediates": 108
       },
       "output_filename": "Shanghai_Electronic_Certification_Authority_Co_Ltd.json"
     },

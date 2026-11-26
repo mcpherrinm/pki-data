@@ -217,7 +217,6 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://ssl.gpki.go.kr/legal/cps/cps_v2.2_(ENG).pdf",
       "https://ssl.gpki.go.kr/legal/cps/cps_v2.3_(ENG).pdf"
     ],
     "CP/CPS Effective Date": "2026.10.30",

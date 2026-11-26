@@ -933,8 +933,6 @@
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://bug2045210.bmoattachments.org/attachment.cgi?id=9594539",
-      "https://bug2045210.bmoattachments.org/attachment.cgi?id=9641837",
       "https://raw.githubusercontent.com/TWCA-official/policy-documentation/main/archive/TWCA%20CP%202.9.md"
     ],
     "CP Effective Date": "2026.11.01",
@@ -1042,8 +1040,6 @@
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
     "Certificate Policy (CP) URL": [
-      "https://bug2045210.bmoattachments.org/attachment.cgi?id=9594539",
-      "https://bug2045210.bmoattachments.org/attachment.cgi?id=9641837",
       "https://raw.githubusercontent.com/TWCA-official/policy-documentation/main/archive/TWCA%20CP%202.9.md"
     ],
     "CP Effective Date": "2026.11.01",
@@ -1574,11 +1570,6 @@
     "Policy Documentation": "1. TWCA CYBER CP/CPS (combined CP/CPS for the TLS-only hierarchy) applies to TWCA CYBER Root CA, TWCA CYBER Root CA G3 (cross-certified by TWCA Global Root CA; not requesting inclusion), and all TLS subordinate CAs, including those under TWCA Global Root CA and TWCA Root Certification Authority (old multipurpose roots).  2. TWCA CP applies to all Non-TLS Hierarchies.  3. TWCA Global CA CPS (for Non-TLS Hierarchy) applies to TWCA Global Root CA G2 (Non-TLS Hierarchy), TWCA Global Root CA, TWCA Root Certification Authority (old multipurpose roots) and non-TLS subordinate CAs.  Current and superseded versions of the TLS and S/MIME policy documents are published in Markdown at https://github.com/TWCA-official/policy-documentation.",
     "CA Document Repository": "https://www.twca.com.tw/repository?lang=en",
     "CP Same as Parent": "false",
-    "Certificate Policy (CP) URL": [
-      "https://bug2045210.bmoattachments.org/attachment.cgi?id=9594539",
-      "https://bug2045210.bmoattachments.org/attachment.cgi?id=9641837"
-    ],
-    "CP Effective Date": "2026.09.15",
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
