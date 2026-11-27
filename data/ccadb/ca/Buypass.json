@@ -696,9 +696,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.buypassca.com/cpsTLS-v2-2.pdf"
+      "https://repository.buypassca.com/cpsTLS-v2-3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.01",
+    "CP/CPS Effective Date": "2026.11.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.business.ca22.ssl.buypass.no",
     "Test Website URL - Expired": "https://expired.business.ca22.ssl.buypass.no",
@@ -755,9 +755,9 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "Certificate Practice & Policy Statement": [
-      "https://repository.buypassca.com/cpsTLS-v2-2.pdf"
+      "https://repository.buypassca.com/cpsTLS-v2-3.pdf"
     ],
-    "CP/CPS Effective Date": "2026.06.01",
+    "CP/CPS Effective Date": "2026.11.18",
     "MD/AsciiDoc CP/CPS Same as Parent": "false",
     "Test Website URL - Valid": "https://valid.evident.ca23.ssl.buypass.no",
     "Test Website URL - Expired": "https://expired.evident.ca23.ssl.buypass.no",

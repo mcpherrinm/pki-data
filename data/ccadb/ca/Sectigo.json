@@ -16108,9 +16108,9 @@
     "Parent Salesforce Record ID": "A000132",
     "Parent Certificate Name": "Entrust Root Certification Authority",
     "Certificate Record Type": "Intermediate Certificate",
-    "Apple Status": "Trusted",
+    "Apple Status": "Not Trusted",
     "Chrome Status": "Not Trusted",
-    "Microsoft Status": "Trusted",
+    "Microsoft Status": "Not Trusted",
     "Mozilla Status": "Not Trusted",
     "Status of Root Cert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Removed",
     "Revocation Status": "Not Revoked",
@@ -16121,7 +16121,6 @@
     "Authority Key Identifier": "aJDkZ6SmU4DHhmak8fdLQ/uEvW0=",
     "Subject Key Identifier": "anImetAe733nO2lR1GyNn5ASZqs=",
     "Technically Constrained": "false",
-    "Derived Trust Bits": "Client Authentication;Secure Email;Server Authentication;Time Stamping",
     "Full CRL Issued By This CA": "http://crl.entrust.net/g2ca.crl",
     "Auditor": "BDO International Limited",
     "Audits Same as Parent": "true",
@@ -16129,7 +16128,7 @@
     "CPS Same as Parent": "false",
     "CP/CPS Same as Parent": "false",
     "MD/AsciiDoc CP/CPS Same as Parent": "true",
-    "TLS Capable": "True",
+    "TLS Capable": "False",
     "TLS EV Capable": "False",
     "Code Signing Capable": "False",
     "S/MIME Capable": "False",
@@ -16199,8 +16198,7 @@
     "Code Signing Capable": "False",
     "S/MIME Capable": "True",
     "Country": "United Kingdom",
-    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping;IP Security IKE Intermediate",
-    "EV OIDs for Root Cert": "2.23.140.1.1; 2.16.840.1.114028.10.1.2"
+    "Trust Bits for Root Cert": "Server Authentication;Client Authentication;Secure Email;Time Stamping;IP Security IKE Intermediate"
   },
   {
     "CA Owner": "Sectigo",
